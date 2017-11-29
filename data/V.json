@@ -1,0 +1,2566 @@
+{
+  "code": "V",
+  "subject": "Naval Science",
+  "count": 0,
+  "children": {
+    "VA": {
+      "id": "VA",
+      "subject": "Navies: Organization, distribution, naval situation",
+      "count": 0,
+      "children": {
+        "VA10-750": {
+          "id": "VA10-750",
+          "subject": "Navies: Organization, distribution, naval situation",
+          "count": 126,
+          "children": {
+            "VA49-395": {
+              "id": "VA49-395",
+              "subject": "United States",
+              "count": 1169,
+              "children": {},
+              "subjects": {
+                "id": "VA49-395",
+                "subject": "United States",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Warship",
+                    "subject": "Warships",
+                    "count": 110
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_warfare",
+                    "subject": "Sea-power",
+                    "count": 77
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 75
+                  },
+                  {
+                    "url": null,
+                    "subject": "Navy-yards and naval stations",
+                    "count": 42
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_strategy",
+                    "subject": "Naval strategy",
+                    "count": 14
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1982,
+                  "mode": 1968
+                }
+              }
+            },
+            "VA400-750": {
+              "id": "VA400-750",
+              "subject": "Other regions or countries",
+              "count": 2153,
+              "children": {},
+              "subjects": {
+                "id": "VA400-750",
+                "subject": "Other regions or countries",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Warship",
+                    "subject": "Warships",
+                    "count": 322
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_warfare",
+                    "subject": "Sea-power",
+                    "count": 321
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 109
+                  },
+                  {
+                    "url": null,
+                    "subject": "Navy-yards and naval stations",
+                    "count": 71
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Navy",
+                    "subject": "Navies",
+                    "count": 63
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1989,
+                  "mode": 2010
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VA10-750",
+            "subject": "Navies: Organization, distribution, naval situation",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Navy",
+                "subject": "Navies",
+                "count": 101
+              },
+              {
+                "url": "http://dbpedia.org/resource/Warship",
+                "subject": "Warships",
+                "count": 41
+              },
+              {
+                "url": "http://dbpedia.org/resource/Naval_warfare",
+                "subject": "Sea-power",
+                "count": 37
+              },
+              {
+                "url": null,
+                "subject": "Naval art and science",
+                "count": 8
+              },
+              {
+                "url": "http://dbpedia.org/resource/Naval_strategy",
+                "subject": "Naval strategy",
+                "count": 6
+              }
+            ],
+            "pubDates": {
+              "avg": 1959,
+              "median": 1976,
+              "mode": 1988
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VM": {
+      "id": "VM",
+      "subject": "Naval architecture.    Shipbuilding.    Marine engineering",
+      "count": 0,
+      "children": {
+        "VM1-989": {
+          "id": "VM1-989",
+          "subject": "Naval architecture.    Shipbuilding.    Marine engineering",
+          "count": 2935,
+          "children": {
+            "VM311-466": {
+              "id": "VM311-466",
+              "subject": "Special types of vessels",
+              "count": 3035,
+              "children": {},
+              "subjects": {
+                "id": "VM311-466",
+                "subject": "Special types of vessels",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Boats and boating",
+                    "count": 401
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Boat_building",
+                    "subject": "Boatbuilding",
+                    "count": 354
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sailboat",
+                    "subject": "Sailboats",
+                    "count": 246
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Yacht",
+                    "subject": "Yachts",
+                    "count": 216
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Motorboat",
+                    "subject": "Motorboats",
+                    "count": 196
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1984,
+                  "mode": 1977
+                }
+              }
+            },
+            "VM15-124": {
+              "id": "VM15-124",
+              "subject": "History",
+              "count": 854,
+              "children": {},
+              "subjects": {
+                "id": "VM15-124",
+                "subject": "History",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Shipbuilding",
+                    "subject": "Shipbuilding",
+                    "count": 405
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ship",
+                    "subject": "Ships",
+                    "count": 222
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sailing_ship",
+                    "subject": "Sailing ships",
+                    "count": 170
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Navigation",
+                    "subject": "Navigation",
+                    "count": 81
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ships, Ancient",
+                    "count": 62
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1977,
+                  "mode": 1977
+                }
+              }
+            },
+            "VM595-989": {
+              "id": "VM595-989",
+              "subject": "Marine engineering",
+              "count": 1430,
+              "children": {
+                "VM975-989": {
+                  "id": "VM975-989",
+                  "subject": "ERROR, could not find",
+                  "count": 234,
+                  "children": {},
+                  "subjects": {
+                    "id": "VM975-989",
+                    "subject": "ERROR, could not find",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Deep_diving",
+                        "subject": "Deep diving",
+                        "count": 211
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Oceanography",
+                        "subject": "Underwater exploration",
+                        "count": 21
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Diver",
+                        "subject": "Divers",
+                        "count": 19
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Scuba_diving",
+                        "subject": "Scuba diving",
+                        "count": 19
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Salvage",
+                        "subject": "Salvage",
+                        "count": 18
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1975,
+                      "median": 1976,
+                      "mode": 1956
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "VM595-989",
+                "subject": "Marine engineering",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Marine_engineering",
+                    "subject": "Marine engineering",
+                    "count": 227
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ship",
+                    "subject": "Ships",
+                    "count": 218
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Marine_engine",
+                    "subject": "Marine engines",
+                    "count": 198
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Outboard_motor",
+                    "subject": "Outboard motors",
+                    "count": 160
+                  },
+                  {
+                    "url": null,
+                    "subject": "Steam-navigation",
+                    "count": 91
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1978,
+                  "mode": 1984
+                }
+              }
+            },
+            "VM298.5-301": {
+              "id": "VM298.5-301",
+              "subject": "Shipbuilding industry.    Shipyards",
+              "count": 571,
+              "children": {},
+              "subjects": {
+                "id": "VM298.5-301",
+                "subject": "Shipbuilding industry.    Shipyards",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Shipbuilding",
+                    "subject": "Shipbuilding industry",
+                    "count": 261
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Shipbuilding",
+                    "subject": "Shipbuilding",
+                    "count": 258
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Shipyard",
+                    "subject": "Shipyards",
+                    "count": 153
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ship",
+                    "subject": "Ships",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Freight_transport",
+                    "subject": "Shipping",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1990,
+                  "mode": 1993
+                }
+              }
+            },
+            "VM165-276": {
+              "id": "VM165-276",
+              "subject": "Study and teaching",
+              "count": 23,
+              "children": {},
+              "subjects": {
+                "id": "VM165-276",
+                "subject": "Study and teaching",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Shipbuilding",
+                    "subject": "Shipbuilding",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_architecture",
+                    "subject": "Naval architecture",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1991,
+                  "mode": 1968
+                }
+              }
+            },
+            "VM295-296": {
+              "id": "VM295-296",
+              "subject": "Contracts and specifications",
+              "count": 10,
+              "children": {},
+              "subjects": {
+                "id": "VM295-296",
+                "subject": "Contracts and specifications",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Shipbuilding",
+                    "subject": "Shipbuilding",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1955,
+                  "median": 1972,
+                  "mode": 1917
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VM1-989",
+            "subject": "Naval architecture.    Shipbuilding.    Marine engineering",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Ship",
+                "subject": "Ships",
+                "count": 890
+              },
+              {
+                "url": "http://dbpedia.org/resource/Shipbuilding",
+                "subject": "Shipbuilding",
+                "count": 450
+              },
+              {
+                "url": "http://dbpedia.org/resource/Naval_architecture",
+                "subject": "Naval architecture",
+                "count": 436
+              },
+              {
+                "url": "http://dbpedia.org/resource/Ship_model",
+                "subject": "Ship models",
+                "count": 245
+              },
+              {
+                "url": null,
+                "subject": "Boats and boating",
+                "count": 197
+              }
+            ],
+            "pubDates": {
+              "avg": 1973,
+              "median": 1980,
+              "mode": 1982
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VK": {
+      "id": "VK",
+      "subject": "Navigation.    Merchant marine",
+      "count": 0,
+      "children": {
+        "VK1-1661": {
+          "id": "VK1-1661",
+          "subject": "Navigation.    Merchant marine",
+          "count": 1473,
+          "children": {
+            "VK1000-1249": {
+              "id": "VK1000-1249",
+              "subject": "Lighthouse service",
+              "count": 789,
+              "children": {},
+              "subjects": {
+                "id": "VK1000-1249",
+                "subject": "Lighthouse service",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Lighthouse",
+                    "subject": "Lighthouses",
+                    "count": 698
+                  },
+                  {
+                    "url": null,
+                    "subject": "Aids to navigation",
+                    "count": 259
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Lighthouse_keeper",
+                    "subject": "Lighthouse keepers",
+                    "count": 93
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Lightship",
+                    "subject": "Lightships",
+                    "count": 37
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Buoy",
+                    "subject": "Buoys",
+                    "count": 28
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1996,
+                  "mode": 2000
+                }
+              }
+            },
+            "VK401-529": {
+              "id": "VK401-529",
+              "subject": "Study and teaching",
+              "count": 125,
+              "children": {},
+              "subjects": {
+                "id": "VK401-529",
+                "subject": "Study and teaching",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Navigation",
+                    "subject": "Navigation",
+                    "count": 52
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Merchant_navy",
+                    "subject": "Merchant marine",
+                    "count": 48
+                  },
+                  {
+                    "url": null,
+                    "subject": "Nautical training-schools",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Seamanship",
+                    "subject": "Seamanship",
+                    "count": 20
+                  },
+                  {
+                    "url": null,
+                    "subject": "Naval education",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1980,
+                  "mode": 1977
+                }
+              }
+            },
+            "VK549-572": {
+              "id": "VK549-572",
+              "subject": "Science of navigation",
+              "count": 912,
+              "children": {},
+              "subjects": {
+                "id": "VK549-572",
+                "subject": "Science of navigation",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Navigation",
+                    "subject": "Navigation",
+                    "count": 624
+                  },
+                  {
+                    "url": null,
+                    "subject": "Nautical astronomy",
+                    "count": 171
+                  },
+                  {
+                    "url": null,
+                    "subject": "Electronics in navigation",
+                    "count": 84
+                  },
+                  {
+                    "url": null,
+                    "subject": "Radar in navigation",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Loran",
+                    "subject": "Loran",
+                    "count": 35
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1956,
+                  "median": 1975,
+                  "mode": 1969
+                }
+              }
+            },
+            "VK15-124": {
+              "id": "VK15-124",
+              "subject": "History, conditions, etc.",
+              "count": 966,
+              "children": {},
+              "subjects": {
+                "id": "VK15-124",
+                "subject": "History, conditions, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Navigation",
+                    "subject": "Navigation",
+                    "count": 738
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Merchant_navy",
+                    "subject": "Merchant marine",
+                    "count": 160
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sailing_ship",
+                    "subject": "Sailing ships",
+                    "count": 119
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Freight_transport",
+                    "subject": "Shipping",
+                    "count": 113
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ship",
+                    "subject": "Ships",
+                    "count": 92
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1985,
+                  "mode": 1986
+                }
+              }
+            },
+            "VK573-587": {
+              "id": "VK573-587",
+              "subject": "Nautical instruments",
+              "count": 147,
+              "children": {},
+              "subjects": {
+                "id": "VK573-587",
+                "subject": "Nautical instruments",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Navigational_instrument",
+                    "subject": "Nautical instruments",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Compass",
+                    "subject": "Compass",
+                    "count": 27
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Navigation",
+                    "subject": "Navigation",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nautical_chart",
+                    "subject": "Nautical charts",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sextant",
+                    "subject": "Sextant",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1976,
+                  "mode": 1976
+                }
+              }
+            },
+            "VK798-997": {
+              "id": "VK798-997",
+              "subject": "Sailing directions.    Pilot guides",
+              "count": 1444,
+              "children": {},
+              "subjects": {
+                "id": "VK798-997",
+                "subject": "Sailing directions.    Pilot guides",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Pilot guides",
+                    "count": 2036
+                  },
+                  {
+                    "url": null,
+                    "subject": "Aids to navigation",
+                    "count": 186
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Harbor",
+                    "subject": "Harbors",
+                    "count": 57
+                  },
+                  {
+                    "url": null,
+                    "subject": "Notices to mariners",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Navigation",
+                    "subject": "Navigation",
+                    "count": 41
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1980,
+                  "mode": 2004
+                }
+              }
+            },
+            "VK1300-1491": {
+              "id": "VK1300-1491",
+              "subject": "Saving of life and property",
+              "count": 347,
+              "children": {},
+              "subjects": {
+                "id": "VK1300-1491",
+                "subject": "Saving of life and property",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Lifesaving",
+                    "subject": "Lifesaving",
+                    "count": 139
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Salvage",
+                    "subject": "Salvage",
+                    "count": 76
+                  },
+                  {
+                    "url": null,
+                    "subject": "Lifeboat service",
+                    "count": 57
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Shipwreck",
+                    "subject": "Shipwrecks",
+                    "count": 42
+                  },
+                  {
+                    "url": null,
+                    "subject": "Search and rescue operations",
+                    "count": 42
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1979,
+                  "mode": 1976
+                }
+              }
+            },
+            "VK1250-1299": {
+              "id": "VK1250-1299",
+              "subject": "Shipwrecks and fires",
+              "count": 349,
+              "children": {},
+              "subjects": {
+                "id": "VK1250-1299",
+                "subject": "Shipwrecks and fires",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Shipwreck",
+                    "subject": "Shipwrecks",
+                    "count": 206
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ship",
+                    "subject": "Ships",
+                    "count": 50
+                  },
+                  {
+                    "url": null,
+                    "subject": "Submarine disasters",
+                    "count": 36
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marine accidents",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Underwater_archaeology",
+                    "subject": "Underwater archaeology",
+                    "count": 32
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1990,
+                  "mode": 2008
+                }
+              }
+            },
+            "VK381-397": {
+              "id": "VK381-397",
+              "subject": "Signaling",
+              "count": 208,
+              "children": {},
+              "subjects": {
+                "id": "VK381-397",
+                "subject": "Signaling",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Radio in navigation",
+                    "count": 70
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marine radio stations",
+                    "count": 51
+                  },
+                  {
+                    "url": null,
+                    "subject": "Signals and signaling",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Radio",
+                    "subject": "Radio",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Merchant_navy",
+                    "subject": "Merchant marine",
+                    "count": 24
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1979,
+                  "mode": 1983
+                }
+              }
+            },
+            "VK1299.5-1299.6": {
+              "id": "VK1299.5-1299.6",
+              "subject": "Icebreaking operations",
+              "count": 9,
+              "children": {},
+              "subjects": {
+                "id": "VK1299.5-1299.6",
+                "subject": "Icebreaking operations",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Ice breaking operations",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1981,
+                  "mode": 1979
+                }
+              }
+            },
+            "VK588-597": {
+              "id": "VK588-597",
+              "subject": "Marine hydrography.    Hydrographic surveying",
+              "count": 214,
+              "children": {},
+              "subjects": {
+                "id": "VK588-597",
+                "subject": "Marine hydrography.    Hydrographic surveying",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Hydrography",
+                    "subject": "Hydrography",
+                    "count": 96
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hydrographic_survey",
+                    "subject": "Hydrographic surveying",
+                    "count": 84
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Oceanography",
+                    "subject": "Oceanography",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Surveyors, Marine",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Hydrographie",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1960,
+                  "median": 1975,
+                  "mode": 1983
+                }
+              }
+            },
+            "VK321-369.8": {
+              "id": "VK321-369.8",
+              "subject": "Harbors.    Ports",
+              "count": 91,
+              "children": {},
+              "subjects": {
+                "id": "VK321-369.8",
+                "subject": "Harbors.    Ports",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Marina",
+                    "subject": "Marinas",
+                    "count": 43
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Harbor",
+                    "subject": "Harbors",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Dock",
+                    "subject": "Docks",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ship",
+                    "subject": "Ships",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Environmental_impact_statement",
+                    "subject": "Environmental impact statements",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1982,
+                  "mode": 1990
+                }
+              }
+            },
+            "VK1500-1661": {
+              "id": "VK1500-1661",
+              "subject": "Pilots and pilotage",
+              "count": 99,
+              "children": {},
+              "subjects": {
+                "id": "VK1500-1661",
+                "subject": "Pilots and pilotage",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Pilots and pilotage",
+                    "count": 98
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Harbor",
+                    "subject": "Harbors",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "Pilot guides",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1981,
+                  "mode": 1975
+                }
+              }
+            },
+            "VK600-794": {
+              "id": "VK600-794",
+              "subject": "Tide and current tables",
+              "count": 191,
+              "children": {},
+              "subjects": {
+                "id": "VK600-794",
+                "subject": "Tide and current tables",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Tide",
+                    "subject": "Tides",
+                    "count": 285
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Tide",
+                    "subject": "Tidal currents",
+                    "count": 52
+                  },
+                  {
+                    "url": null,
+                    "subject": "Pilot guides",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ocean_current",
+                    "subject": "Ocean currents",
+                    "count": 18
+                  },
+                  {
+                    "url": null,
+                    "subject": "Aids to navigation",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1960,
+                  "median": 1969,
+                  "mode": 1967
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VK1-1661",
+            "subject": "Navigation.    Merchant marine",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Navigation",
+                "subject": "Navigation",
+                "count": 368
+              },
+              {
+                "url": "http://dbpedia.org/resource/Merchant_navy",
+                "subject": "Merchant marine",
+                "count": 277
+              },
+              {
+                "url": "http://dbpedia.org/resource/Seamanship",
+                "subject": "Seamanship",
+                "count": 157
+              },
+              {
+                "url": "http://dbpedia.org/resource/Ship",
+                "subject": "Ships",
+                "count": 147
+              },
+              {
+                "url": "http://dbpedia.org/resource/Sea_captain",
+                "subject": "Ship captains",
+                "count": 143
+              }
+            ],
+            "pubDates": {
+              "avg": 1977,
+              "median": 1981,
+              "mode": 1976
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VG": {
+      "id": "VG",
+      "subject": "Minor services of navies",
+      "count": 0,
+      "children": {
+        "VG20-2029": {
+          "id": "VG20-2029",
+          "subject": "Minor services of navies",
+          "count": 222,
+          "children": {
+            "VG90-95": {
+              "id": "VG90-95",
+              "subject": "Naval aviation",
+              "count": 570,
+              "children": {},
+              "subjects": {
+                "id": "VG90-95",
+                "subject": "Naval aviation",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Airplanes, Military",
+                    "count": 96
+                  },
+                  {
+                    "url": null,
+                    "subject": "Aeronautics, Military",
+                    "count": 67
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_aviation",
+                    "subject": "Naval aviation",
+                    "count": 57
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Airplane",
+                    "subject": "Airplanes",
+                    "count": 33
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1982,
+                  "mode": 1985
+                }
+              }
+            },
+            "VG50-55": {
+              "id": "VG50-55",
+              "subject": "Coast guard and coast signal service",
+              "count": 218,
+              "children": {},
+              "subjects": {
+                "id": "VG50-55",
+                "subject": "Coast guard and coast signal service",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Coastal surveillance",
+                    "count": 35
+                  },
+                  {
+                    "url": null,
+                    "subject": "Search and rescue operations",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Rescue work",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Lifesaving",
+                    "subject": "Lifesaving",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Civil_defense",
+                    "subject": "Civil defense",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2000,
+                  "median": 2002,
+                  "mode": 2003
+                }
+              }
+            },
+            "VG100-475": {
+              "id": "VG100-475",
+              "subject": "Medical service",
+              "count": 156,
+              "children": {},
+              "subjects": {
+                "id": "VG100-475",
+                "subject": "Medical service",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Medicine, Naval",
+                    "count": 46
+                  },
+                  {
+                    "url": null,
+                    "subject": "Naval hygiene",
+                    "count": 21
+                  },
+                  {
+                    "url": null,
+                    "subject": "First aid in illness and injury",
+                    "count": 15
+                  },
+                  {
+                    "url": null,
+                    "subject": "Naval Medicine",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "Hospitals, Naval and marine",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1955,
+                  "median": 1967,
+                  "mode": 1943
+                }
+              }
+            },
+            "VG70-85": {
+              "id": "VG70-85",
+              "subject": "Naval communication by telegraphy, telephone, etc.",
+              "count": 40,
+              "children": {},
+              "subjects": {
+                "id": "VG70-85",
+                "subject": "Naval communication by telegraphy, telephone, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Radio",
+                    "subject": "Radio",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1982,
+                  "mode": 1988
+                }
+              }
+            },
+            "VG20-25": {
+              "id": "VG20-25",
+              "subject": "Chaplains",
+              "count": 24,
+              "children": {},
+              "subjects": {
+                "id": "VG20-25",
+                "subject": "Chaplains",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Military_chaplain",
+                    "subject": "Military chaplains",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1983,
+                  "mode": 1983
+                }
+              }
+            },
+            "VG2020-2029": {
+              "id": "VG2020-2029",
+              "subject": "Recreation and information service",
+              "count": 4,
+              "children": {},
+              "subjects": {
+                "id": "VG2020-2029",
+                "subject": "Recreation and information service",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1969,
+                  "median": 1984,
+                  "mode": 1955
+                }
+              }
+            },
+            "VG500-505": {
+              "id": "VG500-505",
+              "subject": "Public relations.    Press.    War    correspondents",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "VG500-505",
+                "subject": "Public relations.    Press.    War    correspondents",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1974,
+                  "mode": 1988
+                }
+              }
+            },
+            "VG2000-2005": {
+              "id": "VG2000-2005",
+              "subject": "Social work.    Social welfare services",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "VG2000-2005",
+                "subject": "Social work.    Social welfare services",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1974,
+                  "mode": 1974
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VG20-2029",
+            "subject": "Minor services of navies",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Civil_engineering",
+                "subject": "Civil engineering",
+                "count": 11
+              },
+              {
+                "url": null,
+                "subject": "Navy-yards and naval stations",
+                "count": 7
+              },
+              {
+                "url": null,
+                "subject": "Special forces (Military science)",
+                "count": 7
+              },
+              {
+                "url": "http://dbpedia.org/resource/World_War_II",
+                "subject": "World War, 1939-1945",
+                "count": 6
+              },
+              {
+                "url": "http://dbpedia.org/resource/Underwater_Demolition_Team",
+                "subject": "Underwater demolition teams",
+                "count": 6
+              }
+            ],
+            "pubDates": {
+              "avg": 1987,
+              "median": 1989,
+              "mode": 2012
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "V": {
+      "id": "V",
+      "subject": "Naval science (General)",
+      "count": 0,
+      "children": {
+        "V1-995": {
+          "id": "V1-995",
+          "subject": "Naval science (General)",
+          "count": 1895,
+          "children": {
+            "V750-995": {
+              "id": "V750-995",
+              "subject": "War vessels: Construction, armament, etc.",
+              "count": 1698,
+              "children": {},
+              "subjects": {
+                "id": "V750-995",
+                "subject": "War vessels: Construction, armament, etc.",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Submarines (Ships)",
+                    "count": 425
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Warship",
+                    "subject": "Warships",
+                    "count": 335
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 250
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Battleship",
+                    "subject": "Battleships",
+                    "count": 220
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Aircraft_carrier",
+                    "subject": "Aircraft carriers",
+                    "count": 193
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1995,
+                  "mode": 2007
+                }
+              }
+            },
+            "V25-55": {
+              "id": "V25-55",
+              "subject": "History and antiquities of naval science",
+              "count": 313,
+              "children": {},
+              "subjects": {
+                "id": "V25-55",
+                "subject": "History and antiquities of naval science",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Naval art and science",
+                    "count": 163
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_warfare",
+                    "subject": "Sea-power",
+                    "count": 144
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_history",
+                    "subject": "Naval history",
+                    "count": 58
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Navy",
+                    "subject": "Navies",
+                    "count": 38
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_strategy",
+                    "subject": "Naval strategy",
+                    "count": 35
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1989,
+                  "mode": 1975
+                }
+              }
+            },
+            "V400-695": {
+              "id": "V400-695",
+              "subject": "Naval education",
+              "count": 424,
+              "children": {},
+              "subjects": {
+                "id": "V400-695",
+                "subject": "Naval education",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Naval education",
+                    "count": 125
+                  },
+                  {
+                    "url": null,
+                    "subject": "Training-ships",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Midshipman",
+                    "subject": "Midshipmen",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Naval art and science",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1985,
+                  "mode": 1984
+                }
+              }
+            },
+            "V720-743": {
+              "id": "V720-743",
+              "subject": "Naval life, manners and customs, antiquities, etc.",
+              "count": 137,
+              "children": {},
+              "subjects": {
+                "id": "V720-743",
+                "subject": "Naval life, manners and customs, antiquities, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Sailor",
+                    "subject": "Sailors",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Seafaring life",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Navy spouses",
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "subject": "Navy wives",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_I",
+                    "subject": "World War, 1914-1918",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1974,
+                  "mode": 2002
+                }
+              }
+            },
+            "V390-395": {
+              "id": "V390-395",
+              "subject": "Naval research",
+              "count": 84,
+              "children": {},
+              "subjects": {
+                "id": "V390-395",
+                "subject": "Naval research",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Naval research",
+                    "count": 67
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Marine_engineering",
+                    "subject": "Marine engineering",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1987,
+                  "mode": 1956
+                }
+              }
+            },
+            "V160-165": {
+              "id": "V160-165",
+              "subject": "Strategy",
+              "count": 87,
+              "children": {},
+              "subjects": {
+                "id": "V160-165",
+                "subject": "Strategy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_strategy",
+                    "subject": "Naval strategy",
+                    "count": 83
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_warfare",
+                    "subject": "Sea-power",
+                    "count": 28
+                  },
+                  {
+                    "url": null,
+                    "subject": "Naval art and science",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Command_of_the_sea",
+                    "subject": "Sea control",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Strategy",
+                    "subject": "Strategy",
+                    "count": 9
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1996,
+                  "mode": 2008
+                }
+              }
+            },
+            "V167-178": {
+              "id": "V167-178",
+              "subject": "Tactics",
+              "count": 51,
+              "children": {},
+              "subjects": {
+                "id": "V167-178",
+                "subject": "Tactics",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Naval tactics",
+                    "count": 41
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1950,
+                  "median": 1971,
+                  "mode": 1971
+                }
+              }
+            },
+            "V210-214.5": {
+              "id": "V210-214.5",
+              "subject": "Submarine warfare",
+              "count": 125,
+              "children": {},
+              "subjects": {
+                "id": "V210-214.5",
+                "subject": "Submarine warfare",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Submarine_warfare",
+                    "subject": "Submarine warfare",
+                    "count": 74
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Anti-submarine_warfare",
+                    "subject": "Anti-submarine warfare",
+                    "count": 53
+                  },
+                  {
+                    "url": null,
+                    "subject": "Submarines (Ships)",
+                    "count": 44
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_I",
+                    "subject": "World War, 1914-1918",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1978,
+                  "mode": 2007
+                }
+              }
+            },
+            "V396-396.5": {
+              "id": "V396-396.5",
+              "subject": "Military oceanography",
+              "count": 13,
+              "children": {},
+              "subjects": {
+                "id": "V396-396.5",
+                "subject": "Military oceanography",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military oceanography",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1972,
+                  "mode": 1967
+                }
+              }
+            },
+            "V399": {
+              "id": "V399",
+              "subject": "Automation in the naval sciences",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "V399",
+                "subject": "Automation in the naval sciences",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1976,
+                  "mode": 1976
+                }
+              }
+            },
+            "V66-69": {
+              "id": "V66-69",
+              "subject": "Navy clubs",
+              "count": 6,
+              "children": {},
+              "subjects": {
+                "id": "V66-69",
+                "subject": "Navy clubs",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1991,
+                  "median": 1993,
+                  "mode": 1984
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "V1-995",
+            "subject": "Naval science (General)",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Naval art and science",
+                "count": 636
+              },
+              {
+                "url": "http://dbpedia.org/resource/Admiral",
+                "subject": "Admirals",
+                "count": 342
+              },
+              {
+                "url": "http://dbpedia.org/resource/World_War_II",
+                "subject": "World War, 1939-1945",
+                "count": 111
+              },
+              {
+                "url": "http://dbpedia.org/resource/English_language",
+                "subject": "English language",
+                "count": 95
+              },
+              {
+                "url": "http://dbpedia.org/resource/Sailor",
+                "subject": "Sailors",
+                "count": 86
+              }
+            ],
+            "pubDates": {
+              "avg": 1980,
+              "median": 1988,
+              "mode": 2004
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VB": {
+      "id": "VB",
+      "subject": "Naval administration",
+      "count": 0,
+      "children": {
+        "VB15-955": {
+          "id": "VB15-955",
+          "subject": "Naval administration",
+          "count": 307,
+          "children": {
+            "VB310-315": {
+              "id": "VB310-315",
+              "subject": "Officers",
+              "count": 58,
+              "children": {},
+              "subjects": {
+                "id": "VB310-315",
+                "subject": "Officers",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1957,
+                  "median": 1976,
+                  "mode": 1998
+                }
+              }
+            },
+            "VB21-124": {
+              "id": "VB21-124",
+              "subject": "By region or country",
+              "count": 44,
+              "children": {},
+              "subjects": {
+                "id": "VB21-124",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_warfare",
+                    "subject": "Sea-power",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1957,
+                  "median": 1972,
+                  "mode": 1944
+                }
+              }
+            },
+            "VB170-187": {
+              "id": "VB170-187",
+              "subject": "Civil department",
+              "count": 17,
+              "children": {},
+              "subjects": {
+                "id": "VB170-187",
+                "subject": "Civil department",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1964,
+                  "mode": 2009
+                }
+              }
+            },
+            "VB260-275": {
+              "id": "VB260-275",
+              "subject": "Enlisted personnel",
+              "count": 34,
+              "children": {},
+              "subjects": {
+                "id": "VB260-275",
+                "subject": "Enlisted personnel",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Sailor",
+                    "subject": "Sailors",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1978,
+                  "mode": 1978
+                }
+              }
+            },
+            "VB320-325": {
+              "id": "VB320-325",
+              "subject": "Minorities, women, etc. in navies",
+              "count": 35,
+              "children": {},
+              "subjects": {
+                "id": "VB320-325",
+                "subject": "Minorities, women, etc. in navies",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Women sailors",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "Tailhook Scandal, 1991-1993",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1997,
+                  "median": 1995,
+                  "mode": 1993
+                }
+              }
+            },
+            "VB307-309": {
+              "id": "VB307-309",
+              "subject": "Warrant officers",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "VB307-309",
+                "subject": "Warrant officers",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 2004,
+                  "median": 2000,
+                  "mode": 1996
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VB15-955",
+            "subject": "Naval administration",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Leadership",
+                "subject": "Leadership",
+                "count": 41
+              },
+              {
+                "url": "http://dbpedia.org/resource/Military_intelligence",
+                "subject": "Military intelligence",
+                "count": 26
+              },
+              {
+                "url": null,
+                "subject": "Command and control systems",
+                "count": 16
+              },
+              {
+                "url": null,
+                "subject": "Pueblo Incident, 1968",
+                "count": 16
+              },
+              {
+                "url": null,
+                "subject": "Naval law",
+                "count": 15
+              }
+            ],
+            "pubDates": {
+              "avg": 1965,
+              "median": 1977,
+              "mode": 1970
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VE": {
+      "id": "VE",
+      "subject": "Marines",
+      "count": 0,
+      "children": {
+        "VE7-500": {
+          "id": "VE7-500",
+          "subject": "Marines",
+          "count": 172,
+          "children": {
+            "VE23-124": {
+              "id": "VE23-124",
+              "subject": "By region or country",
+              "count": 475,
+              "children": {},
+              "subjects": {
+                "id": "VE23-124",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Marine",
+                    "subject": "Marines",
+                    "count": 55
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/General_officer",
+                    "subject": "Generals",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Vietnam_War",
+                    "subject": "Vietnam War, 1961-1975",
+                    "count": 20
+                  },
+                  {
+                    "url": null,
+                    "subject": "Special forces (Military science)",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1991,
+                  "median": 1999,
+                  "mode": 2003
+                }
+              }
+            },
+            "VE160-302": {
+              "id": "VE160-302",
+              "subject": "Drill regulations",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "VE160-302",
+                "subject": "Drill regulations",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1999,
+                  "median": 1995,
+                  "mode": 1991
+                }
+              }
+            },
+            "VE330-335": {
+              "id": "VE330-335",
+              "subject": "Shooting",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "VE330-335",
+                "subject": "Shooting",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1916,
+                  "median": 1916,
+                  "mode": 1916
+                }
+              }
+            },
+            "VE430-435": {
+              "id": "VE430-435",
+              "subject": "Training camps",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "VE430-435",
+                "subject": "Training camps",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Military_education_and_training",
+                    "subject": "Military education",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1989,
+                  "mode": 1998
+                }
+              }
+            },
+            "VE420-425": {
+              "id": "VE420-425",
+              "subject": "Barracks, quarters, etc.",
+              "count": 4,
+              "children": {},
+              "subjects": {
+                "id": "VE420-425",
+                "subject": "Barracks, quarters, etc.",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1969,
+                  "median": 1966,
+                  "mode": 1966
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VE7-500",
+            "subject": "Marines",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Military_intelligence",
+                "subject": "Military intelligence",
+                "count": 10
+              },
+              {
+                "url": "http://dbpedia.org/resource/Marine",
+                "subject": "Marines",
+                "count": 8
+              },
+              {
+                "url": "http://dbpedia.org/resource/Amphibious_warfare",
+                "subject": "Amphibious warfare",
+                "count": 7
+              },
+              {
+                "url": "http://dbpedia.org/resource/World_War_II",
+                "subject": "World War, 1939-1945",
+                "count": 6
+              },
+              {
+                "url": null,
+                "subject": "Logistics, Naval",
+                "count": 5
+              }
+            ],
+            "pubDates": {
+              "avg": 1984,
+              "median": 1997,
+              "mode": 2001
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VF": {
+      "id": "VF",
+      "subject": "Naval ordnance",
+      "count": 0,
+      "children": {
+        "VF1-580": {
+          "id": "VF1-580",
+          "subject": "Naval ordnance",
+          "count": 77,
+          "children": {
+            "VF350-375": {
+              "id": "VF350-375",
+              "subject": "Ordnance and arms (General)",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "VF350-375",
+                "subject": "Ordnance and arms (General)",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Ordnance, Naval",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1977,
+                  "mode": 1979
+                }
+              }
+            },
+            "VF346-348": {
+              "id": "VF346-348",
+              "subject": "Naval weapons systems",
+              "count": 59,
+              "children": {},
+              "subjects": {
+                "id": "VF346-348",
+                "subject": "Naval weapons systems",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Weapon",
+                    "subject": "Weapons systems",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ordnance, Naval",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Missile",
+                    "subject": "Guided missiles",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1991,
+                  "median": 1989,
+                  "mode": 1981
+                }
+              }
+            },
+            "VF160-302": {
+              "id": "VF160-302",
+              "subject": "Ordnance instructions and drill books",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "VF160-302",
+                "subject": "Ordnance instructions and drill books",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Naval_artillery",
+                    "subject": "Naval gunnery",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ordnance, Naval",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1926,
+                  "median": 1936,
+                  "mode": 1828
+                }
+              }
+            },
+            "VF21-124": {
+              "id": "VF21-124",
+              "subject": "By region or country",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "VF21-124",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Ordnance, Naval",
+                    "count": 14
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1968,
+                  "median": 1981,
+                  "mode": 1983
+                }
+              }
+            },
+            "VF390-510": {
+              "id": "VF390-510",
+              "subject": "Ordnance material (Ordnance proper)",
+              "count": 20,
+              "children": {},
+              "subjects": {
+                "id": "VF390-510",
+                "subject": "Ordnance material (Ordnance proper)",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Ordnance, Naval",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1942,
+                  "median": 1966,
+                  "mode": 1866
+                }
+              }
+            },
+            "VF310-315": {
+              "id": "VF310-315",
+              "subject": "Target practice",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "VF310-315",
+                "subject": "Target practice",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1911,
+                  "median": 1909,
+                  "mode": 1908
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VF1-580",
+            "subject": "Naval ordnance",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Ordnance, Naval",
+                "count": 37
+              },
+              {
+                "url": "http://dbpedia.org/resource/Gunnery",
+                "subject": "Gunnery",
+                "count": 23
+              },
+              {
+                "url": null,
+                "subject": "Fire control (Naval gunnery)",
+                "count": 13
+              },
+              {
+                "url": "http://dbpedia.org/resource/Naval_artillery",
+                "subject": "Naval gunnery",
+                "count": 8
+              }
+            ],
+            "pubDates": {
+              "avg": 1943,
+              "median": 1963,
+              "mode": 1991
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VC": {
+      "id": "VC",
+      "subject": "Naval maintenance",
+      "count": 0,
+      "children": {
+        "VC10-580": {
+          "id": "VC10-580",
+          "subject": "Naval maintenance",
+          "count": 45,
+          "children": {
+            "VC260-268": {
+              "id": "VC260-268",
+              "subject": "Supplies and stores",
+              "count": 99,
+              "children": {},
+              "subjects": {
+                "id": "VC260-268",
+                "subject": "Supplies and stores",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Defense contracts",
+                    "count": 17
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Warship",
+                    "subject": "Warships",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Shipbuilding",
+                    "subject": "Shipbuilding industry",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Lumber",
+                    "subject": "Timber",
+                    "count": 5
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Spare_part",
+                    "subject": "Spare parts",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1983,
+                  "mode": 2004
+                }
+              }
+            },
+            "VC280-345": {
+              "id": "VC280-345",
+              "subject": "Clothing and equipment",
+              "count": 69,
+              "children": {},
+              "subjects": {
+                "id": "VC280-345",
+                "subject": "Clothing and equipment",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_uniform",
+                    "subject": "Military uniforms",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1987,
+                  "mode": 1997
+                }
+              }
+            },
+            "VC270-279": {
+              "id": "VC270-279",
+              "subject": "Equipment of vessels, supplies, allowances, etc.",
+              "count": 25,
+              "children": {},
+              "subjects": {
+                "id": "VC270-279",
+                "subject": "Equipment of vessels, supplies, allowances, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Ship",
+                    "subject": "Ships",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1948,
+                  "median": 1972,
+                  "mode": 1973
+                }
+              }
+            },
+            "VC20-258": {
+              "id": "VC20-258",
+              "subject": "Organization of service",
+              "count": 15,
+              "children": {},
+              "subjects": {
+                "id": "VC20-258",
+                "subject": "Organization of service",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1944,
+                  "median": 1954,
+                  "mode": 1965
+                }
+              }
+            },
+            "VC350-410": {
+              "id": "VC350-410",
+              "subject": "Subsistence.    Provisioning",
+              "count": 35,
+              "children": {},
+              "subjects": {
+                "id": "VC350-410",
+                "subject": "Subsistence.    Provisioning",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Cooking on ships",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Cookery, Marine",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1966,
+                  "median": 1971,
+                  "mode": 1967
+                }
+              }
+            },
+            "VC412-425": {
+              "id": "VC412-425",
+              "subject": "Navy yards and stations.    Shore facilities",
+              "count": 12,
+              "children": {},
+              "subjects": {
+                "id": "VC412-425",
+                "subject": "Navy yards and stations.    Shore facilities",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Navy-yards and naval stations",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1963,
+                  "mode": 1963
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VC10-580",
+            "subject": "Naval maintenance",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Military_Sealift_Command",
+                "subject": "Military sealift",
+                "count": 13
+              },
+              {
+                "url": "http://dbpedia.org/resource/Merchant_navy",
+                "subject": "Merchant marine",
+                "count": 10
+              },
+              {
+                "url": "http://dbpedia.org/resource/Shipbuilding",
+                "subject": "Shipbuilding industry",
+                "count": 7
+              }
+            ],
+            "pubDates": {
+              "avg": 1976,
+              "median": 1979,
+              "mode": 1968
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VD": {
+      "id": "VD",
+      "subject": "Naval personnel",
+      "count": 0,
+      "children": {
+        "VD7-430": {
+          "id": "VD7-430",
+          "subject": "Naval personnel",
+          "count": 11,
+          "children": {
+            "VD21-124": {
+              "id": "VD21-124",
+              "subject": "By region or country",
+              "count": 13,
+              "children": {},
+              "subjects": {
+                "id": "VD21-124",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Sailor",
+                    "subject": "Sailors",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2000,
+                  "median": 2002,
+                  "mode": 2000
+                }
+              }
+            },
+            "VD360-390": {
+              "id": "VD360-390",
+              "subject": "Small arms",
+              "count": 10,
+              "children": {},
+              "subjects": {
+                "id": "VD360-390",
+                "subject": "Small arms",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1993,
+                  "mode": 1999
+                }
+              }
+            },
+            "VD160-302": {
+              "id": "VD160-302",
+              "subject": "Drill regulations",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "VD160-302",
+                "subject": "Drill regulations",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1891,
+                  "median": 1891,
+                  "mode": 1891
+                }
+              }
+            },
+            "VD330-335": {
+              "id": "VD330-335",
+              "subject": "Shooting",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "VD330-335",
+                "subject": "Shooting",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1914,
+                  "median": 1915,
+                  "mode": 1913
+                }
+              }
+            },
+            "VD400-405": {
+              "id": "VD400-405",
+              "subject": "Small boat service",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "VD400-405",
+                "subject": "Small boat service",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1888,
+                  "median": 1920,
+                  "mode": 1856
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "VD7-430",
+            "subject": "Naval personnel",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1973,
+              "median": 1969,
+              "mode": 1953
+            }
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}

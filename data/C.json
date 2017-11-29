@@ -1,0 +1,3114 @@
+{
+  "code": "C",
+  "subject": "Auxiliary Sciences of History (General)",
+  "count": 0,
+  "children": {
+    "CT": {
+      "id": "CT",
+      "subject": "Biography",
+      "count": 0,
+      "children": {
+        "CT21-9999": {
+          "id": "CT21-9999",
+          "subject": "Biography",
+          "count": 460,
+          "children": {
+            "CT210-3150": {
+              "id": "CT210-3150",
+              "subject": "National biography",
+              "count": 21083,
+              "children": {},
+              "subjects": {
+                "id": "CT210-3150",
+                "subject": "National biography",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Celebrity",
+                    "subject": "Celebrities",
+                    "count": 1009
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Woman",
+                    "subject": "Women",
+                    "count": 451
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 394
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Intellectual",
+                    "subject": "Intellectuals",
+                    "count": 349
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Interview",
+                    "subject": "Interviews",
+                    "count": 283
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1989,
+                  "mode": 2004
+                }
+              }
+            },
+            "CT3200-9999": {
+              "id": "CT3200-9999",
+              "subject": "Biography.  By subject",
+              "count": 10,
+              "children": {
+                "CT3200-3830": {
+                  "id": "CT3200-3830",
+                  "subject": "Biography of women (Collective)",
+                  "count": 1302,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT3200-3830",
+                    "subject": "Biography of women (Collective)",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Woman",
+                        "subject": "Women",
+                        "count": 1417
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Biography",
+                        "subject": "Biography",
+                        "count": 99
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Celebrity",
+                        "subject": "Celebrities",
+                        "count": 40
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Girl",
+                        "subject": "Girls",
+                        "count": 28
+                      },
+                      {
+                        "url": null,
+                        "subject": "Women heroes",
+                        "count": 22
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1991,
+                      "mode": 2000
+                    }
+                  }
+                },
+                "CT9960-9998": {
+                  "id": "CT9960-9998",
+                  "subject": "Other miscellaneous groups",
+                  "count": 367,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT9960-9998",
+                    "subject": "Other miscellaneous groups",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Adventure and adventurers",
+                        "count": 102
+                      },
+                      {
+                        "url": null,
+                        "subject": "Eccentrics and eccentricities",
+                        "count": 100
+                      },
+                      {
+                        "url": null,
+                        "subject": "Impostors and imposture",
+                        "count": 48
+                      },
+                      {
+                        "url": null,
+                        "subject": "People with disabilities",
+                        "count": 19
+                      },
+                      {
+                        "url": null,
+                        "subject": "Dionne quintuplets",
+                        "count": 13
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1984,
+                      "median": 1992,
+                      "mode": 2007
+                    }
+                  }
+                },
+                "CT3990": {
+                  "id": "CT3990",
+                  "subject": "Academicians.  Scholars. Savants",
+                  "count": 1055,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT3990",
+                    "subject": "Academicians.  Scholars. Savants",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Scholarly_method",
+                        "subject": "Scholars",
+                        "count": 735
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Intellectual",
+                        "subject": "Intellectuals",
+                        "count": 86
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Philosopher",
+                        "subject": "Philosophers",
+                        "count": 22
+                      },
+                      {
+                        "url": null,
+                        "subject": "Learning and scholarship",
+                        "count": 20
+                      },
+                      {
+                        "url": null,
+                        "subject": "Authors, Chinese",
+                        "count": 18
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1998,
+                      "median": 2001,
+                      "mode": 2011
+                    }
+                  }
+                },
+                "CT9999": {
+                  "id": "CT9999",
+                  "subject": "Blank books for personal records, diaries, etc.",
+                  "count": 9,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT9999",
+                    "subject": "Blank books for personal records, diaries, etc.",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Diaries (Blank-books)",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1966,
+                      "median": 1992,
+                      "mode": 1909
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CT3200-9999",
+                "subject": "Biography.  By subject",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Scholarly_method",
+                    "subject": "Scholars",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1998,
+                  "mode": 1998
+                }
+              }
+            },
+            "CT93-206": {
+              "id": "CT93-206",
+              "subject": "General collective biography",
+              "count": 2352,
+              "children": {
+                "CT206": {
+                  "id": "CT206",
+                  "subject": "Portraits",
+                  "count": 4,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT206",
+                    "subject": "Portraits",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1777,
+                      "median": 1964,
+                      "mode": 1572
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CT93-206",
+                "subject": "General collective biography",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Biography",
+                    "subject": "Biography",
+                    "count": 1851
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Celebrity",
+                    "subject": "Celebrities",
+                    "count": 364
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hero",
+                    "subject": "Heroes",
+                    "count": 107
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Interview",
+                    "subject": "Interviews",
+                    "count": 86
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Intellectual",
+                    "subject": "Intellectuals",
+                    "count": 35
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1964,
+                  "median": 1978,
+                  "mode": 1994
+                }
+              }
+            },
+            "CT21-22": {
+              "id": "CT21-22",
+              "subject": "Biography as an art or literary form",
+              "count": 302,
+              "children": {},
+              "subjects": {
+                "id": "CT21-22",
+                "subject": "Biography as an art or literary form",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Biography as a literary form",
+                    "count": 277
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Autobiography",
+                    "subject": "Autobiography",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Biography",
+                    "subject": "Biography",
+                    "count": 43
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Author",
+                    "subject": "Authors",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Oral biography",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1989,
+                  "mode": 2010
+                }
+              }
+            },
+            "CT31-83": {
+              "id": "CT31-83",
+              "subject": "History of biographical literature.  Lives of biographers",
+              "count": 105,
+              "children": {},
+              "subjects": {
+                "id": "CT31-83",
+                "subject": "History of biographical literature.  Lives of biographers",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Biography as a literary form",
+                    "count": 60
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Autobiography",
+                    "subject": "Autobiography",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Biography",
+                    "subject": "Biography",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/English_literature",
+                    "subject": "English literature",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_biographers",
+                    "subject": "Biographers",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1994,
+                  "mode": 2010
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "CT21-9999",
+            "subject": "Biography",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Autobiography",
+                "subject": "Autobiography",
+                "count": 450
+              },
+              {
+                "url": null,
+                "subject": "Biography as a literary form",
+                "count": 73
+              },
+              {
+                "url": "http://dbpedia.org/resource/Report",
+                "subject": "Report writing",
+                "count": 49
+              },
+              {
+                "url": "http://dbpedia.org/resource/Diary",
+                "subject": "Diaries",
+                "count": 23
+              },
+              {
+                "url": "http://dbpedia.org/resource/Biography",
+                "subject": "Biography",
+                "count": 22
+              }
+            ],
+            "pubDates": {
+              "avg": 1995,
+              "median": 1998,
+              "mode": 2007
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CS": {
+      "id": "CS",
+      "subject": "Genealogy",
+      "count": 0,
+      "children": {
+        "CS1-3090": {
+          "id": "CS1-3090",
+          "subject": "Genealogy",
+          "count": 1016,
+          "children": {
+            "CS42-2209": {
+              "id": "CS42-2209",
+              "subject": "By region or country",
+              "count": 54091,
+              "children": {},
+              "subjects": {
+                "id": "CS42-2209",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 4404
+                  },
+                  {
+                    "url": null,
+                    "subject": "Church records and registers",
+                    "count": 1377
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nobility",
+                    "subject": "Nobility",
+                    "count": 1078
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 954
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of  births, etc",
+                    "count": 607
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1987,
+                  "mode": 1983
+                }
+              }
+            },
+            "CS2300-3090": {
+              "id": "CS2300-3090",
+              "subject": "Personal and family names",
+              "count": 2816,
+              "children": {},
+              "subjects": {
+                "id": "CS2300-3090",
+                "subject": "Personal and family names",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Names, Personal",
+                    "count": 3490
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Russian_language",
+                    "subject": "Russian language",
+                    "count": 88
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nickname",
+                    "subject": "Nicknames",
+                    "count": 88
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Polish_language",
+                    "subject": "Polish language",
+                    "count": 63
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/English_language",
+                    "subject": "English language",
+                    "count": 62
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1992,
+                  "mode": 2006
+                }
+              }
+            },
+            "CS38-39": {
+              "id": "CS38-39",
+              "subject": "Family history covering more than one country",
+              "count": 89,
+              "children": {},
+              "subjects": {
+                "id": "CS38-39",
+                "subject": "Family history covering more than one country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sephardi_Jews",
+                    "subject": "Sephardim",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nobility",
+                    "subject": "Nobility",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1990,
+                  "mode": 1975
+                }
+              }
+            },
+            "CS23-35": {
+              "id": "CS23-35",
+              "subject": "Genealogical lists, etc., covering more than one country",
+              "count": 163,
+              "children": {},
+              "subjects": {
+                "id": "CS23-35",
+                "subject": "Genealogical lists, etc., covering more than one country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Saint",
+                    "subject": "Christian saints",
+                    "count": 38
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Genealogy",
+                    "subject": "Genealogy",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 30
+                  },
+                  {
+                    "url": null,
+                    "subject": "Unclaimed estates",
+                    "count": 19
+                  },
+                  {
+                    "url": null,
+                    "subject": "Kings and rulers",
+                    "count": 19
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1985,
+                  "mode": 1991
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "CS1-3090",
+            "subject": "Genealogy",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Genealogy",
+                "subject": "Genealogy",
+                "count": 968
+              },
+              {
+                "url": "http://dbpedia.org/resource/Jews",
+                "subject": "Jews",
+                "count": 41
+              },
+              {
+                "url": "http://dbpedia.org/resource/Genealogy",
+                "subject": "Genealogists",
+                "count": 27
+              },
+              {
+                "url": "http://dbpedia.org/resource/Report",
+                "subject": "Report writing",
+                "count": 27
+              },
+              {
+                "url": "http://dbpedia.org/resource/Heraldry",
+                "subject": "Heraldry",
+                "count": 25
+              }
+            ],
+            "pubDates": {
+              "avg": 1987,
+              "median": 1992,
+              "mode": 2000
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CR": {
+      "id": "CR",
+      "subject": "Heraldry",
+      "count": 0,
+      "children": {
+        "CR1-6305": {
+          "id": "CR1-6305",
+          "subject": "Heraldry",
+          "count": 351,
+          "children": {
+            "CR101-115": {
+              "id": "CR101-115",
+              "subject": "Flags, banners, and standards",
+              "count": 612,
+              "children": {},
+              "subjects": {
+                "id": "CR101-115",
+                "subject": "Flags, banners, and standards",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Flag",
+                    "subject": "Flags",
+                    "count": 720
+                  },
+                  {
+                    "url": null,
+                    "subject": "Emblems, National",
+                    "count": 53
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Heraldry",
+                    "subject": "Heraldry",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/National_anthem",
+                    "subject": "National songs",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Banner",
+                    "subject": "Banners",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1985,
+                  "mode": 2002
+                }
+              }
+            },
+            "CR4501-6305": {
+              "id": "CR4501-6305",
+              "subject": "Chivalry and knighthood (Orders, decorations, etc.)",
+              "count": 345,
+              "children": {
+                "CR4547-4553": {
+                  "id": "CR4547-4553",
+                  "subject": "Ceremonials, pageants, tournaments, etc.",
+                  "count": 25,
+                  "children": {},
+                  "subjects": {
+                    "id": "CR4547-4553",
+                    "subject": "Ceremonials, pageants, tournaments, etc.",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Tournaments, Medieval",
+                        "count": 16
+                      },
+                      {
+                        "url": null,
+                        "subject": "Knights and knighthood",
+                        "count": 13
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Tournament",
+                        "subject": "Tournaments",
+                        "count": 8
+                      },
+                      {
+                        "url": null,
+                        "subject": "Military art and science",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1971,
+                      "median": 1990,
+                      "mode": 1985
+                    }
+                  }
+                },
+                "CR4571-4595": {
+                  "id": "CR4571-4595",
+                  "subject": "Duels and dueling",
+                  "count": 128,
+                  "children": {},
+                  "subjects": {
+                    "id": "CR4571-4595",
+                    "subject": "Duels and dueling",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Duel",
+                        "subject": "Dueling",
+                        "count": 151
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Honour",
+                        "subject": "Honor",
+                        "count": 18
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Fencing",
+                        "subject": "Fencing",
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "subject": "Tournaments, Medieval",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1934,
+                      "median": 1989,
+                      "mode": 2005
+                    }
+                  }
+                },
+                "CR4651-6305": {
+                  "id": "CR4651-6305",
+                  "subject": "Orders, etc.",
+                  "count": 1672,
+                  "children": {},
+                  "subjects": {
+                    "id": "CR4651-6305",
+                    "subject": "Orders, etc.",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Decorations of honor",
+                        "count": 312
+                      },
+                      {
+                        "url": null,
+                        "subject": "Military religious orders",
+                        "count": 212
+                      },
+                      {
+                        "url": null,
+                        "subject": "Orders of knighthood and chivalry",
+                        "count": 175
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Medal",
+                        "subject": "Medals",
+                        "count": 113
+                      },
+                      {
+                        "url": null,
+                        "subject": "Knights and knighthood",
+                        "count": 50
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1994,
+                      "mode": 2002
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CR4501-6305",
+                "subject": "Chivalry and knighthood (Orders, decorations, etc.)",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Knights and knighthood",
+                    "count": 285
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Chivalry",
+                    "subject": "Chivalry",
+                    "count": 125
+                  },
+                  {
+                    "url": null,
+                    "subject": "Civilization, Medieval",
+                    "count": 117
+                  },
+                  {
+                    "url": null,
+                    "subject": "Decorations of honor",
+                    "count": 64
+                  },
+                  {
+                    "url": null,
+                    "subject": "Orders of knighthood and chivalry",
+                    "count": 45
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1996,
+                  "mode": 2010
+                }
+              }
+            },
+            "CR191-1020": {
+              "id": "CR191-1020",
+              "subject": "Public and official heraldry",
+              "count": 880,
+              "children": {},
+              "subjects": {
+                "id": "CR191-1020",
+                "subject": "Public and official heraldry",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Heraldry",
+                    "subject": "Heraldry",
+                    "count": 712
+                  },
+                  {
+                    "url": null,
+                    "subject": "Emblems, National",
+                    "count": 154
+                  },
+                  {
+                    "url": null,
+                    "subject": "Emblems, State",
+                    "count": 116
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Flag",
+                    "subject": "Flags",
+                    "count": 89
+                  },
+                  {
+                    "url": null,
+                    "subject": "Cities and towns",
+                    "count": 58
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1994,
+                  "mode": 1995
+                }
+              }
+            },
+            "CR1179-3395": {
+              "id": "CR1179-3395",
+              "subject": "Family heraldry",
+              "count": 683,
+              "children": {},
+              "subjects": {
+                "id": "CR1179-3395",
+                "subject": "Family heraldry",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Heraldry",
+                    "subject": "Heraldry",
+                    "count": 657
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nobility",
+                    "subject": "Nobility",
+                    "count": 246
+                  },
+                  {
+                    "url": null,
+                    "subject": "Devices (Heraldry)",
+                    "count": 29
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Crest",
+                    "subject": "Crests",
+                    "count": 16
+                  },
+                  {
+                    "url": null,
+                    "subject": "Names, Personal",
+                    "count": 16
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1971,
+                  "median": 1985,
+                  "mode": 1992
+                }
+              }
+            },
+            "CR3499-4420": {
+              "id": "CR3499-4420",
+              "subject": "Titles of honor, rank, precedence, etc.",
+              "count": 171,
+              "children": {},
+              "subjects": {
+                "id": "CR3499-4420",
+                "subject": "Titles of honor, rank, precedence, etc.",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Titles of honor and nobility",
+                    "count": 136
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nobility",
+                    "subject": "Nobility",
+                    "count": 63
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Style_(manner_of_address)",
+                    "subject": "Forms of address",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Precedence",
+                    "subject": "Precedence",
+                    "count": 16
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Heraldry",
+                    "subject": "Heraldry",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1985,
+                  "mode": 1976
+                }
+              }
+            },
+            "CR4480-4485": {
+              "id": "CR4480-4485",
+              "subject": "Royalty.  Insignia.  Regalia, crown and coronets, etc.",
+              "count": 50,
+              "children": {},
+              "subjects": {
+                "id": "CR4480-4485",
+                "subject": "Royalty.  Insignia.  Regalia, crown and coronets, etc.",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Regalia (Insignia)",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Crown",
+                    "subject": "Crowns",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Insignia",
+                    "subject": "Insignia",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Stone_of_Scone",
+                    "subject": "Stone of Scone",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Crown_jewels",
+                    "subject": "Crown jewels",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1978,
+                  "mode": 2000
+                }
+              }
+            },
+            "CR51-79": {
+              "id": "CR51-79",
+              "subject": "Crests, monograms, devices, badges, mottoes, etc.",
+              "count": 138,
+              "children": {},
+              "subjects": {
+                "id": "CR51-79",
+                "subject": "Crests, monograms, devices, badges, mottoes, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Heraldry",
+                    "subject": "Heraldry",
+                    "count": 67
+                  },
+                  {
+                    "url": null,
+                    "subject": "Devices (Heraldry)",
+                    "count": 62
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Crest",
+                    "subject": "Crests",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Badge",
+                    "subject": "Badges",
+                    "count": 16
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Motto",
+                    "subject": "Mottoes",
+                    "count": 15
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1988,
+                  "mode": 1978
+                }
+              }
+            },
+            "CR1101-1131": {
+              "id": "CR1101-1131",
+              "subject": "Ecclesiastical and sacred heraldry",
+              "count": 53,
+              "children": {},
+              "subjects": {
+                "id": "CR1101-1131",
+                "subject": "Ecclesiastical and sacred heraldry",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Heraldry, Sacred",
+                    "count": 43
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bishop",
+                    "subject": "Bishops",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Heraldry",
+                    "subject": "Heraldry",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pope",
+                    "subject": "Popes",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1993,
+                  "mode": 1993
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "CR1-6305",
+            "subject": "Heraldry",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Heraldry",
+                "subject": "Heraldry",
+                "count": 395
+              },
+              {
+                "url": "http://dbpedia.org/resource/Herald",
+                "subject": "Heralds",
+                "count": 12
+              },
+              {
+                "url": "http://dbpedia.org/resource/Genealogy",
+                "subject": "Genealogy",
+                "count": 11
+              },
+              {
+                "url": null,
+                "subject": "Devices (Heraldry)",
+                "count": 9
+              },
+              {
+                "url": "http://dbpedia.org/resource/Nobility",
+                "subject": "Nobility",
+                "count": 7
+              }
+            ],
+            "pubDates": {
+              "avg": 1953,
+              "median": 1973,
+              "mode": 1973
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CB": {
+      "id": "CB",
+      "subject": "History of Civilization",
+      "count": 0,
+      "children": {
+        "CB3-482": {
+          "id": "CB3-482",
+          "subject": "History of Civilization",
+          "count": 2900,
+          "children": {
+            "CB195-281": {
+              "id": "CB195-281",
+              "subject": "Civilization and race",
+              "count": 2502,
+              "children": {},
+              "subjects": {
+                "id": "CB195-281",
+                "subject": "Civilization and race",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Civilization, Western",
+                    "count": 1094
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/East_West",
+                    "subject": "East and West",
+                    "count": 484
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Modern_history",
+                    "subject": "Civilization, Modern",
+                    "count": 138
+                  },
+                  {
+                    "url": null,
+                    "subject": "Civilization, Oriental",
+                    "count": 117
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Civilization",
+                    "subject": "Civilization",
+                    "count": 104
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1992,
+                  "mode": 2009
+                }
+              }
+            },
+            "CB305-430": {
+              "id": "CB305-430",
+              "subject": "By period",
+              "count": 4419,
+              "children": {},
+              "subjects": {
+                "id": "CB305-430",
+                "subject": "By period",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Modern_history",
+                    "subject": "Civilization, Modern",
+                    "count": 2034
+                  },
+                  {
+                    "url": null,
+                    "subject": "Civilization, Medieval",
+                    "count": 899
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Renaissance",
+                    "subject": "Renaissance",
+                    "count": 580
+                  },
+                  {
+                    "url": null,
+                    "subject": "Civilization, Ancient",
+                    "count": 532
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Middle_Ages",
+                    "subject": "Middle Ages",
+                    "count": 300
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1986,
+                  "mode": 2000
+                }
+              }
+            },
+            "CB440-482": {
+              "id": "CB440-482",
+              "subject": "Relation to special topics",
+              "count": 173,
+              "children": {
+                "CB478": {
+                  "id": "CB478",
+                  "subject": "Technology",
+                  "count": 423,
+                  "children": {},
+                  "subjects": {
+                    "id": "CB478",
+                    "subject": "Technology",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Technology and civilization",
+                        "count": 270
+                      },
+                      {
+                        "url": null,
+                        "subject": "Science and civilization",
+                        "count": 75
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Technology",
+                        "subject": "Technology",
+                        "count": 38
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Modern_history",
+                        "subject": "Civilization, Modern",
+                        "count": 35
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Science",
+                        "subject": "Science",
+                        "count": 22
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1978,
+                      "mode": 1974
+                    }
+                  }
+                },
+                "CB481": {
+                  "id": "CB481",
+                  "subject": "War and civilization",
+                  "count": 49,
+                  "children": {},
+                  "subjects": {
+                    "id": "CB481",
+                    "subject": "War and civilization",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "War and civilization",
+                        "count": 44
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/War",
+                        "subject": "War",
+                        "count": 12
+                      },
+                      {
+                        "url": null,
+                        "subject": "War and society",
+                        "count": 7
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Modern_history",
+                        "subject": "Civilization, Modern",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1987,
+                      "median": 2000,
+                      "mode": 2000
+                    }
+                  }
+                },
+                "CB450": {
+                  "id": "CB450",
+                  "subject": "Geography and civilization",
+                  "count": 8,
+                  "children": {},
+                  "subjects": {
+                    "id": "CB450",
+                    "subject": "Geography and civilization",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Human_geography",
+                        "subject": "Human geography",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1992,
+                      "median": 2003,
+                      "mode": 1932
+                    }
+                  }
+                },
+                "CB482": {
+                  "id": "CB482",
+                  "subject": "Water and civilization",
+                  "count": 15,
+                  "children": {},
+                  "subjects": {
+                    "id": "CB482",
+                    "subject": "Water and civilization",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Water and civilization",
+                        "count": 15
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/River",
+                        "subject": "Rivers",
+                        "count": 9
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 2006,
+                      "median": 2008,
+                      "mode": 2008
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CB440-482",
+                "subject": "Relation to special topics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Symbolism",
+                    "subject": "Symbolism",
+                    "count": 90
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ocean and civilization",
+                    "count": 25
+                  },
+                  {
+                    "url": null,
+                    "subject": "Signs and symbols",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Modern_history",
+                    "subject": "Civilization, Modern",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Civilization",
+                    "subject": "Civilization",
+                    "count": 16
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1990,
+                  "median": 1993,
+                  "mode": 2008
+                }
+              }
+            },
+            "CB158-161": {
+              "id": "CB158-161",
+              "subject": "Forecasts of future progress",
+              "count": 947,
+              "children": {},
+              "subjects": {
+                "id": "CB158-161",
+                "subject": "Forecasts of future progress",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Forecasting",
+                    "subject": "Forecasting",
+                    "count": 458
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/21st_century",
+                    "subject": "Twenty-first century",
+                    "count": 457
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/20th_century",
+                    "subject": "Twentieth century",
+                    "count": 115
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Modern_history",
+                    "subject": "Civilization, Modern",
+                    "count": 111
+                  },
+                  {
+                    "url": null,
+                    "subject": "Social prediction",
+                    "count": 52
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1987,
+                  "mode": 1999
+                }
+              }
+            },
+            "CB156": {
+              "id": "CB156",
+              "subject": "Terrestrial evidence of interplanetary voyages",
+              "count": 170,
+              "children": {},
+              "subjects": {
+                "id": "CB156",
+                "subject": "Terrestrial evidence of interplanetary voyages",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Civilization, Ancient",
+                    "count": 145
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Prehistory",
+                    "subject": "Prehistoric peoples",
+                    "count": 41
+                  },
+                  {
+                    "url": null,
+                    "subject": "Life on other planets",
+                    "count": 34
+                  },
+                  {
+                    "url": null,
+                    "subject": "Interplanetary voyages",
+                    "count": 27
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Civilization",
+                    "subject": "Civilization",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1979,
+                  "mode": 1976
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "CB3-482",
+            "subject": "History of Civilization",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Civilization",
+                "subject": "Civilization",
+                "count": 2256
+              },
+              {
+                "url": "http://dbpedia.org/resource/Culture",
+                "subject": "Culture",
+                "count": 372
+              },
+              {
+                "url": "http://dbpedia.org/resource/Progress",
+                "subject": "Progress",
+                "count": 116
+              },
+              {
+                "url": "http://dbpedia.org/resource/History",
+                "subject": "History",
+                "count": 110
+              },
+              {
+                "url": null,
+                "subject": "Civilization, Western",
+                "count": 101
+              }
+            ],
+            "pubDates": {
+              "avg": 1972,
+              "median": 1980,
+              "mode": 1998
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CJ": {
+      "id": "CJ",
+      "subject": "Numismatics",
+      "count": 0,
+      "children": {
+        "CJ1-6661": {
+          "id": "CJ1-6661",
+          "subject": "Numismatics",
+          "count": 2,
+          "children": {
+            "CJ1509-4625": {
+              "id": "CJ1509-4625",
+              "subject": "Medieval and modern",
+              "count": 3533,
+              "children": {},
+              "subjects": {
+                "id": "CJ1509-4625",
+                "subject": "Medieval and modern",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Numismatics",
+                    "subject": "Numismatics",
+                    "count": 1175
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Coin",
+                    "subject": "Coins",
+                    "count": 389
+                  },
+                  {
+                    "url": null,
+                    "subject": "Coins, American",
+                    "count": 320
+                  },
+                  {
+                    "url": null,
+                    "subject": "Coins, Chinese",
+                    "count": 280
+                  },
+                  {
+                    "url": null,
+                    "subject": "Coins, Medieval",
+                    "count": 211
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1985,
+                  "mode": 1976
+                }
+              }
+            },
+            "CJ1-4625": {
+              "id": "CJ1-4625",
+              "subject": "Coins",
+              "count": 2637,
+              "children": {},
+              "subjects": {
+                "id": "CJ1-4625",
+                "subject": "Coins",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Numismatics",
+                    "subject": "Numismatics",
+                    "count": 803
+                  },
+                  {
+                    "url": null,
+                    "subject": "Coins, Roman",
+                    "count": 660
+                  },
+                  {
+                    "url": null,
+                    "subject": "Coins, Greek",
+                    "count": 510
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Coin",
+                    "subject": "Coins",
+                    "count": 388
+                  },
+                  {
+                    "url": null,
+                    "subject": "Coins, Ancient",
+                    "count": 348
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1971,
+                  "median": 1982,
+                  "mode": 1976
+                }
+              }
+            },
+            "CJ4801-5450": {
+              "id": "CJ4801-5450",
+              "subject": "Tokens",
+              "count": 4,
+              "children": {
+                "CJ4901-5336": {
+                  "id": "CJ4901-5336",
+                  "subject": "By region or country",
+                  "count": 177,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ4901-5336",
+                    "subject": "By region or country",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Token",
+                        "subject": "Tokens",
+                        "count": 193
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Medal",
+                        "subject": "Medals",
+                        "count": 16
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Company_store",
+                        "subject": "Company stores",
+                        "count": 6
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Jeton",
+                        "subject": "Jettons",
+                        "count": 5
+                      },
+                      {
+                        "url": null,
+                        "subject": "Street-railroads",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1977,
+                      "median": 1982,
+                      "mode": 1977
+                    }
+                  }
+                },
+                "CJ4861-4889": {
+                  "id": "CJ4861-4889",
+                  "subject": "By period",
+                  "count": 10,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ4861-4889",
+                    "subject": "By period",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Tessera",
+                        "subject": "Tesserae",
+                        "count": 6
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Token",
+                        "subject": "Tokens",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1986,
+                      "median": 1996,
+                      "mode": 1905
+                    }
+                  }
+                },
+                "CJ5350-5450": {
+                  "id": "CJ5350-5450",
+                  "subject": "Special uses of tokens",
+                  "count": 39,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ5350-5450",
+                    "subject": "Special uses of tokens",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Jeton",
+                        "subject": "Jettons",
+                        "count": 34
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Token",
+                        "subject": "Tokens",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Medal",
+                        "subject": "Medals",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1965,
+                      "median": 1978,
+                      "mode": 1980
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CJ4801-5450",
+                "subject": "Tokens",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1983,
+                  "mode": 1981
+                }
+              }
+            },
+            "CJ5501-6661": {
+              "id": "CJ5501-6661",
+              "subject": "Medals and medallions",
+              "count": 45,
+              "children": {
+                "CJ5795-6661": {
+                  "id": "CJ5795-6661",
+                  "subject": "By region or country",
+                  "count": 519,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ5795-6661",
+                    "subject": "By region or country",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Medal",
+                        "subject": "Medals",
+                        "count": 418
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Medalist",
+                        "subject": "Medalists",
+                        "count": 45
+                      },
+                      {
+                        "url": null,
+                        "subject": "Plaques, plaquettes",
+                        "count": 18
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Commemorative_coin",
+                        "subject": "Commemorative coins",
+                        "count": 18
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Numismatics",
+                        "subject": "Numismatics",
+                        "count": 18
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1975,
+                      "median": 1983,
+                      "mode": 1979
+                    }
+                  }
+                },
+                "CJ5723-5793": {
+                  "id": "CJ5723-5793",
+                  "subject": "Medieval and modern",
+                  "count": 77,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ5723-5793",
+                    "subject": "Medieval and modern",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Medal",
+                        "subject": "Medals",
+                        "count": 31
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Medicine",
+                        "subject": "Medicine",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Pope",
+                        "subject": "Popes",
+                        "count": 7
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Token",
+                        "subject": "Tokens",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1979,
+                      "mode": 1970
+                    }
+                  }
+                },
+                "CJ5581-5690": {
+                  "id": "CJ5581-5690",
+                  "subject": "Ancient",
+                  "count": 22,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ5581-5690",
+                    "subject": "Ancient",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Medal",
+                        "subject": "Medals",
+                        "count": 11
+                      },
+                      {
+                        "url": null,
+                        "subject": "Medals, Roman",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1937,
+                      "median": 1969,
+                      "mode": 1976
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CJ5501-6661",
+                "subject": "Medals and medallions",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Medal",
+                    "subject": "Medals",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Numismatics",
+                    "subject": "Numismatics",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Plaques, plaquettes",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1942,
+                  "median": 1972,
+                  "mode": 1967
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "CJ1-6661",
+            "subject": "Numismatics",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1960,
+              "median": 1961,
+              "mode": 1960
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CC": {
+      "id": "CC",
+      "subject": "Archaeology",
+      "count": 0,
+      "children": {
+        "CC1-960": {
+          "id": "CC1-960",
+          "subject": "Archaeology",
+          "count": 1685,
+          "children": {
+            "CC83-97": {
+              "id": "CC83-97",
+              "subject": "Study and teaching.  Research",
+              "count": 147,
+              "children": {},
+              "subjects": {
+                "id": "CC83-97",
+                "subject": "Study and teaching.  Research",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Archaeology",
+                    "subject": "Archaeology",
+                    "count": 191
+                  },
+                  {
+                    "url": null,
+                    "subject": "Excavations (Archaeology)",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Archaeology",
+                    "subject": "Archaeologists",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cultural_property",
+                    "subject": "Cultural property",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1996,
+                  "median": 2000,
+                  "mode": 2007
+                }
+              }
+            },
+            "CC72-81": {
+              "id": "CC72-81",
+              "subject": "Philosophy.  Theory",
+              "count": 248,
+              "children": {
+                "CC73-81": {
+                  "id": "CC73-81",
+                  "subject": "Methodology",
+                  "count": 2016,
+                  "children": {},
+                  "subjects": {
+                    "id": "CC73-81",
+                    "subject": "Methodology",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Archaeology",
+                        "subject": "Archaeology",
+                        "count": 1138
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Underwater_archaeology",
+                        "subject": "Underwater archaeology",
+                        "count": 274
+                      },
+                      {
+                        "url": null,
+                        "subject": "Excavations (Archaeology)",
+                        "count": 230
+                      },
+                      {
+                        "url": null,
+                        "subject": "Animal remains (Archaeology)",
+                        "count": 151
+                      },
+                      {
+                        "url": null,
+                        "subject": "Archaeology and history",
+                        "count": 120
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1992,
+                      "median": 1995,
+                      "mode": 2007
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CC72-81",
+                "subject": "Philosophy.  Theory",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Archaeology",
+                    "subject": "Archaeology",
+                    "count": 242
+                  },
+                  {
+                    "url": null,
+                    "subject": "Social archaeology",
+                    "count": 122
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Material_culture",
+                    "subject": "Material culture",
+                    "count": 28
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Gender_role",
+                    "subject": "Sex role",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Feminist_archaeology",
+                    "subject": "Feminist archaeology",
+                    "count": 25
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1997,
+                  "median": 2001,
+                  "mode": 2004
+                }
+              }
+            },
+            "CC135-137": {
+              "id": "CC135-137",
+              "subject": "Preservation, restoration, and conservation of",
+              "count": 457,
+              "children": {},
+              "subjects": {
+                "id": "CC135-137",
+                "subject": "Preservation, restoration, and conservation of",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Cultural_property",
+                    "subject": "Cultural property",
+                    "count": 382
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 147
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Antiquity",
+                    "subject": "Antiquities",
+                    "count": 133
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_preservation",
+                    "subject": "Historic preservation",
+                    "count": 133
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Archaeology",
+                    "subject": "Archaeology",
+                    "count": 57
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1999,
+                  "median": 2003,
+                  "mode": 2006
+                }
+              }
+            },
+            "CC200-260": {
+              "id": "CC200-260",
+              "subject": "Bells.  Campanology.  Cowbells",
+              "count": 165,
+              "children": {},
+              "subjects": {
+                "id": "CC200-260",
+                "subject": "Bells.  Campanology.  Cowbells",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Bell",
+                    "subject": "Bells",
+                    "count": 156
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Church_bell",
+                    "subject": "Church bells",
+                    "count": 28
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bell_tower",
+                    "subject": "Bell towers",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Change_ringing",
+                    "subject": "Change ringing",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "Buddhist temple bells",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1986,
+                  "mode": 2006
+                }
+              }
+            },
+            "CC300-350": {
+              "id": "CC300-350",
+              "subject": "Crosses",
+              "count": 160,
+              "children": {},
+              "subjects": {
+                "id": "CC300-350",
+                "subject": "Crosses",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Cross",
+                    "subject": "Crosses",
+                    "count": 164
+                  },
+                  {
+                    "url": null,
+                    "subject": "Christian art and symbolism",
+                    "count": 33
+                  },
+                  {
+                    "url": null,
+                    "subject": "Christian antiquities",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Stone_cross",
+                    "subject": "Stone crosses",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/English_church_monuments",
+                    "subject": "Sepulchral monuments",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1988,
+                  "mode": 1992
+                }
+              }
+            },
+            "CC710": {
+              "id": "CC710",
+              "subject": "Hill figures",
+              "count": 9,
+              "children": {},
+              "subjects": {
+                "id": "CC710",
+                "subject": "Hill figures",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Hill_figure",
+                    "subject": "Hill figures",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1979,
+                  "mode": 1968
+                }
+              }
+            },
+            "CC140": {
+              "id": "CC140",
+              "subject": "Forgeries of antiquities",
+              "count": 17,
+              "children": {},
+              "subjects": {
+                "id": "CC140",
+                "subject": "Forgeries of antiquities",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Forgery of antiquities",
+                    "count": 17
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Archaeology",
+                    "subject": "Archaeology",
+                    "count": 14
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1996,
+                  "median": 2000,
+                  "mode": 2010
+                }
+              }
+            },
+            "CC960": {
+              "id": "CC960",
+              "subject": "Lanterns of the dead",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "CC960",
+                "subject": "Lanterns of the dead",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1970,
+                  "mode": 1970
+                }
+              }
+            },
+            "CC600-605": {
+              "id": "CC600-605",
+              "subject": "Boundary stones",
+              "count": 13,
+              "children": {},
+              "subjects": {
+                "id": "CC600-605",
+                "subject": "Boundary stones",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Boundary_marker",
+                    "subject": "Boundary stones",
+                    "count": 14
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1982,
+                  "mode": 1978
+                }
+              }
+            },
+            "CC700-705": {
+              "id": "CC700-705",
+              "subject": "Stone heaps, cairns, etc., of unknown purpose",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "CC700-705",
+                "subject": "Stone heaps, cairns, etc., of unknown purpose",
+                "topSubjects": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "CC1-960",
+            "subject": "Archaeology",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Archaeology",
+                "subject": "Archaeology",
+                "count": 1468
+              },
+              {
+                "url": "http://dbpedia.org/resource/Archaeology",
+                "subject": "Archaeologists",
+                "count": 261
+              },
+              {
+                "url": null,
+                "subject": "Excavations (Archaeology)",
+                "count": 237
+              },
+              {
+                "url": "http://dbpedia.org/resource/Antiquity",
+                "subject": "Antiquities",
+                "count": 171
+              },
+              {
+                "url": null,
+                "subject": "Civilization, Ancient",
+                "count": 119
+              }
+            ],
+            "pubDates": {
+              "avg": 1986,
+              "median": 1992,
+              "mode": 2009
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CN": {
+      "id": "CN",
+      "subject": "Inscriptions.  Epigraphy",
+      "count": 0,
+      "children": {
+        "CN1-1355": {
+          "id": "CN1-1355",
+          "subject": "Inscriptions.  Epigraphy",
+          "count": 60,
+          "children": {
+            "CN120-740": {
+              "id": "CN120-740",
+              "subject": "Ancient inscriptions",
+              "count": 922,
+              "children": {},
+              "subjects": {
+                "id": "CN120-740",
+                "subject": "Ancient inscriptions",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Inscriptions, Latin",
+                    "count": 592
+                  },
+                  {
+                    "url": null,
+                    "subject": "Inscriptions, Greek",
+                    "count": 372
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Roman",
+                    "subject": "Romans",
+                    "count": 113
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 37
+                  },
+                  {
+                    "url": null,
+                    "subject": "Inscriptions, Etruscan",
+                    "count": 31
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1989,
+                  "mode": 2000
+                }
+              }
+            },
+            "CN750-753": {
+              "id": "CN750-753",
+              "subject": "Early Christian inscriptions",
+              "count": 48,
+              "children": {},
+              "subjects": {
+                "id": "CN750-753",
+                "subject": "Early Christian inscriptions",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Christian inscriptions",
+                    "count": 34
+                  },
+                  {
+                    "url": null,
+                    "subject": "Inscriptions, Latin",
+                    "count": 32
+                  },
+                  {
+                    "url": null,
+                    "subject": "Christian antiquities",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epitaph",
+                    "subject": "Epitaphs",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1990,
+                  "mode": 1995
+                }
+              }
+            },
+            "CN870-1355": {
+              "id": "CN870-1355",
+              "subject": "By region or country",
+              "count": 827,
+              "children": {},
+              "subjects": {
+                "id": "CN870-1355",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 345
+                  },
+                  {
+                    "url": null,
+                    "subject": "Inscriptions, Chinese",
+                    "count": 84
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epitaph",
+                    "subject": "Epitaphs",
+                    "count": 82
+                  },
+                  {
+                    "url": null,
+                    "subject": "Inscriptions, Tamil",
+                    "count": 52
+                  },
+                  {
+                    "url": null,
+                    "subject": "Inscriptions, Indic",
+                    "count": 48
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1994,
+                  "median": 1998,
+                  "mode": 2009
+                }
+              }
+            },
+            "CN805-865": {
+              "id": "CN805-865",
+              "subject": "By language",
+              "count": 15,
+              "children": {},
+              "subjects": {
+                "id": "CN805-865",
+                "subject": "By language",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "subject": "Inscriptions, Gaulish",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1987,
+                  "mode": 1974
+                }
+              }
+            },
+            "CN760": {
+              "id": "CN760",
+              "subject": "Modern inscriptions (General)",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "CN760",
+                "subject": "Modern inscriptions (General)",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 2002,
+                  "median": 2010,
+                  "mode": 1994
+                }
+              }
+            },
+            "CN755": {
+              "id": "CN755",
+              "subject": "Medieval inscriptions (General)",
+              "count": 6,
+              "children": {},
+              "subjects": {
+                "id": "CN755",
+                "subject": "Medieval inscriptions (General)",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1997,
+                  "median": 1997,
+                  "mode": 1980
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "CN1-1355",
+            "subject": "Inscriptions.  Epigraphy",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Epigraphy",
+                "subject": "Inscriptions",
+                "count": 52
+              },
+              {
+                "url": null,
+                "subject": "Inscriptions, Greek",
+                "count": 19
+              },
+              {
+                "url": null,
+                "subject": "Inscriptions, Latin",
+                "count": 17
+              },
+              {
+                "url": null,
+                "subject": "Jewish inscriptions",
+                "count": 9
+              },
+              {
+                "url": "http://dbpedia.org/resource/Jews",
+                "subject": "Jews",
+                "count": 6
+              }
+            ],
+            "pubDates": {
+              "avg": 1972,
+              "median": 1986,
+              "mode": 2007
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CD": {
+      "id": "CD",
+      "subject": "Diplomatics.  Archives.  Seals",
+      "count": 0,
+      "children": {
+        "CD1-6471": {
+          "id": "CD1-6471",
+          "subject": "Diplomatics.  Archives.  Seals",
+          "count": 14,
+          "children": {
+            "CD921-4280": {
+              "id": "CD921-4280",
+              "subject": "Archives",
+              "count": 773,
+              "children": {
+                "CD995-4280": {
+                  "id": "CD995-4280",
+                  "subject": "History and statistics",
+                  "count": 21,
+                  "children": {
+                    "CD1000-4280": {
+                      "id": "CD1000-4280",
+                      "subject": "By region or country",
+                      "count": 9252,
+                      "children": {},
+                      "subjects": {
+                        "id": "CD1000-4280",
+                        "subject": "By region or country",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Archive",
+                            "subject": "Archives",
+                            "count": 3249
+                          },
+                          {
+                            "url": null,
+                            "subject": "Church records and registers",
+                            "count": 224
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Public_records",
+                            "subject": "Public records",
+                            "count": 217
+                          },
+                          {
+                            "url": null,
+                            "subject": "Family archives",
+                            "count": 195
+                          },
+                          {
+                            "url": null,
+                            "subject": "Registers of births, etc",
+                            "count": 172
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1978,
+                          "median": 1984,
+                          "mode": 1992
+                        }
+                      }
+                    },
+                    "CD997": {
+                      "id": "CD997",
+                      "subject": "Biography of archivists",
+                      "count": 47,
+                      "children": {},
+                      "subjects": {
+                        "id": "CD997",
+                        "subject": "Biography of archivists",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Archivist",
+                            "subject": "Archivists",
+                            "count": 36
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Archive",
+                            "subject": "Archives",
+                            "count": 6
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1993,
+                          "median": 2001,
+                          "mode": 2004
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "CD995-4280",
+                    "subject": "History and statistics",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Archive",
+                        "subject": "Archives",
+                        "count": 34
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1990,
+                      "median": 1993,
+                      "mode": 1972
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CD921-4280",
+                "subject": "Archives",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Archive",
+                    "subject": "Archives",
+                    "count": 790
+                  },
+                  {
+                    "url": null,
+                    "subject": "Archival materials",
+                    "count": 107
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Records_management",
+                    "subject": "Electronic records",
+                    "count": 70
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Record",
+                    "subject": "Records",
+                    "count": 53
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Archivist",
+                    "subject": "Archivists",
+                    "count": 34
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1992,
+                  "mode": 1992
+                }
+              }
+            },
+            "CD91-392": {
+              "id": "CD91-392",
+              "subject": "Collection of documents, facsimiles, etc., for study",
+              "count": 114,
+              "children": {},
+              "subjects": {
+                "id": "CD91-392",
+                "subject": "Collection of documents, facsimiles, etc., for study",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Diplomatics",
+                    "subject": "Diplomatics",
+                    "count": 80
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Archive",
+                    "subject": "Archives",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Diplomatics, Turkish",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Manuscripts, Turkish",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "Manuscripts, Latin (Medieval and modern)",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1991,
+                  "mode": 1998
+                }
+              }
+            },
+            "CD5001-6471": {
+              "id": "CD5001-6471",
+              "subject": "Seals",
+              "count": 37,
+              "children": {
+                "CD5575-6471": {
+                  "id": "CD5575-6471",
+                  "subject": "Modern",
+                  "count": 883,
+                  "children": {},
+                  "subjects": {
+                    "id": "CD5575-6471",
+                    "subject": "Modern",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Seals (Numismatics)",
+                        "count": 863
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Bald_eagle",
+                        "subject": "Bald eagle",
+                        "count": 34
+                      },
+                      {
+                        "url": null,
+                        "subject": "Emblems, National",
+                        "count": 32
+                      },
+                      {
+                        "url": null,
+                        "subject": "Seal makers",
+                        "count": 31
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Chinese_language",
+                        "subject": "Chinese language",
+                        "count": 25
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1990,
+                      "median": 1995,
+                      "mode": 1999
+                    }
+                  }
+                },
+                "CD5201-5391": {
+                  "id": "CD5201-5391",
+                  "subject": "Ancient",
+                  "count": 206,
+                  "children": {},
+                  "subjects": {
+                    "id": "CD5201-5391",
+                    "subject": "Ancient",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Seals (Numismatics)",
+                        "count": 194
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cylinder_seal",
+                        "subject": "Cylinder seals",
+                        "count": 46
+                      },
+                      {
+                        "url": null,
+                        "subject": "Glyptics",
+                        "count": 31
+                      },
+                      {
+                        "url": null,
+                        "subject": "Excavations (Archaeology)",
+                        "count": 8
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Bronze_Age",
+                        "subject": "Bronze age",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1991,
+                      "mode": 2011
+                    }
+                  }
+                },
+                "CD5501-5557": {
+                  "id": "CD5501-5557",
+                  "subject": "Medieval",
+                  "count": 25,
+                  "children": {},
+                  "subjects": {
+                    "id": "CD5501-5557",
+                    "subject": "Medieval",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Seals (Numismatics)",
+                        "count": 23
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1961,
+                      "median": 1987,
+                      "mode": 1981
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CD5001-6471",
+                "subject": "Seals",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Seals (Numismatics)",
+                    "count": 44
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Heraldry",
+                    "subject": "Heraldry",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1987,
+                  "mode": 1996
+                }
+              }
+            },
+            "CD1-511": {
+              "id": "CD1-511",
+              "subject": "Diplomatics",
+              "count": 277,
+              "children": {},
+              "subjects": {
+                "id": "CD1-511",
+                "subject": "Diplomatics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Diplomatics",
+                    "subject": "Diplomatics",
+                    "count": 171
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Archive",
+                    "subject": "Archives",
+                    "count": 83
+                  },
+                  {
+                    "url": null,
+                    "subject": "Diplomatics, Latin",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Palaeography",
+                    "subject": "Paleography",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "Paleography, Japanese",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1980,
+                  "mode": 1974
+                }
+              }
+            },
+            "CD80-81": {
+              "id": "CD80-81",
+              "subject": "Formularies",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "CD80-81",
+                "subject": "Formularies",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Formularies (Diplomatics)",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1956,
+                  "median": 1947,
+                  "mode": 1997
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "CD1-6471",
+            "subject": "Diplomatics.  Archives.  Seals",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1952,
+              "median": 1963,
+              "mode": 1971
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CE": {
+      "id": "CE",
+      "subject": "Technical chronology.  Calendar",
+      "count": 0,
+      "children": {
+        "CE1-97": {
+          "id": "CE1-97",
+          "subject": "Technical chronology.  Calendar",
+          "count": 252,
+          "children": {
+            "CE51-85": {
+              "id": "CE51-85",
+              "subject": "Medieval and modern",
+              "count": 461,
+              "children": {},
+              "subjects": {
+                "id": "CE51-85",
+                "subject": "Medieval and modern",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Calendar",
+                    "subject": "Calendar",
+                    "count": 140
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Islamic_calendar",
+                    "subject": "Islamic calendar",
+                    "count": 89
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Calendar",
+                    "subject": "Calendars",
+                    "count": 43
+                  },
+                  {
+                    "url": null,
+                    "subject": "Calendar, Chinese",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Liturgical_year",
+                    "subject": "Church calendar",
+                    "count": 40
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1951,
+                  "median": 1985,
+                  "mode": 1993
+                }
+              }
+            },
+            "CE21-46": {
+              "id": "CE21-46",
+              "subject": "Ancient",
+              "count": 303,
+              "children": {},
+              "subjects": {
+                "id": "CE21-46",
+                "subject": "Ancient",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Hebrew_calendar",
+                    "subject": "Jewish calendar",
+                    "count": 97
+                  },
+                  {
+                    "url": null,
+                    "subject": "Calendar, Chinese",
+                    "count": 35
+                  },
+                  {
+                    "url": null,
+                    "subject": "Calendar, Roman",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Calendar",
+                    "subject": "Calendar",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hindu_calendar",
+                    "subject": "Hindu calendar",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2040,
+                  "median": 1985,
+                  "mode": 1998
+                }
+              }
+            },
+            "CE91-92": {
+              "id": "CE91-92",
+              "subject": "Perpetual calendars.  Century calendars, etc.",
+              "count": 36,
+              "children": {},
+              "subjects": {
+                "id": "CE91-92",
+                "subject": "Perpetual calendars.  Century calendars, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Calendar",
+                    "subject": "Calendar",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Perpetual_calendar",
+                    "subject": "Perpetual calendars",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1937,
+                  "median": 1940,
+                  "mode": 1927
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "CE1-97",
+            "subject": "Technical chronology.  Calendar",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Calendar",
+                "subject": "Calendar",
+                "count": 199
+              },
+              {
+                "url": "http://dbpedia.org/resource/Chronology",
+                "subject": "Chronology",
+                "count": 54
+              },
+              {
+                "url": "http://dbpedia.org/resource/Calendar",
+                "subject": "Calendars",
+                "count": 47
+              },
+              {
+                "url": "http://dbpedia.org/resource/Month",
+                "subject": "Months",
+                "count": 26
+              },
+              {
+                "url": "http://dbpedia.org/resource/Time",
+                "subject": "Time",
+                "count": 23
+              }
+            ],
+            "pubDates": {
+              "avg": 1975,
+              "median": 1990,
+              "mode": 2010
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "C": {
+      "id": "C",
+      "subject": "Auxiliary Sciences of History (General)",
+      "count": 0,
+      "children": {
+        "C1-51": {
+          "id": "C1-51",
+          "subject": "Auxiliary Sciences of History (General)",
+          "count": 66,
+          "children": {},
+          "subjects": {
+            "id": "C1-51",
+            "subject": "Auxiliary Sciences of History (General)",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Auxiliary_sciences_of_history",
+                "subject": "Auxiliary sciences of history",
+                "count": 53
+              },
+              {
+                "url": "http://dbpedia.org/resource/History",
+                "subject": "History",
+                "count": 10
+              }
+            ],
+            "pubDates": {
+              "avg": 1983,
+              "median": 1985,
+              "mode": 1976
+            }
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}

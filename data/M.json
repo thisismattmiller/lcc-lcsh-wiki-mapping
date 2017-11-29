@@ -1,0 +1,4837 @@
+{
+  "code": "M",
+  "subject": "Music",
+  "count": 0,
+  "children": {
+    "ML": {
+      "id": "ML",
+      "subject": "Literature on music",
+      "count": 0,
+      "children": {
+        "ML1-3930": {
+          "id": "ML1-3930",
+          "subject": "Literature on music",
+          "count": 298,
+          "children": {
+            "ML3928-3930": {
+              "id": "ML3928-3930",
+              "subject": "Literature for children",
+              "count": 2069,
+              "children": {},
+              "subjects": {
+                "id": "ML3928-3930",
+                "subject": "Literature for children",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Singing",
+                    "subject": "Singers",
+                    "count": 670
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Composer",
+                    "subject": "Composers",
+                    "count": 475
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musician",
+                    "subject": "Musicians",
+                    "count": 364
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 330
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Rock_music",
+                    "subject": "Rock musicians",
+                    "count": 302
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1991,
+                  "median": 2000,
+                  "mode": 2008
+                }
+              }
+            },
+            "ML159-3785": {
+              "id": "ML159-3785",
+              "subject": "History and criticism",
+              "count": 9,
+              "children": {
+                "ML385-429": {
+                  "id": "ML385-429",
+                  "subject": "Biography",
+                  "count": 38779,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML385-429",
+                    "subject": "Biography",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Composer",
+                        "subject": "Composers",
+                        "count": 7567
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Singing",
+                        "subject": "Singers",
+                        "count": 3781
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 2688
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Rock_music",
+                        "subject": "Rock musicians",
+                        "count": 2542
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musician",
+                        "subject": "Musicians",
+                        "count": 2120
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1992,
+                      "mode": 2009
+                    }
+                  }
+                },
+                "ML1400-3275": {
+                  "id": "ML1400-3275",
+                  "subject": "Vocal music",
+                  "count": 6745,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML1400-3275",
+                    "subject": "Vocal music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Opera",
+                        "subject": "Opera",
+                        "count": 2140
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Church_music",
+                        "subject": "Church music",
+                        "count": 1792
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 570
+                      },
+                      {
+                        "url": null,
+                        "subject": "Motion picture music",
+                        "count": 332
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musical",
+                        "subject": "Musicals",
+                        "count": 304
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1990,
+                      "mode": 2010
+                    }
+                  }
+                },
+                "ML3469-3541": {
+                  "id": "ML3469-3541",
+                  "subject": "Popular music",
+                  "count": 5276,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3469-3541",
+                    "subject": "Popular music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Popular_music",
+                        "subject": "Popular music",
+                        "count": 2223
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Rock_music",
+                        "subject": "Rock music",
+                        "count": 1390
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Jazz",
+                        "subject": "Jazz",
+                        "count": 1177
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/List_of_jazz_musicians",
+                        "subject": "Jazz musicians",
+                        "count": 282
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Country_music",
+                        "subject": "Country music",
+                        "count": 277
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1997,
+                      "median": 1999,
+                      "mode": 2010
+                    }
+                  }
+                },
+                "ML198-360.6": {
+                  "id": "ML198-360.6",
+                  "subject": "By region or country",
+                  "count": 7084,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML198-360.6",
+                    "subject": "By region or country",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 7607
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musician",
+                        "subject": "Musicians",
+                        "count": 466
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Hindustani_classical_music",
+                        "subject": "Hindustani music",
+                        "count": 267
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Composer",
+                        "subject": "Composers",
+                        "count": 183
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Carnatic_music",
+                        "subject": "Carnatic music",
+                        "count": 143
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1981,
+                      "median": 1987,
+                      "mode": 2004
+                    }
+                  }
+                },
+                "ML459-1380": {
+                  "id": "ML459-1380",
+                  "subject": "Instruments and instrumental music",
+                  "count": 7507,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML459-1380",
+                    "subject": "Instruments and instrumental music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Musical_instrument",
+                        "subject": "Musical instruments",
+                        "count": 1398
+                      },
+                      {
+                        "url": null,
+                        "subject": "Organ (Musical instrument)",
+                        "count": 1214
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 720
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Piano",
+                        "subject": "Piano",
+                        "count": 420
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Violin",
+                        "subject": "Violin",
+                        "count": 394
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1986,
+                      "mode": 1983
+                    }
+                  }
+                },
+                "ML162-197": {
+                  "id": "ML162-197",
+                  "subject": "By period",
+                  "count": 2128,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML162-197",
+                    "subject": "By period",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 2000
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_theory",
+                        "subject": "Music theory",
+                        "count": 356
+                      },
+                      {
+                        "url": null,
+                        "subject": "Music, Greek and Roman",
+                        "count": 164
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Church_music",
+                        "subject": "Church music",
+                        "count": 65
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Gregorian_chant",
+                        "subject": "Gregorian chants",
+                        "count": 47
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1969,
+                      "median": 1979,
+                      "mode": 1969
+                    }
+                  }
+                },
+                "ML3544-3776": {
+                  "id": "ML3544-3776",
+                  "subject": "Folk, national, and ethnic music",
+                  "count": 5467,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3544-3776",
+                    "subject": "Folk, national, and ethnic music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Folk_music",
+                        "subject": "Folk music",
+                        "count": 2777
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 749
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Jazz",
+                        "subject": "Jazz",
+                        "count": 392
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Popular_music",
+                        "subject": "Popular music",
+                        "count": 360
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/African_Americans",
+                        "subject": "African Americans",
+                        "count": 244
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1986,
+                      "mode": 1977
+                    }
+                  }
+                },
+                "ML430-458": {
+                  "id": "ML430-458",
+                  "subject": "Composition and performance",
+                  "count": 697,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML430-458",
+                    "subject": "Composition and performance",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 304
+                      },
+                      {
+                        "url": null,
+                        "subject": "Performance practice (Music)",
+                        "count": 155
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musical_notation",
+                        "subject": "Musical notation",
+                        "count": 109
+                      },
+                      {
+                        "url": null,
+                        "subject": "Composition (Music)",
+                        "count": 76
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Harmony",
+                        "subject": "Harmony",
+                        "count": 54
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1979,
+                      "median": 1985,
+                      "mode": 1989
+                    }
+                  }
+                },
+                "ML3780": {
+                  "id": "ML3780",
+                  "subject": "Music on particular topics",
+                  "count": 36,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3780",
+                    "subject": "Music on particular topics",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Working_class",
+                        "subject": "Working class",
+                        "count": 19
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Sea_song",
+                        "subject": "Sea songs",
+                        "count": 11
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Work_song",
+                        "subject": "Work songs",
+                        "count": 6
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Folk_music",
+                        "subject": "Folk music",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1986,
+                      "median": 1983,
+                      "mode": 1975
+                    }
+                  }
+                },
+                "ML3300-3351": {
+                  "id": "ML3300-3351",
+                  "subject": "Program music",
+                  "count": 14,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3300-3351",
+                    "subject": "Program music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Program_music",
+                        "subject": "Program music",
+                        "count": 16
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1979,
+                      "median": 1998,
+                      "mode": 1998
+                    }
+                  }
+                },
+                "ML159-161": {
+                  "id": "ML159-161",
+                  "subject": "General works",
+                  "count": 986,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML159-161",
+                    "subject": "General works",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 1121
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_appreciation",
+                        "subject": "Music appreciation",
+                        "count": 30
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musician",
+                        "subject": "Musicians",
+                        "count": 27
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_theory",
+                        "subject": "Music theory",
+                        "count": 23
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Composer",
+                        "subject": "Composers",
+                        "count": 15
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1964,
+                      "median": 1972,
+                      "mode": 2010
+                    }
+                  }
+                },
+                "ML3400-3465": {
+                  "id": "ML3400-3465",
+                  "subject": "Dance music",
+                  "count": 313,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3400-3465",
+                    "subject": "Dance music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Tango",
+                        "subject": "Tangos",
+                        "count": 95
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Dance_music",
+                        "subject": "Dance music",
+                        "count": 91
+                      },
+                      {
+                        "url": null,
+                        "subject": "Tango (Dance)",
+                        "count": 62
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Popular_music",
+                        "subject": "Popular music",
+                        "count": 50
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Ballet",
+                        "subject": "Ballet",
+                        "count": 36
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1995,
+                      "mode": 2010
+                    }
+                  }
+                },
+                "ML3785": {
+                  "id": "ML3785",
+                  "subject": "Musical journalism",
+                  "count": 31,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3785",
+                    "subject": "Musical journalism",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music_journalism",
+                        "subject": "Musical criticism",
+                        "count": 24
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 15
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1992,
+                      "median": 2005,
+                      "mode": 2008
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "ML159-3785",
+                "subject": "History and criticism",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1978,
+                  "mode": 2012
+                }
+              }
+            },
+            "ML100-109": {
+              "id": "ML100-109",
+              "subject": "Dictionaries. Encyclopedias",
+              "count": 2118,
+              "children": {},
+              "subjects": {
+                "id": "ML100-109",
+                "subject": "Dictionaries. Encyclopedias",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 1452
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musician",
+                    "subject": "Musicians",
+                    "count": 245
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Popular_music",
+                    "subject": "Popular music",
+                    "count": 209
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Rock_music",
+                    "subject": "Rock music",
+                    "count": 174
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jazz",
+                    "subject": "Jazz",
+                    "count": 133
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1988,
+                  "mode": 1997
+                }
+              }
+            },
+            "ML3795": {
+              "id": "ML3795",
+              "subject": "Music as a profession. Vocational guidance",
+              "count": 692,
+              "children": {},
+              "subjects": {
+                "id": "ML3795",
+                "subject": "Music as a profession. Vocational guidance",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 606
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music trade",
+                    "count": 94
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musician",
+                    "subject": "Musicians",
+                    "count": 67
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Popular_music",
+                    "subject": "Popular music",
+                    "count": 51
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Rock_music",
+                    "subject": "Rock music",
+                    "count": 46
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1991,
+                  "mode": 1977
+                }
+              }
+            },
+            "ML3800-3923": {
+              "id": "ML3800-3923",
+              "subject": "Philosophical  and  societal  aspects  of  music.  Physics",
+              "count": 8,
+              "children": {
+                "ML3916-3918": {
+                  "id": "ML3916-3918",
+                  "subject": "Social and political aspects of music",
+                  "count": 645,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3916-3918",
+                    "subject": "Social and political aspects of music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 507
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Popular_music",
+                        "subject": "Popular music",
+                        "count": 228
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Rock_music",
+                        "subject": "Rock music",
+                        "count": 62
+                      },
+                      {
+                        "url": null,
+                        "subject": "Rap (Music)",
+                        "count": 54
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Hip_hop",
+                        "subject": "Hip-hop",
+                        "count": 34
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 2006,
+                      "median": 2007,
+                      "mode": 2011
+                    }
+                  }
+                },
+                "ML3919-3920": {
+                  "id": "ML3919-3920",
+                  "subject": "Moral influence of music.    Therapeutic use of music",
+                  "count": 580,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3919-3920",
+                    "subject": "Moral influence of music.    Therapeutic use of music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music_therapy",
+                        "subject": "Music therapy",
+                        "count": 374
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 202
+                      },
+                      {
+                        "url": null,
+                        "subject": "Music, Influence of",
+                        "count": 87
+                      },
+                      {
+                        "url": null,
+                        "subject": "Music therapy for children",
+                        "count": 53
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_therapy",
+                        "subject": "Music Therapy",
+                        "count": 36
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1990,
+                      "mode": 1999
+                    }
+                  }
+                },
+                "ML3830-3840": {
+                  "id": "ML3830-3840",
+                  "subject": "Psychology",
+                  "count": 747,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3830-3840",
+                    "subject": "Psychology",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 756
+                      },
+                      {
+                        "url": null,
+                        "subject": "Musical ability",
+                        "count": 100
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_psychology",
+                        "subject": "Musical perception",
+                        "count": 53
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cognition",
+                        "subject": "Cognition",
+                        "count": 30
+                      },
+                      {
+                        "url": null,
+                        "subject": "Music and color",
+                        "count": 26
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1988,
+                      "mode": 2012
+                    }
+                  }
+                },
+                "ML3845-3877": {
+                  "id": "ML3845-3877",
+                  "subject": "Aesthetics",
+                  "count": 1547,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3845-3877",
+                    "subject": "Aesthetics",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 1419
+                      },
+                      {
+                        "url": null,
+                        "subject": "Music and literature",
+                        "count": 235
+                      },
+                      {
+                        "url": null,
+                        "subject": "Art and music",
+                        "count": 116
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Opera",
+                        "subject": "Opera",
+                        "count": 103
+                      },
+                      {
+                        "url": null,
+                        "subject": "Music and language",
+                        "count": 69
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1981,
+                      "median": 1994,
+                      "mode": 2002
+                    }
+                  }
+                },
+                "ML3800": {
+                  "id": "ML3800",
+                  "subject": "General works",
+                  "count": 591,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3800",
+                    "subject": "General works",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 735
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_theory",
+                        "subject": "Music theory",
+                        "count": 60
+                      },
+                      {
+                        "url": null,
+                        "subject": "Music and philosophy",
+                        "count": 20
+                      },
+                      {
+                        "url": null,
+                        "subject": "Music and science",
+                        "count": 17
+                      },
+                      {
+                        "url": null,
+                        "subject": "Harmony of the spheres",
+                        "count": 12
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1993,
+                      "mode": 2007
+                    }
+                  }
+                },
+                "ML3880-3915": {
+                  "id": "ML3880-3915",
+                  "subject": "Criticism",
+                  "count": 100,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3880-3915",
+                    "subject": "Criticism",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music_journalism",
+                        "subject": "Musical criticism",
+                        "count": 80
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 50
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Opera",
+                        "subject": "Opera",
+                        "count": 9
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Canon_(music)",
+                        "subject": "Musical canon",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1970,
+                      "median": 1983,
+                      "mode": 2005
+                    }
+                  }
+                },
+                "ML3805-3817": {
+                  "id": "ML3805-3817",
+                  "subject": "Physics and acoustics",
+                  "count": 668,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3805-3817",
+                    "subject": "Physics and acoustics",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 447
+                      },
+                      {
+                        "url": null,
+                        "subject": "Musical intervals and scales",
+                        "count": 147
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musical_temperament",
+                        "subject": "Musical temperament",
+                        "count": 92
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_theory",
+                        "subject": "Music theory",
+                        "count": 80
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Sound",
+                        "subject": "Sound",
+                        "count": 72
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1960,
+                      "median": 1976,
+                      "mode": 1975
+                    }
+                  }
+                },
+                "ML3921-3921.8": {
+                  "id": "ML3921-3921.8",
+                  "subject": "Religious aspects of music",
+                  "count": 109,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3921-3921.8",
+                    "subject": "Religious aspects of music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 87
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Popular_music",
+                        "subject": "Popular music",
+                        "count": 37
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Rock_music",
+                        "subject": "Rock music",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Church_music",
+                        "subject": "Church music",
+                        "count": 9
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Theology",
+                        "subject": "Theology",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1995,
+                      "median": 2008,
+                      "mode": 2008
+                    }
+                  }
+                },
+                "ML3820": {
+                  "id": "ML3820",
+                  "subject": "Physiological aspects of music",
+                  "count": 91,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3820",
+                    "subject": "Physiological aspects of music",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 139
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musician",
+                        "subject": "Musicians",
+                        "count": 16
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Sound",
+                        "subject": "Sound",
+                        "count": 13
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_psychology",
+                        "subject": "Musical perception",
+                        "count": 7
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Repetitive_strain_injury",
+                        "subject": "Overuse injuries",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1993,
+                      "mode": 2011
+                    }
+                  }
+                },
+                "ML3922": {
+                  "id": "ML3922",
+                  "subject": "Music in the workplace",
+                  "count": 15,
+                  "children": {},
+                  "subjects": {
+                    "id": "ML3922",
+                    "subject": "Music in the workplace",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Music in the workplace",
+                        "count": 14
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1956,
+                      "median": 1948,
+                      "mode": 1944
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "ML3800-3923",
+                "subject": "Philosophical  and  societal  aspects  of  music.  Physics",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1965,
+                  "mode": 1927
+                }
+              }
+            },
+            "ML112.8-158.8": {
+              "id": "ML112.8-158.8",
+              "subject": "Bibliography",
+              "count": 7983,
+              "children": {},
+              "subjects": {
+                "id": "ML112.8-158.8",
+                "subject": "Bibliography",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 3130
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sound_recording_and_reproduction",
+                    "subject": "Sound recordings",
+                    "count": 699
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Popular_music",
+                    "subject": "Popular music",
+                    "count": 694
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jazz",
+                    "subject": "Jazz",
+                    "count": 274
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Rock_music",
+                    "subject": "Rock music",
+                    "count": 200
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1986,
+                  "mode": 1990
+                }
+              }
+            },
+            "ML55-89": {
+              "id": "ML55-89",
+              "subject": "Aspects of the field of music as a whole",
+              "count": 4611,
+              "children": {},
+              "subjects": {
+                "id": "ML55-89",
+                "subject": "Aspects of the field of music as a whole",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 2997
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musician",
+                    "subject": "Musicians",
+                    "count": 231
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music and literature",
+                    "count": 199
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Audio_editing_software",
+                    "subject": "Digital audio editors",
+                    "count": 143
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music in art",
+                    "count": 131
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1984,
+                  "mode": 2000
+                }
+              }
+            },
+            "ML3790-3792": {
+              "id": "ML3790-3792",
+              "subject": "Music trade",
+              "count": 732,
+              "children": {},
+              "subjects": {
+                "id": "ML3790-3792",
+                "subject": "Music trade",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Music trade",
+                    "count": 457
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Recording_studio",
+                    "subject": "Sound recording industry",
+                    "count": 316
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 189
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Popular_music",
+                    "subject": "Popular music",
+                    "count": 178
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sound_recording_and_reproduction",
+                    "subject": "Sound recordings",
+                    "count": 75
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1997,
+                  "median": 2000,
+                  "mode": 2004
+                }
+              }
+            },
+            "ML47-54.8": {
+              "id": "ML47-54.8",
+              "subject": "Librettos. Texts. Scenarios",
+              "count": 14182,
+              "children": {},
+              "subjects": {
+                "id": "ML47-54.8",
+                "subject": "Librettos. Texts. Scenarios",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Operas",
+                    "count": 11272
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ballet",
+                    "subject": "Ballets",
+                    "count": 1326
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical",
+                    "subject": "Musicals",
+                    "count": 1180
+                  },
+                  {
+                    "url": null,
+                    "subject": "Dramatic music",
+                    "count": 454
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Popular_music",
+                    "subject": "Popular music",
+                    "count": 232
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1852,
+                  "median": 1835,
+                  "mode": 1805
+                }
+              }
+            },
+            "ML12-21": {
+              "id": "ML12-21",
+              "subject": "Directories. Almanacs",
+              "count": 541,
+              "children": {},
+              "subjects": {
+                "id": "ML12-21",
+                "subject": "Directories. Almanacs",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 222
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music trade",
+                    "count": 90
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musician",
+                    "subject": "Musicians",
+                    "count": 66
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Popular_music",
+                    "subject": "Popular music",
+                    "count": 33
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Folk_music",
+                    "subject": "Folk music",
+                    "count": 27
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1988,
+                  "mode": 1989
+                }
+              }
+            },
+            "ML110-111.5": {
+              "id": "ML110-111.5",
+              "subject": "Music librarianship",
+              "count": 314,
+              "children": {},
+              "subjects": {
+                "id": "ML110-111.5",
+                "subject": "Music librarianship",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music_library",
+                    "subject": "Music libraries",
+                    "count": 76
+                  },
+                  {
+                    "url": null,
+                    "subject": "Cataloging of music",
+                    "count": 71
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 69
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sound_recording_and_reproduction",
+                    "subject": "Sound recordings",
+                    "count": 57
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Classification",
+                    "subject": "Classification",
+                    "count": 50
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1980,
+                  "mode": 1976
+                }
+              }
+            },
+            "ML3797-3799.5": {
+              "id": "ML3797-3799.5",
+              "subject": "Musical research",
+              "count": 552,
+              "children": {},
+              "subjects": {
+                "id": "ML3797-3799.5",
+                "subject": "Musical research",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Musicology",
+                    "subject": "Musicology",
+                    "count": 263
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ethnomusicology",
+                    "subject": "Ethnomusicology",
+                    "count": 258
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 254
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Folk_music",
+                    "subject": "Folk music",
+                    "count": 52
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_journalism",
+                    "subject": "Musical criticism",
+                    "count": 16
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1991,
+                  "median": 1993,
+                  "mode": 2004
+                }
+              }
+            },
+            "ML112-112.5": {
+              "id": "ML112-112.5",
+              "subject": "Music printing and publishing",
+              "count": 167,
+              "children": {},
+              "subjects": {
+                "id": "ML112-112.5",
+                "subject": "Music printing and publishing",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/History_of_music_publishing",
+                    "subject": "Music printing",
+                    "count": 88
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_publisher",
+                    "subject": "Music publishing",
+                    "count": 71
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 54
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music title pages",
+                    "count": 35
+                  },
+                  {
+                    "url": null,
+                    "subject": "Publishers and publishing",
+                    "count": 32
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1981,
+                  "mode": 1981
+                }
+              }
+            },
+            "ML35-38": {
+              "id": "ML35-38",
+              "subject": "Festivals. Congresses",
+              "count": 613,
+              "children": {},
+              "subjects": {
+                "id": "ML35-38",
+                "subject": "Festivals. Congresses",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music_festival",
+                    "subject": "Music festivals",
+                    "count": 208
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 202
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Concert_program",
+                    "subject": "Concert programs",
+                    "count": 79
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music festival programs",
+                    "count": 33
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Opera",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1989,
+                  "mode": 2000
+                }
+              }
+            },
+            "ML25-28": {
+              "id": "ML25-28",
+              "subject": "Societies and other organizations",
+              "count": 1009,
+              "children": {},
+              "subjects": {
+                "id": "ML25-28",
+                "subject": "Societies and other organizations",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 293
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Opera",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musician",
+                    "subject": "Musicians",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Orchestra",
+                    "subject": "Symphony orchestras",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Concert_program",
+                    "subject": "Concert programs",
+                    "count": 24
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1996,
+                  "mode": 2004
+                }
+              }
+            },
+            "ML93-96.5": {
+              "id": "ML93-96.5",
+              "subject": "Manuscript studies and manuscripts",
+              "count": 2551,
+              "children": {},
+              "subjects": {
+                "id": "ML93-96.5",
+                "subject": "Manuscript studies and manuscripts",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Composer",
+                    "subject": "Composers",
+                    "count": 585
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 575
+                  },
+                  {
+                    "url": null,
+                    "subject": "Musical sketches",
+                    "count": 199
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Operas",
+                    "count": 133
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Piano",
+                    "subject": "Piano music",
+                    "count": 111
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1954,
+                  "median": 1953,
+                  "mode": 1940
+                }
+              }
+            },
+            "ML1-5": {
+              "id": "ML1-5",
+              "subject": "Periodicals. Serials",
+              "count": 2665,
+              "children": {},
+              "subjects": {
+                "id": "ML1-5",
+                "subject": "Periodicals. Serials",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 2082
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musique",
+                    "subject": "Musique",
+                    "count": 218
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musicology",
+                    "subject": "Musicology",
+                    "count": 123
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jazz",
+                    "subject": "Jazz",
+                    "count": 105
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Folk_music",
+                    "subject": "Folk music",
+                    "count": 99
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1960,
+                  "median": 1978,
+                  "mode": 1984
+                }
+              }
+            },
+            "ML32-33": {
+              "id": "ML32-33",
+              "subject": "Institutions",
+              "count": 67,
+              "children": {},
+              "subjects": {
+                "id": "ML32-33",
+                "subject": "Institutions",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1998,
+                  "median": 2004,
+                  "mode": 2004
+                }
+              }
+            },
+            "ML29-31": {
+              "id": "ML29-31",
+              "subject": "Special collections",
+              "count": 2182,
+              "children": {},
+              "subjects": {
+                "id": "ML29-31",
+                "subject": "Special collections",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 305
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Composer",
+                    "subject": "Composers",
+                    "count": 242
+                  },
+                  {
+                    "url": null,
+                    "subject": "Musical sketches",
+                    "count": 158
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical",
+                    "subject": "Musicals",
+                    "count": 103
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Operas",
+                    "count": 90
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1934,
+                  "median": 1946,
+                  "mode": 1960
+                }
+              }
+            },
+            "ML40-44": {
+              "id": "ML40-44",
+              "subject": "Programs",
+              "count": 207,
+              "children": {},
+              "subjects": {
+                "id": "ML40-44",
+                "subject": "Programs",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Concert_program",
+                    "subject": "Concert programs",
+                    "count": 121
+                  },
+                  {
+                    "url": null,
+                    "subject": "Opera programs",
+                    "count": 65
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Opera",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Concert",
+                    "subject": "Concerts",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1964,
+                  "median": 1982,
+                  "mode": 1988
+                }
+              }
+            },
+            "ML45": {
+              "id": "ML45",
+              "subject": "Circulars and advertisements",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "ML45",
+                "subject": "Circulars and advertisements",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1861,
+                  "median": 1834,
+                  "mode": 1832
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "ML1-3930",
+            "subject": "Literature on music",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Musical_fiction",
+                "subject": "Musical fiction",
+                "count": 160
+              },
+              {
+                "url": "http://dbpedia.org/resource/Composer",
+                "subject": "Composers",
+                "count": 36
+              },
+              {
+                "url": "http://dbpedia.org/resource/Music",
+                "subject": "Music",
+                "count": 32
+              },
+              {
+                "url": null,
+                "subject": "Musicians as authors",
+                "count": 27
+              },
+              {
+                "url": "http://dbpedia.org/resource/Musician",
+                "subject": "Musicians",
+                "count": 23
+              }
+            ],
+            "pubDates": {
+              "avg": 1947,
+              "median": 1950,
+              "mode": 1946
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "MT": {
+      "id": "MT",
+      "subject": "Instruction and study",
+      "count": 0,
+      "children": {
+        "MT1-960": {
+          "id": "MT1-960",
+          "subject": "Instruction and study",
+          "count": 92,
+          "children": {
+            "MT90-146": {
+              "id": "MT90-146",
+              "subject": "Analysis and appreciation of musical works",
+              "count": 2687,
+              "children": {},
+              "subjects": {
+                "id": "MT90-146",
+                "subject": "Analysis and appreciation of musical works",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Operas",
+                    "count": 533
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_appreciation",
+                    "subject": "Music appreciation",
+                    "count": 164
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Orchestra",
+                    "subject": "Orchestral music",
+                    "count": 158
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 143
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_analysis",
+                    "subject": "Musical analysis",
+                    "count": 111
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1979,
+                  "mode": 2002
+                }
+              }
+            },
+            "MT820-915": {
+              "id": "MT820-915",
+              "subject": "Singing and vocal technique",
+              "count": 1313,
+              "children": {
+                "MT898-915": {
+                  "id": "MT898-915",
+                  "subject": "Vocal techniques for children",
+                  "count": 70,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT898-915",
+                    "subject": "Vocal techniques for children",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Choir",
+                        "subject": "Choral singing",
+                        "count": 38
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Singing",
+                        "subject": "Singing",
+                        "count": 20
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Choir",
+                        "subject": "Children's choirs",
+                        "count": 18
+                      },
+                      {
+                        "url": null,
+                        "subject": "Choirs (Music)",
+                        "count": 13
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 10
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1964,
+                      "median": 1980,
+                      "mode": 1995
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "MT820-915",
+                "subject": "Singing and vocal technique",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Singing",
+                    "subject": "Singing",
+                    "count": 953
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human_voice",
+                    "subject": "Voice",
+                    "count": 128
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sight-reading",
+                    "subject": "Sight-singing",
+                    "count": 118
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Gregorian_chant",
+                    "subject": "Gregorian chants",
+                    "count": 117
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Choir",
+                    "subject": "Choral singing",
+                    "count": 115
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1961,
+                  "median": 1977,
+                  "mode": 1994
+                }
+              }
+            },
+            "MT75": {
+              "id": "MT75",
+              "subject": "Interpretation",
+              "count": 74,
+              "children": {},
+              "subjects": {
+                "id": "MT75",
+                "subject": "Interpretation",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 69
+                  },
+                  {
+                    "url": null,
+                    "subject": "Performance practice (Music)",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Musical meter and rhythm",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_analysis",
+                    "subject": "Musical analysis",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_theory",
+                    "subject": "Music theory",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1966,
+                  "median": 1974,
+                  "mode": 1970
+                }
+              }
+            },
+            "MT40-67": {
+              "id": "MT40-67",
+              "subject": "Composition. Elements and techniques of music",
+              "count": 1604,
+              "children": {},
+              "subjects": {
+                "id": "MT40-67",
+                "subject": "Composition. Elements and techniques of music",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Harmony",
+                    "subject": "Harmony",
+                    "count": 471
+                  },
+                  {
+                    "url": null,
+                    "subject": "Composition (Music)",
+                    "count": 263
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Counterpoint",
+                    "subject": "Counterpoint",
+                    "count": 188
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Popular_music",
+                    "subject": "Popular music",
+                    "count": 173
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_form",
+                    "subject": "Musical form",
+                    "count": 116
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1963,
+                  "median": 1976,
+                  "mode": 1977
+                }
+              }
+            },
+            "MT918-948": {
+              "id": "MT918-948",
+              "subject": "School music",
+              "count": 7,
+              "children": {
+                "MT930-948": {
+                  "id": "MT930-948",
+                  "subject": "Elementary schools. Junior high schools. High",
+                  "count": 310,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT930-948",
+                    "subject": "Elementary schools. Junior high schools. High",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "School music",
+                        "count": 133
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 79
+                      },
+                      {
+                        "url": null,
+                        "subject": "Exercise music",
+                        "count": 40
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Choir",
+                        "subject": "Choral singing",
+                        "count": 33
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Children's_song",
+                        "subject": "Children's songs",
+                        "count": 31
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1967,
+                      "median": 1968,
+                      "mode": 1981
+                    }
+                  }
+                },
+                "MT920-925": {
+                  "id": "MT920-925",
+                  "subject": "Kindergarten",
+                  "count": 44,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT920-925",
+                    "subject": "Kindergarten",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Preschool music",
+                        "count": 26
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 17
+                      },
+                      {
+                        "url": null,
+                        "subject": "School music",
+                        "count": 15
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Children's_song",
+                        "subject": "Children's songs",
+                        "count": 12
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Early_childhood_education",
+                        "subject": "Early childhood education",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1984,
+                      "mode": 2006
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "MT918-948",
+                "subject": "School music",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1997,
+                  "mode": 1925
+                }
+              }
+            },
+            "MT170-810": {
+              "id": "MT170-810",
+              "subject": "Instrumental techniques",
+              "count": 131,
+              "children": {
+                "MT539-654": {
+                  "id": "MT539-654",
+                  "subject": "Plucked instruments",
+                  "count": 1686,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT539-654",
+                    "subject": "Plucked instruments",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Guitar",
+                        "subject": "Guitar",
+                        "count": 1265
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Bass_guitar",
+                        "subject": "Bass guitar",
+                        "count": 160
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Jazz",
+                        "subject": "Jazz",
+                        "count": 96
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Rock_music",
+                        "subject": "Rock music",
+                        "count": 90
+                      },
+                      {
+                        "url": null,
+                        "subject": "Blues (Music)",
+                        "count": 72
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1991,
+                      "median": 1995,
+                      "mode": 1997
+                    }
+                  }
+                },
+                "MT179-258": {
+                  "id": "MT179-258",
+                  "subject": "Keyboard instruments",
+                  "count": 1928,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT179-258",
+                    "subject": "Keyboard instruments",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Piano",
+                        "subject": "Piano",
+                        "count": 928
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Piano",
+                        "subject": "Piano music",
+                        "count": 187
+                      },
+                      {
+                        "url": null,
+                        "subject": "Organ (Musical instrument)",
+                        "count": 149
+                      },
+                      {
+                        "url": null,
+                        "subject": "Keyboard harmony",
+                        "count": 66
+                      },
+                      {
+                        "url": null,
+                        "subject": "Improvisation (Music)",
+                        "count": 59
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1990,
+                      "mode": 1991
+                    }
+                  }
+                },
+                "MT339-533": {
+                  "id": "MT339-533",
+                  "subject": "Wind instruments",
+                  "count": 1112,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT339-533",
+                    "subject": "Wind instruments",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Flute",
+                        "subject": "Flute",
+                        "count": 229
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Trumpet",
+                        "subject": "Trumpet",
+                        "count": 156
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Saxophone",
+                        "subject": "Saxophone",
+                        "count": 118
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Clarinet",
+                        "subject": "Clarinet",
+                        "count": 112
+                      },
+                      {
+                        "url": null,
+                        "subject": "Horn (Musical instrument)",
+                        "count": 88
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1988,
+                      "mode": 1992
+                    }
+                  }
+                },
+                "MT728-735": {
+                  "id": "MT728-735",
+                  "subject": "Ensembles",
+                  "count": 240,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT728-735",
+                    "subject": "Ensembles",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Bands (Music)",
+                        "count": 114
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Marching_band",
+                        "subject": "Marching bands",
+                        "count": 40
+                      },
+                      {
+                        "url": null,
+                        "subject": "School music",
+                        "count": 34
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Orchestra",
+                        "subject": "Orchestra",
+                        "count": 20
+                      },
+                      {
+                        "url": null,
+                        "subject": "Drill and minor tactics",
+                        "count": 17
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1975,
+                      "median": 1982,
+                      "mode": 1986
+                    }
+                  }
+                },
+                "MT655-725": {
+                  "id": "MT655-725",
+                  "subject": "Percussion and other instruments",
+                  "count": 875,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT655-725",
+                    "subject": "Percussion and other instruments",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Drum_kit",
+                        "subject": "Drum set",
+                        "count": 173
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Percussion_instrument",
+                        "subject": "Percussion instruments",
+                        "count": 109
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Drum",
+                        "subject": "Drum",
+                        "count": 99
+                      },
+                      {
+                        "url": null,
+                        "subject": "Computer sound processing",
+                        "count": 81
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Harmonica",
+                        "subject": "Harmonica",
+                        "count": 77
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1992,
+                      "mode": 1990
+                    }
+                  }
+                },
+                "MT740-810": {
+                  "id": "MT740-810",
+                  "subject": "Instrumental techniques for children",
+                  "count": 618,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT740-810",
+                    "subject": "Instrumental techniques for children",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Piano",
+                        "subject": "Piano",
+                        "count": 95
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Piano",
+                        "subject": "Piano music",
+                        "count": 79
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 55
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Violin",
+                        "subject": "Violin",
+                        "count": 37
+                      },
+                      {
+                        "url": null,
+                        "subject": "Rhythm bands and orchestras",
+                        "count": 32
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1986,
+                      "mode": 1993
+                    }
+                  }
+                },
+                "MT259-338": {
+                  "id": "MT259-338",
+                  "subject": "Stringed instruments. Bowed stringed instruments",
+                  "count": 683,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT259-338",
+                    "subject": "Stringed instruments. Bowed stringed instruments",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Violin",
+                        "subject": "Violin",
+                        "count": 344
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cello",
+                        "subject": "Cello",
+                        "count": 101
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Double_bass",
+                        "subject": "Double bass",
+                        "count": 96
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Bowed_string_instrument",
+                        "subject": "Bowed stringed instruments",
+                        "count": 59
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Viola",
+                        "subject": "Viola",
+                        "count": 56
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1986,
+                      "mode": 1991
+                    }
+                  }
+                },
+                "MT737": {
+                  "id": "MT737",
+                  "subject": "Motion picture accompanying",
+                  "count": 13,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT737",
+                    "subject": "Motion picture accompanying",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Motion picture music",
+                        "count": 10
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1957,
+                      "median": 1970,
+                      "mode": 1991
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "MT170-810",
+                "subject": "Instrumental techniques",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_instrument",
+                    "subject": "Musical instruments",
+                    "count": 80
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Instrumental",
+                    "subject": "Instrumental music",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jazz",
+                    "subject": "Jazz",
+                    "count": 19
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 19
+                  },
+                  {
+                    "url": null,
+                    "subject": "Practicing (Music)",
+                    "count": 9
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1990,
+                  "mode": 1987
+                }
+              }
+            },
+            "MT35-39": {
+              "id": "MT35-39",
+              "subject": "Notation",
+              "count": 247,
+              "children": {},
+              "subjects": {
+                "id": "MT35-39",
+                "subject": "Notation",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_notation",
+                    "subject": "Musical notation",
+                    "count": 114
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ear_training",
+                    "subject": "Ear training",
+                    "count": 103
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ear_training",
+                    "subject": "Musical dictation",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sight-reading",
+                    "subject": "Sight-singing",
+                    "count": 19
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1984,
+                  "mode": 2005
+                }
+              }
+            },
+            "MT68": {
+              "id": "MT68",
+              "subject": "Improvisation. Accompaniment. Transposition",
+              "count": 271,
+              "children": {},
+              "subjects": {
+                "id": "MT68",
+                "subject": "Improvisation. Accompaniment. Transposition",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Jazz",
+                    "subject": "Jazz",
+                    "count": 227
+                  },
+                  {
+                    "url": null,
+                    "subject": "Improvisation (Music)",
+                    "count": 227
+                  },
+                  {
+                    "url": null,
+                    "subject": "Recorded accompaniments",
+                    "count": 78
+                  },
+                  {
+                    "url": null,
+                    "subject": "Musical accompaniment",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_instrument",
+                    "subject": "Musical instruments",
+                    "count": 18
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1990,
+                  "mode": 1998
+                }
+              }
+            },
+            "MT88": {
+              "id": "MT88",
+              "subject": "Administration and instruction of vocal groups",
+              "count": 171,
+              "children": {},
+              "subjects": {
+                "id": "MT88",
+                "subject": "Administration and instruction of vocal groups",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Church_music",
+                    "subject": "Church music",
+                    "count": 96
+                  },
+                  {
+                    "url": null,
+                    "subject": "Choirs (Music)",
+                    "count": 93
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Conducting",
+                    "subject": "Choral conducting",
+                    "count": 29
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Choir",
+                    "subject": "Choral singing",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hymn",
+                    "subject": "Hymns",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1982,
+                  "mode": 1993
+                }
+              }
+            },
+            "MT5.5-7": {
+              "id": "MT5.5-7",
+              "subject": "Music theory",
+              "count": 2092,
+              "children": {},
+              "subjects": {
+                "id": "MT5.5-7",
+                "subject": "Music theory",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music_theory",
+                    "subject": "Music theory",
+                    "count": 950
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_appreciation",
+                    "subject": "Music appreciation",
+                    "count": 736
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 626
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_analysis",
+                    "subject": "Musical analysis",
+                    "count": 179
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Carnatic_music",
+                    "subject": "Carnatic music",
+                    "count": 34
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1980,
+                  "mode": 1992
+                }
+              }
+            },
+            "MT1": {
+              "id": "MT1",
+              "subject": "General works",
+              "count": 1029,
+              "children": {},
+              "subjects": {
+                "id": "MT1",
+                "subject": "General works",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 839
+                  },
+                  {
+                    "url": null,
+                    "subject": "School music",
+                    "count": 398
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_education",
+                    "subject": "Music teachers",
+                    "count": 29
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music in education",
+                    "count": 22
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_appreciation",
+                    "subject": "Music appreciation",
+                    "count": 21
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1987,
+                  "mode": 2010
+                }
+              }
+            },
+            "MT85": {
+              "id": "MT85",
+              "subject": "Conducting. Score reading and playing",
+              "count": 277,
+              "children": {},
+              "subjects": {
+                "id": "MT85",
+                "subject": "Conducting. Score reading and playing",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Conducting",
+                    "subject": "Conducting",
+                    "count": 178
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Conducting",
+                    "subject": "Choral conducting",
+                    "count": 86
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Choir",
+                    "subject": "Choral singing",
+                    "count": 15
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Choirs (Music)",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1979,
+                  "mode": 1988
+                }
+              }
+            },
+            "MT3-5": {
+              "id": "MT3-5",
+              "subject": "History",
+              "count": 1463,
+              "children": {},
+              "subjects": {
+                "id": "MT3-5",
+                "subject": "History",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 755
+                  },
+                  {
+                    "url": null,
+                    "subject": "School music",
+                    "count": 634
+                  },
+                  {
+                    "url": null,
+                    "subject": "Conservatories of music",
+                    "count": 85
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_education",
+                    "subject": "Music teachers",
+                    "count": 45
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Education",
+                    "subject": "Education",
+                    "count": 16
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1986,
+                  "mode": 1976
+                }
+              }
+            },
+            "MT155": {
+              "id": "MT155",
+              "subject": "Music theory for children",
+              "count": 53,
+              "children": {},
+              "subjects": {
+                "id": "MT155",
+                "subject": "Music theory for children",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_theory",
+                    "subject": "Music theory",
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "subject": "Sight-reading (Music)",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_notation",
+                    "subject": "Musical notation",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "School music",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1983,
+                  "mode": 2007
+                }
+              }
+            },
+            "MT9-15": {
+              "id": "MT9-15",
+              "subject": "Printed pedagogical aids",
+              "count": 0,
+              "children": {
+                "MT10": {
+                  "id": "MT10",
+                  "subject": "Teachers= and supervisors= manuals, etc.",
+                  "count": 201,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT10",
+                    "subject": "Teachers= and supervisors= manuals, etc.",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 125
+                      },
+                      {
+                        "url": null,
+                        "subject": "School music",
+                        "count": 82
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_appreciation",
+                        "subject": "Music appreciation",
+                        "count": 18
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_theory",
+                        "subject": "Music theory",
+                        "count": 15
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Singing",
+                        "subject": "Singing",
+                        "count": 9
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1970,
+                      "median": 1977,
+                      "mode": 1987
+                    }
+                  }
+                },
+                "MT9": {
+                  "id": "MT9",
+                  "subject": "Examinations, exercises, etc.",
+                  "count": 33,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT9",
+                    "subject": "Examinations, exercises, etc.",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 31
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music_theory",
+                        "subject": "Music theory",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1975,
+                      "median": 1980,
+                      "mode": 1937
+                    }
+                  }
+                },
+                "MT15": {
+                  "id": "MT15",
+                  "subject": "Charts, diagrams, etc.",
+                  "count": 6,
+                  "children": {},
+                  "subjects": {
+                    "id": "MT15",
+                    "subject": "Charts, diagrams, etc.",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1930,
+                      "median": 1947,
+                      "mode": 1857
+                    }
+                  }
+                }
+              },
+              "subjects": null
+            },
+            "MT20-34": {
+              "id": "MT20-34",
+              "subject": "Systems and methods",
+              "count": 85,
+              "children": {},
+              "subjects": {
+                "id": "MT20-34",
+                "subject": "Systems and methods",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 48
+                  },
+                  {
+                    "url": null,
+                    "subject": "Musical meter and rhythm",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Eurythmic_(horse)",
+                    "subject": "Eurythmics",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Dance",
+                    "subject": "Dance",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "School music",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1959,
+                  "median": 1972,
+                  "mode": 1930
+                }
+              }
+            },
+            "MT955-956": {
+              "id": "MT955-956",
+              "subject": "Musical theater",
+              "count": 210,
+              "children": {},
+              "subjects": {
+                "id": "MT955-956",
+                "subject": "Musical theater",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Opera",
+                    "count": 121
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical",
+                    "subject": "Musicals",
+                    "count": 69
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Singing",
+                    "subject": "Singing",
+                    "count": 22
+                  },
+                  {
+                    "url": null,
+                    "subject": "Operas, Chinese",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Costume",
+                    "subject": "Costume",
+                    "count": 19
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1992,
+                  "mode": 2010
+                }
+              }
+            },
+            "MT82": {
+              "id": "MT82",
+              "subject": "Memorizing",
+              "count": 12,
+              "children": {},
+              "subjects": {
+                "id": "MT82",
+                "subject": "Memorizing",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1964,
+                  "mode": 1904
+                }
+              }
+            },
+            "MT70-74": {
+              "id": "MT70-74",
+              "subject": "Instrumentation and orchestration",
+              "count": 181,
+              "children": {},
+              "subjects": {
+                "id": "MT70-74",
+                "subject": "Instrumentation and orchestration",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Instrumentation_(music)",
+                    "subject": "Instrumentation and orchestration",
+                    "count": 137
+                  },
+                  {
+                    "url": null,
+                    "subject": "Arrangement (Music)",
+                    "count": 42
+                  },
+                  {
+                    "url": null,
+                    "subject": "Instrumentation and orchestration (Band)",
+                    "count": 22
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_instrument",
+                    "subject": "Musical instruments",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Choir",
+                    "subject": "Choral music",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1961,
+                  "median": 1967,
+                  "mode": 1950
+                }
+              }
+            },
+            "MT80": {
+              "id": "MT80",
+              "subject": "Embellishment",
+              "count": 24,
+              "children": {},
+              "subjects": {
+                "id": "MT80",
+                "subject": "Embellishment",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Embellishment (Music)",
+                    "count": 25
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1963,
+                  "median": 1976,
+                  "mode": 1976
+                }
+              }
+            },
+            "MT950": {
+              "id": "MT950",
+              "subject": "Music to accompany instruction in ballet, folk dancing,",
+              "count": 113,
+              "children": {},
+              "subjects": {
+                "id": "MT950",
+                "subject": "Music to accompany instruction in ballet, folk dancing,",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Dance",
+                    "subject": "Dance",
+                    "count": 41
+                  },
+                  {
+                    "url": null,
+                    "subject": "Folk dance music",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Dance_music",
+                    "subject": "Dance music",
+                    "count": 27
+                  },
+                  {
+                    "url": null,
+                    "subject": "Dance Instruction and Technical Manuals",
+                    "count": 20
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music for Dance",
+                    "count": 19
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1899,
+                  "median": 1940,
+                  "mode": 1946
+                }
+              }
+            },
+            "MT165": {
+              "id": "MT165",
+              "subject": "Tuning",
+              "count": 66,
+              "children": {},
+              "subjects": {
+                "id": "MT165",
+                "subject": "Tuning",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Piano",
+                    "subject": "Piano",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Tuning",
+                    "subject": "Tuning",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Musical_temperament",
+                    "subject": "Musical temperament",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Guitar",
+                    "subject": "Guitar",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Keyboard_instrument",
+                    "subject": "Keyboard instruments",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1977,
+                  "mode": 1977
+                }
+              }
+            },
+            "MT150": {
+              "id": "MT150",
+              "subject": "Audio-visual aids",
+              "count": 61,
+              "children": {},
+              "subjects": {
+                "id": "MT150",
+                "subject": "Audio-visual aids",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 33
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music_appreciation",
+                    "subject": "Music appreciation",
+                    "count": 31
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Operas",
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "subject": "School music",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "Radio and music",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1952,
+                  "median": 1952,
+                  "mode": 1970
+                }
+              }
+            },
+            "MT87": {
+              "id": "MT87",
+              "subject": "Community music",
+              "count": 26,
+              "children": {},
+              "subjects": {
+                "id": "MT87",
+                "subject": "Community music",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Community music",
+                    "count": 20
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music as recreation",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1956,
+                  "median": 1955,
+                  "mode": 1977
+                }
+              }
+            },
+            "MT18": {
+              "id": "MT18",
+              "subject": "Music in colleges and universities",
+              "count": 45,
+              "children": {},
+              "subjects": {
+                "id": "MT18",
+                "subject": "Music in colleges and universities",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Music in universities and colleges",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 35
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1982,
+                  "mode": 1972
+                }
+              }
+            },
+            "MT960": {
+              "id": "MT960",
+              "subject": "Music in the theater",
+              "count": 6,
+              "children": {},
+              "subjects": {
+                "id": "MT960",
+                "subject": "Music in the theater",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Music in the theater",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1987,
+                  "mode": 1957
+                }
+              }
+            },
+            "MT17": {
+              "id": "MT17",
+              "subject": "Music in special education",
+              "count": 41,
+              "children": {},
+              "subjects": {
+                "id": "MT17",
+                "subject": "Music in special education",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 23
+                  },
+                  {
+                    "url": null,
+                    "subject": "Children with disabilities",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Special_education",
+                    "subject": "Special education",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "School music",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "Music therapy for children",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1993,
+                  "median": 1991,
+                  "mode": 2008
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "MT1-960",
+            "subject": "Instruction and study",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Music",
+                "subject": "Music",
+                "count": 48
+              },
+              {
+                "url": "http://dbpedia.org/resource/Jazz",
+                "subject": "Jazz",
+                "count": 22
+              },
+              {
+                "url": null,
+                "subject": "Dance orchestras",
+                "count": 10
+              },
+              {
+                "url": null,
+                "subject": "Arrangement (Music)",
+                "count": 9
+              },
+              {
+                "url": null,
+                "subject": "Instrumentation and orchestration (Dance orchestra)",
+                "count": 9
+              }
+            ],
+            "pubDates": {
+              "avg": 1970,
+              "median": 1978,
+              "mode": 1982
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "M": {
+      "id": "M",
+      "subject": "Music",
+      "count": 0,
+      "children": {
+        "M1-5000": {
+          "id": "M1-5000",
+          "subject": "Music",
+          "count": 15,
+          "children": {
+            "M1495-2199": {
+              "id": "M1495-2199",
+              "subject": "Vocal music",
+              "count": 0,
+              "children": {
+                "M1999-2199": {
+                  "id": "M1999-2199",
+                  "subject": "Sacred vocal music",
+                  "count": 0,
+                  "children": {
+                    "M2115-2146": {
+                      "id": "M2115-2146",
+                      "subject": "Hymnals. Hymn collections",
+                      "count": 767,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2115-2146",
+                        "subject": "Hymnals. Hymn collections",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Hymns, English",
+                            "count": 452
+                          },
+                          {
+                            "url": null,
+                            "subject": "Psalms (Music)",
+                            "count": 59
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Lutheranism",
+                            "subject": "Lutheran Church",
+                            "count": 40
+                          },
+                          {
+                            "url": null,
+                            "subject": "Hymns, German",
+                            "count": 37
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Anthem",
+                            "subject": "Anthems",
+                            "count": 35
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1971,
+                          "median": 1989,
+                          "mode": 1986
+                        }
+                      }
+                    },
+                    "M2020-2101.5": {
+                      "id": "M2020-2101.5",
+                      "subject": "Choruses",
+                      "count": 6526,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2020-2101.5",
+                        "subject": "Choruses",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Motet",
+                            "subject": "Motets",
+                            "count": 769
+                          },
+                          {
+                            "url": null,
+                            "subject": "Cantatas, Sacred",
+                            "count": 739
+                          },
+                          {
+                            "url": null,
+                            "subject": "Choruses, Sacred (Mixed voices, 4 parts), Unaccompanied",
+                            "count": 736
+                          },
+                          {
+                            "url": null,
+                            "subject": "Choruses, Sacred (Mixed voices) with orchestra",
+                            "count": 708
+                          },
+                          {
+                            "url": null,
+                            "subject": "Psalms (Music)",
+                            "count": 689
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1993,
+                          "median": 1996,
+                          "mode": 2003
+                        }
+                      }
+                    },
+                    "M2147-2188": {
+                      "id": "M2147-2188",
+                      "subject": "Liturgy and ritual",
+                      "count": 377,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2147-2188",
+                        "subject": "Liturgy and ritual",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Gregorian_chant",
+                            "subject": "Gregorian chants",
+                            "count": 166
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Music",
+                            "subject": "Music",
+                            "count": 61
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/History_of_religious_Jewish_music",
+                            "subject": "Synagogue music",
+                            "count": 51
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Byzantine_music",
+                            "subject": "Byzantine chants",
+                            "count": 44
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Antiphonary",
+                            "subject": "Antiphonaries",
+                            "count": 34
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1996,
+                          "median": 1991,
+                          "mode": 1996
+                        }
+                      }
+                    },
+                    "M2190-2196": {
+                      "id": "M2190-2196",
+                      "subject": "Sacred vocal music for children",
+                      "count": 183,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2190-2196",
+                        "subject": "Sacred vocal music for children",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Christmas_music",
+                            "subject": "Christmas music",
+                            "count": 46
+                          },
+                          {
+                            "url": null,
+                            "subject": "Sacred musicals",
+                            "count": 45
+                          },
+                          {
+                            "url": null,
+                            "subject": "Hymns, English",
+                            "count": 33
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Religious_music",
+                            "subject": "Sacred songs",
+                            "count": 26
+                          },
+                          {
+                            "url": null,
+                            "subject": "Sunday school music",
+                            "count": 19
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1984,
+                          "median": 1994,
+                          "mode": 1999
+                        }
+                      }
+                    },
+                    "M2102-2114.8": {
+                      "id": "M2102-2114.8",
+                      "subject": "One solo voice",
+                      "count": 989,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2102-2114.8",
+                        "subject": "One solo voice",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Sacred songs (High voice) with instrumental ensemble",
+                            "count": 140
+                          },
+                          {
+                            "url": null,
+                            "subject": "Psalms (Music)",
+                            "count": 103
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Christmas_music",
+                            "subject": "Christmas music",
+                            "count": 100
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Motet",
+                            "subject": "Motets",
+                            "count": 92
+                          },
+                          {
+                            "url": null,
+                            "subject": "Sacred songs (Medium voice) with piano",
+                            "count": 85
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1992,
+                          "median": 1995,
+                          "mode": 1996
+                        }
+                      }
+                    },
+                    "M2010-2017.6": {
+                      "id": "M2010-2017.6",
+                      "subject": "Choral services, etc.",
+                      "count": 1359,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2010-2017.6",
+                        "subject": "Choral services, etc.",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Mass",
+                            "subject": "Masses",
+                            "count": 711
+                          },
+                          {
+                            "url": null,
+                            "subject": "Masses, Unaccompanied",
+                            "count": 203
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Requiem",
+                            "subject": "Requiems",
+                            "count": 190
+                          },
+                          {
+                            "url": null,
+                            "subject": "Vespers (Music)",
+                            "count": 41
+                          },
+                          {
+                            "url": null,
+                            "subject": "Choruses, Sacred (Mixed voices) with orchestra",
+                            "count": 38
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1990,
+                          "median": 1992,
+                          "mode": 1990
+                        }
+                      }
+                    },
+                    "M1999": {
+                      "id": "M1999",
+                      "subject": "Collections",
+                      "count": 154,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1999",
+                        "subject": "Collections",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Sacred vocal music",
+                            "count": 55
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Motet",
+                            "subject": "Motets",
+                            "count": 40
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Music",
+                            "subject": "Music",
+                            "count": 29
+                          },
+                          {
+                            "url": null,
+                            "subject": "Masses, Unaccompanied",
+                            "count": 23
+                          },
+                          {
+                            "url": null,
+                            "subject": "Choruses, Sacred (Mixed voices), Unaccompanied",
+                            "count": 20
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1985,
+                          "median": 1986,
+                          "mode": 1983
+                        }
+                      }
+                    },
+                    "M2198-2199": {
+                      "id": "M2198-2199",
+                      "subject": "Popular religious and devotional music",
+                      "count": 511,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2198-2199",
+                        "subject": "Popular religious and devotional music",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Gospel_music",
+                            "subject": "Gospel music",
+                            "count": 292
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Contemporary_Christian_music",
+                            "subject": "Contemporary Christian music",
+                            "count": 173
+                          },
+                          {
+                            "url": null,
+                            "subject": "Hymns, English",
+                            "count": 53
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Christian_rock",
+                            "subject": "Christian rock music",
+                            "count": 18
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Christmas_music",
+                            "subject": "Christmas music",
+                            "count": 10
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1984,
+                          "median": 1987,
+                          "mode": 1986
+                        }
+                      }
+                    },
+                    "M2018-2019.5": {
+                      "id": "M2018-2019.5",
+                      "subject": "Two or more solo voices",
+                      "count": 237,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2018-2019.5",
+                        "subject": "Two or more solo voices",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Motet",
+                            "subject": "Motets",
+                            "count": 69
+                          },
+                          {
+                            "url": null,
+                            "subject": "Sacred vocal duets with instrumental ensemble",
+                            "count": 45
+                          },
+                          {
+                            "url": null,
+                            "subject": "Sacred vocal duets with continuo",
+                            "count": 34
+                          },
+                          {
+                            "url": null,
+                            "subject": "Psalms (Music)",
+                            "count": 23
+                          },
+                          {
+                            "url": null,
+                            "subject": "Sacred vocal trios with instrumental ensemble",
+                            "count": 21
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1996,
+                          "median": 1999,
+                          "mode": 2002
+                        }
+                      }
+                    },
+                    "M2000-2007": {
+                      "id": "M2000-2007",
+                      "subject": "Dramatic music",
+                      "count": 507,
+                      "children": {},
+                      "subjects": {
+                        "id": "M2000-2007",
+                        "subject": "Dramatic music",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Oratorio",
+                            "subject": "Oratorios",
+                            "count": 469
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Passion_(music)",
+                            "subject": "Passion music",
+                            "count": 78
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Christmas_music",
+                            "subject": "Christmas music",
+                            "count": 44
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Music",
+                            "subject": "Music",
+                            "count": 35
+                          },
+                          {
+                            "url": null,
+                            "subject": "Easter music",
+                            "count": 21
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1985,
+                          "median": 1990,
+                          "mode": 1986
+                        }
+                      }
+                    }
+                  },
+                  "subjects": null
+                },
+                "M1497-1998": {
+                  "id": "M1497-1998",
+                  "subject": "Secular vocal music",
+                  "count": 3,
+                  "children": {
+                    "M1627-1853": {
+                      "id": "M1627-1853",
+                      "subject": "Folk, national and ethnic music",
+                      "count": 17284,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1627-1853",
+                        "subject": "Folk, national and ethnic music",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Popular_music",
+                            "subject": "Popular music",
+                            "count": 8993
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/World_War_I",
+                            "subject": "World War, 1914-1918",
+                            "count": 5095
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Folk_music",
+                            "subject": "Folk music",
+                            "count": 2221
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Rock_music",
+                            "subject": "Rock music",
+                            "count": 1200
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Country_music",
+                            "subject": "Country music",
+                            "count": 707
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1964,
+                          "median": 1980,
+                          "mode": 1918
+                        }
+                      }
+                    },
+                    "M1900-1985": {
+                      "id": "M1900-1985",
+                      "subject": "Songs of specific groups or on specific topics",
+                      "count": 378,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1900-1985",
+                        "subject": "Songs of specific groups or on specific topics",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Popular_music",
+                            "subject": "Popular music",
+                            "count": 138
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs (Medium voice) with piano",
+                            "count": 76
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Sea_song",
+                            "subject": "Sea songs",
+                            "count": 39
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs (High voice) with piano",
+                            "count": 37
+                          },
+                          {
+                            "url": null,
+                            "subject": "Folk songs, English",
+                            "count": 35
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1958,
+                          "median": 1979,
+                          "mode": 1912
+                        }
+                      }
+                    },
+                    "M1990-1998": {
+                      "id": "M1990-1998",
+                      "subject": "Secular vocal music for children",
+                      "count": 889,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1990-1998",
+                        "subject": "Secular vocal music for children",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Children's_song",
+                            "subject": "Children's songs",
+                            "count": 361
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Musical",
+                            "subject": "Musicals",
+                            "count": 143
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Song",
+                            "subject": "Songs",
+                            "count": 88
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Singing_game",
+                            "subject": "Singing games",
+                            "count": 56
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Opera",
+                            "subject": "Operas",
+                            "count": 48
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1985,
+                          "median": 1989,
+                          "mode": 1983
+                        }
+                      }
+                    },
+                    "M1611-1624.8": {
+                      "id": "M1611-1624.8",
+                      "subject": "One solo voice",
+                      "count": 5575,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1611-1624.8",
+                        "subject": "One solo voice",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Songs (High voice) with piano",
+                            "count": 1218
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs (Medium voice) with piano",
+                            "count": 1149
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs (High voice) with instrumental ensemble",
+                            "count": 713
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Song_cycle",
+                            "subject": "Song cycles",
+                            "count": 594
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs with piano",
+                            "count": 514
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1985,
+                          "median": 1991,
+                          "mode": 1984
+                        }
+                      }
+                    },
+                    "M1500-1527.8": {
+                      "id": "M1500-1527.8",
+                      "subject": "Dramatic music",
+                      "count": 6959,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1500-1527.8",
+                        "subject": "Dramatic music",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Opera",
+                            "subject": "Operas",
+                            "count": 4154
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Musical",
+                            "subject": "Musicals",
+                            "count": 1317
+                          },
+                          {
+                            "url": null,
+                            "subject": "Motion picture music",
+                            "count": 593
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs (High voice) with orchestra",
+                            "count": 467
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Ballet",
+                            "subject": "Ballets",
+                            "count": 451
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1961,
+                          "median": 1985,
+                          "mode": 1985
+                        }
+                      }
+                    },
+                    "M1497": {
+                      "id": "M1497",
+                      "subject": "Collections",
+                      "count": 189,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1497",
+                        "subject": "Collections",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Opera",
+                            "subject": "Operas",
+                            "count": 118
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs (High voice) with piano",
+                            "count": 43
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs (High voice) with orchestra",
+                            "count": 34
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Music",
+                            "subject": "Music",
+                            "count": 28
+                          },
+                          {
+                            "url": null,
+                            "subject": "Songs (Medium voice) with piano",
+                            "count": 25
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1981,
+                          "median": 1983,
+                          "mode": 1983
+                        }
+                      }
+                    },
+                    "M1530-1609": {
+                      "id": "M1530-1609",
+                      "subject": "Choruses",
+                      "count": 5246,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1530-1609",
+                        "subject": "Choruses",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Choruses, Secular (Mixed voices, 4 parts), Unaccompanied",
+                            "count": 649
+                          },
+                          {
+                            "url": null,
+                            "subject": "Choruses, Secular (Mixed voices) with orchestra",
+                            "count": 320
+                          },
+                          {
+                            "url": null,
+                            "subject": "Choruses, Secular (Mixed voices, 4 parts) with piano",
+                            "count": 258
+                          },
+                          {
+                            "url": null,
+                            "subject": "Cantatas, Secular",
+                            "count": 213
+                          },
+                          {
+                            "url": null,
+                            "subject": "Choruses, Secular (Mixed voices) with instrumental ensemble",
+                            "count": 210
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1993,
+                          "median": 1997,
+                          "mode": 2003
+                        }
+                      }
+                    },
+                    "M1528-1529.5": {
+                      "id": "M1528-1529.5",
+                      "subject": "Two or more solo voices",
+                      "count": 565,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1528-1529.5",
+                        "subject": "Two or more solo voices",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Vocal duets with piano",
+                            "count": 79
+                          },
+                          {
+                            "url": null,
+                            "subject": "Vocal duets with instrumental ensemble",
+                            "count": 77
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Music",
+                            "subject": "Music",
+                            "count": 56
+                          },
+                          {
+                            "url": null,
+                            "subject": "Cantatas, Secular",
+                            "count": 33
+                          },
+                          {
+                            "url": null,
+                            "subject": "Vocal duets with orchestra",
+                            "count": 29
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1989,
+                          "median": 1993,
+                          "mode": 1985
+                        }
+                      }
+                    },
+                    "M1625-1626": {
+                      "id": "M1625-1626",
+                      "subject": "Recitations with music",
+                      "count": 389,
+                      "children": {},
+                      "subjects": {
+                        "id": "M1625-1626",
+                        "subject": "Recitations with music",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Monologues with music (Instrumental ensemble)",
+                            "count": 106
+                          },
+                          {
+                            "url": null,
+                            "subject": "Monologues with music (Orchestra)",
+                            "count": 90
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Music",
+                            "subject": "Music",
+                            "count": 35
+                          },
+                          {
+                            "url": null,
+                            "subject": "Monologues with music (Piano)",
+                            "count": 28
+                          },
+                          {
+                            "url": null,
+                            "subject": "Monologues with music (Voice with instrumental ensemble)",
+                            "count": 11
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1991,
+                          "median": 1992,
+                          "mode": 1992
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "M1497-1998",
+                    "subject": "Secular vocal music",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1981,
+                      "median": 1977,
+                      "mode": 1970
+                    }
+                  }
+                },
+                "M1495": {
+                  "id": "M1495",
+                  "subject": "Collections",
+                  "count": 183,
+                  "children": {},
+                  "subjects": {
+                    "id": "M1495",
+                    "subject": "Collections",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Opera",
+                        "subject": "Operas",
+                        "count": 39
+                      },
+                      {
+                        "url": null,
+                        "subject": "Songs (High voice) with piano",
+                        "count": 28
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 19
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Vocal_music",
+                        "subject": "Vocal music",
+                        "count": 19
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Oratorio",
+                        "subject": "Oratorios",
+                        "count": 19
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1985,
+                      "mode": 1983
+                    }
+                  }
+                }
+              },
+              "subjects": null
+            },
+            "M2-2.3": {
+              "id": "M2-2.3",
+              "subject": "Musical sources",
+              "count": 1212,
+              "children": {},
+              "subjects": {
+                "id": "M2-2.3",
+                "subject": "Musical sources",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 200
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Motet",
+                    "subject": "Motets",
+                    "count": 37
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Vocal_music",
+                    "subject": "Vocal music",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Chamber_music",
+                    "subject": "Chamber music",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Instrumental",
+                    "subject": "Instrumental music",
+                    "count": 22
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1985,
+                  "mode": 2010
+                }
+              }
+            },
+            "M5-1480": {
+              "id": "M5-1480",
+              "subject": "Instrumental music",
+              "count": 15,
+              "children": {
+                "M6-175.5": {
+                  "id": "M6-175.5",
+                  "subject": "One solo instrument",
+                  "count": 20691,
+                  "children": {},
+                  "subjects": {
+                    "id": "M6-175.5",
+                    "subject": "One solo instrument",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Piano",
+                        "subject": "Piano music",
+                        "count": 5210
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Organ_repertoire",
+                        "subject": "Organ music",
+                        "count": 2817
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Guitar",
+                        "subject": "Guitar music",
+                        "count": 1307
+                      },
+                      {
+                        "url": null,
+                        "subject": "Sonatas (Piano)",
+                        "count": 1244
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 909
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1989,
+                      "median": 1992,
+                      "mode": 1995
+                    }
+                  }
+                },
+                "M177-990": {
+                  "id": "M177-990",
+                  "subject": "Two or more solo instruments",
+                  "count": 30329,
+                  "children": {},
+                  "subjects": {
+                    "id": "M177-990",
+                    "subject": "Two or more solo instruments",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/String_quartet",
+                        "subject": "String quartets",
+                        "count": 2051
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 1409
+                      },
+                      {
+                        "url": null,
+                        "subject": "Violin and piano music",
+                        "count": 843
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musical_ensemble",
+                        "subject": "Instrumental ensembles",
+                        "count": 671
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Percussion_ensemble",
+                        "subject": "Percussion ensembles",
+                        "count": 658
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1991,
+                      "median": 1993,
+                      "mode": 1992
+                    }
+                  }
+                },
+                "M1375-1420": {
+                  "id": "M1375-1420",
+                  "subject": "Instrumental music for children",
+                  "count": 1063,
+                  "children": {},
+                  "subjects": {
+                    "id": "M1375-1420",
+                    "subject": "Instrumental music for children",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Piano",
+                        "subject": "Piano music",
+                        "count": 166
+                      },
+                      {
+                        "url": null,
+                        "subject": "Piano music, Arranged",
+                        "count": 31
+                      },
+                      {
+                        "url": null,
+                        "subject": "String orchestra music, Arranged",
+                        "count": 27
+                      },
+                      {
+                        "url": null,
+                        "subject": "Piano music (4 hands)",
+                        "count": 21
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Orchestra",
+                        "subject": "Orchestral music",
+                        "count": 17
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1996,
+                      "median": 1999,
+                      "mode": 2003
+                    }
+                  }
+                },
+                "M1100-1160": {
+                  "id": "M1100-1160",
+                  "subject": "String orchestra",
+                  "count": 2846,
+                  "children": {},
+                  "subjects": {
+                    "id": "M1100-1160",
+                    "subject": "String orchestra",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "String orchestra music",
+                        "count": 427
+                      },
+                      {
+                        "url": null,
+                        "subject": "Concertos (Violin with string orchestra)",
+                        "count": 254
+                      },
+                      {
+                        "url": null,
+                        "subject": "String orchestra music, Arranged",
+                        "count": 241
+                      },
+                      {
+                        "url": null,
+                        "subject": "Concertos (Flute with string orchestra)",
+                        "count": 157
+                      },
+                      {
+                        "url": null,
+                        "subject": "Symphonies (String orchestra)",
+                        "count": 144
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1991,
+                      "median": 1993,
+                      "mode": 1984
+                    }
+                  }
+                },
+                "M1000-1075": {
+                  "id": "M1000-1075",
+                  "subject": "Orchestra",
+                  "count": 10659,
+                  "children": {},
+                  "subjects": {
+                    "id": "M1000-1075",
+                    "subject": "Orchestra",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Orchestra",
+                        "subject": "Orchestral music",
+                        "count": 2233
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Symphony",
+                        "subject": "Symphonies",
+                        "count": 2095
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 900
+                      },
+                      {
+                        "url": null,
+                        "subject": "Concertos (Piano)",
+                        "count": 741
+                      },
+                      {
+                        "url": null,
+                        "subject": "Concertos (Violin)",
+                        "count": 576
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1988,
+                      "median": 1987,
+                      "mode": 1984
+                    }
+                  }
+                },
+                "M1470-1480": {
+                  "id": "M1470-1480",
+                  "subject": "Aleatory music. Electronic music. Mixed media",
+                  "count": 96,
+                  "children": {},
+                  "subjects": {
+                    "id": "M1470-1480",
+                    "subject": "Aleatory music. Electronic music. Mixed media",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Electronic_music",
+                        "subject": "Electronic music",
+                        "count": 51
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Aleatoric_music",
+                        "subject": "Aleatory music",
+                        "count": 31
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 15
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Musical_ensemble",
+                        "subject": "Instrumental ensembles",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Computer_music",
+                        "subject": "Computer music",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1983,
+                      "mode": 1980
+                    }
+                  }
+                },
+                "M176": {
+                  "id": "M176",
+                  "subject": "Motion picture music",
+                  "count": 34,
+                  "children": {},
+                  "subjects": {
+                    "id": "M176",
+                    "subject": "Motion picture music",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Silent film music",
+                        "count": 32
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1975,
+                      "median": 1997,
+                      "mode": 1997
+                    }
+                  }
+                },
+                "M1200-1270": {
+                  "id": "M1200-1270",
+                  "subject": "Band",
+                  "count": 2803,
+                  "children": {},
+                  "subjects": {
+                    "id": "M1200-1270",
+                    "subject": "Band",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Band music",
+                        "count": 523
+                      },
+                      {
+                        "url": null,
+                        "subject": "Band music, Arranged",
+                        "count": 257
+                      },
+                      {
+                        "url": null,
+                        "subject": "Marches (Band)",
+                        "count": 130
+                      },
+                      {
+                        "url": null,
+                        "subject": "Flute choir music, Arranged",
+                        "count": 76
+                      },
+                      {
+                        "url": null,
+                        "subject": "Suites (Band)",
+                        "count": 69
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1995,
+                      "median": 1998,
+                      "mode": 2003
+                    }
+                  }
+                },
+                "M1350-1366": {
+                  "id": "M1350-1366",
+                  "subject": "Other ensembles",
+                  "count": 3135,
+                  "children": {},
+                  "subjects": {
+                    "id": "M1350-1366",
+                    "subject": "Other ensembles",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Jazz",
+                        "subject": "Jazz",
+                        "count": 2200
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Big_band",
+                        "subject": "Big band music",
+                        "count": 363
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Popular_music",
+                        "subject": "Popular music",
+                        "count": 197
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 178
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Vocal_jazz",
+                        "subject": "Jazz vocals",
+                        "count": 143
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1986,
+                      "mode": 1983
+                    }
+                  }
+                },
+                "M5": {
+                  "id": "M5",
+                  "subject": "Collections",
+                  "count": 295,
+                  "children": {},
+                  "subjects": {
+                    "id": "M5",
+                    "subject": "Collections",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Music",
+                        "subject": "Music",
+                        "count": 33
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Piano",
+                        "subject": "Piano music",
+                        "count": 25
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Flute_repertory",
+                        "subject": "Flute music",
+                        "count": 23
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Instrumental",
+                        "subject": "Instrumental music",
+                        "count": 21
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Chamber_music",
+                        "subject": "Chamber music",
+                        "count": 19
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1983,
+                      "mode": 1984
+                    }
+                  }
+                },
+                "M176.5": {
+                  "id": "M176.5",
+                  "subject": "Radio and television music",
+                  "count": 2,
+                  "children": {},
+                  "subjects": {
+                    "id": "M176.5",
+                    "subject": "Radio and television music",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1963,
+                      "median": 1964,
+                      "mode": 1962
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "M5-1480",
+                "subject": "Instrumental music",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Dance_music",
+                    "subject": "Dance music",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1978,
+                  "mode": 1976
+                }
+              }
+            },
+            "M1": {
+              "id": "M1",
+              "subject": "Miscellaneous",
+              "count": 1479,
+              "children": {},
+              "subjects": {
+                "id": "M1",
+                "subject": "Miscellaneous",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Piano",
+                    "subject": "Piano music",
+                    "count": 402
+                  },
+                  {
+                    "url": null,
+                    "subject": "Songs with piano",
+                    "count": 380
+                  },
+                  {
+                    "url": null,
+                    "subject": "Songs (Medium voice) with piano",
+                    "count": 147
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Opera",
+                    "subject": "Operas",
+                    "count": 101
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 85
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1863,
+                  "median": 1846,
+                  "mode": 1820
+                }
+              }
+            },
+            "M3-3.3": {
+              "id": "M3-3.3",
+              "subject": "Collected works of individual composers",
+              "count": 4168,
+              "children": {},
+              "subjects": {
+                "id": "M3-3.3",
+                "subject": "Collected works of individual composers",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Piano",
+                    "subject": "Piano music",
+                    "count": 470
+                  },
+                  {
+                    "url": null,
+                    "subject": "Songs (High voice) with piano",
+                    "count": 236
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 226
+                  },
+                  {
+                    "url": null,
+                    "subject": "Piano music, Arranged",
+                    "count": 205
+                  },
+                  {
+                    "url": null,
+                    "subject": "Songs (Medium voice) with piano",
+                    "count": 204
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1931,
+                  "median": 1976,
+                  "mode": 1984
+                }
+              }
+            },
+            "M1490": {
+              "id": "M1490",
+              "subject": "Music printed or copied in manuscript before 1700",
+              "count": 197,
+              "children": {},
+              "subjects": {
+                "id": "M1490",
+                "subject": "Music printed or copied in manuscript before 1700",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Madrigals, Italian",
+                    "count": 44
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Motet",
+                    "subject": "Motets",
+                    "count": 34
+                  },
+                  {
+                    "url": null,
+                    "subject": "Part songs, Sacred",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Part_song",
+                    "subject": "Part songs",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Psalms (Music)",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1645,
+                  "median": 1607,
+                  "mode": 1946
+                }
+              }
+            },
+            "M5000": {
+              "id": "M5000",
+              "subject": "Unidentified compositions",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "M5000",
+                "subject": "Unidentified compositions",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1799,
+                  "median": 1799,
+                  "mode": 1799
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "M1-5000",
+            "subject": "Music",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1972,
+              "median": 1972,
+              "mode": 1972
+            }
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}

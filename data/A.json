@@ -1,0 +1,1277 @@
+{
+  "code": "A",
+  "subject": "General Works",
+  "count": 0,
+  "children": {
+    "AC": {
+      "id": "AC",
+      "subject": "Collections.  Series.  Collected works",
+      "count": 0,
+      "children": {
+        "AC1-195": {
+          "id": "AC1-195",
+          "subject": "Collections of monographs, essays, etc.",
+          "count": 0,
+          "children": {
+            "AC1-8": {
+              "id": "AC1-8",
+              "subject": "American and English",
+              "count": 3082,
+              "children": {},
+              "subjects": {
+                "id": "AC1-8",
+                "subject": "American and English",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Religion",
+                    "subject": "Religion",
+                    "count": 51
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Woman",
+                    "subject": "Women",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Literature",
+                    "subject": "Literature",
+                    "count": 24
+                  },
+                  {
+                    "url": null,
+                    "subject": "Conduct of life",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Science",
+                    "subject": "Science",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1938,
+                  "median": 1932,
+                  "mode": 1929
+                }
+              }
+            },
+            "AC9-195": {
+              "id": "AC9-195",
+              "subject": "Other languages",
+              "count": 8267,
+              "children": {},
+              "subjects": {
+                "id": "AC9-195",
+                "subject": "Other languages",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Interview",
+                    "subject": "Interviews",
+                    "count": 59
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Philosophy",
+                    "subject": "Philosophy",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Literature",
+                    "subject": "Literature",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Chinese_literature",
+                    "subject": "Chinese literature",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Modern_history",
+                    "subject": "Civilization, Modern",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1983,
+                  "mode": 1987
+                }
+              }
+            }
+          },
+          "subjects": null
+        },
+        "AC1-999": {
+          "id": "AC1-999",
+          "subject": "Collections.  Series.  Collected works",
+          "count": 3,
+          "children": {
+            "AC901-995": {
+              "id": "AC901-995",
+              "subject": "Pamphlet collections",
+              "count": 9289,
+              "children": {},
+              "subjects": {
+                "id": "AC901-995",
+                "subject": "Pamphlet collections",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Sermons, American",
+                    "count": 149
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Slavery",
+                    "subject": "Slavery",
+                    "count": 93
+                  },
+                  {
+                    "url": null,
+                    "subject": "Sermons, English",
+                    "count": 90
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Tariff",
+                    "subject": "Tariff",
+                    "count": 88
+                  },
+                  {
+                    "url": null,
+                    "subject": "Dissenters, Religious",
+                    "count": 79
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1796,
+                  "median": 1808,
+                  "mode": 1866
+                }
+              }
+            },
+            "AC801-895": {
+              "id": "AC801-895",
+              "subject": "Inaugural and program dissertations",
+              "count": 27,
+              "children": {},
+              "subjects": {
+                "id": "AC801-895",
+                "subject": "Inaugural and program dissertations",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Dissertations, Academic",
+                    "count": 25
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1979,
+                  "mode": 1977
+                }
+              }
+            },
+            "AC999": {
+              "id": "AC999",
+              "subject": "Scrapbooks",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "AC999",
+                "subject": "Scrapbooks",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1834,
+                  "median": 1834,
+                  "mode": 1834
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "AC1-999",
+            "subject": "Collections.  Series.  Collected works",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1937,
+              "median": 1979,
+              "mode": 1896
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AE": {
+      "id": "AE",
+      "subject": "Encyclopedias",
+      "count": 0,
+      "children": {
+        "AE1-90": {
+          "id": "AE1-90",
+          "subject": "Encyclopedias",
+          "count": 330,
+          "children": {
+            "AE5-90": {
+              "id": "AE5-90",
+              "subject": "By language",
+              "count": 1276,
+              "children": {},
+              "subjects": {
+                "id": "AE5-90",
+                "subject": "By language",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Encyclopedias and dictionaries",
+                    "count": 604
+                  },
+                  {
+                    "url": null,
+                    "subject": "Encyclopedias and dictionaries, Chinese",
+                    "count": 74
+                  },
+                  {
+                    "url": null,
+                    "subject": "Encyclopedias and dictionaries, French",
+                    "count": 59
+                  },
+                  {
+                    "url": null,
+                    "subject": "Encyclopedias and dictionaries, German",
+                    "count": 57
+                  },
+                  {
+                    "url": null,
+                    "subject": "Encyclopedias and dictionaries, Spanish",
+                    "count": 48
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1976,
+                  "mode": 1969
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "AE1-90",
+            "subject": "Encyclopedias",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Encyclopedias and dictionaries",
+                "count": 186
+              },
+              {
+                "url": null,
+                "subject": "Encyclopedias and dictionaries, Chinese",
+                "count": 110
+              },
+              {
+                "url": null,
+                "subject": "Learning and scholarship",
+                "count": 26
+              },
+              {
+                "url": null,
+                "subject": "Encyclopedias and dictionaries, Japanese",
+                "count": 17
+              },
+              {
+                "url": null,
+                "subject": "Civilization, Medieval",
+                "count": 15
+              }
+            ],
+            "pubDates": {
+              "avg": 1936,
+              "median": 1988,
+              "mode": 1992
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AG": {
+      "id": "AG",
+      "subject": "Dictionaries and other general reference works",
+      "count": 0,
+      "children": {
+        "AG2-600": {
+          "id": "AG2-600",
+          "subject": "Dictionaries and other general reference works",
+          "count": 3104,
+          "children": {},
+          "subjects": {
+            "id": "AG2-600",
+            "subject": "Dictionaries and other general reference works",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Curiosities and wonders",
+                "count": 1029
+              },
+              {
+                "url": null,
+                "subject": "Encyclopedias and dictionaries",
+                "count": 607
+              },
+              {
+                "url": null,
+                "subject": "Handbooks, vade-mecums, etc",
+                "count": 367
+              },
+              {
+                "url": null,
+                "subject": "Questions and answers",
+                "count": 345
+              },
+              {
+                "url": null,
+                "subject": "Children's encyclopedias and dictionaries",
+                "count": 234
+              }
+            ],
+            "pubDates": {
+              "avg": 1970,
+              "median": 1984,
+              "mode": 1980
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AZ": {
+      "id": "AZ",
+      "subject": "History of scholarship and learning.  The humanities",
+      "count": 0,
+      "children": {
+        "AZ20-999": {
+          "id": "AZ20-999",
+          "subject": "History of scholarship and learning.  The humanities",
+          "count": 415,
+          "children": {
+            "AZ200-361": {
+              "id": "AZ200-361",
+              "subject": "History",
+              "count": 291,
+              "children": {},
+              "subjects": {
+                "id": "AZ200-361",
+                "subject": "History",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Humanity",
+                    "subject": "Humanities",
+                    "count": 145
+                  },
+                  {
+                    "url": null,
+                    "subject": "Learning and scholarship",
+                    "count": 132
+                  },
+                  {
+                    "url": null,
+                    "subject": "Science and the humanities",
+                    "count": 48
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Social_science",
+                    "subject": "Social sciences",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Science",
+                    "subject": "Science",
+                    "count": 19
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1984,
+                  "mode": 1993
+                }
+              }
+            },
+            "AZ101-181": {
+              "id": "AZ101-181",
+              "subject": "Philosophy.  Theory",
+              "count": 367,
+              "children": {},
+              "subjects": {
+                "id": "AZ101-181",
+                "subject": "Philosophy.  Theory",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Humanity",
+                    "subject": "Humanities",
+                    "count": 210
+                  },
+                  {
+                    "url": null,
+                    "subject": "Learning and scholarship",
+                    "count": 101
+                  },
+                  {
+                    "url": null,
+                    "subject": "Signs and symbols",
+                    "count": 98
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Social_science",
+                    "subject": "Social sciences",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Research",
+                    "subject": "Research",
+                    "count": 23
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1983,
+                  "mode": 1980
+                }
+              }
+            },
+            "AZ501-908": {
+              "id": "AZ501-908",
+              "subject": "By region or country",
+              "count": 849,
+              "children": {},
+              "subjects": {
+                "id": "AZ501-908",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Learning and scholarship",
+                    "count": 613
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Humanity",
+                    "subject": "Humanities",
+                    "count": 246
+                  },
+                  {
+                    "url": null,
+                    "subject": "Philosophy, Chinese",
+                    "count": 63
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Scholarly_method",
+                    "subject": "Scholars",
+                    "count": 55
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Social_science",
+                    "subject": "Social sciences",
+                    "count": 52
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1994,
+                  "mode": 2008
+                }
+              }
+            },
+            "AZ191-193": {
+              "id": "AZ191-193",
+              "subject": "Evaluation",
+              "count": 23,
+              "children": {},
+              "subjects": {
+                "id": "AZ191-193",
+                "subject": "Evaluation",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Evaluation",
+                    "subject": "Evaluation",
+                    "count": 24
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1991,
+                  "median": 1989,
+                  "mode": 1981
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "AZ20-999",
+            "subject": "History of scholarship and learning.  The humanities",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Humanity",
+                "subject": "Humanities",
+                "count": 365
+              },
+              {
+                "url": null,
+                "subject": "Common fallacies",
+                "count": 80
+              },
+              {
+                "url": "http://dbpedia.org/resource/Social_science",
+                "subject": "Social sciences",
+                "count": 50
+              },
+              {
+                "url": null,
+                "subject": "Learning and scholarship",
+                "count": 38
+              },
+              {
+                "url": "http://dbpedia.org/resource/Research",
+                "subject": "Research",
+                "count": 33
+              }
+            ],
+            "pubDates": {
+              "avg": 1992,
+              "median": 1998,
+              "mode": 2007
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AM": {
+      "id": "AM",
+      "subject": "Museums.  Collectors and collecting",
+      "count": 0,
+      "children": {
+        "AM1-501": {
+          "id": "AM1-501",
+          "subject": "Museums.  Collectors and collecting",
+          "count": 2511,
+          "children": {
+            "AM10-100": {
+              "id": "AM10-100",
+              "subject": "By country",
+              "count": 2046,
+              "children": {},
+              "subjects": {
+                "id": "AM10-100",
+                "subject": "By country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Museum",
+                    "subject": "Museums",
+                    "count": 2220
+                  },
+                  {
+                    "url": null,
+                    "subject": "Museum techniques",
+                    "count": 117
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Art_museum",
+                    "subject": "Art museums",
+                    "count": 65
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cultural_property",
+                    "subject": "Cultural property",
+                    "count": 44
+                  },
+                  {
+                    "url": null,
+                    "subject": "Museum attendance",
+                    "count": 36
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1996,
+                  "median": 1994,
+                  "mode": 1997
+                }
+              }
+            },
+            "AM200-501": {
+              "id": "AM200-501",
+              "subject": "Collectors and collecting",
+              "count": 356,
+              "children": {},
+              "subjects": {
+                "id": "AM200-501",
+                "subject": "Collectors and collecting",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Collectors and collecting",
+                    "count": 324
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Collectable",
+                    "subject": "Collectibles",
+                    "count": 75
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Museum",
+                    "subject": "Museums",
+                    "count": 35
+                  },
+                  {
+                    "url": null,
+                    "subject": "Cabinets of curiosities",
+                    "count": 16
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Art",
+                    "subject": "Art",
+                    "count": 16
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1994,
+                  "mode": 1981
+                }
+              }
+            },
+            "AM111-160": {
+              "id": "AM111-160",
+              "subject": "Museology.  Museum methods, technique, etc.",
+              "count": 607,
+              "children": {},
+              "subjects": {
+                "id": "AM111-160",
+                "subject": "Museology.  Museum methods, technique, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Museum",
+                    "subject": "Museums",
+                    "count": 416
+                  },
+                  {
+                    "url": null,
+                    "subject": "Museum techniques",
+                    "count": 162
+                  },
+                  {
+                    "url": null,
+                    "subject": "Museum conservation methods",
+                    "count": 135
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Exhibit_design",
+                    "subject": "Museum exhibits",
+                    "count": 93
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cultural_property",
+                    "subject": "Cultural property",
+                    "count": 56
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1993,
+                  "median": 1995,
+                  "mode": 2007
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "AM1-501",
+            "subject": "Museums.  Collectors and collecting",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Museum",
+                "subject": "Museums",
+                "count": 1269
+              },
+              {
+                "url": null,
+                "subject": "Museum techniques",
+                "count": 239
+              },
+              {
+                "url": "http://dbpedia.org/resource/Exhibit_design",
+                "subject": "Museum exhibits",
+                "count": 55
+              },
+              {
+                "url": "http://dbpedia.org/resource/Cultural_property",
+                "subject": "Cultural property",
+                "count": 49
+              },
+              {
+                "url": "http://dbpedia.org/resource/Art",
+                "subject": "Art",
+                "count": 45
+              }
+            ],
+            "pubDates": {
+              "avg": 1981,
+              "median": 1988,
+              "mode": 1988
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AS": {
+      "id": "AS",
+      "subject": "Academies and learned societies",
+      "count": 0,
+      "children": {
+        "AS1-945": {
+          "id": "AS1-945",
+          "subject": "Academies and learned societies",
+          "count": 1029,
+          "children": {
+            "AS11-785": {
+              "id": "AS11-785",
+              "subject": "By region or country",
+              "count": 19806,
+              "children": {},
+              "subjects": {
+                "id": "AS11-785",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Humanity",
+                    "subject": "Humanities",
+                    "count": 1094
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Science",
+                    "subject": "Science",
+                    "count": 658
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Social_science",
+                    "subject": "Social sciences",
+                    "count": 552
+                  },
+                  {
+                    "url": null,
+                    "subject": "Learned institutions and societies",
+                    "count": 520
+                  },
+                  {
+                    "url": null,
+                    "subject": "Dissertations, Academic",
+                    "count": 399
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1966,
+                  "mode": 1967
+                }
+              }
+            },
+            "AS2.5-4": {
+              "id": "AS2.5-4",
+              "subject": "International associations, congresses, conferences, etc.",
+              "count": 842,
+              "children": {},
+              "subjects": {
+                "id": "AS2.5-4",
+                "subject": "International associations, congresses, conferences, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Education",
+                    "subject": "Education",
+                    "count": 45
+                  },
+                  {
+                    "url": null,
+                    "subject": "Intellectual cooperation",
+                    "count": 45
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Multilateralism",
+                    "subject": "International cooperation",
+                    "count": 31
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Science",
+                    "subject": "Science",
+                    "count": 30
+                  },
+                  {
+                    "url": null,
+                    "subject": "Congresses and conventions",
+                    "count": 23
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1966,
+                  "median": 1970,
+                  "mode": 1970
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "AS1-945",
+            "subject": "Academies and learned societies",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Congresses and conventions",
+                "count": 173
+              },
+              {
+                "url": "http://dbpedia.org/resource/Meeting",
+                "subject": "Meetings",
+                "count": 152
+              },
+              {
+                "url": "http://dbpedia.org/resource/Nobel_Prize",
+                "subject": "Nobel Prizes",
+                "count": 131
+              },
+              {
+                "url": null,
+                "subject": "Associations, institutions, etc",
+                "count": 125
+              },
+              {
+                "url": "http://dbpedia.org/resource/Endowment",
+                "subject": "Endowments",
+                "count": 120
+              }
+            ],
+            "pubDates": {
+              "avg": 1981,
+              "median": 1985,
+              "mode": 1990
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AP": {
+      "id": "AP",
+      "subject": "Periodicals",
+      "count": 0,
+      "children": {
+        "AP1-271": {
+          "id": "AP1-271",
+          "subject": "Periodicals",
+          "count": 10324,
+          "children": {
+            "AP200-230": {
+              "id": "AP200-230",
+              "subject": "Juvenile periodicals",
+              "count": 331,
+              "children": {},
+              "subjects": {
+                "id": "AP200-230",
+                "subject": "Juvenile periodicals",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Children's_literature",
+                    "subject": "Children's literature",
+                    "count": 34
+                  },
+                  {
+                    "url": null,
+                    "subject": "Children's periodicals",
+                    "count": 28
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Child",
+                    "subject": "Children",
+                    "count": 15
+                  },
+                  {
+                    "url": null,
+                    "subject": "Children's periodicals, American",
+                    "count": 15
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Youth",
+                    "subject": "Youth",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1968,
+                  "mode": 2010
+                }
+              }
+            },
+            "AP101-115": {
+              "id": "AP101-115",
+              "subject": "Humorous periodicals",
+              "count": 174,
+              "children": {},
+              "subjects": {
+                "id": "AP101-115",
+                "subject": "Humorous periodicals",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Caricatures and cartoons",
+                    "count": 36
+                  },
+                  {
+                    "url": null,
+                    "subject": "American wit and humor",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Satire",
+                    "subject": "Satire",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Wit and humor",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "German wit and humor",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1932,
+                  "median": 1945,
+                  "mode": 1990
+                }
+              }
+            },
+            "AP250-265": {
+              "id": "AP250-265",
+              "subject": "Periodicals for women",
+              "count": 6,
+              "children": {},
+              "subjects": {
+                "id": "AP250-265",
+                "subject": "Periodicals for women",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1892,
+                  "median": 1949,
+                  "mode": 1836
+                }
+              }
+            },
+            "AP270-271": {
+              "id": "AP270-271",
+              "subject": "Periodicals for Blacks",
+              "count": 4,
+              "children": {},
+              "subjects": {
+                "id": "AP270-271",
+                "subject": "Periodicals for Blacks",
+                "topSubjects": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "AP1-271",
+            "subject": "Periodicals",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Literature",
+                "subject": "Literature",
+                "count": 346
+              },
+              {
+                "url": "http://dbpedia.org/resource/American_literature",
+                "subject": "American literature",
+                "count": 332
+              },
+              {
+                "url": "http://dbpedia.org/resource/History_of_modern_literature",
+                "subject": "Literature, Modern",
+                "count": 228
+              },
+              {
+                "url": "http://dbpedia.org/resource/Art",
+                "subject": "Arts",
+                "count": 185
+              },
+              {
+                "url": "http://dbpedia.org/resource/English_literature",
+                "subject": "English literature",
+                "count": 176
+              }
+            ],
+            "pubDates": {
+              "avg": 1916,
+              "median": 1938,
+              "mode": 1982
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AY": {
+      "id": "AY",
+      "subject": "Yearbooks.  Almanacs.  Directories",
+      "count": 0,
+      "children": {
+        "AY10-2001": {
+          "id": "AY10-2001",
+          "subject": "Yearbooks.  Almanacs.  Directories",
+          "count": 1,
+          "children": {
+            "AY30-1730": {
+              "id": "AY30-1730",
+              "subject": "Almanacs",
+              "count": 2272,
+              "children": {},
+              "subjects": {
+                "id": "AY30-1730",
+                "subject": "Almanacs",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Almanacs, American",
+                    "count": 1535
+                  },
+                  {
+                    "url": null,
+                    "subject": "Almanacs, German",
+                    "count": 102
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Armenian",
+                    "subject": "Armenians",
+                    "count": 82
+                  },
+                  {
+                    "url": null,
+                    "subject": "Almanacs, Polish",
+                    "count": 60
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Almanac",
+                    "subject": "Almanacs",
+                    "count": 60
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1893,
+                  "median": 1910,
+                  "mode": 1992
+                }
+              }
+            },
+            "AY10-29": {
+              "id": "AY10-29",
+              "subject": "Annuals",
+              "count": 133,
+              "children": {},
+              "subjects": {
+                "id": "AY10-29",
+                "subject": "Annuals",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Gift_book",
+                    "subject": "Gift books",
+                    "count": 84
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/American_literature",
+                    "subject": "American literature",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Children's literature, English",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1880,
+                  "median": 1851,
+                  "mode": 1829
+                }
+              }
+            },
+            "AY2001": {
+              "id": "AY2001",
+              "subject": "Directories",
+              "count": 14,
+              "children": {},
+              "subjects": {
+                "id": "AY2001",
+                "subject": "Directories",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Directory",
+                    "subject": "Directories",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1984,
+                  "mode": 1984
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "AY10-2001",
+            "subject": "Yearbooks.  Almanacs.  Directories",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1935,
+              "median": 1935,
+              "mode": 1935
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AI": {
+      "id": "AI",
+      "subject": "Indexes",
+      "count": 0,
+      "children": {
+        "AI1-21": {
+          "id": "AI1-21",
+          "subject": "Indexes",
+          "count": 798,
+          "children": {},
+          "subjects": {
+            "id": "AI1-21",
+            "subject": "Indexes",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Periodical_literature",
+                "subject": "Periodicals",
+                "count": 120
+              },
+              {
+                "url": "http://dbpedia.org/resource/Humanity",
+                "subject": "Humanities",
+                "count": 42
+              },
+              {
+                "url": "http://dbpedia.org/resource/Social_science",
+                "subject": "Social sciences",
+                "count": 32
+              },
+              {
+                "url": null,
+                "subject": "Japanese periodicals",
+                "count": 32
+              },
+              {
+                "url": "http://dbpedia.org/resource/Newspaper",
+                "subject": "Newspapers",
+                "count": 28
+              }
+            ],
+            "pubDates": {
+              "avg": 1974,
+              "median": 1980,
+              "mode": 1987
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "AN": {
+      "id": "AN",
+      "subject": "Newspapers",
+      "count": 0,
+      "children": {
+        "AN": {
+          "id": "AN",
+          "subject": "Newspapers",
+          "count": 2032,
+          "children": {},
+          "subjects": {
+            "id": "AN",
+            "subject": "Newspapers",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/African_Americans",
+                "subject": "African Americans",
+                "count": 25
+              },
+              {
+                "url": null,
+                "subject": "Underground press publications",
+                "count": 24
+              },
+              {
+                "url": null,
+                "subject": "Canadian newspapers (English)",
+                "count": 12
+              },
+              {
+                "url": "http://dbpedia.org/resource/Trade_union",
+                "subject": "Labor unions",
+                "count": 11
+              },
+              {
+                "url": "http://dbpedia.org/resource/Socialism",
+                "subject": "Socialism",
+                "count": 11
+              }
+            ],
+            "pubDates": {
+              "avg": 1886,
+              "median": 1899,
+              "mode": 1968
+            }
+          }
+        }
+      },
+      "subjects": {
+        "id": "AN",
+        "subject": "Newspapers",
+        "topSubjects": [
+          {
+            "url": "http://dbpedia.org/resource/African_Americans",
+            "subject": "African Americans",
+            "count": 25
+          },
+          {
+            "url": null,
+            "subject": "Underground press publications",
+            "count": 24
+          },
+          {
+            "url": null,
+            "subject": "Canadian newspapers (English)",
+            "count": 12
+          },
+          {
+            "url": "http://dbpedia.org/resource/Trade_union",
+            "subject": "Labor unions",
+            "count": 11
+          },
+          {
+            "url": "http://dbpedia.org/resource/Socialism",
+            "subject": "Socialism",
+            "count": 11
+          }
+        ],
+        "pubDates": {
+          "avg": 1886,
+          "median": 1899,
+          "mode": 1968
+        }
+      }
+    }
+  },
+  "subjects": null
+}

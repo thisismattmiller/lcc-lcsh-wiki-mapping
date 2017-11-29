@@ -1,0 +1,360 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>LCC/LCSH/DBpedia</title>
+
+
+
+
+  <style>
+  	body{
+  		font-family: sans-serif;
+  		font-size: 1.25em;
+  	}
+  	#sample{
+  		position: absolute;
+  		left: 400px;
+  		top: 15px;
+
+  	}
+  	.json-data{
+  		background-color: whitesmoke;
+  		padding: 10px;
+  	}
+
+  	.class-children{
+  		padding-left: 20px;
+  		position: relative;
+  	}
+
+	.class-children::before {
+		content: "⤷";
+	    position: absolute;
+	    left: 0px;
+	    color: darkgray;
+	    font-size: 1;
+	    top: 0px;
+
+	}
+
+	.class-title-subject{
+		color: #5d5d5d;
+		padding-left: 5px;
+	}
+
+
+	.class-title-code{
+		font-family: monospace;
+		display: inline-block;
+		min-width: 55px;
+		color: #5d5d5d !important;
+		text-decoration: none;
+	}
+
+	.class-title-code:hover:after {
+    	display: inline;
+    	content: '🔎';
+    	font-size: 0.75em;
+	}
+
+	.class{
+
+	    margin: 10px;
+	    padding: 10px;
+	}
+
+	.red{background-color:#f44336}.red-50{background-color:#ffebee}.red-100{background-color:#ffcdd2}.red-200{background-color:#ef9a9a}.red-300{background-color:#e57373}.red-400{background-color:#ef5350}.red-500{background-color:#f44336}.red-600{background-color:#e53935}.red-700{background-color:#d32f2f}.red-800{background-color:#c62828}.red-900{background-color:#b71c1c}.red-a100{background-color:#ff8a80}.red-a200{background-color:#ff5252}.red-a400{background-color:#ff1744}.red-a700{background-color:#d50000}.pink{background-color:#e91e63}.pink-50{background-color:#fce4ec}.pink-100{background-color:#f8bbd0}.pink-200{background-color:#f48fb1}.pink-300{background-color:#f06292}.pink-400{background-color:#ec407a}.pink-500{background-color:#e91e63}.pink-600{background-color:#d81b60}.pink-700{background-color:#c2185b}.pink-800{background-color:#ad1457}.pink-900{background-color:#880e4f}.pink-a100{background-color:#ff80ab}.pink-a200{background-color:#ff4081}.pink-a400{background-color:#f50057}.pink-a700{background-color:#c51162}.purple{background-color:#9c27b0}.purple-50{background-color:#f3e5f5}.purple-100{background-color:#e1bee7}.purple-200{background-color:#ce93d8}.purple-300{background-color:#ba68c8}.purple-400{background-color:#ab47bc}.purple-500{background-color:#9c27b0}.purple-600{background-color:#8e24aa}.purple-700{background-color:#7b1fa2}.purple-800{background-color:#6a1b9a}.purple-900{background-color:#4a148c}.purple-a100{background-color:#ea80fc}.purple-a200{background-color:#e040fb}.purple-a400{background-color:#d500f9}.purple-a700{background-color:#a0f}.deep-purple{background-color:#673ab7}.deep-purple-50{background-color:#ede7f6}.deep-purple-100{background-color:#d1c4e9}.deep-purple-200{background-color:#b39ddb}.deep-purple-300{background-color:#9575cd}.deep-purple-400{background-color:#7e57c2}.deep-purple-500{background-color:#673ab7}.deep-purple-600{background-color:#5e35b1}.deep-purple-700{background-color:#512da8}.deep-purple-800{background-color:#4527a0}.deep-purple-900{background-color:#311b92}.deep-purple-a100{background-color:#b388ff}.deep-purple-a200{background-color:#7c4dff}.deep-purple-a400{background-color:#651fff}.deep-purple-a700{background-color:#6200ea}.indigo{background-color:#3f51b5}.indigo-50{background-color:#e8eaf6}.indigo-100{background-color:#c5cae9}.indigo-200{background-color:#9fa8da}.indigo-300{background-color:#7986cb}.indigo-400{background-color:#5c6bc0}.indigo-500{background-color:#3f51b5}.indigo-600{background-color:#3949ab}.indigo-700{background-color:#303f9f}.indigo-800{background-color:#283593}.indigo-900{background-color:#1a237e}.indigo-a100{background-color:#8c9eff}.indigo-a200{background-color:#536dfe}.indigo-a400{background-color:#3d5afe}.indigo-a700{background-color:#304ffe}.blue{background-color:#2196f3}.blue-50{background-color:#e3f2fd}.blue-100{background-color:#bbdefb}.blue-200{background-color:#90caf9}.blue-300{background-color:#64b5f6}.blue-400{background-color:#42a5f5}.blue-500{background-color:#2196f3}.blue-600{background-color:#1e88e5}.blue-700{background-color:#1976d2}.blue-800{background-color:#1565c0}.blue-900{background-color:#0d47a1}.blue-a100{background-color:#82b1ff}.blue-a200{background-color:#448aff}.blue-a400{background-color:#2979ff}.blue-a700{background-color:#2962ff}.light-blue{background-color:#03a9f4}.light-blue-50{background-color:#e1f5fe}.light-blue-100{background-color:#b3e5fc}.light-blue-200{background-color:#81d4fa}.light-blue-300{background-color:#4fc3f7}.light-blue-400{background-color:#29b6f6}.light-blue-500{background-color:#03a9f4}.light-blue-600{background-color:#039be5}.light-blue-700{background-color:#0288d1}.light-blue-800{background-color:#0277bd}.light-blue-900{background-color:#01579b}.light-blue-a100{background-color:#80d8ff}.light-blue-a200{background-color:#40c4ff}.light-blue-a400{background-color:#00b0ff}.light-blue-a700{background-color:#0091ea}.cyan{background-color:#00bcd4}.cyan-50{background-color:#e0f7fa}.cyan-100{background-color:#b2ebf2}.cyan-200{background-color:#80deea}.cyan-300{background-color:#4dd0e1}.cyan-400{background-color:#26c6da}.cyan-500{background-color:#00bcd4}.cyan-600{background-color:#00acc1}.cyan-700{background-color:#0097a7}.cyan-800{background-color:#00838f}.cyan-900{background-color:#006064}.cyan-a100{background-color:#84ffff}.cyan-a200{background-color:#18ffff}.cyan-a400{background-color:#00e5ff}.cyan-a700{background-color:#00b8d4}.teal{background-color:#009688}.teal-50{background-color:#e0f2f1}.teal-100{background-color:#b2dfdb}.teal-200{background-color:#80cbc4}.teal-300{background-color:#4db6ac}.teal-400{background-color:#26a69a}.teal-500{background-color:#009688}.teal-600{background-color:#00897b}.teal-700{background-color:#00796b}.teal-800{background-color:#00695c}.teal-900{background-color:#004d40}.teal-a100{background-color:#a7ffeb}.teal-a200{background-color:#64ffda}.teal-a400{background-color:#1de9b6}.teal-a700{background-color:#00bfa5}.green{background-color:#4caf50}.green-50{background-color:#e8f5e9}.green-100{background-color:#c8e6c9}.green-200{background-color:#a5d6a7}.green-300{background-color:#81c784}.green-400{background-color:#66bb6a}.green-500{background-color:#4caf50}.green-600{background-color:#43a047}.green-700{background-color:#388e3c}.green-800{background-color:#2e7d32}.green-900{background-color:#1b5e20}.green-a100{background-color:#b9f6ca}.green-a200{background-color:#69f0ae}.green-a400{background-color:#00e676}.green-a700{background-color:#00c853}.light-green{background-color:#8bc34a}.light-green-50{background-color:#f1f8e9}.light-green-100{background-color:#dcedc8}.light-green-200{background-color:#c5e1a5}.light-green-300{background-color:#aed581}.light-green-400{background-color:#9ccc65}.light-green-500{background-color:#8bc34a}.light-green-600{background-color:#7cb342}.light-green-700{background-color:#689f38}.light-green-800{background-color:#558b2f}.light-green-900{background-color:#33691e}.light-green-a100{background-color:#ccff90}.light-green-a200{background-color:#b2ff59}.light-green-a400{background-color:#76ff03}.light-green-a700{background-color:#64dd17}.lime{background-color:#cddc39}.lime-50{background-color:#f9fbe7}.lime-100{background-color:#f0f4c3}.lime-200{background-color:#e6ee9c}.lime-300{background-color:#dce775}.lime-400{background-color:#d4e157}.lime-500{background-color:#cddc39}.lime-600{background-color:#c0ca33}.lime-700{background-color:#afb42b}.lime-800{background-color:#9e9d24}.lime-900{background-color:#827717}.lime-a100{background-color:#f4ff81}.lime-a200{background-color:#eeff41}.lime-a400{background-color:#c6ff00}.lime-a700{background-color:#aeea00}.yellow{background-color:#ffeb3b}.yellow-50{background-color:#fffde7}.yellow-100{background-color:#fff9c4}.yellow-200{background-color:#fff59d}.yellow-300{background-color:#fff176}.yellow-400{background-color:#ffee58}.yellow-500{background-color:#ffeb3b}.yellow-600{background-color:#fdd835}.yellow-700{background-color:#fbc02d}.yellow-800{background-color:#f9a825}.yellow-900{background-color:#f57f17}.yellow-a100{background-color:#ffff8d}.yellow-a200{background-color:#ff0}.yellow-a400{background-color:#ffea00}.yellow-a700{background-color:#ffd600}.amber{background-color:#ffc107}.amber-50{background-color:#fff8e1}.amber-100{background-color:#ffecb3}.amber-200{background-color:#ffe082}.amber-300{background-color:#ffd54f}.amber-400{background-color:#ffca28}.amber-500{background-color:#ffc107}.amber-600{background-color:#ffb300}.amber-700{background-color:#ffa000}.amber-800{background-color:#ff8f00}.amber-900{background-color:#ff6f00}.amber-a100{background-color:#ffe57f}.amber-a200{background-color:#ffd740}.amber-a400{background-color:#ffc400}.amber-a700{background-color:#ffab00}.orange{background-color:#ff9800}.orange-50{background-color:#fff3e0}.orange-100{background-color:#ffe0b2}.orange-200{background-color:#ffcc80}.orange-300{background-color:#ffb74d}.orange-400{background-color:#ffa726}.orange-500{background-color:#ff9800}.orange-600{background-color:#fb8c00}.orange-700{background-color:#f57c00}.orange-800{background-color:#ef6c00}.orange-900{background-color:#e65100}.orange-a100{background-color:#ffd180}.orange-a200{background-color:#ffab40}.orange-a400{background-color:#ff9100}.orange-a700{background-color:#ff6d00}.deep-orange{background-color:#ff5722}.deep-orange-50{background-color:#fbe9e7}.deep-orange-100{background-color:#ffccbc}.deep-orange-200{background-color:#ffab91}.deep-orange-300{background-color:#ff8a65}.deep-orange-400{background-color:#ff7043}.deep-orange-500{background-color:#ff5722}.deep-orange-600{background-color:#f4511e}.deep-orange-700{background-color:#e64a19}.deep-orange-800{background-color:#d84315}.deep-orange-900{background-color:#bf360c}.deep-orange-a100{background-color:#ff9e80}.deep-orange-a200{background-color:#ff6e40}.deep-orange-a400{background-color:#ff3d00}.deep-orange-a700{background-color:#dd2c00}.brown{background-color:#795548}.brown-50{background-color:#efebe9}.brown-100{background-color:#d7ccc8}.brown-200{background-color:#bcaaa4}.brown-300{background-color:#a1887f}.brown-400{background-color:#8d6e63}.brown-500{background-color:#795548}.brown-600{background-color:#6d4c41}.brown-700{background-color:#5d4037}.brown-800{background-color:#4e342e}.brown-900{background-color:#3e2723}.grey{background-color:#9e9e9e}.grey-50{background-color:#fafafa}.grey-100{background-color:#f5f5f5}.grey-200{background-color:#eee}.grey-300{background-color:#e0e0e0}.grey-400{background-color:#bdbdbd}.grey-500{background-color:#9e9e9e}.grey-600{background-color:#757575}.grey-700{background-color:#616161}.grey-800{background-color:#424242}.grey-900{background-color:#212121}.blue-grey{background-color:#607d8b}.blue-grey-50{background-color:#eceff1}.blue-grey-100{background-color:#cfd8dc}.blue-grey-200{background-color:#b0bec5}.blue-grey-300{background-color:#90a4ae}.blue-grey-400{background-color:#78909c}.blue-grey-500{background-color:#607d8b}.blue-grey-600{background-color:#546e7a}.blue-grey-700{background-color:#455a64}.blue-grey-800{background-color:#37474f}.blue-grey-900{background-color:#263238}.white{background-color:#fff}.black{background-color:#000}
+	[data-balloon]:after,[data-balloon]:before{-khtml-opacity:0;pointer-events:none;position:absolute;z-index:10}button[data-balloon]{overflow:visible}[data-balloon]{position:relative;cursor:pointer}[data-balloon]:after{filter:alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";-moz-opacity:0;opacity:0;-webkit-transition:all .18s ease-out .18s;-moz-transition:all .18s ease-out .18s;-ms-transition:all .18s ease-out .18s;-o-transition:all .18s ease-out .18s;transition:all .18s ease-out .18s;font-family:sans-serif!important;font-weight:400!important;font-style:normal!important;text-shadow:none!important;font-size:12px!important;background:rgba(17,17,17,.9);border-radius:4px;color:#fff;content:attr(data-balloon);padding:.5em 1em;white-space:nowrap}[data-balloon]:before{background:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http://www.w3.org/2000/svg%22%20width%3D%2236px%22%20height%3D%2212px%22%3E%3Cpath%20fill%3D%22rgba(17, 17, 17, 0.9)%22%20transform%3D%22rotate(0)%22%20d%3D%22M2.658,0.000%20C-13.615,0.000%2050.938,0.000%2034.662,0.000%20C28.662,0.000%2023.035,12.002%2018.660,12.002%20C14.285,12.002%208.594,0.000%202.658,0.000%20Z%22/%3E%3C/svg%3E') no-repeat;background-size:100% auto;width:18px;height:6px;filter:alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";-moz-opacity:0;opacity:0;-webkit-transition:all .18s ease-out .18s;-moz-transition:all .18s ease-out .18s;-ms-transition:all .18s ease-out .18s;-o-transition:all .18s ease-out .18s;transition:all .18s ease-out .18s;content:''}[data-balloon]:hover:after,[data-balloon]:hover:before,[data-balloon][data-balloon-visible]:after,[data-balloon][data-balloon-visible]:before{filter:alpha(opacity=100);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";-moz-opacity:1;-khtml-opacity:1;opacity:1;pointer-events:auto}[data-balloon].font-awesome:after{font-family:FontAwesome}[data-balloon][data-balloon-break]:after{white-space:pre}[data-balloon][data-balloon-blunt]:after,[data-balloon][data-balloon-blunt]:before{-webkit-transition:none;-moz-transition:none;-ms-transition:none;-o-transition:none;transition:none}[data-balloon][data-balloon-pos=up]:after{bottom:100%;left:50%;margin-bottom:11px;-webkit-transform:translate(-50%,10px);-moz-transform:translate(-50%,10px);-ms-transform:translate(-50%,10px);transform:translate(-50%,10px);-webkit-transform-origin:top;-moz-transform-origin:top;-ms-transform-origin:top;transform-origin:top}[data-balloon][data-balloon-pos=up]:before{bottom:100%;left:50%;margin-bottom:5px;-webkit-transform:translate(-50%,10px);-moz-transform:translate(-50%,10px);-ms-transform:translate(-50%,10px);transform:translate(-50%,10px);-webkit-transform-origin:top;-moz-transform-origin:top;-ms-transform-origin:top;transform-origin:top}[data-balloon][data-balloon-pos=up]:hover:after,[data-balloon][data-balloon-pos=up]:hover:before,[data-balloon][data-balloon-pos=up][data-balloon-visible]:after,[data-balloon][data-balloon-pos=up][data-balloon-visible]:before,[data-balloon][data-balloon-pos=down]:hover:after,[data-balloon][data-balloon-pos=down]:hover:before,[data-balloon][data-balloon-pos=down][data-balloon-visible]:after,[data-balloon][data-balloon-pos=down][data-balloon-visible]:before{-webkit-transform:translate(-50%,0);-moz-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0)}[data-balloon][data-balloon-pos=up-left]:after{bottom:100%;left:0;margin-bottom:11px;-webkit-transform:translate(0,10px);-moz-transform:translate(0,10px);-ms-transform:translate(0,10px);transform:translate(0,10px);-webkit-transform-origin:top;-moz-transform-origin:top;-ms-transform-origin:top;transform-origin:top}[data-balloon][data-balloon-pos=up-left]:before{bottom:100%;left:5px;margin-bottom:5px;-webkit-transform:translate(0,10px);-moz-transform:translate(0,10px);-ms-transform:translate(0,10px);transform:translate(0,10px);-webkit-transform-origin:top;-moz-transform-origin:top;-ms-transform-origin:top;transform-origin:top}[data-balloon][data-balloon-pos=up-left]:hover:after,[data-balloon][data-balloon-pos=up-left]:hover:before,[data-balloon][data-balloon-pos=up-left][data-balloon-visible]:after,[data-balloon][data-balloon-pos=up-left][data-balloon-visible]:before,[data-balloon][data-balloon-pos=up-right]:hover:after,[data-balloon][data-balloon-pos=up-right]:hover:before,[data-balloon][data-balloon-pos=up-right][data-balloon-visible]:after,[data-balloon][data-balloon-pos=up-right][data-balloon-visible]:before,[data-balloon][data-balloon-pos=down-left]:hover:after,[data-balloon][data-balloon-pos=down-left]:hover:before,[data-balloon][data-balloon-pos=down-left][data-balloon-visible]:after,[data-balloon][data-balloon-pos=down-left][data-balloon-visible]:before,[data-balloon][data-balloon-pos=down-right]:hover:after,[data-balloon][data-balloon-pos=down-right]:hover:before,[data-balloon][data-balloon-pos=down-right][data-balloon-visible]:after,[data-balloon][data-balloon-pos=down-right][data-balloon-visible]:before{-webkit-transform:translate(0,0);-moz-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0)}[data-balloon][data-balloon-pos=up-right]:after{bottom:100%;right:0;margin-bottom:11px;-webkit-transform:translate(0,10px);-moz-transform:translate(0,10px);-ms-transform:translate(0,10px);transform:translate(0,10px);-webkit-transform-origin:top;-moz-transform-origin:top;-ms-transform-origin:top;transform-origin:top}[data-balloon][data-balloon-pos=up-right]:before{bottom:100%;right:5px;margin-bottom:5px;-webkit-transform:translate(0,10px);-moz-transform:translate(0,10px);-ms-transform:translate(0,10px);transform:translate(0,10px);-webkit-transform-origin:top;-moz-transform-origin:top;-ms-transform-origin:top;transform-origin:top}[data-balloon][data-balloon-pos=down]:after{left:50%;margin-top:11px;top:100%;-webkit-transform:translate(-50%,-10px);-moz-transform:translate(-50%,-10px);-ms-transform:translate(-50%,-10px);transform:translate(-50%,-10px)}[data-balloon][data-balloon-pos=down]:before{background:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http://www.w3.org/2000/svg%22%20width%3D%2236px%22%20height%3D%2212px%22%3E%3Cpath%20fill%3D%22rgba(17, 17, 17, 0.9)%22%20transform%3D%22rotate(180 18 6)%22%20d%3D%22M2.658,0.000%20C-13.615,0.000%2050.938,0.000%2034.662,0.000%20C28.662,0.000%2023.035,12.002%2018.660,12.002%20C14.285,12.002%208.594,0.000%202.658,0.000%20Z%22/%3E%3C/svg%3E') no-repeat;background-size:100% auto;width:18px;height:6px;left:50%;margin-top:5px;top:100%;-webkit-transform:translate(-50%,-10px);-moz-transform:translate(-50%,-10px);-ms-transform:translate(-50%,-10px);transform:translate(-50%,-10px)}[data-balloon][data-balloon-pos=down-left]:after{left:0;margin-top:11px;top:100%;-webkit-transform:translate(0,-10px);-moz-transform:translate(0,-10px);-ms-transform:translate(0,-10px);transform:translate(0,-10px)}[data-balloon][data-balloon-pos=down-left]:before{background:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http://www.w3.org/2000/svg%22%20width%3D%2236px%22%20height%3D%2212px%22%3E%3Cpath%20fill%3D%22rgba(17, 17, 17, 0.9)%22%20transform%3D%22rotate(180 18 6)%22%20d%3D%22M2.658,0.000%20C-13.615,0.000%2050.938,0.000%2034.662,0.000%20C28.662,0.000%2023.035,12.002%2018.660,12.002%20C14.285,12.002%208.594,0.000%202.658,0.000%20Z%22/%3E%3C/svg%3E') no-repeat;background-size:100% auto;width:18px;height:6px;left:5px;margin-top:5px;top:100%;-webkit-transform:translate(0,-10px);-moz-transform:translate(0,-10px);-ms-transform:translate(0,-10px);transform:translate(0,-10px)}[data-balloon][data-balloon-pos=down-right]:after{right:0;margin-top:11px;top:100%;-webkit-transform:translate(0,-10px);-moz-transform:translate(0,-10px);-ms-transform:translate(0,-10px);transform:translate(0,-10px)}[data-balloon][data-balloon-pos=down-right]:before{background:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http://www.w3.org/2000/svg%22%20width%3D%2236px%22%20height%3D%2212px%22%3E%3Cpath%20fill%3D%22rgba(17, 17, 17, 0.9)%22%20transform%3D%22rotate(180 18 6)%22%20d%3D%22M2.658,0.000%20C-13.615,0.000%2050.938,0.000%2034.662,0.000%20C28.662,0.000%2023.035,12.002%2018.660,12.002%20C14.285,12.002%208.594,0.000%202.658,0.000%20Z%22/%3E%3C/svg%3E') no-repeat;background-size:100% auto;width:18px;height:6px;right:5px;margin-top:5px;top:100%;-webkit-transform:translate(0,-10px);-moz-transform:translate(0,-10px);-ms-transform:translate(0,-10px);transform:translate(0,-10px)}[data-balloon][data-balloon-pos=left]:after{margin-right:11px;right:100%;top:50%;-webkit-transform:translate(10px,-50%);-moz-transform:translate(10px,-50%);-ms-transform:translate(10px,-50%);transform:translate(10px,-50%)}[data-balloon][data-balloon-pos=left]:before{background:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http://www.w3.org/2000/svg%22%20width%3D%2212px%22%20height%3D%2236px%22%3E%3Cpath%20fill%3D%22rgba(17, 17, 17, 0.9)%22%20transform%3D%22rotate(-90 18 18)%22%20d%3D%22M2.658,0.000%20C-13.615,0.000%2050.938,0.000%2034.662,0.000%20C28.662,0.000%2023.035,12.002%2018.660,12.002%20C14.285,12.002%208.594,0.000%202.658,0.000%20Z%22/%3E%3C/svg%3E') no-repeat;background-size:100% auto;width:6px;height:18px;margin-right:5px;right:100%;top:50%;-webkit-transform:translate(10px,-50%);-moz-transform:translate(10px,-50%);-ms-transform:translate(10px,-50%);transform:translate(10px,-50%)}[data-balloon][data-balloon-pos=right]:hover:after,[data-balloon][data-balloon-pos=right]:hover:before,[data-balloon][data-balloon-pos=right][data-balloon-visible]:after,[data-balloon][data-balloon-pos=right][data-balloon-visible]:before,[data-balloon][data-balloon-pos=left]:hover:after,[data-balloon][data-balloon-pos=left]:hover:before,[data-balloon][data-balloon-pos=left][data-balloon-visible]:after,[data-balloon][data-balloon-pos=left][data-balloon-visible]:before{-webkit-transform:translate(0,-50%);-moz-transform:translate(0,-50%);-ms-transform:translate(0,-50%);transform:translate(0,-50%)}[data-balloon][data-balloon-pos=right]:after{left:100%;margin-left:11px;top:50%;-webkit-transform:translate(-10px,-50%);-moz-transform:translate(-10px,-50%);-ms-transform:translate(-10px,-50%);transform:translate(-10px,-50%)}[data-balloon][data-balloon-pos=right]:before{background:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http://www.w3.org/2000/svg%22%20width%3D%2212px%22%20height%3D%2236px%22%3E%3Cpath%20fill%3D%22rgba(17, 17, 17, 0.9)%22%20transform%3D%22rotate(90 6 6)%22%20d%3D%22M2.658,0.000%20C-13.615,0.000%2050.938,0.000%2034.662,0.000%20C28.662,0.000%2023.035,12.002%2018.660,12.002%20C14.285,12.002%208.594,0.000%202.658,0.000%20Z%22/%3E%3C/svg%3E') no-repeat;background-size:100% auto;width:6px;height:18px;left:100%;margin-left:5px;top:50%;-webkit-transform:translate(-10px,-50%);-moz-transform:translate(-10px,-50%);-ms-transform:translate(-10px,-50%);transform:translate(-10px,-50%)}[data-balloon][data-balloon-length=small]:after{white-space:normal;width:80px}[data-balloon][data-balloon-length=medium]:after{white-space:normal;width:150px}[data-balloon][data-balloon-length=large]:after{white-space:normal;width:260px}[data-balloon][data-balloon-length=xlarge]:after{white-space:normal;width:380px}@media screen and (max-width:768px){[data-balloon][data-balloon-length=xlarge]:after{white-space:normal;width:90vw}}[data-balloon][data-balloon-length=fit]:after{white-space:normal;width:100%}
+
+	.class-children-subject{
+		font-size: 0.5em;
+		color: #5d5d5d;
+		transition: all 0.5s;
+	}
+	.class-children-subject:hover{
+		font-size: 0.9em;
+
+	}
+	.class-children-subject a, .class-children-subject span{
+		margin-left: 10px;
+		color: #5d5d5d !important;
+		text-decoration: none;
+	}
+
+
+	.class-children-subject a:after{
+		content: ' ✔'
+	}
+
+  </style>
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+
+
+	<script>
+
+		function ready(fn) {
+		  if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading"){
+		    fn();
+		  } else {
+		    document.addEventListener('DOMContentLoaded', fn);
+		  }
+		}
+
+		ready(function() {
+
+
+			var level = 'B'
+			if (window.location.href.split('#')[1]){
+			level = window.location.href.split('#')[1].toUpperCase()
+			}
+			var el = document.getElementsByClassName('graph-link');
+			for (var i=0;i<el.length; i++) {
+			  el[i].addEventListener('click',function (element){
+			    window.location = element.target.href
+			    location.reload()
+			  })
+			  if (level === el[i].href.split('#')[1]){
+			    el[i].innerHTML = '<strong>' +  el[i].href.split('#')[1] + ' - ' + el[i].title + '</stron>';
+			  }
+			}
+
+
+			var parentLength = {}
+
+			var render = function(obj,dom,longestCode){
+
+				if (!longestCode){
+					var longestCodePx = 5 * 15 + 'px';
+					var subjectMargin = 7 * 15 + 'px';
+				}else{
+
+					if (parentLength[dom.replace('-children','')] >= longestCode){
+						longestCode = parentLength[dom.replace('-children','')] + 2
+					}
+
+					var longestCodePx = longestCode * 15  + 'px';
+					var subjectMargin = (longestCode+0) * 15  + 'px';
+				}
+
+
+				
+
+				// console.log('obj:',obj)
+				// console.log('dom:',dom)
+				// console.log('longestCodePx',longestCodePx)
+				// console.log('longestCode',longestCode)
+				// console.log('longestCode',longestCode)
+				// console.log('-------')
+
+
+				var parent = document.getElementById(dom)
+				var title = document.createElement('div')
+
+				title.classList.add("class-title")
+
+				var code = document.createElement('a')
+				code.classList.add("class-title-code")
+
+				var searchUrl = 'https://catalog.loc.gov/vwebv/search?searchCode=CALL%2B&searchArg='+obj.id.split('-')[0]+'&searchType=1'
+
+
+				code.setAttribute('href',searchUrl)
+				code.setAttribute('target','_blank')
+
+
+				parentLength[obj.id] = longestCode
+				code.style.minWidth = longestCodePx;
+				code.textContent = obj.id
+				title.appendChild(code)
+
+				var subject = document.createElement('span')
+				subject.classList.add("class-title-subject")
+				subject.textContent = obj.subject
+
+				if (obj.subjects && obj.subjects.pubDates){
+					subject.setAttribute('title','Total Resources: '+obj.count + ', Avg Pub Date: ' + obj.subjects.pubDates.avg+ ', Median Pub Date: ' + obj.subjects.pubDates.median+ ', Mode Pub Date: ' + obj.subjects.pubDates.mode)
+					subject.setAttribute('data-balloon','Total Resources: '+obj.count + ', Avg Pub Date: ' + obj.subjects.pubDates.avg+ ', Median Pub Date: ' + obj.subjects.pubDates.median+ ', Mode Pub Date: ' + obj.subjects.pubDates.mode)
+
+				}else{
+					subject.setAttribute('title','Total Resources: '+obj.count)
+					subject.setAttribute('data-balloon','Total Resources: '+obj.count)
+				}
+				subject.setAttribute('data-balloon-pos',"right")
+
+				title.appendChild(subject)
+
+
+				var children = document.createElement('div')
+				children.classList.add("class-children")
+				children.id = obj.id + "-children"
+				parent.appendChild(title)
+
+
+
+				if (obj.subjects && obj.subjects.topSubjects){
+					console.log(obj.subjects.topSubjects)
+					var subjects = document.createElement('div')
+					subjects.classList.add("class-children-subject")
+
+					subjects.style.marginLeft = subjectMargin;
+
+					obj.subjects.topSubjects.forEach((subject)=>{
+
+						if (isNaN(parseInt(subject.count/obj.count*100))){
+							var precent = ""
+						}else if (parseInt(subject.count/obj.count*100)>100){
+							var precent = "100%"
+						}else{
+							var precent = parseInt(subject.count/obj.count*100) + '%'
+						}
+						
+						if (subject.url){
+							var s = document.createElement('a')	
+							s.textContent = subject.subject + ' ' + precent
+							s.setAttribute('href',subject.url)
+							s.setAttribute('target','_blank')
+
+
+						}else{
+							var s = document.createElement('span')
+							s.textContent = subject.subject + ' ' + precent
+						}
+
+
+						subjects.appendChild(s)
+
+					})
+					parent.appendChild(subjects)
+
+
+
+				}
+
+				var longest = 0 
+				var childrenSort = {}
+				Object.keys(obj.children).forEach((id)=>{
+					var r = id.match(/([0-9]+)/)
+					if (r){
+						r = parseInt(id.match(/([0-9]+)/)[1])
+					}else{
+						r = 0
+					}
+
+					childrenSort[id] = r
+				})
+				var childrenSorted = Object.keys(childrenSort).map(function(key) {
+					if (key.length > longest) longest = key.length;
+				    return [key, childrenSort[key]];
+				})
+				// Sort the array based on the second element
+				childrenSorted.sort(function(first, second) {
+				    return first[1] - second[1];
+				})
+
+				if (Object.keys(obj.children).length>0){
+
+					parent.appendChild(children)
+					childrenSorted.forEach((id)=>{
+						id = id[0]
+						render(obj.children[id],obj.id + "-children",longest)
+					})
+				}
+
+				var div = document.createElement('div')
+
+			}
+
+
+			var request = new XMLHttpRequest();
+			request.open('GET', 'data/'+level+'.json', true);
+
+			colors = ['red','indigo','pink','blue','deep-purple','cyan','teal','green','light-blue','lime','yellow','amber','purple','deep-orange','light-green','orange','brown','red','indigo','pink','blue','deep-purple','cyan','teal','green','light-blue','lime','yellow','amber','purple','deep-orange','light-green','orange','brown','red','indigo','pink','blue','deep-purple','cyan','teal','green','light-blue','lime','yellow','amber','purple','deep-orange','light-green','orange','brown','red','indigo','pink','blue','deep-purple','cyan','teal','green','light-blue','lime','yellow','amber','purple','deep-orange','light-green','orange','brown','red','indigo','pink','blue','deep-purple','cyan','teal','green','light-blue','lime','yellow','amber','purple','deep-orange','light-green','orange','brown']
+
+			request.onload = function() {
+			  if (this.status >= 200 && this.status < 400) {
+			    // Success!
+			    var data = JSON.parse(this.response);
+
+			    var counter = 0
+			    
+
+				// var div = document.createElement("div")
+				// div.classList.add("class")
+				// div.classList.add(colors[counter++] + "-50")
+				// div.id = "J"
+				// document.body.appendChild(div);
+				// render(data.children["J"],"J")
+				// return;
+
+			    Object.keys(data.children).sort().forEach((id)=>{
+
+					var div = document.createElement("div")
+					div.classList.add("class")
+					div.classList.add(colors[counter++] + "-50")
+
+
+
+
+					div.id = id
+					document.body.appendChild(div);
+
+			    	
+			    	render(data.children[id],id)
+
+
+			    })
+			    
+
+
+			  } else {
+			    // We reached our target server, but it returned an error
+
+			  }
+			};
+
+			request.onerror = function() {
+			  // There was a connection error of some sort
+			};
+
+			request.send();
+
+		});
+	</script>
+
+  <div id="menu" >
+    <a href="#A" class="graph-link" title="General Works">A</a>
+    <a href="#B" class="graph-link" title="Philosophy, Psychology, Religion">B</a>
+    <a href="#C" class="graph-link" title="Auxiliary Sciences of History (General)">C</a>
+    <a href="#D" class="graph-link" title="World History (except American History)">D</a>
+    <a href="#E" class="graph-link" title="American History">E</a>
+    <a href="#F" class="graph-link" title="Local History of the United States and British, Dutch, French, and Latin America">F</a>
+    <a href="#G" class="graph-link" title="Geography, Anthropology, Recreation">G</a>
+    <a href="#H" class="graph-link" title="Social Sciences">H</a>
+    <a href="#J" class="graph-link" title="Political Science">J</a>
+    <a href="#K" class="graph-link" title="Law">K</a>
+    <a href="#L" class="graph-link" title="Education">L</a>
+    <a href="#M" class="graph-link" title="Music">M</a>
+    <a href="#N" class="graph-link" title="Fine Arts">N</a>
+    <a href="#P" class="graph-link" title="Language and Literature">P</a>
+    <a href="#Q" class="graph-link" title="Science">Q</a>
+    <a href="#R" class="graph-link" title="Medicine">R</a>
+    <a href="#S" class="graph-link" title="Agriculture">S</a>
+    <a href="#T" class="graph-link" title="Technology">T</a>
+    <a href="#U" class="graph-link" title="Military Science">U</a>
+    <a href="#V" class="graph-link" title="Naval Science">V</a>
+    <a href="#Z" class="graph-link" title="Bibliography, Library Science">Z</a>
+    <span> | </span>
+    <a href="https://medium.com/@thisismattmiller/library-of-congress-holdings-by-lcc-51fb5eb868f2" class="graph-link" title="Read more About this">About</a>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,5128 @@
+{
+  "code": "Q",
+  "subject": "Science",
+  "count": 0,
+  "children": {
+    "QR": {
+      "id": "QR",
+      "subject": "Microbiology",
+      "count": 0,
+      "children": {
+        "QR1-502": {
+          "id": "QR1-502",
+          "subject": "Microbiology",
+          "count": 1508,
+          "children": {
+            "QR1-74.5": {
+              "id": "QR1-74.5",
+              "subject": "General",
+              "count": 3304,
+              "children": {},
+              "subjects": {
+                "id": "QR1-74.5",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Microbiology",
+                    "subject": "Microbiology",
+                    "count": 1683
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bacteriology",
+                    "subject": "Bacteriology",
+                    "count": 511
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Medical_microbiology",
+                    "subject": "Medical microbiology",
+                    "count": 492
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Microorganism",
+                    "subject": "Microorganisms",
+                    "count": 343
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bacteria",
+                    "subject": "Bacteria",
+                    "count": 206
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1981,
+                  "mode": 1978
+                }
+              }
+            },
+            "QR180-189.5": {
+              "id": "QR180-189.5",
+              "subject": "Immunology",
+              "count": 2961,
+              "children": {},
+              "subjects": {
+                "id": "QR180-189.5",
+                "subject": "Immunology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Immunology",
+                    "subject": "Immunology",
+                    "count": 686
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Immunity",
+                    "subject": "Immunity",
+                    "count": 538
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Vaccine",
+                    "subject": "Vaccines",
+                    "count": 211
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Immune_system",
+                    "subject": "Immune response",
+                    "count": 201
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cytokine",
+                    "subject": "Cytokines",
+                    "count": 165
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1988,
+                  "mode": 1988
+                }
+              }
+            },
+            "QR100-130": {
+              "id": "QR100-130",
+              "subject": "Microbial ecology",
+              "count": 1118,
+              "children": {},
+              "subjects": {
+                "id": "QR100-130",
+                "subject": "Microbial ecology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Food",
+                    "subject": "Food",
+                    "count": 300
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soil_microbiology",
+                    "subject": "Soil microbiology",
+                    "count": 159
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Microbial_ecology",
+                    "subject": "Microbial ecology",
+                    "count": 152
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Water",
+                    "subject": "Water",
+                    "count": 94
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marine microbiology",
+                    "count": 70
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1988,
+                  "mode": 1975
+                }
+              }
+            },
+            "QR355-502": {
+              "id": "QR355-502",
+              "subject": "Virology",
+              "count": 851,
+              "children": {},
+              "subjects": {
+                "id": "QR355-502",
+                "subject": "Virology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Virus",
+                    "subject": "Viruses",
+                    "count": 364
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Virology",
+                    "subject": "Virology",
+                    "count": 293
+                  },
+                  {
+                    "url": null,
+                    "subject": "Virus diseases",
+                    "count": 129
+                  },
+                  {
+                    "url": null,
+                    "subject": "Virus Diseases",
+                    "count": 64
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Oncovirus",
+                    "subject": "Oncogenic viruses",
+                    "count": 42
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1986,
+                  "mode": 1987
+                }
+              }
+            },
+            "QR75-99.5": {
+              "id": "QR75-99.5",
+              "subject": "Bacteria",
+              "count": 1256,
+              "children": {},
+              "subjects": {
+                "id": "QR75-99.5",
+                "subject": "Bacteria",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Bacteria",
+                    "subject": "Bacteria",
+                    "count": 265
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Microorganism",
+                    "subject": "Microorganisms",
+                    "count": 113
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Microbial_metabolism",
+                    "subject": "Microbial metabolism",
+                    "count": 108
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nitrogen",
+                    "subject": "Nitrogen",
+                    "count": 104
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Escherichia_coli",
+                    "subject": "Escherichia coli",
+                    "count": 51
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1984,
+                  "mode": 1984
+                }
+              }
+            },
+            "QR171": {
+              "id": "QR171",
+              "subject": "Microorganisms in the animal body",
+              "count": 87,
+              "children": {},
+              "subjects": {
+                "id": "QR171",
+                "subject": "Microorganisms in the animal body",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Intestine",
+                    "subject": "Intestines",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Probiotic",
+                    "subject": "Probiotics",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Gastrointestinal_tract",
+                    "subject": "Gastrointestinal system",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human_body",
+                    "subject": "Human body",
+                    "count": 16
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Microorganism",
+                    "subject": "Microorganisms",
+                    "count": 15
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1995,
+                  "mode": 2005
+                }
+              }
+            },
+            "QR99.6-99.8": {
+              "id": "QR99.6-99.8",
+              "subject": "Cyanobacteria",
+              "count": 42,
+              "children": {},
+              "subjects": {
+                "id": "QR99.6-99.8",
+                "subject": "Cyanobacteria",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Cyanobacteria",
+                    "subject": "Cyanobacteria",
+                    "count": 50
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2000,
+                  "median": 1999,
+                  "mode": 2011
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QR1-502",
+            "subject": "Microbiology",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Drug resistance in microorganisms",
+                "count": 104
+              },
+              {
+                "url": "http://dbpedia.org/resource/Bacteria",
+                "subject": "Bacteria",
+                "count": 103
+              },
+              {
+                "url": "http://dbpedia.org/resource/Yeast",
+                "subject": "Yeast",
+                "count": 76
+              },
+              {
+                "url": "http://dbpedia.org/resource/Bacteriophage",
+                "subject": "Bacteriophages",
+                "count": 68
+              },
+              {
+                "url": "http://dbpedia.org/resource/Fungus",
+                "subject": "Fungi",
+                "count": 63
+              }
+            ],
+            "pubDates": {
+              "avg": 1985,
+              "median": 1991,
+              "mode": 2002
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QK": {
+      "id": "QK",
+      "subject": "Botany",
+      "count": 0,
+      "children": {
+        "QK1-989": {
+          "id": "QK1-989",
+          "subject": "Botany",
+          "count": 11,
+          "children": {
+            "QK1-474.5": {
+              "id": "QK1-474.5",
+              "subject": "General",
+              "count": 17482,
+              "children": {},
+              "subjects": {
+                "id": "QK1-474.5",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Botany",
+                    "subject": "Botany",
+                    "count": 7199
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Plant",
+                    "subject": "Plants",
+                    "count": 4390
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Wildflower",
+                    "subject": "Wild flowers",
+                    "count": 2033
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Medicinal_plants",
+                    "subject": "Medicinal plants",
+                    "count": 1175
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Tree",
+                    "subject": "Trees",
+                    "count": 1118
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1984,
+                  "mode": 1984
+                }
+              }
+            },
+            "QK710-899": {
+              "id": "QK710-899",
+              "subject": "Plant physiology",
+              "count": 3641,
+              "children": {},
+              "subjects": {
+                "id": "QK710-899",
+                "subject": "Plant physiology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Plant",
+                    "subject": "Plants",
+                    "count": 1627
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Plant_physiology",
+                    "subject": "Plant physiology",
+                    "count": 485
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Photosynthesis",
+                    "subject": "Photosynthesis",
+                    "count": 441
+                  },
+                  {
+                    "url": null,
+                    "subject": "Growth (Plants)",
+                    "count": 289
+                  },
+                  {
+                    "url": null,
+                    "subject": "Botanical chemistry",
+                    "count": 270
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1981,
+                  "mode": 1985
+                }
+              }
+            },
+            "QK474.8-495": {
+              "id": "QK474.8-495",
+              "subject": "Spermatophyta.    Phanerogams",
+              "count": 1302,
+              "children": {
+                "QK494-494.5": {
+                  "id": "QK494-494.5",
+                  "subject": "Gymnosperms",
+                  "count": 262,
+                  "children": {},
+                  "subjects": {
+                    "id": "QK494-494.5",
+                    "subject": "Gymnosperms",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Pinophyta",
+                        "subject": "Conifers",
+                        "count": 100
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Pine",
+                        "subject": "Pine",
+                        "count": 42
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Forest_ecology",
+                        "subject": "Forest ecology",
+                        "count": 28
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Sequoiadendron_giganteum",
+                        "subject": "Giant sequoia",
+                        "count": 26
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Gymnosperm",
+                        "subject": "Gymnosperms",
+                        "count": 23
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1992,
+                      "median": 1993,
+                      "mode": 1979
+                    }
+                  }
+                },
+                "QK495": {
+                  "id": "QK495",
+                  "subject": "Angiosperms",
+                  "count": 3538,
+                  "children": {},
+                  "subjects": {
+                    "id": "QK495",
+                    "subject": "Angiosperms",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Orchidaceae",
+                        "subject": "Orchids",
+                        "count": 739
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Botany",
+                        "subject": "Botany",
+                        "count": 377
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Poaceae",
+                        "subject": "Grasses",
+                        "count": 364
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cactus",
+                        "subject": "Cactus",
+                        "count": 194
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Palm",
+                        "subject": "Palms",
+                        "count": 144
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1986,
+                      "mode": 1999
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QK474.8-495",
+                "subject": "Spermatophyta.    Phanerogams",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Tree",
+                    "subject": "Trees",
+                    "count": 1453
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Shrub",
+                    "subject": "Shrubs",
+                    "count": 232
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Woody_plant",
+                    "subject": "Woody plants",
+                    "count": 97
+                  },
+                  {
+                    "url": null,
+                    "subject": "Forests and forestry",
+                    "count": 55
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Botany",
+                    "subject": "Botany",
+                    "count": 44
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1972,
+                  "mode": 1978
+                }
+              }
+            },
+            "QK504-638": {
+              "id": "QK504-638",
+              "subject": "Cryptogams",
+              "count": 5095,
+              "children": {},
+              "subjects": {
+                "id": "QK504-638",
+                "subject": "Cryptogams",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Fungus",
+                    "subject": "Fungi",
+                    "count": 1333
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mushroom",
+                    "subject": "Mushrooms",
+                    "count": 653
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Algae",
+                    "subject": "Algae",
+                    "count": 538
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Lichen",
+                    "subject": "Lichens",
+                    "count": 470
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fern",
+                    "subject": "Ferns",
+                    "count": 419
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1981,
+                  "mode": 1977
+                }
+              }
+            },
+            "QK900-989": {
+              "id": "QK900-989",
+              "subject": "Plant ecology",
+              "count": 2044,
+              "children": {},
+              "subjects": {
+                "id": "QK900-989",
+                "subject": "Plant ecology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Plant_ecology",
+                    "subject": "Plant ecology",
+                    "count": 537
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Plant",
+                    "subject": "Plants",
+                    "count": 348
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Forest_ecology",
+                    "subject": "Forest ecology",
+                    "count": 253
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Plant_community",
+                    "subject": "Plant communities",
+                    "count": 206
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Botany",
+                    "subject": "Botany",
+                    "count": 181
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1981,
+                  "mode": 1992
+                }
+              }
+            },
+            "QK640-707": {
+              "id": "QK640-707",
+              "subject": "Plant anatomy",
+              "count": 1254,
+              "children": {},
+              "subjects": {
+                "id": "QK640-707",
+                "subject": "Plant anatomy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Seed",
+                    "subject": "Seeds",
+                    "count": 230
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Plant_anatomy",
+                    "subject": "Plant anatomy",
+                    "count": 197
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Leaf",
+                    "subject": "Leaves",
+                    "count": 186
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Plant",
+                    "subject": "Plants",
+                    "count": 157
+                  },
+                  {
+                    "url": null,
+                    "subject": "Roots (Botany)",
+                    "count": 151
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1978,
+                  "mode": 2008
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QK1-989",
+            "subject": "Botany",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Orchidaceae",
+                "subject": "Orchids",
+                "count": 9
+              }
+            ],
+            "pubDates": {
+              "avg": 1962,
+              "median": 1981,
+              "mode": 1890
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QL": {
+      "id": "QL",
+      "subject": "Zoology",
+      "count": 0,
+      "children": {
+        "QL1-991": {
+          "id": "QL1-991",
+          "subject": "Zoology",
+          "count": 4,
+          "children": {
+            "QL750-795": {
+              "id": "QL750-795",
+              "subject": "Animal behavior",
+              "count": 4179,
+              "children": {
+                "QL791-795": {
+                  "id": "QL791-795",
+                  "subject": "Stories and anecdotes",
+                  "count": 1316,
+                  "children": {},
+                  "subjects": {
+                    "id": "QL791-795",
+                    "subject": "Stories and anecdotes",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Animal",
+                        "subject": "Animals",
+                        "count": 425
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Dog",
+                        "subject": "Dogs",
+                        "count": 161
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cat",
+                        "subject": "Cats",
+                        "count": 94
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Ethology",
+                        "subject": "Animal behavior",
+                        "count": 82
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Bird",
+                        "subject": "Birds",
+                        "count": 57
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1957,
+                      "median": 1965,
+                      "mode": 1967
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QL750-795",
+                "subject": "Animal behavior",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Animal",
+                    "subject": "Animals",
+                    "count": 1610
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ethology",
+                    "subject": "Animal behavior",
+                    "count": 1065
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Animal_cognition",
+                    "subject": "Animal intelligence",
+                    "count": 245
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Parasitology",
+                    "subject": "Parasitology",
+                    "count": 232
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Animal_communication",
+                    "subject": "Animal communication",
+                    "count": 225
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1987,
+                  "mode": 2007
+                }
+              }
+            },
+            "QL605-739.8": {
+              "id": "QL605-739.8",
+              "subject": "Chordates.    Vertebrates",
+              "count": 413,
+              "children": {
+                "QL671-699": {
+                  "id": "QL671-699",
+                  "subject": "Birds",
+                  "count": 13030,
+                  "children": {},
+                  "subjects": {
+                    "id": "QL671-699",
+                    "subject": "Birds",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Bird",
+                        "subject": "Birds",
+                        "count": 11438
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Birdwatching",
+                        "subject": "Bird watching",
+                        "count": 853
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Bird_of_prey",
+                        "subject": "Birds of prey",
+                        "count": 418
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Penguin",
+                        "subject": "Penguins",
+                        "count": 369
+                      },
+                      {
+                        "url": null,
+                        "subject": "Bird populations",
+                        "count": 368
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1981,
+                      "median": 1987,
+                      "mode": 1999
+                    }
+                  }
+                },
+                "QL700-739.8": {
+                  "id": "QL700-739.8",
+                  "subject": "Mammals",
+                  "count": 13888,
+                  "children": {},
+                  "subjects": {
+                    "id": "QL700-739.8",
+                    "subject": "Mammals",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Mammal",
+                        "subject": "Mammals",
+                        "count": 3783
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Primate",
+                        "subject": "Primates",
+                        "count": 743
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Whale",
+                        "subject": "Whales",
+                        "count": 691
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Bat",
+                        "subject": "Bats",
+                        "count": 637
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Wildlife_conservation",
+                        "subject": "Wildlife conservation",
+                        "count": 582
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1990,
+                      "median": 1995,
+                      "mode": 2002
+                    }
+                  }
+                },
+                "QL640-669.3": {
+                  "id": "QL640-669.3",
+                  "subject": "Reptiles and amphibians",
+                  "count": 4591,
+                  "children": {},
+                  "subjects": {
+                    "id": "QL640-669.3",
+                    "subject": "Reptiles and amphibians",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Reptile",
+                        "subject": "Reptiles",
+                        "count": 1754
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Amphibian",
+                        "subject": "Amphibians",
+                        "count": 1380
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Snake",
+                        "subject": "Snakes",
+                        "count": 941
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Frog",
+                        "subject": "Frogs",
+                        "count": 662
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Turtle",
+                        "subject": "Turtles",
+                        "count": 389
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1988,
+                      "median": 1995,
+                      "mode": 2003
+                    }
+                  }
+                },
+                "QL614-639.8": {
+                  "id": "QL614-639.8",
+                  "subject": "Fishes",
+                  "count": 6003,
+                  "children": {},
+                  "subjects": {
+                    "id": "QL614-639.8",
+                    "subject": "Fishes",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Fish",
+                        "subject": "Fishes",
+                        "count": 4109
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Shark",
+                        "subject": "Sharks",
+                        "count": 774
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Freshwater_fish",
+                        "subject": "Freshwater fishes",
+                        "count": 646
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Fish",
+                        "subject": "Marine fishes",
+                        "count": 546
+                      },
+                      {
+                        "url": null,
+                        "subject": "Fish populations",
+                        "count": 299
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1988,
+                      "mode": 2007
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QL605-739.8",
+                "subject": "Chordates.    Vertebrates",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Vertebrate",
+                    "subject": "Vertebrates",
+                    "count": 407
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ascidiacea",
+                    "subject": "Sea squirts",
+                    "count": 34
+                  },
+                  {
+                    "url": null,
+                    "subject": "Vertebrates, Fossil",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Tunicate",
+                    "subject": "Tunicata",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Zoology",
+                    "subject": "Zoology",
+                    "count": 18
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1986,
+                  "mode": 2000
+                }
+              }
+            },
+            "QL1-355": {
+              "id": "QL1-355",
+              "subject": "General",
+              "count": 16215,
+              "children": {},
+              "subjects": {
+                "id": "QL1-355",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Animal",
+                    "subject": "Animals",
+                    "count": 4012
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Zoology",
+                    "subject": "Zoology",
+                    "count": 3978
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Wildlife_conservation",
+                    "subject": "Wildlife conservation",
+                    "count": 1321
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Marine_life",
+                    "subject": "Marine animals",
+                    "count": 1146
+                  },
+                  {
+                    "url": null,
+                    "subject": "Endangered species",
+                    "count": 754
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1985,
+                  "mode": 2008
+                }
+              }
+            },
+            "QL360-599.82": {
+              "id": "QL360-599.82",
+              "subject": "Invertebrates",
+              "count": 7816,
+              "children": {
+                "QL461-599.82": {
+                  "id": "QL461-599.82",
+                  "subject": "Insects",
+                  "count": 10648,
+                  "children": {},
+                  "subjects": {
+                    "id": "QL461-599.82",
+                    "subject": "Insects",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Insect",
+                        "subject": "Insects",
+                        "count": 5744
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Butterfly",
+                        "subject": "Butterflies",
+                        "count": 1476
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Entomology",
+                        "subject": "Entomology",
+                        "count": 902
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Beetle",
+                        "subject": "Beetles",
+                        "count": 552
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Ant",
+                        "subject": "Ants",
+                        "count": 464
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1977,
+                      "median": 1983,
+                      "mode": 1977
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QL360-599.82",
+                "subject": "Invertebrates",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mollusca",
+                    "subject": "Mollusks",
+                    "count": 1156
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Crustacean",
+                    "subject": "Crustacea",
+                    "count": 816
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Spider",
+                    "subject": "Spiders",
+                    "count": 721
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Invertebrate",
+                    "subject": "Invertebrates",
+                    "count": 522
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Shell",
+                    "subject": "Shells",
+                    "count": 487
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1982,
+                  "mode": 1976
+                }
+              }
+            },
+            "QL951-991": {
+              "id": "QL951-991",
+              "subject": "Embryology",
+              "count": 893,
+              "children": {},
+              "subjects": {
+                "id": "QL951-991",
+                "subject": "Embryology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Embryology",
+                    "subject": "Embryology",
+                    "count": 403
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Chicken",
+                    "subject": "Chickens",
+                    "count": 80
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Vertebrate",
+                    "subject": "Vertebrates",
+                    "count": 67
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mammal",
+                    "subject": "Mammals",
+                    "count": 56
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Developmental_biology",
+                    "subject": "Developmental biology",
+                    "count": 52
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1972,
+                  "mode": 1975
+                }
+              }
+            },
+            "QL801-950.9": {
+              "id": "QL801-950.9",
+              "subject": "Anatomy",
+              "count": 1715,
+              "children": {},
+              "subjects": {
+                "id": "QL801-950.9",
+                "subject": "Anatomy",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Anatomy, Comparative",
+                    "count": 248
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Vertebrate",
+                    "subject": "Vertebrates",
+                    "count": 219
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Anatomy",
+                    "subject": "Anatomy",
+                    "count": 148
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Animal",
+                    "subject": "Animals",
+                    "count": 139
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Brain",
+                    "subject": "Brain",
+                    "count": 119
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1974,
+                  "mode": 2007
+                }
+              }
+            },
+            "QL799-799.5": {
+              "id": "QL799-799.5",
+              "subject": "Morphology",
+              "count": 102,
+              "children": {},
+              "subjects": {
+                "id": "QL799-799.5",
+                "subject": "Morphology",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Morphology (Animals)",
+                    "count": 63
+                  },
+                  {
+                    "url": null,
+                    "subject": "Body size",
+                    "count": 47
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Animal",
+                    "subject": "Animals",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Size",
+                    "subject": "Size",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Vertebrate",
+                    "subject": "Vertebrates",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1990,
+                  "mode": 2006
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QL1-991",
+            "subject": "Zoology",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1984,
+              "median": 1985,
+              "mode": 1979
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QB": {
+      "id": "QB",
+      "subject": "Astronomy",
+      "count": 0,
+      "children": {
+        "QB1-991": {
+          "id": "QB1-991",
+          "subject": "Astronomy",
+          "count": 106,
+          "children": {
+            "QB1-139": {
+              "id": "QB1-139",
+              "subject": "General",
+              "count": 9973,
+              "children": {},
+              "subjects": {
+                "id": "QB1-139",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Astronomy",
+                    "subject": "Astronomy",
+                    "count": 6213
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Star",
+                    "subject": "Stars",
+                    "count": 955
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Astronomer",
+                    "subject": "Astronomers",
+                    "count": 758
+                  },
+                  {
+                    "url": null,
+                    "subject": "Life on other planets",
+                    "count": 456
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Telescope",
+                    "subject": "Telescopes",
+                    "count": 352
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1963,
+                  "median": 1980,
+                  "mode": 2003
+                }
+              }
+            },
+            "QB495-903": {
+              "id": "QB495-903",
+              "subject": "Descriptive astronomy",
+              "count": 963,
+              "children": {
+                "QB500.5-785": {
+                  "id": "QB500.5-785",
+                  "subject": "Solar system",
+                  "count": 6101,
+                  "children": {},
+                  "subjects": {
+                    "id": "QB500.5-785",
+                    "subject": "Solar system",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Planet",
+                        "subject": "Planets",
+                        "count": 799
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Comet",
+                        "subject": "Comets",
+                        "count": 474
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Meteorite",
+                        "subject": "Meteorites",
+                        "count": 282
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Season",
+                        "subject": "Seasons",
+                        "count": 256
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Asteroid",
+                        "subject": "Asteroids",
+                        "count": 233
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1991,
+                      "mode": 2008
+                    }
+                  }
+                },
+                "QB799-903": {
+                  "id": "QB799-903",
+                  "subject": "Stars",
+                  "count": 2698,
+                  "children": {},
+                  "subjects": {
+                    "id": "QB799-903",
+                    "subject": "Stars",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Star",
+                        "subject": "Stars",
+                        "count": 1275
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Galaxy",
+                        "subject": "Galaxies",
+                        "count": 569
+                      },
+                      {
+                        "url": null,
+                        "subject": "Black holes (Astronomy)",
+                        "count": 188
+                      },
+                      {
+                        "url": null,
+                        "subject": "Astrophysics",
+                        "count": 167
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Constellation",
+                        "subject": "Constellations",
+                        "count": 152
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1984,
+                      "median": 1989,
+                      "mode": 1988
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QB495-903",
+                "subject": "Descriptive astronomy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Outline_of_space_science",
+                    "subject": "Space sciences",
+                    "count": 368
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Astronomy",
+                    "subject": "Astronomy",
+                    "count": 132
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Interstellar_medium",
+                    "subject": "Interstellar matter",
+                    "count": 112
+                  },
+                  {
+                    "url": null,
+                    "subject": "Astronautics",
+                    "count": 89
+                  },
+                  {
+                    "url": null,
+                    "subject": "Dark matter (Astronomy)",
+                    "count": 70
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1992,
+                  "median": 1995,
+                  "mode": 2006
+                }
+              }
+            },
+            "QB275-343": {
+              "id": "QB275-343",
+              "subject": "Geodesy",
+              "count": 1674,
+              "children": {},
+              "subjects": {
+                "id": "QB275-343",
+                "subject": "Geodesy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Geodesy",
+                    "subject": "Geodesy",
+                    "count": 791
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Gravity",
+                    "subject": "Gravity",
+                    "count": 409
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Triangulation",
+                    "subject": "Triangulation",
+                    "count": 128
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Gravity_anomaly",
+                    "subject": "Gravity anomalies",
+                    "count": 69
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Surveying",
+                    "subject": "Surveying",
+                    "count": 61
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1964,
+                  "median": 1973,
+                  "mode": 1970
+                }
+              }
+            },
+            "QB980-991": {
+              "id": "QB980-991",
+              "subject": "Cosmogony.    Cosmology",
+              "count": 1360,
+              "children": {},
+              "subjects": {
+                "id": "QB980-991",
+                "subject": "Cosmogony.    Cosmology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Cosmology",
+                    "subject": "Cosmology",
+                    "count": 1091
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cosmogony",
+                    "subject": "Cosmogony",
+                    "count": 166
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Astronomy",
+                    "subject": "Astronomy",
+                    "count": 122
+                  },
+                  {
+                    "url": null,
+                    "subject": "Astrophysics",
+                    "count": 101
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Big_Bang",
+                    "subject": "Big bang theory",
+                    "count": 87
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1993,
+                  "mode": 1994
+                }
+              }
+            },
+            "QB140-237": {
+              "id": "QB140-237",
+              "subject": "Practical and spherical astronomy",
+              "count": 1110,
+              "children": {},
+              "subjects": {
+                "id": "QB140-237",
+                "subject": "Practical and spherical astronomy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Time",
+                    "subject": "Time",
+                    "count": 562
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Time",
+                    "subject": "Time measurements",
+                    "count": 254
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sundial",
+                    "subject": "Sundials",
+                    "count": 154
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Spherical_astronomy",
+                    "subject": "Spherical astronomy",
+                    "count": 130
+                  },
+                  {
+                    "url": null,
+                    "subject": "Clocks and watches",
+                    "count": 115
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1982,
+                  "mode": 2007
+                }
+              }
+            },
+            "QB460-466": {
+              "id": "QB460-466",
+              "subject": "Astrophysics",
+              "count": 1013,
+              "children": {},
+              "subjects": {
+                "id": "QB460-466",
+                "subject": "Astrophysics",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Astrophysics",
+                    "count": 502
+                  },
+                  {
+                    "url": null,
+                    "subject": "Nuclear astrophysics",
+                    "count": 144
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cosmology",
+                    "subject": "Cosmology",
+                    "count": 94
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Astronomical_spectroscopy",
+                    "subject": "Astronomical spectroscopy",
+                    "count": 81
+                  },
+                  {
+                    "url": null,
+                    "subject": "Particles (Nuclear physics)",
+                    "count": 62
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1992,
+                  "mode": 2007
+                }
+              }
+            },
+            "QB468-480": {
+              "id": "QB468-480",
+              "subject": "Non-optical methods of astronomy",
+              "count": 552,
+              "children": {},
+              "subjects": {
+                "id": "QB468-480",
+                "subject": "Non-optical methods of astronomy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Radio_astronomy",
+                    "subject": "Radio astronomy",
+                    "count": 185
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/X-ray_astronomy",
+                    "subject": "X-ray astronomy",
+                    "count": 111
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Infrared_astronomy",
+                    "subject": "Infrared astronomy",
+                    "count": 78
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Gamma-ray_astronomy",
+                    "subject": "Gamma ray astronomy",
+                    "count": 68
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ultraviolet_astronomy",
+                    "subject": "Ultraviolet astronomy",
+                    "count": 44
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1991,
+                  "mode": 2000
+                }
+              }
+            },
+            "QB349-421": {
+              "id": "QB349-421",
+              "subject": "Theoretical astronomy and celestial mechanics",
+              "count": 577,
+              "children": {},
+              "subjects": {
+                "id": "QB349-421",
+                "subject": "Theoretical astronomy and celestial mechanics",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Celestial mechanics",
+                    "count": 196
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Asteroid",
+                    "subject": "Asteroids",
+                    "count": 64
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Orbit",
+                    "subject": "Orbits",
+                    "count": 49
+                  },
+                  {
+                    "url": null,
+                    "subject": "Planetary theory",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Satellite",
+                    "subject": "Satellites",
+                    "count": 36
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1954,
+                  "median": 1975,
+                  "mode": 2010
+                }
+              }
+            },
+            "QB455-456": {
+              "id": "QB455-456",
+              "subject": "Astrogeology",
+              "count": 12,
+              "children": {},
+              "subjects": {
+                "id": "QB455-456",
+                "subject": "Astrogeology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Planetary_geology",
+                    "subject": "Astrogeology",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1995,
+                  "median": 1993,
+                  "mode": 1993
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QB1-991",
+            "subject": "Astronomy",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Cosmochemistry",
+                "subject": "Cosmochemistry",
+                "count": 73
+              },
+              {
+                "url": "http://dbpedia.org/resource/Nucleosynthesis",
+                "subject": "Nucleosynthesis",
+                "count": 30
+              },
+              {
+                "url": "http://dbpedia.org/resource/Abundance_of_the_chemical_elements",
+                "subject": "Cosmic abundances",
+                "count": 11
+              },
+              {
+                "url": "http://dbpedia.org/resource/Star",
+                "subject": "Stars",
+                "count": 9
+              },
+              {
+                "url": null,
+                "subject": "Astrophysics",
+                "count": 8
+              }
+            ],
+            "pubDates": {
+              "avg": 1993,
+              "median": 1995,
+              "mode": 2010
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QA": {
+      "id": "QA",
+      "subject": "Mathematics",
+      "count": 0,
+      "children": {
+        "QA1-939": {
+          "id": "QA1-939",
+          "subject": "Mathematics",
+          "count": 3044,
+          "children": {
+            "QA440-699": {
+              "id": "QA440-699",
+              "subject": "Geometry.    Trigonometry.    Topology",
+              "count": 10402,
+              "children": {},
+              "subjects": {
+                "id": "QA440-699",
+                "subject": "Geometry.    Trigonometry.    Topology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Geometry",
+                    "subject": "Geometry",
+                    "count": 1863
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Topology",
+                    "subject": "Topology",
+                    "count": 592
+                  },
+                  {
+                    "url": null,
+                    "subject": "Geometry, Differential",
+                    "count": 588
+                  },
+                  {
+                    "url": null,
+                    "subject": "Geometry, Analytic",
+                    "count": 497
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Trigonometry",
+                    "subject": "Trigonometry",
+                    "count": 458
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1984,
+                  "mode": 2008
+                }
+              }
+            },
+            "QA299.6-433": {
+              "id": "QA299.6-433",
+              "subject": "Analysis",
+              "count": 18661,
+              "children": {},
+              "subjects": {
+                "id": "QA299.6-433",
+                "subject": "Analysis",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Calculus",
+                    "subject": "Calculus",
+                    "count": 2100
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Differential_equation",
+                    "subject": "Differential equations",
+                    "count": 1700
+                  },
+                  {
+                    "url": null,
+                    "subject": "Differential equations, Partial",
+                    "count": 1154
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mathematical_optimization",
+                    "subject": "Mathematical optimization",
+                    "count": 1149
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mathematical_analysis",
+                    "subject": "Mathematical analysis",
+                    "count": 1133
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1986,
+                  "mode": 1989
+                }
+              }
+            },
+            "QA101-145": {
+              "id": "QA101-145",
+              "subject": "Elementary mathematics.    Arithmetic",
+              "count": 5428,
+              "children": {},
+              "subjects": {
+                "id": "QA101-145",
+                "subject": "Elementary mathematics.    Arithmetic",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mathematics",
+                    "subject": "Mathematics",
+                    "count": 1964
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Arithmetic",
+                    "subject": "Arithmetic",
+                    "count": 1913
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Counting",
+                    "subject": "Counting",
+                    "count": 1519
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Addition",
+                    "subject": "Addition",
+                    "count": 358
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fraction",
+                    "subject": "Fractions",
+                    "count": 324
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1991,
+                  "mode": 2006
+                }
+              }
+            },
+            "QA1-43": {
+              "id": "QA1-43",
+              "subject": "General",
+              "count": 20091,
+              "children": {},
+              "subjects": {
+                "id": "QA1-43",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mathematics",
+                    "subject": "Mathematics",
+                    "count": 12854
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mathematician",
+                    "subject": "Mathematicians",
+                    "count": 1016
+                  },
+                  {
+                    "url": null,
+                    "subject": "Logic, Symbolic and mathematical",
+                    "count": 753
+                  },
+                  {
+                    "url": null,
+                    "subject": "Mathematics, Japanese",
+                    "count": 436
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Science",
+                    "subject": "Science",
+                    "count": 424
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1984,
+                  "mode": 2008
+                }
+              }
+            },
+            "QA150-272.5": {
+              "id": "QA150-272.5",
+              "subject": "Algebra",
+              "count": 15335,
+              "children": {},
+              "subjects": {
+                "id": "QA150-272.5",
+                "subject": "Algebra",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Algebra",
+                    "subject": "Algebra",
+                    "count": 4062
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Number_theory",
+                    "subject": "Number theory",
+                    "count": 965
+                  },
+                  {
+                    "url": null,
+                    "subject": "Algebras, Linear",
+                    "count": 776
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Set_theory",
+                    "subject": "Set theory",
+                    "count": 570
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Group_theory",
+                    "subject": "Group theory",
+                    "count": 558
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1986,
+                  "mode": 1994
+                }
+              }
+            },
+            "QA801-939": {
+              "id": "QA801-939",
+              "subject": "Analytic mechanics",
+              "count": 4843,
+              "children": {},
+              "subjects": {
+                "id": "QA801-939",
+                "subject": "Analytic mechanics",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Mechanics, Analytic",
+                    "count": 472
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mechanic",
+                    "subject": "Mechanics",
+                    "count": 469
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fluid_dynamics",
+                    "subject": "Fluid dynamics",
+                    "count": 468
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Elasticity",
+                    "subject": "Elasticity",
+                    "count": 350
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Dynamics",
+                    "subject": "Dynamics",
+                    "count": 320
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1971,
+                  "median": 1979,
+                  "mode": 1984
+                }
+              }
+            },
+            "QA71-90": {
+              "id": "QA71-90",
+              "subject": "Instruments and machines",
+              "count": 493,
+              "children": {
+                "QA75-76.95": {
+                  "id": "QA75-76.95",
+                  "subject": "Calculating machines",
+                  "count": 322,
+                  "children": {
+                    "QA75.5-76.95": {
+                      "id": "QA75.5-76.95",
+                      "subject": "Electronic computers.    Computer science",
+                      "count": 48176,
+                      "children": {
+                        "QA76.75-76.765": {
+                          "id": "QA76.75-76.765",
+                          "subject": "Computer software",
+                          "count": 13247,
+                          "children": {},
+                          "subjects": {
+                            "id": "QA76.75-76.765",
+                            "subject": "Computer software",
+                            "topSubjects": [
+                              {
+                                "url": null,
+                                "subject": "Operating systems (Computers)",
+                                "count": 3499
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Software",
+                                "subject": "Computer software",
+                                "count": 2540
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Software_engineering",
+                                "subject": "Software engineering",
+                                "count": 947
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Application_software",
+                                "subject": "Application software",
+                                "count": 825
+                              },
+                              {
+                                "url": null,
+                                "subject": "Expert systems (Computer science)",
+                                "count": 748
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1998,
+                              "median": 1999,
+                              "mode": 1993
+                            }
+                          }
+                        }
+                      },
+                      "subjects": {
+                        "id": "QA75.5-76.95",
+                        "subject": "Electronic computers.    Computer science",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Electronic_data_processing",
+                            "subject": "Electronic data processing",
+                            "count": 4909
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Database",
+                            "subject": "Database management",
+                            "count": 3842
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Computer",
+                            "subject": "Computers",
+                            "count": 3496
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Computer_programming",
+                            "subject": "Computer programming",
+                            "count": 2188
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Microcomputer",
+                            "subject": "Microcomputers",
+                            "count": 2169
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1994,
+                          "median": 1995,
+                          "mode": 1984
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "QA75-76.95",
+                    "subject": "Calculating machines",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Calculator",
+                        "subject": "Calculators",
+                        "count": 166
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Abacus",
+                        "subject": "Abacus",
+                        "count": 68
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Programmable_calculator",
+                        "subject": "Programmable calculators",
+                        "count": 34
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Computer",
+                        "subject": "Computers",
+                        "count": 25
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Mathematics",
+                        "subject": "Mathematics",
+                        "count": 25
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1964,
+                      "median": 1978,
+                      "mode": 1977
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QA71-90",
+                "subject": "Instruments and machines",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Graphic methods",
+                    "count": 240
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Slide_rule",
+                    "subject": "Slide-rule",
+                    "count": 121
+                  },
+                  {
+                    "url": null,
+                    "subject": "Nomography (Mathematics)",
+                    "count": 65
+                  },
+                  {
+                    "url": null,
+                    "subject": "Computation laboratories",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mathematical_instrument",
+                    "subject": "Mathematical instruments",
+                    "count": 33
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1964,
+                  "median": 1968,
+                  "mode": 1964
+                }
+              }
+            },
+            "QA273-280": {
+              "id": "QA273-280",
+              "subject": "Probabilities.    Mathematical statistics",
+              "count": 10253,
+              "children": {},
+              "subjects": {
+                "id": "QA273-280",
+                "subject": "Probabilities.    Mathematical statistics",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Mathematical statistics",
+                    "count": 2500
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Probability",
+                    "subject": "Probabilities",
+                    "count": 1920
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Statistic",
+                    "subject": "Statistics",
+                    "count": 1438
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Stochastic_process",
+                    "subject": "Stochastic processes",
+                    "count": 688
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Multivariate_analysis",
+                    "subject": "Multivariate analysis",
+                    "count": 519
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1990,
+                  "mode": 2004
+                }
+              }
+            },
+            "QA47-59": {
+              "id": "QA47-59",
+              "subject": "Tables",
+              "count": 470,
+              "children": {},
+              "subjects": {
+                "id": "QA47-59",
+                "subject": "Tables",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mathematics",
+                    "subject": "Mathematics",
+                    "count": 213
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Logarithm",
+                    "subject": "Logarithms",
+                    "count": 170
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Trigonometry",
+                    "subject": "Trigonometry",
+                    "count": 81
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Multiplication",
+                    "subject": "Multiplication",
+                    "count": 24
+                  },
+                  {
+                    "url": null,
+                    "subject": "Trigonometrical functions",
+                    "count": 19
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1931,
+                  "median": 1941,
+                  "mode": 1931
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QA1-939",
+            "subject": "Mathematics",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Numerical_analysis",
+                "subject": "Numerical analysis",
+                "count": 844
+              },
+              {
+                "url": "http://dbpedia.org/resource/Recreational_mathematics",
+                "subject": "Mathematical recreations",
+                "count": 586
+              },
+              {
+                "url": "http://dbpedia.org/resource/Mathematics",
+                "subject": "Mathematics",
+                "count": 547
+              },
+              {
+                "url": "http://dbpedia.org/resource/Problem_solving",
+                "subject": "Problem solving",
+                "count": 224
+              },
+              {
+                "url": null,
+                "subject": "Inequalities (Mathematics)",
+                "count": 91
+              }
+            ],
+            "pubDates": {
+              "avg": 1982,
+              "median": 1987,
+              "mode": 2009
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "Q": {
+      "id": "Q",
+      "subject": "Science (General)",
+      "count": 0,
+      "children": {
+        "Q1-390": {
+          "id": "Q1-390",
+          "subject": "Science (General)",
+          "count": 1,
+          "children": {
+            "Q1-295": {
+              "id": "Q1-295",
+              "subject": "General",
+              "count": 45396,
+              "children": {},
+              "subjects": {
+                "id": "Q1-295",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Science",
+                    "subject": "Science",
+                    "count": 28977
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Research",
+                    "subject": "Research",
+                    "count": 6211
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Technology",
+                    "subject": "Technology",
+                    "count": 4823
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Scientist",
+                    "subject": "Scientists",
+                    "count": 3082
+                  },
+                  {
+                    "url": null,
+                    "subject": "Science and state",
+                    "count": 2886
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1983,
+                  "mode": 1990
+                }
+              }
+            },
+            "Q300-390": {
+              "id": "Q300-390",
+              "subject": "Cybernetics",
+              "count": 2979,
+              "children": {
+                "Q350-390": {
+                  "id": "Q350-390",
+                  "subject": "Information theory",
+                  "count": 699,
+                  "children": {},
+                  "subjects": {
+                    "id": "Q350-390",
+                    "subject": "Information theory",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Information_theory",
+                        "subject": "Information theory",
+                        "count": 278
+                      },
+                      {
+                        "url": null,
+                        "subject": "Knowledge representation (Information theory)",
+                        "count": 92
+                      },
+                      {
+                        "url": null,
+                        "subject": "Uncertainty (Information theory)",
+                        "count": 56
+                      },
+                      {
+                        "url": null,
+                        "subject": "Bayesian statistical decision theory",
+                        "count": 45
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Artificial_intelligence",
+                        "subject": "Artificial intelligence",
+                        "count": 38
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1990,
+                      "median": 1993,
+                      "mode": 1994
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "Q300-390",
+                "subject": "Cybernetics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Artificial_intelligence",
+                    "subject": "Artificial intelligence",
+                    "count": 1735
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cybernetics",
+                    "subject": "Cybernetics",
+                    "count": 415
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Machine_learning",
+                    "subject": "Machine learning",
+                    "count": 316
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Computational_intelligence",
+                    "subject": "Computational intelligence",
+                    "count": 222
+                  },
+                  {
+                    "url": null,
+                    "subject": "Pattern perception",
+                    "count": 170
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1992,
+                  "median": 1992,
+                  "mode": 1990
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "Q1-390",
+            "subject": "Science (General)",
+            "topSubjects": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QP": {
+      "id": "QP",
+      "subject": "Physiology",
+      "count": 0,
+      "children": {
+        "QP1-981": {
+          "id": "QP1-981",
+          "subject": "Physiology",
+          "count": 2,
+          "children": {
+            "QP1-345": {
+              "id": "QP1-345",
+              "subject": "General",
+              "count": 17031,
+              "children": {},
+              "subjects": {
+                "id": "QP1-345",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Physiology",
+                    "subject": "Physiology",
+                    "count": 1980
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human_physiology",
+                    "subject": "Human physiology",
+                    "count": 1521
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nutrition",
+                    "subject": "Nutrition",
+                    "count": 1426
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ageing",
+                    "subject": "Aging",
+                    "count": 886
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Anatomy",
+                    "subject": "Human anatomy",
+                    "count": 775
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1983,
+                  "mode": 1980
+                }
+              }
+            },
+            "QP351-495": {
+              "id": "QP351-495",
+              "subject": "Neurophysiology and neuropsychology",
+              "count": 9683,
+              "children": {},
+              "subjects": {
+                "id": "QP351-495",
+                "subject": "Neurophysiology and neuropsychology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Brain",
+                    "subject": "Brain",
+                    "count": 2472
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Neuropsychology",
+                    "subject": "Neuropsychology",
+                    "count": 859
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Psychophysiology",
+                    "subject": "Psychophysiology",
+                    "count": 796
+                  },
+                  {
+                    "url": null,
+                    "subject": "Senses and sensation",
+                    "count": 762
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nervous_system",
+                    "subject": "Nervous system",
+                    "count": 641
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1988,
+                  "mode": 2006
+                }
+              }
+            },
+            "QP501-801": {
+              "id": "QP501-801",
+              "subject": "Animal biochemistry",
+              "count": 11158,
+              "children": {},
+              "subjects": {
+                "id": "QP501-801",
+                "subject": "Animal biochemistry",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Biochemistry",
+                    "subject": "Biochemistry",
+                    "count": 1720
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Protein",
+                    "subject": "Proteins",
+                    "count": 1089
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Enzyme",
+                    "subject": "Enzymes",
+                    "count": 543
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Lipid",
+                    "subject": "Lipids",
+                    "count": 350
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/DNA",
+                    "subject": "DNA",
+                    "count": 348
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1989,
+                  "mode": 1990
+                }
+              }
+            },
+            "QP901-981": {
+              "id": "QP901-981",
+              "subject": "Experimental pharmacology",
+              "count": 651,
+              "children": {},
+              "subjects": {
+                "id": "QP901-981",
+                "subject": "Experimental pharmacology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Pharmacology",
+                    "subject": "Pharmacology",
+                    "count": 68
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Drug",
+                    "subject": "Drugs",
+                    "count": 54
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Alcohol",
+                    "subject": "Alcohol",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Insulin",
+                    "subject": "Insulin",
+                    "count": 25
+                  },
+                  {
+                    "url": null,
+                    "subject": "Pharmacology, Experimental",
+                    "count": 23
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1956,
+                  "median": 1965,
+                  "mode": 1973
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QP1-981",
+            "subject": "Physiology",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1971,
+              "median": 1981,
+              "mode": 1961
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QH": {
+      "id": "QH",
+      "subject": "Biology (General)",
+      "count": 0,
+      "children": {
+        "QH1-278.5": {
+          "id": "QH1-278.5",
+          "subject": "Natural history (General)",
+          "count": 0,
+          "children": {
+            "QH1-199.5": {
+              "id": "QH1-199.5",
+              "subject": "General",
+              "count": 28721,
+              "children": {},
+              "subjects": {
+                "id": "QH1-199.5",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 9981
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Conservation_(ethic)",
+                    "subject": "Nature conservation",
+                    "count": 2661
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ecology",
+                    "subject": "Ecology",
+                    "count": 1866
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Marine_biology",
+                    "subject": "Marine biology",
+                    "count": 1449
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Conservation_biology",
+                    "subject": "Biodiversity conservation",
+                    "count": 1244
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1989,
+                  "mode": 2002
+                }
+              }
+            },
+            "QH201-278.5": {
+              "id": "QH201-278.5",
+              "subject": "Microscopy",
+              "count": 1298,
+              "children": {},
+              "subjects": {
+                "id": "QH201-278.5",
+                "subject": "Microscopy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Microscopy",
+                    "subject": "Microscopy",
+                    "count": 592
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Electron_microscope",
+                    "subject": "Electron microscopy",
+                    "count": 225
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Microscope",
+                    "subject": "Microscopes",
+                    "count": 161
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Scanning_electron_microscope",
+                    "subject": "Scanning electron microscopy",
+                    "count": 69
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Micrograph",
+                    "subject": "Photomicrography",
+                    "count": 69
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1968,
+                  "median": 1976,
+                  "mode": 1993
+                }
+              }
+            }
+          },
+          "subjects": null
+        },
+        "QH301-705.5": {
+          "id": "QH301-705.5",
+          "subject": "Biology (General)",
+          "count": 9395,
+          "children": {
+            "QH359-425": {
+              "id": "QH359-425",
+              "subject": "Evolution",
+              "count": 2955,
+              "children": {},
+              "subjects": {
+                "id": "QH359-425",
+                "subject": "Evolution",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Evolution (Biology)",
+                    "count": 1773
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Evolution",
+                    "subject": "Evolution",
+                    "count": 767
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_selection",
+                    "subject": "Natural selection",
+                    "count": 319
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human",
+                    "subject": "Human beings",
+                    "count": 213
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human_evolution",
+                    "subject": "Human evolution",
+                    "count": 147
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1982,
+                  "mode": 2009
+                }
+              }
+            },
+            "QH573-671": {
+              "id": "QH573-671",
+              "subject": "Cytology",
+              "count": 4038,
+              "children": {},
+              "subjects": {
+                "id": "QH573-671",
+                "subject": "Cytology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Cytology",
+                    "subject": "Cytology",
+                    "count": 836
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cell",
+                    "subject": "Cells",
+                    "count": 631
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Stem_cell",
+                    "subject": "Stem cells",
+                    "count": 351
+                  },
+                  {
+                    "url": null,
+                    "subject": "Membranes (Biology)",
+                    "count": 229
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cell_membrane",
+                    "subject": "Cell membranes",
+                    "count": 196
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1984,
+                  "mode": 2011
+                }
+              }
+            },
+            "QH540-549.5": {
+              "id": "QH540-549.5",
+              "subject": "Ecology",
+              "count": 9285,
+              "children": {},
+              "subjects": {
+                "id": "QH540-549.5",
+                "subject": "Ecology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Ecology",
+                    "subject": "Ecology",
+                    "count": 3705
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Forest_ecology",
+                    "subject": "Forest ecology",
+                    "count": 477
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Marine_ecosystem",
+                    "subject": "Marine ecology",
+                    "count": 461
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pollution",
+                    "subject": "Pollution",
+                    "count": 450
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Environmental_monitoring",
+                    "subject": "Environmental monitoring",
+                    "count": 385
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1992,
+                  "median": 1993,
+                  "mode": 2008
+                }
+              }
+            },
+            "QH426-470": {
+              "id": "QH426-470",
+              "subject": "Genetics",
+              "count": 5152,
+              "children": {},
+              "subjects": {
+                "id": "QH426-470",
+                "subject": "Genetics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Genetic",
+                    "subject": "Genetics",
+                    "count": 1687
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Genetic_engineering",
+                    "subject": "Genetic engineering",
+                    "count": 820
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human_genetics",
+                    "subject": "Human genetics",
+                    "count": 592
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Genomics",
+                    "subject": "Genomics",
+                    "count": 389
+                  },
+                  {
+                    "url": null,
+                    "subject": "Molecular genetics",
+                    "count": 244
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1991,
+                  "mode": 2002
+                }
+              }
+            },
+            "QH501-531": {
+              "id": "QH501-531",
+              "subject": "Life",
+              "count": 2180,
+              "children": {},
+              "subjects": {
+                "id": "QH501-531",
+                "subject": "Life",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Molecular_biology",
+                    "subject": "Molecular biology",
+                    "count": 680
+                  },
+                  {
+                    "url": null,
+                    "subject": "Biophysics",
+                    "count": 491
+                  },
+                  {
+                    "url": null,
+                    "subject": "Life (Biology)",
+                    "count": 159
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Molecular_biology",
+                    "subject": "Molecular Biology",
+                    "count": 157
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Chronobiology",
+                    "subject": "Biological rhythms",
+                    "count": 127
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1989,
+                  "mode": 2012
+                }
+              }
+            },
+            "QH471-489": {
+              "id": "QH471-489",
+              "subject": "Reproduction",
+              "count": 162,
+              "children": {},
+              "subjects": {
+                "id": "QH471-489",
+                "subject": "Reproduction",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Reproduction",
+                    "subject": "Reproduction",
+                    "count": 64
+                  },
+                  {
+                    "url": null,
+                    "subject": "Sex (Biology)",
+                    "count": 41
+                  },
+                  {
+                    "url": null,
+                    "subject": "Fertilization (Biology)",
+                    "count": 27
+                  },
+                  {
+                    "url": null,
+                    "subject": "Parthenogenesis in animals",
+                    "count": 15
+                  },
+                  {
+                    "url": null,
+                    "subject": "Evolution (Biology)",
+                    "count": 14
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1965,
+                  "mode": 1982
+                }
+              }
+            },
+            "QH705-705.5": {
+              "id": "QH705-705.5",
+              "subject": "Economic biology",
+              "count": 33,
+              "children": {},
+              "subjects": {
+                "id": "QH705-705.5",
+                "subject": "Economic biology",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Biology, Economic",
+                    "count": 31
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1985,
+                  "mode": 1990
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QH301-705.5",
+            "subject": "Biology (General)",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Biology",
+                "subject": "Biology",
+                "count": 5435
+              },
+              {
+                "url": null,
+                "subject": "Bioethics",
+                "count": 600
+              },
+              {
+                "url": "http://dbpedia.org/resource/List_of_life_sciences",
+                "subject": "Life sciences",
+                "count": 499
+              },
+              {
+                "url": "http://dbpedia.org/resource/Life",
+                "subject": "Life",
+                "count": 449
+              },
+              {
+                "url": "http://dbpedia.org/resource/Biochemistry",
+                "subject": "Biochemistry",
+                "count": 436
+              }
+            ],
+            "pubDates": {
+              "avg": 1981,
+              "median": 1986,
+              "mode": 2011
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QD": {
+      "id": "QD",
+      "subject": "Chemistry",
+      "count": 0,
+      "children": {
+        "QD1-999": {
+          "id": "QD1-999",
+          "subject": "Chemistry",
+          "count": 68,
+          "children": {
+            "QD450-801": {
+              "id": "QD450-801",
+              "subject": "Physical and theoretical chemistry",
+              "count": 10522,
+              "children": {
+                "QD701-731": {
+                  "id": "QD701-731",
+                  "subject": "Photochemistry",
+                  "count": 209,
+                  "children": {},
+                  "subjects": {
+                    "id": "QD701-731",
+                    "subject": "Photochemistry",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Photochemistry",
+                        "subject": "Photochemistry",
+                        "count": 133
+                      },
+                      {
+                        "url": null,
+                        "subject": "Photocatalysis",
+                        "count": 28
+                      },
+                      {
+                        "url": null,
+                        "subject": "Lasers in chemistry",
+                        "count": 22
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Photobiology",
+                        "subject": "Photobiology",
+                        "count": 17
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Photochemistry",
+                        "subject": "Organic photochemistry",
+                        "count": 10
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1989,
+                      "median": 1988,
+                      "mode": 1978
+                    }
+                  }
+                },
+                "QD625-655": {
+                  "id": "QD625-655",
+                  "subject": "Radiation chemistry",
+                  "count": 107,
+                  "children": {},
+                  "subjects": {
+                    "id": "QD625-655",
+                    "subject": "Radiation chemistry",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Radiation_chemistry",
+                        "subject": "Radiation chemistry",
+                        "count": 62
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Optical_rotation",
+                        "subject": "Optical rotation",
+                        "count": 16
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Metal",
+                        "subject": "Metals",
+                        "count": 7
+                      },
+                      {
+                        "url": null,
+                        "subject": "Physical optics",
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "subject": "Pulse radiolysis",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1971,
+                      "median": 1974,
+                      "mode": 1967
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QD450-801",
+                "subject": "Physical and theoretical chemistry",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Chemistry, Physical and theoretical",
+                    "count": 1183
+                  },
+                  {
+                    "url": null,
+                    "subject": "Catalysis",
+                    "count": 528
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Electrochemistry",
+                    "subject": "Electrochemistry",
+                    "count": 473
+                  },
+                  {
+                    "url": null,
+                    "subject": "Chemical kinetics",
+                    "count": 469
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Colloid",
+                    "subject": "Colloids",
+                    "count": 439
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1978,
+                  "mode": 1975
+                }
+              }
+            },
+            "QD1-65": {
+              "id": "QD1-65",
+              "subject": "General",
+              "count": 9606,
+              "children": {},
+              "subjects": {
+                "id": "QD1-65",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Chemistry",
+                    "subject": "Chemistry",
+                    "count": 6868
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Chemist",
+                    "subject": "Chemists",
+                    "count": 978
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Alchemy",
+                    "subject": "Alchemy",
+                    "count": 545
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Inorganic_chemistry",
+                    "subject": "Chemistry, Inorganic",
+                    "count": 187
+                  },
+                  {
+                    "url": null,
+                    "subject": "Chemistry, Technical",
+                    "count": 165
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1976,
+                  "mode": 1968
+                }
+              }
+            },
+            "QD146-197": {
+              "id": "QD146-197",
+              "subject": "Inorganic chemistry",
+              "count": 3090,
+              "children": {},
+              "subjects": {
+                "id": "QD146-197",
+                "subject": "Inorganic chemistry",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Inorganic_chemistry",
+                    "subject": "Chemistry, Inorganic",
+                    "count": 453
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Metal",
+                    "subject": "Metals",
+                    "count": 95
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Water",
+                    "subject": "Water",
+                    "count": 91
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Rare_earth_element",
+                    "subject": "Rare earth metals",
+                    "count": 88
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Actinide",
+                    "subject": "Actinide elements",
+                    "count": 74
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1979,
+                  "mode": 2010
+                }
+              }
+            },
+            "QD241-441": {
+              "id": "QD241-441",
+              "subject": "Organic chemistry",
+              "count": 8928,
+              "children": {
+                "QD415-436": {
+                  "id": "QD415-436",
+                  "subject": "Biochemistry",
+                  "count": 938,
+                  "children": {},
+                  "subjects": {
+                    "id": "QD415-436",
+                    "subject": "Biochemistry",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Biochemistry",
+                        "subject": "Biochemistry",
+                        "count": 308
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Protein",
+                        "subject": "Proteins",
+                        "count": 188
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Peptide",
+                        "subject": "Peptides",
+                        "count": 111
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Natural_product",
+                        "subject": "Natural products",
+                        "count": 107
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Alkaloid",
+                        "subject": "Alkaloids",
+                        "count": 76
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1981,
+                      "mode": 2009
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QD241-441",
+                "subject": "Organic chemistry",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Organic_chemistry",
+                    "subject": "Chemistry, Organic",
+                    "count": 1966
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Polymer",
+                    "subject": "Polymers",
+                    "count": 1287
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Organic_compound",
+                    "subject": "Organic compounds",
+                    "count": 720
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Polymerization",
+                    "subject": "Polymerization",
+                    "count": 568
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Organometallic_chemistry",
+                    "subject": "Organometallic compounds",
+                    "count": 231
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1968,
+                  "median": 1977,
+                  "mode": 1987
+                }
+              }
+            },
+            "QD901-999": {
+              "id": "QD901-999",
+              "subject": "Crystallography",
+              "count": 2170,
+              "children": {},
+              "subjects": {
+                "id": "QD901-999",
+                "subject": "Crystallography",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Crystallography",
+                    "subject": "Crystallography",
+                    "count": 686
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Crystal",
+                    "subject": "Crystals",
+                    "count": 400
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Crystal_growth",
+                    "subject": "Crystal growth",
+                    "count": 235
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Liquid_crystal",
+                    "subject": "Liquid crystals",
+                    "count": 196
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/X-ray_crystallography",
+                    "subject": "X-ray crystallography",
+                    "count": 165
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1981,
+                  "mode": 1972
+                }
+              }
+            },
+            "QD71-142": {
+              "id": "QD71-142",
+              "subject": "Analytical chemistry",
+              "count": 4782,
+              "children": {},
+              "subjects": {
+                "id": "QD71-142",
+                "subject": "Analytical chemistry",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Chemistry, Analytic",
+                    "count": 1438
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Spectral_analysis",
+                    "subject": "Spectrum analysis",
+                    "count": 249
+                  },
+                  {
+                    "url": null,
+                    "subject": "Chromatographic analysis",
+                    "count": 210
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Gas_chromatography",
+                    "subject": "Gas chromatography",
+                    "count": 197
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Water",
+                    "subject": "Water",
+                    "count": 183
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1979,
+                  "mode": 1987
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QD1-999",
+            "subject": "Chemistry",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Supramolecular_chemistry",
+                "subject": "Supramolecular chemistry",
+                "count": 35
+              },
+              {
+                "url": "http://dbpedia.org/resource/Solubility",
+                "subject": "Solubility",
+                "count": 9
+              },
+              {
+                "url": null,
+                "subject": "Mechanical chemistry",
+                "count": 5
+              },
+              {
+                "url": "http://dbpedia.org/resource/Macromolecule",
+                "subject": "Macromolecules",
+                "count": 5
+              }
+            ],
+            "pubDates": {
+              "avg": 1986,
+              "median": 2002,
+              "mode": 2001
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QE": {
+      "id": "QE",
+      "subject": "Geology",
+      "count": 0,
+      "children": {
+        "QE1-996.5": {
+          "id": "QE1-996.5",
+          "subject": "Geology",
+          "count": 1,
+          "children": {
+            "QE1-350.62": {
+              "id": "QE1-350.62",
+              "subject": "General",
+              "count": 30148,
+              "children": {},
+              "subjects": {
+                "id": "QE1-350.62",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Geology",
+                    "subject": "Geology",
+                    "count": 18297
+                  },
+                  {
+                    "url": null,
+                    "subject": "Mines and mineral resources",
+                    "count": 2214
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Paleontology",
+                    "subject": "Paleontology",
+                    "count": 2147
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Stratigraphy",
+                    "subject": "Geology, Stratigraphic",
+                    "count": 1786
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Earth_science",
+                    "subject": "Earth sciences",
+                    "count": 1629
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1972,
+                  "mode": 1969
+                }
+              }
+            },
+            "QE420-499": {
+              "id": "QE420-499",
+              "subject": "Petrology",
+              "count": 5294,
+              "children": {},
+              "subjects": {
+                "id": "QE420-499",
+                "subject": "Petrology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Petrology",
+                    "subject": "Petrology",
+                    "count": 1089
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Stratigraphy",
+                    "subject": "Geology, Stratigraphic",
+                    "count": 963
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Rock",
+                    "subject": "Rocks",
+                    "count": 772
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Geology",
+                    "subject": "Geology",
+                    "count": 567
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Igneous_rock",
+                    "subject": "Igneous rocks",
+                    "count": 541
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1983,
+                  "mode": 1981
+                }
+              }
+            },
+            "QE760.8-899.2": {
+              "id": "QE760.8-899.2",
+              "subject": "Paleozoology",
+              "count": 6707,
+              "children": {},
+              "subjects": {
+                "id": "QE760.8-899.2",
+                "subject": "Paleozoology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Paleontology",
+                    "subject": "Paleontology",
+                    "count": 6970
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Dinosaur",
+                    "subject": "Dinosaurs",
+                    "count": 2392
+                  },
+                  {
+                    "url": null,
+                    "subject": "Mammals, Fossil",
+                    "count": 369
+                  },
+                  {
+                    "url": null,
+                    "subject": "Foraminifera, Fossil",
+                    "count": 348
+                  },
+                  {
+                    "url": null,
+                    "subject": "Vertebrates, Fossil",
+                    "count": 315
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1984,
+                  "mode": 1973
+                }
+              }
+            },
+            "QE500-639.5": {
+              "id": "QE500-639.5",
+              "subject": "Dynamic and structural geology",
+              "count": 5967,
+              "children": {
+                "QE521-545": {
+                  "id": "QE521-545",
+                  "subject": "Volcanoes and earthquakes",
+                  "count": 4670,
+                  "children": {},
+                  "subjects": {
+                    "id": "QE521-545",
+                    "subject": "Volcanoes and earthquakes",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Earthquake",
+                        "subject": "Earthquakes",
+                        "count": 2109
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Volcano",
+                        "subject": "Volcanoes",
+                        "count": 1074
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Seismology",
+                        "subject": "Seismology",
+                        "count": 1001
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Earthquake_prediction",
+                        "subject": "Earthquake prediction",
+                        "count": 411
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Volcanism",
+                        "subject": "Volcanism",
+                        "count": 372
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1984,
+                      "median": 1990,
+                      "mode": 2006
+                    }
+                  }
+                },
+                "QE601-613.5": {
+                  "id": "QE601-613.5",
+                  "subject": "Structural geology",
+                  "count": 1698,
+                  "children": {},
+                  "subjects": {
+                    "id": "QE601-613.5",
+                    "subject": "Structural geology",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Geology, Structural",
+                        "count": 906
+                      },
+                      {
+                        "url": null,
+                        "subject": "Faults (Geology)",
+                        "count": 278
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Geology",
+                        "subject": "Geology",
+                        "count": 251
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Stratigraphy",
+                        "subject": "Geology, Stratigraphic",
+                        "count": 229
+                      },
+                      {
+                        "url": null,
+                        "subject": "Rock deformation",
+                        "count": 128
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1984,
+                      "median": 1985,
+                      "mode": 1985
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QE500-639.5",
+                "subject": "Dynamic and structural geology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Geochemistry",
+                    "subject": "Geochemistry",
+                    "count": 707
+                  },
+                  {
+                    "url": null,
+                    "subject": "Geology, Structural",
+                    "count": 676
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Geology",
+                    "subject": "Geology",
+                    "count": 650
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Stratigraphy",
+                    "subject": "Geology, Stratigraphic",
+                    "count": 523
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Geodynamics",
+                    "subject": "Geodynamics",
+                    "count": 422
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1986,
+                  "mode": 1986
+                }
+              }
+            },
+            "QE701-760": {
+              "id": "QE701-760",
+              "subject": "Paleontology",
+              "count": 3747,
+              "children": {},
+              "subjects": {
+                "id": "QE701-760",
+                "subject": "Paleontology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Paleontology",
+                    "subject": "Paleontology",
+                    "count": 3253
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fossil",
+                    "subject": "Fossils",
+                    "count": 626
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Paleoecology",
+                    "subject": "Paleoecology",
+                    "count": 296
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Stratigraphy",
+                    "subject": "Geology, Stratigraphic",
+                    "count": 286
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Geology",
+                    "subject": "Geology",
+                    "count": 279
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1982,
+                  "mode": 1990
+                }
+              }
+            },
+            "QE640-699": {
+              "id": "QE640-699",
+              "subject": "Stratigraphy",
+              "count": 4907,
+              "children": {},
+              "subjects": {
+                "id": "QE640-699",
+                "subject": "Stratigraphy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Stratigraphy",
+                    "subject": "Geology, Stratigraphic",
+                    "count": 4929
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Geology",
+                    "subject": "Geology",
+                    "count": 3857
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Paleontology",
+                    "subject": "Paleontology",
+                    "count": 692
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pleistocene",
+                    "subject": "Glacial epoch",
+                    "count": 503
+                  },
+                  {
+                    "url": null,
+                    "subject": "Stratigraphic correlation",
+                    "count": 184
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1981,
+                  "mode": 1979
+                }
+              }
+            },
+            "QE351-399.2": {
+              "id": "QE351-399.2",
+              "subject": "Mineralogy",
+              "count": 4708,
+              "children": {},
+              "subjects": {
+                "id": "QE351-399.2",
+                "subject": "Mineralogy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mineralogy",
+                    "subject": "Mineralogy",
+                    "count": 1324
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mineral",
+                    "subject": "Minerals",
+                    "count": 491
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Gemstone",
+                    "subject": "Precious stones",
+                    "count": 490
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ore",
+                    "subject": "Ore deposits",
+                    "count": 475
+                  },
+                  {
+                    "url": null,
+                    "subject": "Mineralogy, Determinative",
+                    "count": 291
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1983,
+                  "mode": 1988
+                }
+              }
+            },
+            "QE901-996.5": {
+              "id": "QE901-996.5",
+              "subject": "Paleobotany",
+              "count": 1394,
+              "children": {},
+              "subjects": {
+                "id": "QE901-996.5",
+                "subject": "Paleobotany",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Paleobotany",
+                    "subject": "Paleobotany",
+                    "count": 1626
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Palynology",
+                    "subject": "Palynology",
+                    "count": 469
+                  },
+                  {
+                    "url": null,
+                    "subject": "Plants, Fossil",
+                    "count": 175
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Paleontology",
+                    "subject": "Paleontology",
+                    "count": 122
+                  },
+                  {
+                    "url": null,
+                    "subject": "Plant spores, Fossil",
+                    "count": 76
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1979,
+                  "mode": 1980
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QE1-996.5",
+            "subject": "Geology",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1973,
+              "median": 1973,
+              "mode": 1973
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QC": {
+      "id": "QC",
+      "subject": "Physics",
+      "count": 0,
+      "children": {
+        "QC1-999": {
+          "id": "QC1-999",
+          "subject": "Physics",
+          "count": 54,
+          "children": {
+            "QC501-766": {
+              "id": "QC501-766",
+              "subject": "Electricity and magnetism",
+              "count": 0,
+              "children": {
+                "QC501-721": {
+                  "id": "QC501-721",
+                  "subject": "Electricity",
+                  "count": 7717,
+                  "children": {},
+                  "subjects": {
+                    "id": "QC501-721",
+                    "subject": "Electricity",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Electricity",
+                        "subject": "Electricity",
+                        "count": 1347
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Semiconductor",
+                        "subject": "Semiconductors",
+                        "count": 1008
+                      },
+                      {
+                        "url": null,
+                        "subject": "Plasma (Ionized gases)",
+                        "count": 483
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Magnetism",
+                        "subject": "Magnetism",
+                        "count": 432
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Electromagnetic_wave",
+                        "subject": "Electromagnetic waves",
+                        "count": 333
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1972,
+                      "median": 1981,
+                      "mode": 1988
+                    }
+                  }
+                },
+                "QC750-766": {
+                  "id": "QC750-766",
+                  "subject": "Magnetism",
+                  "count": 1588,
+                  "children": {},
+                  "subjects": {
+                    "id": "QC750-766",
+                    "subject": "Magnetism",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Magnetism",
+                        "subject": "Magnetism",
+                        "count": 479
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Electromagnetism",
+                        "subject": "Electromagnetism",
+                        "count": 342
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Magnet",
+                        "subject": "Magnets",
+                        "count": 229
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Magnet",
+                        "subject": "Magnetic materials",
+                        "count": 140
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Nuclear_magnetic_resonance",
+                        "subject": "Nuclear magnetic resonance",
+                        "count": 122
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1981,
+                      "median": 1987,
+                      "mode": 1986
+                    }
+                  }
+                },
+                "QC701-715.4": {
+                  "id": "QC701-715.4",
+                  "subject": "Electric discharge",
+                  "count": 675,
+                  "children": {},
+                  "subjects": {
+                    "id": "QC701-715.4",
+                    "subject": "Electric discharge",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Electric discharges through gases",
+                        "count": 152
+                      },
+                      {
+                        "url": null,
+                        "subject": "Ion bombardment",
+                        "count": 73
+                      },
+                      {
+                        "url": null,
+                        "subject": "Ionization of gases",
+                        "count": 70
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Ion",
+                        "subject": "Ions",
+                        "count": 51
+                      },
+                      {
+                        "url": null,
+                        "subject": "Plasma (Ionized gases)",
+                        "count": 40
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1963,
+                      "median": 1973,
+                      "mode": 1984
+                    }
+                  }
+                }
+              },
+              "subjects": null
+            },
+            "QC350-467": {
+              "id": "QC350-467",
+              "subject": "Optics.    Light",
+              "count": 3423,
+              "children": {
+                "QC450-467": {
+                  "id": "QC450-467",
+                  "subject": "Spectroscopy",
+                  "count": 1851,
+                  "children": {},
+                  "subjects": {
+                    "id": "QC450-467",
+                    "subject": "Spectroscopy",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Spectral_analysis",
+                        "subject": "Spectrum analysis",
+                        "count": 423
+                      },
+                      {
+                        "url": null,
+                        "subject": "Molecular spectroscopy",
+                        "count": 151
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Spectroscopy",
+                        "subject": "Laser spectroscopy",
+                        "count": 123
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Atomic_spectroscopy",
+                        "subject": "Atomic spectroscopy",
+                        "count": 99
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Mass_spectrometry",
+                        "subject": "Mass spectrometry",
+                        "count": 98
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1973,
+                      "median": 1978,
+                      "mode": 1971
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QC350-467",
+                "subject": "Optics.    Light",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Light",
+                    "subject": "Light",
+                    "count": 858
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Optics",
+                    "subject": "Optics",
+                    "count": 760
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Optical_instrument",
+                    "subject": "Optical instruments",
+                    "count": 265
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nonlinear_optics",
+                    "subject": "Nonlinear optics",
+                    "count": 263
+                  },
+                  {
+                    "url": null,
+                    "subject": "Quantum optics",
+                    "count": 175
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1988,
+                  "mode": 2011
+                }
+              }
+            },
+            "QC1-75": {
+              "id": "QC1-75",
+              "subject": "General",
+              "count": 13124,
+              "children": {},
+              "subjects": {
+                "id": "QC1-75",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Physic",
+                    "subject": "Physics",
+                    "count": 7499
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Physicist",
+                    "subject": "Physicists",
+                    "count": 1786
+                  },
+                  {
+                    "url": null,
+                    "subject": "Mathematical physics",
+                    "count": 1577
+                  },
+                  {
+                    "url": null,
+                    "subject": "Force and energy",
+                    "count": 662
+                  },
+                  {
+                    "url": null,
+                    "subject": "Relativity (Physics)",
+                    "count": 452
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1983,
+                  "mode": 2005
+                }
+              }
+            },
+            "QC251-338.5": {
+              "id": "QC251-338.5",
+              "subject": "Heat",
+              "count": 1696,
+              "children": {
+                "QC310.15-319": {
+                  "id": "QC310.15-319",
+                  "subject": "Thermodynamics",
+                  "count": 836,
+                  "children": {},
+                  "subjects": {
+                    "id": "QC310.15-319",
+                    "subject": "Thermodynamics",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Thermodynamics",
+                        "subject": "Thermodynamics",
+                        "count": 605
+                      },
+                      {
+                        "url": null,
+                        "subject": "Statistical thermodynamics",
+                        "count": 105
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Entropy",
+                        "subject": "Entropy",
+                        "count": 68
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Irreversible_process",
+                        "subject": "Irreversible processes",
+                        "count": 54
+                      },
+                      {
+                        "url": null,
+                        "subject": "Nonequilibrium thermodynamics",
+                        "count": 46
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1975,
+                      "median": 1978,
+                      "mode": 1966
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QC251-338.5",
+                "subject": "Heat",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Heat",
+                    "subject": "Heat",
+                    "count": 1143
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mass_transfer",
+                    "subject": "Mass transfer",
+                    "count": 127
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Temperature_measurement",
+                    "subject": "Temperature measurements",
+                    "count": 123
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Temperature",
+                    "subject": "Temperature",
+                    "count": 117
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cryogenics",
+                    "subject": "Low temperatures",
+                    "count": 108
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1969,
+                  "median": 1976,
+                  "mode": 1985
+                }
+              }
+            },
+            "QC170-197": {
+              "id": "QC170-197",
+              "subject": "Atomic physics.    Constitution and properties of matter",
+              "count": 10813,
+              "children": {},
+              "subjects": {
+                "id": "QC170-197",
+                "subject": "Atomic physics.    Constitution and properties of matter",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Quantum_theory",
+                    "subject": "Quantum theory",
+                    "count": 1814
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Matter",
+                    "subject": "Matter",
+                    "count": 860
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Solid",
+                    "subject": "Solids",
+                    "count": 650
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Quantum_field_theory",
+                    "subject": "Quantum field theory",
+                    "count": 556
+                  },
+                  {
+                    "url": null,
+                    "subject": "Relativity (Physics)",
+                    "count": 500
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1989,
+                  "mode": 2006
+                }
+              }
+            },
+            "QC851-999": {
+              "id": "QC851-999",
+              "subject": "Meteorology.    Climatology",
+              "count": 12816,
+              "children": {
+                "QC980-999": {
+                  "id": "QC980-999",
+                  "subject": "Climatology and weather",
+                  "count": 6650,
+                  "children": {
+                    "QC994.95-999": {
+                      "id": "QC994.95-999",
+                      "subject": "Weather forecasting",
+                      "count": 557,
+                      "children": {},
+                      "subjects": {
+                        "id": "QC994.95-999",
+                        "subject": "Weather forecasting",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Weather_forecasting",
+                            "subject": "Weather forecasting",
+                            "count": 382
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Numerical_weather_prediction",
+                            "subject": "Numerical weather forecasting",
+                            "count": 93
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Weather",
+                            "subject": "Weather",
+                            "count": 81
+                          },
+                          {
+                            "url": null,
+                            "subject": "Long-range weather forecasting",
+                            "count": 66
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Meteorology",
+                            "subject": "Meteorology",
+                            "count": 66
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1979,
+                          "median": 1983,
+                          "mode": 1982
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "QC980-999",
+                    "subject": "Climatology and weather",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Climate_change",
+                        "subject": "Climatic changes",
+                        "count": 2314
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Meteorology",
+                        "subject": "Meteorology",
+                        "count": 1437
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Weather",
+                        "subject": "Weather",
+                        "count": 944
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Global_warming",
+                        "subject": "Global warming",
+                        "count": 872
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Climatology",
+                        "subject": "Climatology",
+                        "count": 755
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1987,
+                      "median": 1992,
+                      "mode": 2008
+                    }
+                  }
+                },
+                "QC974.5-976": {
+                  "id": "QC974.5-976",
+                  "subject": "Meteorological optics",
+                  "count": 310,
+                  "children": {},
+                  "subjects": {
+                    "id": "QC974.5-976",
+                    "subject": "Meteorological optics",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Meteorological optics",
+                        "count": 167
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Atmosphere",
+                        "subject": "Atmosphere",
+                        "count": 81
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Rainbow",
+                        "subject": "Rainbows",
+                        "count": 39
+                      },
+                      {
+                        "url": null,
+                        "subject": "Optical radar",
+                        "count": 30
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Light",
+                        "subject": "Light",
+                        "count": 26
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1986,
+                      "mode": 1980
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QC851-999",
+                "subject": "Meteorology.    Climatology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Meteorology",
+                    "subject": "Meteorology",
+                    "count": 2180
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Climate_change",
+                    "subject": "Climatic changes",
+                    "count": 1435
+                  },
+                  {
+                    "url": null,
+                    "subject": "Rain and rainfall",
+                    "count": 773
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Tropical_cyclone",
+                    "subject": "Hurricanes",
+                    "count": 514
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Atmosphere",
+                    "subject": "Atmosphere",
+                    "count": 508
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1986,
+                  "mode": 2010
+                }
+              }
+            },
+            "QC221-246": {
+              "id": "QC221-246",
+              "subject": "Acoustics.    Sound",
+              "count": 1124,
+              "children": {},
+              "subjects": {
+                "id": "QC221-246",
+                "subject": "Acoustics.    Sound",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Sound",
+                    "subject": "Sound",
+                    "count": 831
+                  },
+                  {
+                    "url": null,
+                    "subject": "Underwater acoustics",
+                    "count": 207
+                  },
+                  {
+                    "url": null,
+                    "subject": "Sound-waves",
+                    "count": 169
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Vibration",
+                    "subject": "Vibration",
+                    "count": 74
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Music",
+                    "subject": "Music",
+                    "count": 70
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1985,
+                  "mode": 2008
+                }
+              }
+            },
+            "QC120-168.85": {
+              "id": "QC120-168.85",
+              "subject": "Descriptive and experimental mechanics",
+              "count": 1951,
+              "children": {},
+              "subjects": {
+                "id": "QC120-168.85",
+                "subject": "Descriptive and experimental mechanics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mechanic",
+                    "subject": "Mechanics",
+                    "count": 304
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Atmosphere_of_Earth",
+                    "subject": "Air",
+                    "count": 220
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Motion",
+                    "subject": "Motion",
+                    "count": 208
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fluid_dynamics",
+                    "subject": "Fluid dynamics",
+                    "count": 188
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Liquid",
+                    "subject": "Liquids",
+                    "count": 162
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1986,
+                  "mode": 1991
+                }
+              }
+            },
+            "QC474-496.9": {
+              "id": "QC474-496.9",
+              "subject": "Radiation physics (General)",
+              "count": 2201,
+              "children": {},
+              "subjects": {
+                "id": "QC474-496.9",
+                "subject": "Radiation physics (General)",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Color",
+                    "subject": "Color",
+                    "count": 822
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Color",
+                    "subject": "Colors",
+                    "count": 357
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/X-ray",
+                    "subject": "X-rays",
+                    "count": 304
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cosmic_ray",
+                    "subject": "Cosmic rays",
+                    "count": 225
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Radiation",
+                    "subject": "Radiation",
+                    "count": 187
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1985,
+                  "mode": 2008
+                }
+              }
+            },
+            "QC770-798": {
+              "id": "QC770-798",
+              "subject": "Atomic  energy.",
+              "count": 5461,
+              "children": {
+                "QC793-793.5": {
+                  "id": "QC793-793.5",
+                  "subject": "Elementary particle physics",
+                  "count": 2942,
+                  "children": {},
+                  "subjects": {
+                    "id": "QC793-793.5",
+                    "subject": "Elementary particle physics",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Particles (Nuclear physics)",
+                        "count": 958
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Neutron",
+                        "subject": "Neutrons",
+                        "count": 201
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Quantum_chromodynamics",
+                        "subject": "Quantum chromodynamics",
+                        "count": 197
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Nuclear_structure",
+                        "subject": "Nuclear structure",
+                        "count": 182
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Hadron",
+                        "subject": "Hadrons",
+                        "count": 148
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1991,
+                      "median": 1992,
+                      "mode": 2000
+                    }
+                  }
+                },
+                "QC794.95-798": {
+                  "id": "QC794.95-798",
+                  "subject": "Radioactivity and radioactive substances",
+                  "count": 552,
+                  "children": {},
+                  "subjects": {
+                    "id": "QC794.95-798",
+                    "subject": "Radioactivity and radioactive substances",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Radioactive_decay",
+                        "subject": "Radioactivity",
+                        "count": 147
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Radiation",
+                        "subject": "Radiation",
+                        "count": 147
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Ionizing_radiation",
+                        "subject": "Ionizing radiation",
+                        "count": 121
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Radiation_dosimetry",
+                        "subject": "Radiation dosimetry",
+                        "count": 86
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Radionuclide",
+                        "subject": "Radioisotopes",
+                        "count": 74
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1980,
+                      "mode": 1982
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "QC770-798",
+                "subject": "Atomic  energy.",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Nuclear physics",
+                    "count": 1270
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_energy",
+                    "subject": "Nuclear energy",
+                    "count": 918
+                  },
+                  {
+                    "url": null,
+                    "subject": "Particles (Nuclear physics)",
+                    "count": 383
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_reaction",
+                    "subject": "Nuclear reactions",
+                    "count": 308
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_reactor",
+                    "subject": "Nuclear reactors",
+                    "count": 272
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1982,
+                  "mode": 1968
+                }
+              }
+            },
+            "QC801-809": {
+              "id": "QC801-809",
+              "subject": "Geophysics.    Cosmic physics",
+              "count": 2037,
+              "children": {},
+              "subjects": {
+                "id": "QC801-809",
+                "subject": "Geophysics.    Cosmic physics",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Geophysics",
+                    "count": 784
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Magnetosphere",
+                    "subject": "Magnetosphere",
+                    "count": 150
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Astrophysical_plasma",
+                    "subject": "Space plasmas",
+                    "count": 130
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Meteorology",
+                    "subject": "Meteorology",
+                    "count": 95
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Earth's_magnetic_field",
+                    "subject": "Geomagnetism",
+                    "count": 80
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1979,
+                  "mode": 1985
+                }
+              }
+            },
+            "QC81-114": {
+              "id": "QC81-114",
+              "subject": "Weights and measures",
+              "count": 3651,
+              "children": {},
+              "subjects": {
+                "id": "QC81-114",
+                "subject": "Weights and measures",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Metric_system",
+                    "subject": "Metric system",
+                    "count": 1025
+                  },
+                  {
+                    "url": null,
+                    "subject": "Weights and measures",
+                    "count": 876
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Length_measurement",
+                    "subject": "Length measurement",
+                    "count": 140
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Standardization",
+                    "subject": "Standardization",
+                    "count": 114
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Measurement",
+                    "subject": "Measurement",
+                    "count": 105
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1963,
+                  "median": 1972,
+                  "mode": 1975
+                }
+              }
+            },
+            "QC811-849": {
+              "id": "QC811-849",
+              "subject": "Geomagnetism",
+              "count": 795,
+              "children": {},
+              "subjects": {
+                "id": "QC811-849",
+                "subject": "Geomagnetism",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Earth's_magnetic_field",
+                    "subject": "Geomagnetism",
+                    "count": 638
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Compass",
+                    "subject": "Compass",
+                    "count": 42
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Paleomagnetism",
+                    "subject": "Paleomagnetism",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Telluric_current",
+                    "subject": "Earth currents",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Electromagnetic_field",
+                    "subject": "Electromagnetic fields",
+                    "count": 29
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1975,
+                  "mode": 1983
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "QC1-999",
+            "subject": "Physics",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Rarefied gas dynamics",
+                "count": 18
+              },
+              {
+                "url": "http://dbpedia.org/resource/Sound",
+                "subject": "Sound",
+                "count": 10
+              },
+              {
+                "url": null,
+                "subject": "Acoustooptics",
+                "count": 10
+              },
+              {
+                "url": "http://dbpedia.org/resource/Optics",
+                "subject": "Optics",
+                "count": 7
+              },
+              {
+                "url": "http://dbpedia.org/resource/Kinetic_theory_of_gases",
+                "subject": "Kinetic theory of gases",
+                "count": 5
+              }
+            ],
+            "pubDates": {
+              "avg": 1970,
+              "median": 1987,
+              "mode": 1989
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "QM": {
+      "id": "QM",
+      "subject": "Human anatomy",
+      "count": 0,
+      "children": {
+        "QM1-695": {
+          "id": "QM1-695",
+          "subject": "Human anatomy",
+          "count": 0,
+          "children": {
+            "QM1-511": {
+              "id": "QM1-511",
+              "subject": "General",
+              "count": 3535,
+              "children": {},
+              "subjects": {
+                "id": "QM1-511",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Anatomy",
+                    "subject": "Human anatomy",
+                    "count": 1660
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Anatomy",
+                    "subject": "Anatomy",
+                    "count": 505
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Brain",
+                    "subject": "Brain",
+                    "count": 311
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Neuroanatomy",
+                    "subject": "Neuroanatomy",
+                    "count": 304
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human_body",
+                    "subject": "Human body",
+                    "count": 204
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1980,
+                  "mode": 2007
+                }
+              }
+            },
+            "QM601-695": {
+              "id": "QM601-695",
+              "subject": "Human embryology",
+              "count": 564,
+              "children": {},
+              "subjects": {
+                "id": "QM601-695",
+                "subject": "Human embryology",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Embryology, Human",
+                    "count": 268
+                  },
+                  {
+                    "url": null,
+                    "subject": "Abnormalities, Human",
+                    "count": 146
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Embryology",
+                    "subject": "Embryology",
+                    "count": 107
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human_embryogenesis",
+                    "subject": "Human embryo",
+                    "count": 59
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Abnormality",
+                    "subject": "Abnormalities",
+                    "count": 46
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1983,
+                  "mode": 2009
+                }
+              }
+            },
+            "QM550-577.8": {
+              "id": "QM550-577.8",
+              "subject": "Human and comparative histology",
+              "count": 684,
+              "children": {},
+              "subjects": {
+                "id": "QM550-577.8",
+                "subject": "Human and comparative histology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Histology",
+                    "subject": "Histology",
+                    "count": 632
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cytology",
+                    "subject": "Cytology",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Anatomy",
+                    "subject": "Human anatomy",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Microscopy",
+                    "subject": "Microscopy",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Connective_tissue",
+                    "subject": "Connective tissues",
+                    "count": 21
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1974,
+                  "mode": 1974
+                }
+              }
+            },
+            "QM531-549": {
+              "id": "QM531-549",
+              "subject": "Regional anatomy",
+              "count": 471,
+              "children": {},
+              "subjects": {
+                "id": "QM531-549",
+                "subject": "Regional anatomy",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Anatomy, Surgical and topographical",
+                    "count": 154
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Head",
+                    "subject": "Head",
+                    "count": 143
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Neck",
+                    "subject": "Neck",
+                    "count": 129
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Face",
+                    "subject": "Face",
+                    "count": 75
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hand",
+                    "subject": "Hand",
+                    "count": 74
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1982,
+                  "mode": 1978
+                }
+              }
+            }
+          },
+          "subjects": null
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}

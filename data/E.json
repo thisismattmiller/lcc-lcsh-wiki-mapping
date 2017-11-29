@@ -1,0 +1,4847 @@
+{
+  "code": "E",
+  "subject": "American History",
+  "count": 0,
+  "children": {
+    "E": {
+      "id": "E",
+      "subject": "United States",
+      "count": 0,
+      "children": {
+        "E151-889": {
+          "id": "E151-889",
+          "subject": "United States",
+          "count": 27,
+          "children": {
+            "E171-183.9": {
+              "id": "E171-183.9",
+              "subject": "History",
+              "count": 8,
+              "children": {
+                "E171-180": {
+                  "id": "E171-180",
+                  "subject": "General",
+                  "count": 7725,
+                  "children": {},
+                  "subjects": {
+                    "id": "E171-180",
+                    "subject": "General",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 1688
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 227
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/History",
+                        "subject": "History",
+                        "count": 105
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Statesman",
+                        "subject": "Statesmen",
+                        "count": 78
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/U.S._state",
+                        "subject": "U.S. states",
+                        "count": 78
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1962,
+                      "median": 1972,
+                      "mode": 2003
+                    }
+                  }
+                },
+                "E181": {
+                  "id": "E181",
+                  "subject": "Military history",
+                  "count": 492,
+                  "children": {},
+                  "subjects": {
+                    "id": "E181",
+                    "subject": "Military history",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/General_officer",
+                        "subject": "Generals",
+                        "count": 44
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Soldier",
+                        "subject": "Soldiers",
+                        "count": 31
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Battle",
+                        "subject": "Battles",
+                        "count": 29
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Veteran",
+                        "subject": "Veterans",
+                        "count": 22
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                        "subject": "Indians of North America",
+                        "count": 21
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1972,
+                      "median": 1984,
+                      "mode": 1998
+                    }
+                  }
+                },
+                "E182": {
+                  "id": "E182",
+                  "subject": "Naval history",
+                  "count": 311,
+                  "children": {},
+                  "subjects": {
+                    "id": "E182",
+                    "subject": "Naval history",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Admiral",
+                        "subject": "Admirals",
+                        "count": 18
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Sailor",
+                        "subject": "Sailors",
+                        "count": 12
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Naval_warfare",
+                        "subject": "Sea-power",
+                        "count": 11
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Privateer",
+                        "subject": "Privateering",
+                        "count": 7
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Frigate",
+                        "subject": "Frigates",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1947,
+                      "median": 1958,
+                      "mode": 1962
+                    }
+                  }
+                },
+                "E183.7-183.9": {
+                  "id": "E183.7-183.9",
+                  "subject": "Diplomatic history.  Foreign and general relations.",
+                  "count": 543,
+                  "children": {
+                    "E183.8": {
+                      "id": "E183.8",
+                      "subject": "Relations with individual countries",
+                      "count": 6057,
+                      "children": {},
+                      "subjects": {
+                        "id": "E183.8",
+                        "subject": "Relations with individual countries",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Public_opinion",
+                            "subject": "Public opinion",
+                            "count": 238
+                          },
+                          {
+                            "url": null,
+                            "subject": "World politics",
+                            "count": 163
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Cold_War",
+                            "subject": "Cold War",
+                            "count": 132
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/National_security",
+                            "subject": "National security",
+                            "count": 115
+                          },
+                          {
+                            "url": null,
+                            "subject": "Visits of state",
+                            "count": 85
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1983,
+                          "median": 1990,
+                          "mode": 1987
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E183.7-183.9",
+                    "subject": "Diplomatic history.  Foreign and general relations.",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 25
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Imperialism",
+                        "subject": "Imperialism",
+                        "count": 23
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/International_relations",
+                        "subject": "International relations",
+                        "count": 13
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Statesman",
+                        "subject": "Statesmen",
+                        "count": 12
+                      },
+                      {
+                        "url": null,
+                        "subject": "National characteristics, American",
+                        "count": 11
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1987,
+                      "mode": 2008
+                    }
+                  }
+                },
+                "E179.5": {
+                  "id": "E179.5",
+                  "subject": "Historical geography",
+                  "count": 345,
+                  "children": {},
+                  "subjects": {
+                    "id": "E179.5",
+                    "subject": "Historical geography",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Frontier and pioneer life",
+                        "count": 177
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Frontier_Thesis",
+                        "subject": "Frontier thesis",
+                        "count": 30
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Manifest_destiny",
+                        "subject": "Manifest Destiny",
+                        "count": 23
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                        "subject": "Indians of North America",
+                        "count": 22
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Regionalism",
+                        "subject": "Regionalism",
+                        "count": 21
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1976,
+                      "median": 1981,
+                      "mode": 2001
+                    }
+                  }
+                },
+                "E175-175.7": {
+                  "id": "E175-175.7",
+                  "subject": "Historiography",
+                  "count": 671,
+                  "children": {},
+                  "subjects": {
+                    "id": "E175-175.7",
+                    "subject": "Historiography",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Historian",
+                        "subject": "Historians",
+                        "count": 300
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Historiography",
+                        "subject": "Historiography",
+                        "count": 64
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/African_Americans",
+                        "subject": "African Americans",
+                        "count": 33
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/History",
+                        "subject": "History",
+                        "count": 28
+                      },
+                      {
+                        "url": null,
+                        "subject": "African American historians",
+                        "count": 24
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1976,
+                      "median": 1981,
+                      "mode": 1970
+                    }
+                  }
+                },
+                "E183-183.3": {
+                  "id": "E183-183.3",
+                  "subject": "Political history",
+                  "count": 366,
+                  "children": {},
+                  "subjects": {
+                    "id": "E183-183.3",
+                    "subject": "Political history",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 52
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Democracy",
+                        "subject": "Democracy",
+                        "count": 29
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Political_culture",
+                        "subject": "Political culture",
+                        "count": 27
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Dissenter",
+                        "subject": "Dissenters",
+                        "count": 16
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Political_party",
+                        "subject": "Political parties",
+                        "count": 16
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1977,
+                      "median": 1984,
+                      "mode": 1991
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "E171-183.9",
+                "subject": "History",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 2004,
+                  "median": 2001,
+                  "mode": 1999
+                }
+              }
+            },
+            "E300-453": {
+              "id": "E300-453",
+              "subject": "Revolution to the Civil War, 1775/1783-1861",
+              "count": 0,
+              "children": {
+                "E441-453": {
+                  "id": "E441-453",
+                  "subject": "Slavery in the United States.  Antislavery",
+                  "count": 3836,
+                  "children": {},
+                  "subjects": {
+                    "id": "E441-453",
+                    "subject": "Slavery in the United States.  Antislavery",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slavery",
+                        "count": 2272
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slaves",
+                        "count": 1043
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/African_Americans",
+                        "subject": "African Americans",
+                        "count": 1031
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Abolitionism",
+                        "subject": "Antislavery movements",
+                        "count": 868
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Abolitionism",
+                        "subject": "Abolitionists",
+                        "count": 585
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1943,
+                      "median": 1970,
+                      "mode": 1969
+                    }
+                  }
+                },
+                "E303-440.5": {
+                  "id": "E303-440.5",
+                  "subject": "By period",
+                  "count": 0,
+                  "children": {
+                    "E415.6-440.5": {
+                      "id": "E415.6-440.5",
+                      "subject": "Middle nineteenth century, 1845/1848-1861",
+                      "count": 0,
+                      "children": {
+                        "E415.6-415.9": {
+                          "id": "E415.6-415.9",
+                          "subject": "General",
+                          "count": 150,
+                          "children": {},
+                          "subjects": {
+                            "id": "E415.6-415.9",
+                            "subject": "General",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/Slavery",
+                                "subject": "Slavery",
+                                "count": 30
+                              },
+                              {
+                                "url": null,
+                                "subject": "Reconstruction (U.S. history, 1865-1877)",
+                                "count": 13
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Abolitionism",
+                                "subject": "Antislavery movements",
+                                "count": 11
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Political_culture",
+                                "subject": "Political culture",
+                                "count": 8
+                              },
+                              {
+                                "url": null,
+                                "subject": "Sectionalism (United States)",
+                                "count": 6
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1961,
+                              "median": 1974,
+                              "mode": 1990
+                            }
+                          }
+                        },
+                        "E415.8-415.9": {
+                          "id": "E415.8-415.9",
+                          "subject": "Biography",
+                          "count": 535,
+                          "children": {},
+                          "subjects": {
+                            "id": "E415.8-415.9",
+                            "subject": "Biography",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/Legislator",
+                                "subject": "Legislators",
+                                "count": 70
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Exploration",
+                                "subject": "Explorers",
+                                "count": 39
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/General_officer",
+                                "subject": "Generals",
+                                "count": 28
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Diplomat",
+                                "subject": "Diplomats",
+                                "count": 20
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Presidential_nominee",
+                                "subject": "Presidential candidates",
+                                "count": 18
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1942,
+                              "median": 1961,
+                              "mode": 1970
+                            }
+                          }
+                        },
+                        "E415.6": {
+                          "id": "E415.6",
+                          "subject": "Collected works of American statesmen",
+                          "count": 50,
+                          "children": {},
+                          "subjects": {
+                            "id": "E415.6",
+                            "subject": "Collected works of American statesmen",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/Slavery",
+                                "subject": "Slavery",
+                                "count": 5
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1914,
+                              "median": 1889,
+                              "mode": 1867
+                            }
+                          }
+                        },
+                        "E426-430": {
+                          "id": "E426-430",
+                          "subject": "Fillmore's administration, July 9, 1850-1853",
+                          "count": 62,
+                          "children": {},
+                          "subjects": {
+                            "id": "E426-430",
+                            "subject": "Fillmore's administration, July 9, 1850-1853",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 32
+                              },
+                              {
+                                "url": null,
+                                "subject": "Campaign literature, 1852",
+                                "count": 5
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1915,
+                              "median": 1856,
+                              "mode": 1852
+                            }
+                          }
+                        },
+                        "E421-423": {
+                          "id": "E421-423",
+                          "subject": "Taylor's administration, 1849-July 9, 1850",
+                          "count": 79,
+                          "children": {
+                            "E423": {
+                              "id": "E423",
+                              "subject": "Slavery question, 1849-1853",
+                              "count": 97,
+                              "children": {},
+                              "subjects": {
+                                "id": "E423",
+                                "subject": "Slavery question, 1849-1853",
+                                "topSubjects": [
+                                  {
+                                    "url": "http://dbpedia.org/resource/Compromise_of_1850",
+                                    "subject": "Compromise of 1850",
+                                    "count": 67
+                                  },
+                                  {
+                                    "url": "http://dbpedia.org/resource/Slavery",
+                                    "subject": "Slavery",
+                                    "count": 47
+                                  },
+                                  {
+                                    "url": "http://dbpedia.org/resource/Secession",
+                                    "subject": "Secession",
+                                    "count": 7
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1864,
+                                  "median": 1850,
+                                  "mode": 1850
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E421-423",
+                            "subject": "Taylor's administration, 1849-July 9, 1850",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 32
+                              },
+                              {
+                                "url": null,
+                                "subject": "Mexican War, 1846-1848",
+                                "count": 13
+                              },
+                              {
+                                "url": null,
+                                "subject": "Campaign literature, 1848",
+                                "count": 7
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/General_officer",
+                                "subject": "Generals",
+                                "count": 5
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1907,
+                              "median": 1850,
+                              "mode": 1848
+                            }
+                          }
+                        },
+                        "E416-420": {
+                          "id": "E416-420",
+                          "subject": "Polk's administration, 1845-1849",
+                          "count": 118,
+                          "children": {},
+                          "subjects": {
+                            "id": "E416-420",
+                            "subject": "Polk's administration, 1845-1849",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 45
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Slavery",
+                                "subject": "Slavery",
+                                "count": 34
+                              },
+                              {
+                                "url": null,
+                                "subject": "Campaign literature, 1848",
+                                "count": 19
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1915,
+                              "median": 1850,
+                              "mode": 1848
+                            }
+                          }
+                        },
+                        "E431-435": {
+                          "id": "E431-435",
+                          "subject": "Pierce's administration, 1853-1857",
+                          "count": 99,
+                          "children": {
+                            "E433": {
+                              "id": "E433",
+                              "subject": "Slavery question, 1853-1857",
+                              "count": 73,
+                              "children": {},
+                              "subjects": {
+                                "id": "E433",
+                                "subject": "Slavery question, 1853-1857",
+                                "topSubjects": [
+                                  {
+                                    "url": "http://dbpedia.org/resource/Slavery",
+                                    "subject": "Slavery",
+                                    "count": 41
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1871,
+                                  "median": 1855,
+                                  "mode": 1854
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E431-435",
+                            "subject": "Pierce's administration, 1853-1857",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 31
+                              },
+                              {
+                                "url": null,
+                                "subject": "Campaign literature, 1856",
+                                "count": 29
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Slavery",
+                                "subject": "Slavery",
+                                "count": 11
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1904,
+                              "median": 1856,
+                              "mode": 1856
+                            }
+                          }
+                        },
+                        "E436-440.5": {
+                          "id": "E436-440.5",
+                          "subject": "Buchanan's administration, 1857-1861",
+                          "count": 144,
+                          "children": {
+                            "E440.5": {
+                              "id": "E440.5",
+                              "subject": "State of the country, November 1860-",
+                              "count": 175,
+                              "children": {},
+                              "subjects": {
+                                "id": "E440.5",
+                                "subject": "State of the country, November 1860-",
+                                "topSubjects": [
+                                  {
+                                    "url": "http://dbpedia.org/resource/Secession",
+                                    "subject": "Secession",
+                                    "count": 61
+                                  },
+                                  {
+                                    "url": "http://dbpedia.org/resource/Slavery",
+                                    "subject": "Slavery",
+                                    "count": 15
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1883,
+                                  "median": 1861,
+                                  "mode": 1861
+                                }
+                              }
+                            },
+                            "E438": {
+                              "id": "E438",
+                              "subject": "Slavery question, 1857-1861",
+                              "count": 71,
+                              "children": {},
+                              "subjects": {
+                                "id": "E438",
+                                "subject": "Slavery question, 1857-1861",
+                                "topSubjects": [
+                                  {
+                                    "url": "http://dbpedia.org/resource/Slavery",
+                                    "subject": "Slavery",
+                                    "count": 44
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1870,
+                                  "median": 1860,
+                                  "mode": 1860
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E436-440.5",
+                            "subject": "Buchanan's administration, 1857-1861",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 63
+                              },
+                              {
+                                "url": null,
+                                "subject": "Campaign literature, 1860",
+                                "count": 31
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Slavery",
+                                "subject": "Slavery",
+                                "count": 14
+                              },
+                              {
+                                "url": null,
+                                "subject": "Campaign literature",
+                                "count": 8
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1911,
+                              "median": 1860,
+                              "mode": 1860
+                            }
+                          }
+                        }
+                      },
+                      "subjects": null
+                    },
+                    "E310-337": {
+                      "id": "E310-337",
+                      "subject": "1789-1809.  Constitutional period",
+                      "count": 81,
+                      "children": {
+                        "E311-320": {
+                          "id": "E311-320",
+                          "subject": "Washington's administrations, 1789-1797",
+                          "count": 1632,
+                          "children": {},
+                          "subjects": {
+                            "id": "E311-320",
+                            "subject": "Washington's administrations, 1789-1797",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 475
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/General_officer",
+                                "subject": "Generals",
+                                "count": 122
+                              },
+                              {
+                                "url": null,
+                                "subject": "Presidents' spouses",
+                                "count": 23
+                              },
+                              {
+                                "url": null,
+                                "subject": "Whiskey Rebellion, Pa., 1794",
+                                "count": 21
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Etiquette",
+                                "subject": "Etiquette",
+                                "count": 16
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1918,
+                              "median": 1931,
+                              "mode": 1800
+                            }
+                          }
+                        },
+                        "E331-337": {
+                          "id": "E331-337",
+                          "subject": "Jefferson's administrations, 1801-1809",
+                          "count": 671,
+                          "children": {
+                            "E333": {
+                              "id": "E333",
+                              "subject": "Purchase of Louisiana, 1803",
+                              "count": 68,
+                              "children": {},
+                              "subjects": {
+                                "id": "E333",
+                                "subject": "Purchase of Louisiana, 1803",
+                                "topSubjects": [
+                                  {
+                                    "url": "http://dbpedia.org/resource/Louisiana_Purchase",
+                                    "subject": "Louisiana Purchase",
+                                    "count": 88
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1983,
+                                  "median": 2003,
+                                  "mode": 2003
+                                }
+                              }
+                            },
+                            "E336-336.5": {
+                              "id": "E336-336.5",
+                              "subject": "Neutral trade and its restrictions, 1800-1810",
+                              "count": 32,
+                              "children": {},
+                              "subjects": {
+                                "id": "E336-336.5",
+                                "subject": "Neutral trade and its restrictions, 1800-1810",
+                                "topSubjects": [
+                                  {
+                                    "url": null,
+                                    "subject": "Embargo, 1807-1809",
+                                    "count": 14
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1827,
+                                  "median": 1808,
+                                  "mode": 1808
+                                }
+                              }
+                            },
+                            "E335": {
+                              "id": "E335",
+                              "subject": "War with Tripoli, 1801-1805",
+                              "count": 39,
+                              "children": {},
+                              "subjects": {
+                                "id": "E335",
+                                "subject": "War with Tripoli, 1801-1805",
+                                "topSubjects": [
+                                  {
+                                    "url": "http://dbpedia.org/resource/Piracy",
+                                    "subject": "Pirates",
+                                    "count": 10
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1964,
+                                  "median": 1981,
+                                  "mode": 2005
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E331-337",
+                            "subject": "Jefferson's administrations, 1801-1809",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 307
+                              },
+                              {
+                                "url": null,
+                                "subject": "Burr Conspiracy, 1805-1807",
+                                "count": 26
+                              },
+                              {
+                                "url": null,
+                                "subject": "Plantation life",
+                                "count": 13
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Slavery",
+                                "subject": "Slavery",
+                                "count": 12
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Slavery",
+                                "subject": "Slaves",
+                                "count": 11
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1965,
+                              "median": 1985,
+                              "mode": 2002
+                            }
+                          }
+                        },
+                        "E321-330": {
+                          "id": "E321-330",
+                          "subject": "John Adams' administration, 1797-1801",
+                          "count": 315,
+                          "children": {
+                            "E323": {
+                              "id": "E323",
+                              "subject": "Troubles with France, 1796-1800",
+                              "count": 69,
+                              "children": {},
+                              "subjects": {
+                                "id": "E323",
+                                "subject": "Troubles with France, 1796-1800",
+                                "topSubjects": [
+                                  {
+                                    "url": null,
+                                    "subject": "Sermons, American",
+                                    "count": 18
+                                  },
+                                  {
+                                    "url": "http://dbpedia.org/resource/Congregational_church",
+                                    "subject": "Congregational churches",
+                                    "count": 11
+                                  },
+                                  {
+                                    "url": null,
+                                    "subject": "Fast-day sermons",
+                                    "count": 10
+                                  },
+                                  {
+                                    "url": null,
+                                    "subject": "XYZ Affair, 1797-1798",
+                                    "count": 5
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1832,
+                                  "median": 1798,
+                                  "mode": 1798
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E321-330",
+                            "subject": "John Adams' administration, 1797-1801",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 166
+                              },
+                              {
+                                "url": null,
+                                "subject": "Presidents' spouses",
+                                "count": 67
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/First_Lady",
+                                "subject": "First ladies",
+                                "count": 25
+                              },
+                              {
+                                "url": null,
+                                "subject": "Alien and Sedition laws, 1798",
+                                "count": 20
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Woman",
+                                "subject": "Women",
+                                "count": 16
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1932,
+                              "median": 1976,
+                              "mode": 1800
+                            }
+                          }
+                        },
+                        "E310.7": {
+                          "id": "E310.7",
+                          "subject": "Diplomatic history.  Foreign and general",
+                          "count": 18,
+                          "children": {},
+                          "subjects": {
+                            "id": "E310.7",
+                            "subject": "Diplomatic history.  Foreign and general",
+                            "topSubjects": [],
+                            "pubDates": {
+                              "avg": 1935,
+                              "median": 1970,
+                              "mode": 1799
+                            }
+                          }
+                        }
+                      },
+                      "subjects": {
+                        "id": "E310-337",
+                        "subject": "1789-1809.  Constitutional period",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Political_culture",
+                            "subject": "Political culture",
+                            "count": 6
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1932,
+                          "median": 1970,
+                          "mode": 1796
+                        }
+                      }
+                    },
+                    "E401-415.2": {
+                      "id": "E401-415.2",
+                      "subject": "Mexican War, 1846-1848",
+                      "count": 534,
+                      "children": {
+                        "E408": {
+                          "id": "E408",
+                          "subject": "Mexican cessions of 1848",
+                          "count": 22,
+                          "children": {},
+                          "subjects": {
+                            "id": "E408",
+                            "subject": "Mexican cessions of 1848",
+                            "topSubjects": [
+                              {
+                                "url": null,
+                                "subject": "Mexican War, 1846-1848",
+                                "count": 15
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1923,
+                              "median": 1967,
+                              "mode": 1848
+                            }
+                          }
+                        }
+                      },
+                      "subjects": {
+                        "id": "E401-415.2",
+                        "subject": "Mexican War, 1846-1848",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Mexican War, 1846-1848",
+                            "count": 576
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Soldier",
+                            "subject": "Soldiers",
+                            "count": 51
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/General_officer",
+                            "subject": "Generals",
+                            "count": 21
+                          },
+                          {
+                            "url": null,
+                            "subject": "Doniphan's Expedition, 1846-1847",
+                            "count": 12
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Mormons",
+                            "subject": "Mormons",
+                            "count": 12
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1939,
+                          "median": 1970,
+                          "mode": 1848
+                        }
+                      }
+                    },
+                    "E337.8-400": {
+                      "id": "E337.8-400",
+                      "subject": "Early nineteenth century, 1801/1809-1845",
+                      "count": 0,
+                      "children": {
+                        "E381-385": {
+                          "id": "E381-385",
+                          "subject": "Jackson's administrations, 1829-1837",
+                          "count": 277,
+                          "children": {
+                            "E384.3": {
+                              "id": "E384.3",
+                              "subject": "Nullification",
+                              "count": 30,
+                              "children": {},
+                              "subjects": {
+                                "id": "E384.3",
+                                "subject": "Nullification",
+                                "topSubjects": [
+                                  {
+                                    "url": null,
+                                    "subject": "Nullification (States' rights)",
+                                    "count": 29
+                                  },
+                                  {
+                                    "url": null,
+                                    "subject": "States' rights (American politics)",
+                                    "count": 5
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1902,
+                                  "median": 1896,
+                                  "mode": 1832
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E381-385",
+                            "subject": "Jackson's administrations, 1829-1837",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 121
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                                "subject": "Indians of North America",
+                                "count": 9
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/General_officer",
+                                "subject": "Generals",
+                                "count": 8
+                              },
+                              {
+                                "url": null,
+                                "subject": "Foot's resolution, 1829",
+                                "count": 7
+                              },
+                              {
+                                "url": null,
+                                "subject": "Creek War, 1813-1814",
+                                "count": 6
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1939,
+                              "median": 1970,
+                              "mode": 2003
+                            }
+                          }
+                        },
+                        "E341-370": {
+                          "id": "E341-370",
+                          "subject": "Madison's administrations, 1809-1817",
+                          "count": 176,
+                          "children": {
+                            "E351.5-364.9": {
+                              "id": "E351.5-364.9",
+                              "subject": "War of 1812",
+                              "count": 923,
+                              "children": {},
+                              "subjects": {
+                                "id": "E351.5-364.9",
+                                "subject": "War of 1812",
+                                "topSubjects": [
+                                  {
+                                    "url": null,
+                                    "subject": "New Orleans, Battle of, New Orleans, La., 1815",
+                                    "count": 67
+                                  },
+                                  {
+                                    "url": null,
+                                    "subject": "Baltimore, Battle of, Baltimore, Md., 1814",
+                                    "count": 49
+                                  },
+                                  {
+                                    "url": null,
+                                    "subject": "Lake Erie, Battle of, 1813",
+                                    "count": 47
+                                  },
+                                  {
+                                    "url": "http://dbpedia.org/resource/Soldier",
+                                    "subject": "Soldiers",
+                                    "count": 38
+                                  },
+                                  {
+                                    "url": "http://dbpedia.org/resource/Flag",
+                                    "subject": "Flags",
+                                    "count": 38
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1941,
+                                  "median": 1970,
+                                  "mode": 2012
+                                }
+                              }
+                            },
+                            "E365": {
+                              "id": "E365",
+                              "subject": "War with Algeria, 1815",
+                              "count": 2,
+                              "children": {},
+                              "subjects": {
+                                "id": "E365",
+                                "subject": "War with Algeria, 1815",
+                                "topSubjects": [],
+                                "pubDates": {
+                                  "avg": 1931,
+                                  "median": 2006,
+                                  "mode": 1857
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E341-370",
+                            "subject": "Madison's administrations, 1809-1817",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 82
+                              },
+                              {
+                                "url": null,
+                                "subject": "Presidents' spouses",
+                                "count": 32
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/First_Lady",
+                                "subject": "First ladies",
+                                "count": 14
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Woman",
+                                "subject": "Women",
+                                "count": 14
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Statesman",
+                                "subject": "Statesmen",
+                                "count": 7
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1967,
+                              "median": 1990,
+                              "mode": 2003
+                            }
+                          }
+                        },
+                        "E337.8-340": {
+                          "id": "E337.8-340",
+                          "subject": "General",
+                          "count": 712,
+                          "children": {},
+                          "subjects": {
+                            "id": "E337.8-340",
+                            "subject": "General",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/Legislator",
+                                "subject": "Legislators",
+                                "count": 87
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Statesman",
+                                "subject": "Statesmen",
+                                "count": 34
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Governor",
+                                "subject": "Governors",
+                                "count": 12
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Slavery",
+                                "subject": "Slavery",
+                                "count": 12
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Abolitionism",
+                                "subject": "Antislavery movements",
+                                "count": 11
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1926,
+                              "median": 1943,
+                              "mode": 1852
+                            }
+                          }
+                        },
+                        "E371-375": {
+                          "id": "E371-375",
+                          "subject": "Monroe's administrations, 1817-1825",
+                          "count": 72,
+                          "children": {
+                            "E374": {
+                              "id": "E374",
+                              "subject": "Diplomatic history.  Foreign relations",
+                              "count": 5,
+                              "children": {},
+                              "subjects": {
+                                "id": "E374",
+                                "subject": "Diplomatic history.  Foreign relations",
+                                "topSubjects": [],
+                                "pubDates": {
+                                  "avg": 1924,
+                                  "median": 1907,
+                                  "mode": 1987
+                                }
+                              }
+                            },
+                            "E373": {
+                              "id": "E373",
+                              "subject": "Missouri Compromise, 1820",
+                              "count": 21,
+                              "children": {},
+                              "subjects": {
+                                "id": "E373",
+                                "subject": "Missouri Compromise, 1820",
+                                "topSubjects": [
+                                  {
+                                    "url": "http://dbpedia.org/resource/Missouri_Compromise",
+                                    "subject": "Missouri compromise",
+                                    "count": 19
+                                  },
+                                  {
+                                    "url": "http://dbpedia.org/resource/Slavery",
+                                    "subject": "Slavery",
+                                    "count": 15
+                                  }
+                                ],
+                                "pubDates": {
+                                  "avg": 1915,
+                                  "median": 1953,
+                                  "mode": 1820
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E371-375",
+                            "subject": "Monroe's administrations, 1817-1825",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 49
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Monroe_Doctrine",
+                                "subject": "Monroe doctrine",
+                                "count": 8
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1947,
+                              "median": 1973,
+                              "mode": 1818
+                            }
+                          }
+                        },
+                        "E386-390": {
+                          "id": "E386-390",
+                          "subject": "Van Buren's administration, 1837-1841",
+                          "count": 89,
+                          "children": {},
+                          "subjects": {
+                            "id": "E386-390",
+                            "subject": "Van Buren's administration, 1837-1841",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 40
+                              },
+                              {
+                                "url": null,
+                                "subject": "Campaign literature, 1840",
+                                "count": 18
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1907,
+                              "median": 1844,
+                              "mode": 1840
+                            }
+                          }
+                        },
+                        "E396-400": {
+                          "id": "E396-400",
+                          "subject": "Tyler's administration, April 4, 1841-1845",
+                          "count": 75,
+                          "children": {
+                            "E398": {
+                              "id": "E398",
+                              "subject": "Northeastern boundary disputes, 1783-1845",
+                              "count": 34,
+                              "children": {},
+                              "subjects": {
+                                "id": "E398",
+                                "subject": "Northeastern boundary disputes, 1783-1845",
+                                "topSubjects": [],
+                                "pubDates": {
+                                  "avg": 1876,
+                                  "median": 1842,
+                                  "mode": 1838
+                                }
+                              }
+                            }
+                          },
+                          "subjects": {
+                            "id": "E396-400",
+                            "subject": "Tyler's administration, April 4, 1841-1845",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 33
+                              },
+                              {
+                                "url": null,
+                                "subject": "Campaign literature, 1844",
+                                "count": 10
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1912,
+                              "median": 1862,
+                              "mode": 1844
+                            }
+                          }
+                        },
+                        "E391-392": {
+                          "id": "E391-392",
+                          "subject": "William H. Harrison's administration, March 4-",
+                          "count": 87,
+                          "children": {},
+                          "subjects": {
+                            "id": "E391-392",
+                            "subject": "William H. Harrison's administration, March 4-",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 31
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1893,
+                              "median": 1841,
+                              "mode": 1841
+                            }
+                          }
+                        },
+                        "E376-380": {
+                          "id": "E376-380",
+                          "subject": "John Quincy Adams' administration, 1825-1829",
+                          "count": 122,
+                          "children": {},
+                          "subjects": {
+                            "id": "E376-380",
+                            "subject": "John Quincy Adams' administration, 1825-1829",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/President",
+                                "subject": "Presidents",
+                                "count": 92
+                              },
+                              {
+                                "url": null,
+                                "subject": "Presidents' spouses",
+                                "count": 6
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1932,
+                              "median": 1970,
+                              "mode": 1848
+                            }
+                          }
+                        }
+                      },
+                      "subjects": null
+                    },
+                    "E303-309": {
+                      "id": "E303-309",
+                      "subject": "1775-1789.  The Confederation, 1783-1789",
+                      "count": 173,
+                      "children": {},
+                      "subjects": {
+                        "id": "E303-309",
+                        "subject": "1775-1789.  The Confederation, 1783-1789",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Constitutional history",
+                            "count": 83
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Public_land",
+                            "subject": "Public lands",
+                            "count": 8
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Statesman",
+                            "subject": "Statesmen",
+                            "count": 6
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1966,
+                          "median": 1986,
+                          "mode": 1987
+                        }
+                      }
+                    },
+                    "E337.5": {
+                      "id": "E337.5",
+                      "subject": "Nineteenth century (General)",
+                      "count": 30,
+                      "children": {},
+                      "subjects": {
+                        "id": "E337.5",
+                        "subject": "Nineteenth century (General)",
+                        "topSubjects": [],
+                        "pubDates": {
+                          "avg": 1970,
+                          "median": 1990,
+                          "mode": 2000
+                        }
+                      }
+                    }
+                  },
+                  "subjects": null
+                },
+                "E300-302.6": {
+                  "id": "E300-302.6",
+                  "subject": "General",
+                  "count": 149,
+                  "children": {},
+                  "subjects": {
+                    "id": "E300-302.6",
+                    "subject": "General",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slavery",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1963,
+                      "median": 1972,
+                      "mode": 1968
+                    }
+                  }
+                },
+                "E302.1": {
+                  "id": "E302.1",
+                  "subject": "Political history",
+                  "count": 90,
+                  "children": {},
+                  "subjects": {
+                    "id": "E302.1",
+                    "subject": "Political history",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Political_culture",
+                        "subject": "Political culture",
+                        "count": 18
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Democracy",
+                        "subject": "Democracy",
+                        "count": 16
+                      },
+                      {
+                        "url": null,
+                        "subject": "Constitutional history",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 9
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Politician",
+                        "subject": "Politicians",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1969,
+                      "median": 1993,
+                      "mode": 2005
+                    }
+                  }
+                },
+                "E302.5-302.6": {
+                  "id": "E302.5-302.6",
+                  "subject": "Biography (Late eighteenth century)",
+                  "count": 1600,
+                  "children": {},
+                  "subjects": {
+                    "id": "E302.5-302.6",
+                    "subject": "Biography (Late eighteenth century)",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Statesman",
+                        "subject": "Statesmen",
+                        "count": 646
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Printer",
+                        "subject": "Printers",
+                        "count": 196
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Scientist",
+                        "subject": "Scientists",
+                        "count": 186
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Invention",
+                        "subject": "Inventors",
+                        "count": 152
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Legislator",
+                        "subject": "Legislators",
+                        "count": 92
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1952,
+                      "median": 1972,
+                      "mode": 2004
+                    }
+                  }
+                },
+                "E302": {
+                  "id": "E302",
+                  "subject": "Collected works of American statesmen",
+                  "count": 465,
+                  "children": {},
+                  "subjects": {
+                    "id": "E302",
+                    "subject": "Collected works of American statesmen",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Statesman",
+                        "subject": "Statesmen",
+                        "count": 32
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 28
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Constitutional_amendment",
+                        "subject": "Constitutional amendments",
+                        "count": 9
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Tariff",
+                        "subject": "Tariff",
+                        "count": 8
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Political_science",
+                        "subject": "Political science",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1877,
+                      "median": 1829,
+                      "mode": 1829
+                    }
+                  }
+                }
+              },
+              "subjects": null
+            },
+            "E151-169.12": {
+              "id": "E151-169.12",
+              "subject": "General",
+              "count": 9515,
+              "children": {},
+              "subjects": {
+                "id": "E151-169.12",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "National characteristics, American",
+                    "count": 908
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Popular_culture",
+                    "subject": "Popular culture",
+                    "count": 785
+                  },
+                  {
+                    "url": null,
+                    "subject": "National parks and reserves",
+                    "count": 362
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 357
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 260
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1979,
+                  "mode": 1976
+                }
+              }
+            },
+            "E456-655": {
+              "id": "E456-655",
+              "subject": "Civil War period, 1861-1865",
+              "count": 0,
+              "children": {
+                "E461-655": {
+                  "id": "E461-655",
+                  "subject": "The Civil War, 1861-1865",
+                  "count": 8180,
+                  "children": {
+                    "E491-586": {
+                      "id": "E491-586",
+                      "subject": "Armies.  Troops",
+                      "count": 3633,
+                      "children": {},
+                      "subjects": {
+                        "id": "E491-586",
+                        "subject": "Armies.  Troops",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Soldier",
+                            "subject": "Soldiers",
+                            "count": 1107
+                          },
+                          {
+                            "url": null,
+                            "subject": "Registers of births, etc",
+                            "count": 160
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/African_Americans",
+                            "subject": "African Americans",
+                            "count": 108
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Military_history_of_African_Americans",
+                            "subject": "African American soldiers",
+                            "count": 104
+                          },
+                          {
+                            "url": null,
+                            "subject": "Military pensions",
+                            "count": 59
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1963,
+                          "median": 1988,
+                          "mode": 1998
+                        }
+                      }
+                    },
+                    "E591-600": {
+                      "id": "E591-600",
+                      "subject": "Naval history",
+                      "count": 335,
+                      "children": {},
+                      "subjects": {
+                        "id": "E591-600",
+                        "subject": "Naval history",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Sailor",
+                            "subject": "Sailors",
+                            "count": 25
+                          },
+                          {
+                            "url": null,
+                            "subject": "Submarines (Ships)",
+                            "count": 18
+                          },
+                          {
+                            "url": null,
+                            "subject": "Armored vessels",
+                            "count": 16
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Underwater_archaeology",
+                            "subject": "Underwater archaeology",
+                            "count": 13
+                          },
+                          {
+                            "url": null,
+                            "subject": "Excavations (Archaeology)",
+                            "count": 10
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1972,
+                          "median": 1991,
+                          "mode": 2002
+                        }
+                      }
+                    },
+                    "E482-489": {
+                      "id": "E482-489",
+                      "subject": "Confederate States of America",
+                      "count": 468,
+                      "children": {},
+                      "subjects": {
+                        "id": "E482-489",
+                        "subject": "Confederate States of America",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Woman",
+                            "subject": "Women",
+                            "count": 18
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Soldier",
+                            "subject": "Soldiers",
+                            "count": 15
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Slavery",
+                            "subject": "Slavery",
+                            "count": 10
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/General_officer",
+                            "subject": "Generals",
+                            "count": 10
+                          },
+                          {
+                            "url": null,
+                            "subject": "Unionists (United States Civil War)",
+                            "count": 9
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1953,
+                          "median": 1971,
+                          "mode": 1863
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E461-655",
+                    "subject": "The Civil War, 1861-1865",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/General_officer",
+                        "subject": "Generals",
+                        "count": 1036
+                      },
+                      {
+                        "url": null,
+                        "subject": "Gettysburg, Battle of, Gettysburg, Pa., 1863",
+                        "count": 519
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Soldier",
+                        "subject": "Soldiers",
+                        "count": 512
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Prisoner_of_war",
+                        "subject": "Prisoners of war",
+                        "count": 162
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Woman",
+                        "subject": "Women",
+                        "count": 156
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1960,
+                      "median": 1985,
+                      "mode": 2003
+                    }
+                  }
+                },
+                "E456-459": {
+                  "id": "E456-459",
+                  "subject": "Lincoln's administrations, 1861-April 15, 1865",
+                  "count": 3771,
+                  "children": {},
+                  "subjects": {
+                    "id": "E456-459",
+                    "subject": "Lincoln's administrations, 1861-April 15, 1865",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 752
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slavery",
+                        "count": 127
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Secession",
+                        "subject": "Secession",
+                        "count": 64
+                      },
+                      {
+                        "url": null,
+                        "subject": "Lincoln-Douglas Debates, Ill., 1858",
+                        "count": 59
+                      },
+                      {
+                        "url": null,
+                        "subject": "Campaign literature, 1864",
+                        "count": 54
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1936,
+                      "median": 1939,
+                      "mode": 1865
+                    }
+                  }
+                }
+              },
+              "subjects": null
+            },
+            "E660-738": {
+              "id": "E660-738",
+              "subject": "Late nineteenth century, 1865-1900",
+              "count": 0,
+              "children": {
+                "E711-738": {
+                  "id": "E711-738",
+                  "subject": "McKinley's first administration, 1897-1901",
+                  "count": 91,
+                  "children": {
+                    "E714-735": {
+                      "id": "E714-735",
+                      "subject": "War of 1898 (Spanish-American War)",
+                      "count": 496,
+                      "children": {},
+                      "subjects": {
+                        "id": "E714-735",
+                        "subject": "War of 1898 (Spanish-American War)",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Spanish-American War, 1898",
+                            "count": 581
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Soldier",
+                            "subject": "Soldiers",
+                            "count": 18
+                          },
+                          {
+                            "url": null,
+                            "subject": "Santiago Campaign, 1898",
+                            "count": 15
+                          },
+                          {
+                            "url": null,
+                            "subject": "Manila Bay, Battle of, Philippines, 1898",
+                            "count": 14
+                          },
+                          {
+                            "url": null,
+                            "subject": "Santiago, Battle of, Santiago de Cuba, Cuba, 1898",
+                            "count": 12
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1953,
+                          "median": 1970,
+                          "mode": 1899
+                        }
+                      }
+                    },
+                    "E713": {
+                      "id": "E713",
+                      "subject": "Annexation in 1898 of Hawaii, the Philippines,",
+                      "count": 94,
+                      "children": {},
+                      "subjects": {
+                        "id": "E713",
+                        "subject": "Annexation in 1898 of Hawaii, the Philippines,",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Imperialism",
+                            "subject": "Imperialism",
+                            "count": 31
+                          },
+                          {
+                            "url": null,
+                            "subject": "Spanish-American War, 1898",
+                            "count": 15
+                          },
+                          {
+                            "url": null,
+                            "subject": "Anti-imperialist movements",
+                            "count": 6
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1934,
+                          "median": 1910,
+                          "mode": 1899
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E711-738",
+                    "subject": "McKinley's first administration, 1897-1901",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 34
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1952,
+                      "median": 1959,
+                      "mode": 1901
+                    }
+                  }
+                },
+                "E663-664": {
+                  "id": "E663-664",
+                  "subject": "Biography",
+                  "count": 785,
+                  "children": {},
+                  "subjects": {
+                    "id": "E663-664",
+                    "subject": "Biography",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Legislator",
+                        "subject": "Legislators",
+                        "count": 99
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Statesman",
+                        "subject": "Statesmen",
+                        "count": 47
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Governor",
+                        "subject": "Governors",
+                        "count": 20
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Politician",
+                        "subject": "Politicians",
+                        "count": 19
+                      },
+                      {
+                        "url": null,
+                        "subject": "Progressivism (United States politics)",
+                        "count": 19
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1942,
+                      "median": 1937,
+                      "mode": 1971
+                    }
+                  }
+                },
+                "E681-685": {
+                  "id": "E681-685",
+                  "subject": "Hayes' administration, 1877-1881",
+                  "count": 67,
+                  "children": {},
+                  "subjects": {
+                    "id": "E681-685",
+                    "subject": "Hayes' administration, 1877-1881",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 31
+                      },
+                      {
+                        "url": null,
+                        "subject": "Reconstruction (U.S. history, 1865-1877)",
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "subject": "Campaign literature, 1880",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1943,
+                      "median": 1963,
+                      "mode": 1880
+                    }
+                  }
+                },
+                "E691-695": {
+                  "id": "E691-695",
+                  "subject": "Arthur's administration, September 19, 1881-1885",
+                  "count": 34,
+                  "children": {},
+                  "subjects": {
+                    "id": "E691-695",
+                    "subject": "Arthur's administration, September 19, 1881-1885",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 32
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1964,
+                      "median": 1991,
+                      "mode": 1884
+                    }
+                  }
+                },
+                "E671-680": {
+                  "id": "E671-680",
+                  "subject": "Grant's administrations, 1869-1877",
+                  "count": 333,
+                  "children": {},
+                  "subjects": {
+                    "id": "E671-680",
+                    "subject": "Grant's administrations, 1869-1877",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 132
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/General_officer",
+                        "subject": "Generals",
+                        "count": 88
+                      },
+                      {
+                        "url": null,
+                        "subject": "Campaign literature, 1872",
+                        "count": 15
+                      },
+                      {
+                        "url": null,
+                        "subject": "Mexican War, 1846-1848",
+                        "count": 10
+                      },
+                      {
+                        "url": null,
+                        "subject": "Command of troops",
+                        "count": 9
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1935,
+                      "median": 1931,
+                      "mode": 1872
+                    }
+                  }
+                },
+                "E696-700": {
+                  "id": "E696-700",
+                  "subject": "Cleveland's first administration, 1885-1889",
+                  "count": 70,
+                  "children": {},
+                  "subjects": {
+                    "id": "E696-700",
+                    "subject": "Cleveland's first administration, 1885-1889",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 34
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1954,
+                      "median": 1968,
+                      "mode": 1888
+                    }
+                  }
+                },
+                "E701-705": {
+                  "id": "E701-705",
+                  "subject": "Benjamin Harrison's administration, 1889-1893",
+                  "count": 33,
+                  "children": {},
+                  "subjects": {
+                    "id": "E701-705",
+                    "subject": "Benjamin Harrison's administration, 1889-1893",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 25
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1973,
+                      "median": 1998,
+                      "mode": 2002
+                    }
+                  }
+                },
+                "E666-670": {
+                  "id": "E666-670",
+                  "subject": "Johnson's administration, April 15, 1865-1869",
+                  "count": 145,
+                  "children": {
+                    "E669": {
+                      "id": "E669",
+                      "subject": "Purchase of Alaska, 1867",
+                      "count": 17,
+                      "children": {},
+                      "subjects": {
+                        "id": "E669",
+                        "subject": "Purchase of Alaska, 1867",
+                        "topSubjects": [],
+                        "pubDates": {
+                          "avg": 1944,
+                          "median": 1975,
+                          "mode": 1869
+                        }
+                      }
+                    },
+                    "E668": {
+                      "id": "E668",
+                      "subject": "Reconstruction, 1865-1877",
+                      "count": 291,
+                      "children": {},
+                      "subjects": {
+                        "id": "E668",
+                        "subject": "Reconstruction, 1865-1877",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Reconstruction (U.S. history, 1865-1877)",
+                            "count": 293
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/African_Americans",
+                            "subject": "African Americans",
+                            "count": 55
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Reconstruction",
+                            "subject": "Reconstruction",
+                            "count": 11
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Public_opinion",
+                            "subject": "Public opinion",
+                            "count": 7
+                          },
+                          {
+                            "url": null,
+                            "subject": "Constitutional history",
+                            "count": 7
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1953,
+                          "median": 1971,
+                          "mode": 1969
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E666-670",
+                    "subject": "Johnson's administration, April 15, 1865-1869",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 44
+                      },
+                      {
+                        "url": null,
+                        "subject": "Reconstruction (U.S. history, 1865-1877)",
+                        "count": 18
+                      },
+                      {
+                        "url": null,
+                        "subject": "Campaign literature, 1868",
+                        "count": 16
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1926,
+                      "median": 1929,
+                      "mode": 1868
+                    }
+                  }
+                },
+                "E660-664": {
+                  "id": "E660-664",
+                  "subject": "General",
+                  "count": 385,
+                  "children": {},
+                  "subjects": {
+                    "id": "E660-664",
+                    "subject": "General",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Progressivism (United States politics)",
+                        "count": 46
+                      },
+                      {
+                        "url": null,
+                        "subject": "Reconstruction (U.S. history, 1865-1877)",
+                        "count": 18
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Populism",
+                        "subject": "Populism",
+                        "count": 14
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Political_culture",
+                        "subject": "Political culture",
+                        "count": 9
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1974,
+                      "median": 1980,
+                      "mode": 1968
+                    }
+                  }
+                },
+                "E660": {
+                  "id": "E660",
+                  "subject": "Collected works of American statesmen",
+                  "count": 95,
+                  "children": {},
+                  "subjects": {
+                    "id": "E660",
+                    "subject": "Collected works of American statesmen",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 7
+                      },
+                      {
+                        "url": null,
+                        "subject": "Speeches, addresses, etc., American",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1941,
+                      "median": 1929,
+                      "mode": 1969
+                    }
+                  }
+                },
+                "E706-710": {
+                  "id": "E706-710",
+                  "subject": "Cleveland's second administration, 1893-1897",
+                  "count": 18,
+                  "children": {},
+                  "subjects": {
+                    "id": "E706-710",
+                    "subject": "Cleveland's second administration, 1893-1897",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 10
+                      },
+                      {
+                        "url": null,
+                        "subject": "Spanish-American War, 1898",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1964,
+                      "median": 1983,
+                      "mode": 1896
+                    }
+                  }
+                },
+                "E661.7": {
+                  "id": "E661.7",
+                  "subject": "Diplomatic history.  Foreign and general",
+                  "count": 46,
+                  "children": {},
+                  "subjects": {
+                    "id": "E661.7",
+                    "subject": "Diplomatic history.  Foreign and general",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Imperialism",
+                        "subject": "Imperialism",
+                        "count": 13
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1988,
+                      "mode": 1970
+                    }
+                  }
+                },
+                "E686-687.9": {
+                  "id": "E686-687.9",
+                  "subject": "Garfield's administration, March 4-September",
+                  "count": 104,
+                  "children": {},
+                  "subjects": {
+                    "id": "E686-687.9",
+                    "subject": "Garfield's administration, March 4-September",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 40
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1930,
+                      "median": 1894,
+                      "mode": 1881
+                    }
+                  }
+                }
+              },
+              "subjects": null
+            },
+            "E201-298": {
+              "id": "E201-298",
+              "subject": "The Revolution, 1775-1783",
+              "count": 6637,
+              "children": {},
+              "subjects": {
+                "id": "E201-298",
+                "subject": "The Revolution, 1775-1783",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/General_officer",
+                    "subject": "Generals",
+                    "count": 292
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Loyalist_(American_Revolution)",
+                    "subject": "American loyalists",
+                    "count": 281
+                  },
+                  {
+                    "url": null,
+                    "subject": "Fourth of July orations",
+                    "count": 241
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 235
+                  },
+                  {
+                    "url": null,
+                    "subject": "American Revolution Bicentennial, 1976",
+                    "count": 112
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1941,
+                  "median": 1972,
+                  "mode": 1976
+                }
+              }
+            },
+            "E184-185.98": {
+              "id": "E184-185.98",
+              "subject": "Elements in the population",
+              "count": 10123,
+              "children": {
+                "E184.5-185.98": {
+                  "id": "E184.5-185.98",
+                  "subject": "Afro-Americans",
+                  "count": 2525,
+                  "children": {
+                    "E185.96-185.98": {
+                      "id": "E185.96-185.98",
+                      "subject": "Biography.  Genealogy",
+                      "count": 2393,
+                      "children": {},
+                      "subjects": {
+                        "id": "E185.96-185.98",
+                        "subject": "Biography.  Genealogy",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/African_Americans",
+                            "subject": "African Americans",
+                            "count": 2824
+                          },
+                          {
+                            "url": null,
+                            "subject": "Civil rights workers",
+                            "count": 654
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/African-American_Civil_Rights_Movement_(1954–68)",
+                            "subject": "Civil rights movements",
+                            "count": 317
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Baptists",
+                            "subject": "Baptists",
+                            "count": 222
+                          },
+                          {
+                            "url": null,
+                            "subject": "African American women",
+                            "count": 192
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1988,
+                          "median": 1993,
+                          "mode": 2004
+                        }
+                      }
+                    },
+                    "E185.2-185.89": {
+                      "id": "E185.2-185.89",
+                      "subject": "Status and development since emancipation",
+                      "count": 5254,
+                      "children": {},
+                      "subjects": {
+                        "id": "E185.2-185.89",
+                        "subject": "Status and development since emancipation",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/African_Americans",
+                            "subject": "African Americans",
+                            "count": 6328
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/African-American_Civil_Rights_Movement_(1954–68)",
+                            "subject": "Civil rights movements",
+                            "count": 492
+                          },
+                          {
+                            "url": null,
+                            "subject": "African American women",
+                            "count": 448
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Racism",
+                            "subject": "Racism",
+                            "count": 443
+                          },
+                          {
+                            "url": null,
+                            "subject": "African American men",
+                            "count": 238
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1982,
+                          "median": 1990,
+                          "mode": 1969
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E184.5-185.98",
+                    "subject": "Afro-Americans",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/African_Americans",
+                        "subject": "African Americans",
+                        "count": 3368
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slavery",
+                        "count": 229
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 121
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/African-American_Civil_Rights_Movement_(1954–68)",
+                        "subject": "Civil rights movements",
+                        "count": 99
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slaves",
+                        "count": 72
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1973,
+                      "median": 1981,
+                      "mode": 1969
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "E184-185.98",
+                "subject": "Elements in the population",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 1829
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Immigration",
+                    "subject": "Immigrants",
+                    "count": 1228
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mexican_Americans",
+                    "subject": "Mexican Americans",
+                    "count": 1096
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hispanic_American",
+                    "subject": "Hispanic Americans",
+                    "count": 1084
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Minority",
+                    "subject": "Minorities",
+                    "count": 1027
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1993,
+                  "mode": 2003
+                }
+              }
+            },
+            "E838-889": {
+              "id": "E838-889",
+              "subject": "Later twentieth century, 1961-2000",
+              "count": 2,
+              "children": {
+                "E840.6-840.8": {
+                  "id": "E840.6-840.8",
+                  "subject": "Biography (General)",
+                  "count": 1321,
+                  "children": {},
+                  "subjects": {
+                    "id": "E840.6-840.8",
+                    "subject": "Biography (General)",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Legislator",
+                        "subject": "Legislators",
+                        "count": 669
+                      },
+                      {
+                        "url": null,
+                        "subject": "Cabinet officers",
+                        "count": 124
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Ambassador",
+                        "subject": "Ambassadors",
+                        "count": 93
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Presidential_nominee",
+                        "subject": "Presidential candidates",
+                        "count": 90
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 86
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1994,
+                      "median": 1997,
+                      "mode": 2008
+                    }
+                  }
+                },
+                "E885-889": {
+                  "id": "E885-889",
+                  "subject": "Clinton's administrations, 1993-2001",
+                  "count": 631,
+                  "children": {},
+                  "subjects": {
+                    "id": "E885-889",
+                    "subject": "Clinton's administrations, 1993-2001",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 234
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 109
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Presidential_nominee",
+                        "subject": "Presidential candidates",
+                        "count": 52
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Political_corruption",
+                        "subject": "Political corruption",
+                        "count": 51
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Legislator",
+                        "subject": "Legislators",
+                        "count": 46
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 2000,
+                      "median": 1999,
+                      "mode": 1996
+                    }
+                  }
+                },
+                "E841-843": {
+                  "id": "E841-843",
+                  "subject": "Kennedy's administration, 1961-November 22, 1963",
+                  "count": 892,
+                  "children": {
+                    "E842.9": {
+                      "id": "E842.9",
+                      "subject": "Assassination, funeral, memorial services, etc.",
+                      "count": 496,
+                      "children": {},
+                      "subjects": {
+                        "id": "E842.9",
+                        "subject": "Assassination, funeral, memorial services, etc.",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Conspiracy",
+                            "subject": "Conspiracies",
+                            "count": 43
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/President",
+                            "subject": "Presidents",
+                            "count": 14
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Intelligence_agency",
+                            "subject": "Intelligence service",
+                            "count": 10
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Assassins",
+                            "subject": "Assassins",
+                            "count": 8
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Assassination",
+                            "subject": "Assassination",
+                            "count": 6
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1988,
+                          "median": 1992,
+                          "mode": 1967
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E841-843",
+                    "subject": "Kennedy's administration, 1961-November 22, 1963",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 296
+                      },
+                      {
+                        "url": null,
+                        "subject": "Cuban Missile Crisis, 1962",
+                        "count": 162
+                      },
+                      {
+                        "url": null,
+                        "subject": "Nineteen sixties",
+                        "count": 37
+                      },
+                      {
+                        "url": null,
+                        "subject": "Children of presidents",
+                        "count": 37
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 28
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1988,
+                      "median": 1992,
+                      "mode": 1964
+                    }
+                  }
+                },
+                "E840-840.2": {
+                  "id": "E840-840.2",
+                  "subject": "Diplomatic history.  Foreign and general",
+                  "count": 700,
+                  "children": {},
+                  "subjects": {
+                    "id": "E840-840.2",
+                    "subject": "Diplomatic history.  Foreign and general",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 96
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cold_War",
+                        "subject": "Cold War",
+                        "count": 39
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 30
+                      },
+                      {
+                        "url": null,
+                        "subject": "Intervention (International law)",
+                        "count": 24
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Public_opinion",
+                        "subject": "Public opinion",
+                        "count": 24
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1991,
+                      "median": 1993,
+                      "mode": 1994
+                    }
+                  }
+                },
+                "E872-875": {
+                  "id": "E872-875",
+                  "subject": "Carter's administration, 1977-1981",
+                  "count": 302,
+                  "children": {},
+                  "subjects": {
+                    "id": "E872-875",
+                    "subject": "Carter's administration, 1977-1981",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 171
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 13
+                      },
+                      {
+                        "url": null,
+                        "subject": "American wit and humor, Pictorial",
+                        "count": 9
+                      },
+                      {
+                        "url": null,
+                        "subject": "Large type books",
+                        "count": 8
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Human_rights",
+                        "subject": "Human rights",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1988,
+                      "median": 1983,
+                      "mode": 1980
+                    }
+                  }
+                },
+                "E846-851": {
+                  "id": "E846-851",
+                  "subject": "Johnson's administrations, November 22, 1963-1969",
+                  "count": 373,
+                  "children": {},
+                  "subjects": {
+                    "id": "E846-851",
+                    "subject": "Johnson's administrations, November 22, 1963-1969",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 155
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 19
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Vietnam_War",
+                        "subject": "Vietnam War, 1961-1975",
+                        "count": 12
+                      },
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Election",
+                        "subject": "Elections",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1976,
+                      "mode": 1968
+                    }
+                  }
+                },
+                "E865-868": {
+                  "id": "E865-868",
+                  "subject": "Ford's administration, August 9, 1974-1977",
+                  "count": 138,
+                  "children": {},
+                  "subjects": {
+                    "id": "E865-868",
+                    "subject": "Ford's administration, August 9, 1974-1977",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 92
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 9
+                      },
+                      {
+                        "url": null,
+                        "subject": "Mayagüez Incident, 1975",
+                        "count": 7
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Presidential_nominee",
+                        "subject": "Presidential candidates",
+                        "count": 7
+                      },
+                      {
+                        "url": null,
+                        "subject": "Press and politics",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1987,
+                      "median": 1979,
+                      "mode": 1977
+                    }
+                  }
+                },
+                "E876-880": {
+                  "id": "E876-880",
+                  "subject": "Reagan's administrations, 1981-1989",
+                  "count": 840,
+                  "children": {
+                    "E877.3": {
+                      "id": "E877.3",
+                      "subject": "Assassination attempt",
+                      "count": 6,
+                      "children": {},
+                      "subjects": {
+                        "id": "E877.3",
+                        "subject": "Assassination attempt",
+                        "topSubjects": [],
+                        "pubDates": {
+                          "avg": 1996,
+                          "median": 1994,
+                          "mode": 2011
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E876-880",
+                    "subject": "Reagan's administrations, 1981-1989",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 328
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Conservatism",
+                        "subject": "Conservatism",
+                        "count": 58
+                      },
+                      {
+                        "url": null,
+                        "subject": "Iran-Contra Affair, 1985-1990",
+                        "count": 55
+                      },
+                      {
+                        "url": null,
+                        "subject": "American wit and humor, Pictorial",
+                        "count": 45
+                      },
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 38
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1992,
+                      "median": 1988,
+                      "mode": 1988
+                    }
+                  }
+                },
+                "E855-861": {
+                  "id": "E855-861",
+                  "subject": "Nixon's administrations, 1969-August 9, 1974",
+                  "count": 453,
+                  "children": {
+                    "E860-861": {
+                      "id": "E860-861",
+                      "subject": "Watergate Affair.  Resignation",
+                      "count": 172,
+                      "children": {},
+                      "subjects": {
+                        "id": "E860-861",
+                        "subject": "Watergate Affair.  Resignation",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Watergate Affair, 1972-1974",
+                            "count": 179
+                          },
+                          {
+                            "url": null,
+                            "subject": "Watergate Affair, 1972-",
+                            "count": 8
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Public_opinion",
+                            "subject": "Public opinion",
+                            "count": 5
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1984,
+                          "median": 1977,
+                          "mode": 1974
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E855-861",
+                    "subject": "Nixon's administrations, 1969-August 9, 1974",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 163
+                      },
+                      {
+                        "url": null,
+                        "subject": "Watergate Affair, 1972-1974",
+                        "count": 39
+                      },
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 14
+                      },
+                      {
+                        "url": null,
+                        "subject": "Nineteen seventies",
+                        "count": 12
+                      },
+                      {
+                        "url": null,
+                        "subject": "Visits of state",
+                        "count": 10
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1978,
+                      "mode": 1972
+                    }
+                  }
+                },
+                "E881-884": {
+                  "id": "E881-884",
+                  "subject": "George H.W. Bush's administration, 1989-1993",
+                  "count": 264,
+                  "children": {},
+                  "subjects": {
+                    "id": "E881-884",
+                    "subject": "George H.W. Bush's administration, 1989-1993",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 117
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 18
+                      },
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 17
+                      },
+                      {
+                        "url": null,
+                        "subject": "American wit and humor, Pictorial",
+                        "count": 16
+                      },
+                      {
+                        "url": null,
+                        "subject": "Nineteen nineties",
+                        "count": 10
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1995,
+                      "median": 1993,
+                      "mode": 1992
+                    }
+                  }
+                },
+                "E838-840.8": {
+                  "id": "E838-840.8",
+                  "subject": "General",
+                  "count": 773,
+                  "children": {},
+                  "subjects": {
+                    "id": "E838-840.8",
+                    "subject": "General",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 105
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/General_officer",
+                        "subject": "Generals",
+                        "count": 84
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Conservatism",
+                        "subject": "Conservatism",
+                        "count": 64
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Political_culture",
+                        "subject": "Political culture",
+                        "count": 56
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Vietnam_War",
+                        "subject": "Vietnam War, 1961-1975",
+                        "count": 36
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1990,
+                      "median": 1992,
+                      "mode": 1992
+                    }
+                  }
+                },
+                "E839.5-839.8": {
+                  "id": "E839.5-839.8",
+                  "subject": "Political history",
+                  "count": 0,
+                  "children": {
+                    "E839.8": {
+                      "id": "E839.8",
+                      "subject": "Un-American activities",
+                      "count": 33,
+                      "children": {},
+                      "subjects": {
+                        "id": "E839.8",
+                        "subject": "Un-American activities",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Subversion",
+                            "subject": "Subversive activities",
+                            "count": 12
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Espionage",
+                            "subject": "Spies",
+                            "count": 8
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Intelligence_agency",
+                            "subject": "Intelligence service",
+                            "count": 5
+                          },
+                          {
+                            "url": null,
+                            "subject": "Anti-communist movements",
+                            "count": 5
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1981,
+                          "median": 1979,
+                          "mode": 1969
+                        }
+                      }
+                    }
+                  },
+                  "subjects": null
+                },
+                "E838.3": {
+                  "id": "E838.3",
+                  "subject": "Sources and documents",
+                  "count": 12,
+                  "children": {},
+                  "subjects": {
+                    "id": "E838.3",
+                    "subject": "Sources and documents",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1998,
+                      "median": 2000,
+                      "mode": 1997
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "E838-889",
+                "subject": "Later twentieth century, 1961-2000",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1918,
+                  "median": 1968,
+                  "mode": 1869
+                }
+              }
+            },
+            "E740-837.7": {
+              "id": "E740-837.7",
+              "subject": "Twentieth century",
+              "count": 1,
+              "children": {
+                "E740-749": {
+                  "id": "E740-749",
+                  "subject": "General",
+                  "count": 4562,
+                  "children": {},
+                  "subjects": {
+                    "id": "E740-749",
+                    "subject": "General",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Legislator",
+                        "subject": "Legislators",
+                        "count": 358
+                      },
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 283
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/World_War_II",
+                        "subject": "World War, 1939-1945",
+                        "count": 233
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/General_officer",
+                        "subject": "Generals",
+                        "count": 223
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Statesman",
+                        "subject": "Statesmen",
+                        "count": 135
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1974,
+                      "median": 1974,
+                      "mode": 1964
+                    }
+                  }
+                },
+                "E756-760": {
+                  "id": "E756-760",
+                  "subject": "Theodore Roosevelt's administrations,",
+                  "count": 448,
+                  "children": {},
+                  "subjects": {
+                    "id": "E756-760",
+                    "subject": "Theodore Roosevelt's administrations,",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 208
+                      },
+                      {
+                        "url": null,
+                        "subject": "Progressivism (United States politics)",
+                        "count": 13
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 11
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Teddy_bear",
+                        "subject": "Teddy bears",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Conservationist",
+                        "subject": "Conservationists",
+                        "count": 9
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1970,
+                      "median": 1981,
+                      "mode": 1919
+                    }
+                  }
+                },
+                "E784-805": {
+                  "id": "E784-805",
+                  "subject": "1919-1933.  Harding-Coolidge-Hoover era.  \"The",
+                  "count": 125,
+                  "children": {
+                    "E785-786": {
+                      "id": "E785-786",
+                      "subject": "Harding's administration, 1921-August 2, 1923",
+                      "count": 85,
+                      "children": {},
+                      "subjects": {
+                        "id": "E785-786",
+                        "subject": "Harding's administration, 1921-August 2, 1923",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/President",
+                            "subject": "Presidents",
+                            "count": 37
+                          },
+                          {
+                            "url": null,
+                            "subject": "Teapot Dome Scandal, 1921-1924",
+                            "count": 7
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1968,
+                          "median": 1972,
+                          "mode": 1923
+                        }
+                      }
+                    },
+                    "E791-796": {
+                      "id": "E791-796",
+                      "subject": "Coolidge's administration, August 2, 1923-1929",
+                      "count": 108,
+                      "children": {},
+                      "subjects": {
+                        "id": "E791-796",
+                        "subject": "Coolidge's administration, August 2, 1923-1929",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/President",
+                            "subject": "Presidents",
+                            "count": 56
+                          },
+                          {
+                            "url": null,
+                            "subject": "Campaign literature, 1928",
+                            "count": 7
+                          },
+                          {
+                            "url": null,
+                            "subject": "Presidents' spouses",
+                            "count": 5
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1971,
+                          "median": 1983,
+                          "mode": 1928
+                        }
+                      }
+                    },
+                    "E801-805": {
+                      "id": "E801-805",
+                      "subject": "Hoover's administration, 1919-1933",
+                      "count": 183,
+                      "children": {},
+                      "subjects": {
+                        "id": "E801-805",
+                        "subject": "Hoover's administration, 1919-1933",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/President",
+                            "subject": "Presidents",
+                            "count": 65
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Depression",
+                            "subject": "Depressions",
+                            "count": 19
+                          },
+                          {
+                            "url": null,
+                            "subject": "Campaign literature, 1932",
+                            "count": 8
+                          },
+                          {
+                            "url": null,
+                            "subject": "Presidents' spouses",
+                            "count": 7
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1971,
+                          "median": 1975,
+                          "mode": 1932
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E784-805",
+                    "subject": "1919-1933.  Harding-Coolidge-Hoover era.  \"The",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Nineteen twenties",
+                        "count": 52
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Depression",
+                        "subject": "Depressions",
+                        "count": 16
+                      },
+                      {
+                        "url": null,
+                        "subject": "New Deal, 1933-1939",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/World_War_I",
+                        "subject": "World War, 1914-1918",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1988,
+                      "median": 1992,
+                      "mode": 2006
+                    }
+                  }
+                },
+                "E761-765": {
+                  "id": "E761-765",
+                  "subject": "Taft's administration, 1909-1913",
+                  "count": 74,
+                  "children": {},
+                  "subjects": {
+                    "id": "E761-765",
+                    "subject": "Taft's administration, 1909-1913",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 51
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Judge",
+                        "subject": "Judges",
+                        "count": 10
+                      },
+                      {
+                        "url": null,
+                        "subject": "Nineteen tens",
+                        "count": 7
+                      },
+                      {
+                        "url": null,
+                        "subject": "Progressivism (United States politics)",
+                        "count": 6
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Presidential_nominee",
+                        "subject": "Presidential candidates",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1989,
+                      "mode": 1970
+                    }
+                  }
+                },
+                "E835-837.7": {
+                  "id": "E835-837.7",
+                  "subject": "Eisenhower's administrations, 1953-1961",
+                  "count": 429,
+                  "children": {},
+                  "subjects": {
+                    "id": "E835-837.7",
+                    "subject": "Eisenhower's administrations, 1953-1961",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 179
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/General_officer",
+                        "subject": "Generals",
+                        "count": 70
+                      },
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 44
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/World_War_II",
+                        "subject": "World War, 1939-1945",
+                        "count": 26
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 13
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1980,
+                      "mode": 1960
+                    }
+                  }
+                },
+                "E806-812": {
+                  "id": "E806-812",
+                  "subject": "Franklin Delano Roosevelt's administrations,",
+                  "count": 1285,
+                  "children": {},
+                  "subjects": {
+                    "id": "E806-812",
+                    "subject": "Franklin Delano Roosevelt's administrations,",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 270
+                      },
+                      {
+                        "url": null,
+                        "subject": "New Deal, 1933-1939",
+                        "count": 241
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/World_War_II",
+                        "subject": "World War, 1939-1945",
+                        "count": 206
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 154
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Depression",
+                        "subject": "Depressions",
+                        "count": 151
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1976,
+                      "median": 1982,
+                      "mode": 2003
+                    }
+                  }
+                },
+                "E766-783": {
+                  "id": "E766-783",
+                  "subject": "Wilson's administrations, 1913-1921",
+                  "count": 318,
+                  "children": {
+                    "E768": {
+                      "id": "E768",
+                      "subject": "Purchase of Danish West Indies (Virgin",
+                      "count": 48,
+                      "children": {},
+                      "subjects": {
+                        "id": "E768",
+                        "subject": "Purchase of Danish West Indies (Virgin",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/World_War_I",
+                            "subject": "World War, 1914-1918",
+                            "count": 20
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1968,
+                          "median": 1977,
+                          "mode": 1917
+                        }
+                      }
+                    },
+                    "E780": {
+                      "id": "E780",
+                      "subject": "Internal history during World War I",
+                      "count": 18,
+                      "children": {},
+                      "subjects": {
+                        "id": "E780",
+                        "subject": "Internal history during World War I",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/World_War_I",
+                            "subject": "World War, 1914-1918",
+                            "count": 15
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1973,
+                          "median": 1970,
+                          "mode": 1969
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E766-783",
+                    "subject": "Wilson's administrations, 1913-1921",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 118
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/World_War_I",
+                        "subject": "World War, 1914-1918",
+                        "count": 43
+                      },
+                      {
+                        "url": null,
+                        "subject": "Presidents' spouses",
+                        "count": 17
+                      },
+                      {
+                        "url": null,
+                        "subject": "Progressivism (United States politics)",
+                        "count": 7
+                      },
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1964,
+                      "median": 1968,
+                      "mode": 1919
+                    }
+                  }
+                },
+                "E813-816": {
+                  "id": "E813-816",
+                  "subject": "Truman's administrations, April 12, 1945-1953",
+                  "count": 425,
+                  "children": {},
+                  "subjects": {
+                    "id": "E813-816",
+                    "subject": "Truman's administrations, April 12, 1945-1953",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 197
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cold_War",
+                        "subject": "Cold War",
+                        "count": 36
+                      },
+                      {
+                        "url": null,
+                        "subject": "World politics",
+                        "count": 24
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/World_War_II",
+                        "subject": "World War, 1939-1945",
+                        "count": 19
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Communism",
+                        "subject": "Communism",
+                        "count": 10
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1981,
+                      "median": 1983,
+                      "mode": 1952
+                    }
+                  }
+                },
+                "E751": {
+                  "id": "E751",
+                  "subject": "McKinley's second administration, March 4-",
+                  "count": 5,
+                  "children": {},
+                  "subjects": {
+                    "id": "E751",
+                    "subject": "McKinley's second administration, March 4-",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1921,
+                      "median": 1901,
+                      "mode": 1901
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "E740-837.7",
+                "subject": "Twentieth century",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1845,
+                  "median": 1845,
+                  "mode": 1845
+                }
+              }
+            },
+            "E186-199": {
+              "id": "E186-199",
+              "subject": "Colonial history (1607-1775)",
+              "count": 1,
+              "children": {
+                "E191-199": {
+                  "id": "E191-199",
+                  "subject": "By period",
+                  "count": 1,
+                  "children": {
+                    "E195-199": {
+                      "id": "E195-199",
+                      "subject": "1689-1775",
+                      "count": 107,
+                      "children": {
+                        "E199": {
+                          "id": "E199",
+                          "subject": "French and Indian War, 1755-1763",
+                          "count": 441,
+                          "children": {},
+                          "subjects": {
+                            "id": "E199",
+                            "subject": "French and Indian War, 1755-1763",
+                            "topSubjects": [
+                              {
+                                "url": null,
+                                "subject": "Québec Campaign, Québec, 1759",
+                                "count": 46
+                              },
+                              {
+                                "url": null,
+                                "subject": "Braddock's Campaign, 1755",
+                                "count": 27
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Soldier",
+                                "subject": "Soldiers",
+                                "count": 26
+                              },
+                              {
+                                "url": null,
+                                "subject": "Indian captivities",
+                                "count": 20
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                                "subject": "Indians of North America",
+                                "count": 18
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1927,
+                              "median": 1968,
+                              "mode": 1760
+                            }
+                          }
+                        },
+                        "E198": {
+                          "id": "E198",
+                          "subject": "King George's War, 1744-1748",
+                          "count": 42,
+                          "children": {},
+                          "subjects": {
+                            "id": "E198",
+                            "subject": "King George's War, 1744-1748",
+                            "topSubjects": [
+                              {
+                                "url": "http://dbpedia.org/resource/Soldier",
+                                "subject": "Soldiers",
+                                "count": 5
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1908,
+                              "median": 1943,
+                              "mode": 1746
+                            }
+                          }
+                        },
+                        "E196": {
+                          "id": "E196",
+                          "subject": "King William's War, 1689-1697",
+                          "count": 14,
+                          "children": {},
+                          "subjects": {
+                            "id": "E196",
+                            "subject": "King William's War, 1689-1697",
+                            "topSubjects": [],
+                            "pubDates": {
+                              "avg": 1915,
+                              "median": 1910,
+                              "mode": 1690
+                            }
+                          }
+                        },
+                        "E197": {
+                          "id": "E197",
+                          "subject": "Queen Anne's War, 1702-1713",
+                          "count": 19,
+                          "children": {},
+                          "subjects": {
+                            "id": "E197",
+                            "subject": "Queen Anne's War, 1702-1713",
+                            "topSubjects": [
+                              {
+                                "url": null,
+                                "subject": "Indian captivities",
+                                "count": 8
+                              },
+                              {
+                                "url": "http://dbpedia.org/resource/Clergy",
+                                "subject": "Clergy",
+                                "count": 5
+                              }
+                            ],
+                            "pubDates": {
+                              "avg": 1933,
+                              "median": 1974,
+                              "mode": 1978
+                            }
+                          }
+                        }
+                      },
+                      "subjects": {
+                        "id": "E195-199",
+                        "subject": "1689-1775",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                            "subject": "Indians of North America",
+                            "count": 20
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Colonialism",
+                            "subject": "Colonial administrators",
+                            "count": 11
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Iroquois",
+                            "subject": "Iroquois Indians",
+                            "count": 9
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1938,
+                          "median": 1969,
+                          "mode": 1969
+                        }
+                      }
+                    },
+                    "E191": {
+                      "id": "E191",
+                      "subject": "1607-1689",
+                      "count": 36,
+                      "children": {},
+                      "subjects": {
+                        "id": "E191",
+                        "subject": "1607-1689",
+                        "topSubjects": [],
+                        "pubDates": {
+                          "avg": 1938,
+                          "median": 1966,
+                          "mode": 1897
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "E191-199",
+                    "subject": "By period",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1792,
+                      "median": 1792,
+                      "mode": 1792
+                    }
+                  }
+                },
+                "E186-189": {
+                  "id": "E186-189",
+                  "subject": "General",
+                  "count": 890,
+                  "children": {},
+                  "subjects": {
+                    "id": "E186-189",
+                    "subject": "General",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                        "subject": "Indians of North America",
+                        "count": 22
+                      },
+                      {
+                        "url": null,
+                        "subject": "Registers of births, etc",
+                        "count": 21
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Woman",
+                        "subject": "Women",
+                        "count": 13
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/British",
+                        "subject": "British",
+                        "count": 10
+                      },
+                      {
+                        "url": null,
+                        "subject": "Bacon's Rebellion, 1676",
+                        "count": 9
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1947,
+                      "median": 1969,
+                      "mode": 2000
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "E186-199",
+                "subject": "Colonial history (1607-1775)",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1992,
+                  "median": 1992,
+                  "mode": 1992
+                }
+              }
+            },
+            "E740-749": {
+              "id": "E740-749",
+              "subject": "General",
+              "count": 0,
+              "children": {
+                "E743-743.5": {
+                  "id": "E743-743.5",
+                  "subject": "Political history",
+                  "count": 0,
+                  "children": {
+                    "E743.5": {
+                      "id": "E743.5",
+                      "subject": "Un-American activities",
+                      "count": 290,
+                      "children": {},
+                      "subjects": {
+                        "id": "E743.5",
+                        "subject": "Un-American activities",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Communism",
+                            "subject": "Communism",
+                            "count": 107
+                          },
+                          {
+                            "url": null,
+                            "subject": "Anti-communist movements",
+                            "count": 101
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Subversion",
+                            "subject": "Subversive activities",
+                            "count": 94
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Internal_security",
+                            "subject": "Internal security",
+                            "count": 53
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Espionage",
+                            "subject": "Spies",
+                            "count": 33
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1977,
+                          "median": 1976,
+                          "mode": 1954
+                        }
+                      }
+                    }
+                  },
+                  "subjects": null
+                }
+              },
+              "subjects": {
+                "id": "E740-749",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Legislator",
+                    "subject": "Legislators",
+                    "count": 358
+                  },
+                  {
+                    "url": null,
+                    "subject": "World politics",
+                    "count": 283
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 233
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/General_officer",
+                    "subject": "Generals",
+                    "count": 223
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Statesman",
+                    "subject": "Statesmen",
+                    "count": 135
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1974,
+                  "mode": 1964
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "E151-889",
+            "subject": "United States",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Jews",
+                "subject": "Jews",
+                "count": 5
+              }
+            ],
+            "pubDates": {
+              "avg": 1941,
+              "median": 1946,
+              "mode": 1928
+            }
+          }
+        },
+        "E11-143": {
+          "id": "E11-143",
+          "subject": "America",
+          "count": 75,
+          "children": {
+            "E75-99": {
+              "id": "E75-99",
+              "subject": "Indians of North America",
+              "count": 14412,
+              "children": {
+                "E99": {
+                  "id": "E99",
+                  "subject": "Indian tribes and cultures",
+                  "count": 11378,
+                  "children": {},
+                  "subjects": {
+                    "id": "E99",
+                    "subject": "Indian tribes and cultures",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                        "subject": "Indians of North America",
+                        "count": 3370
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Navajo_Nation",
+                        "subject": "Navajo Indians",
+                        "count": 1005
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cherokee",
+                        "subject": "Cherokee Indians",
+                        "count": 916
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Inuit",
+                        "subject": "Inuit",
+                        "count": 854
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Eskimo",
+                        "subject": "Eskimos",
+                        "count": 814
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1990,
+                      "mode": 2003
+                    }
+                  }
+                },
+                "E81-83": {
+                  "id": "E81-83",
+                  "subject": "Indian wars",
+                  "count": 131,
+                  "children": {},
+                  "subjects": {
+                    "id": "E81-83",
+                    "subject": "Indian wars",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                        "subject": "Indians of North America",
+                        "count": 206
+                      },
+                      {
+                        "url": null,
+                        "subject": "Frontier and pioneer life",
+                        "count": 10
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indian captivities",
+                        "count": 9
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1952,
+                      "median": 1981,
+                      "mode": 2002
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "E75-99",
+                "subject": "Indians of North America",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 17173
+                  },
+                  {
+                    "url": null,
+                    "subject": "Excavations (Archaeology)",
+                    "count": 900
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indian_art",
+                    "subject": "Indian art",
+                    "count": 488
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indian captivities",
+                    "count": 335
+                  },
+                  {
+                    "url": null,
+                    "subject": "Dakota Indians",
+                    "count": 324
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1985,
+                  "mode": 1977
+                }
+              }
+            },
+            "E51-73": {
+              "id": "E51-73",
+              "subject": "Pre-Columbian America.  The Indians",
+              "count": 2576,
+              "children": {},
+              "subjects": {
+                "id": "E51-73",
+                "subject": "Pre-Columbian America.  The Indians",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Indian",
+                    "subject": "Indians",
+                    "count": 1824
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 430
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indian_art",
+                    "subject": "Indian art",
+                    "count": 210
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of South America",
+                    "count": 134
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_Mexico",
+                    "subject": "Indians of Mexico",
+                    "count": 93
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1961,
+                  "median": 1970,
+                  "mode": 1992
+                }
+              }
+            },
+            "E101-135": {
+              "id": "E101-135",
+              "subject": "Discovery of America and early explorations",
+              "count": 250,
+              "children": {
+                "E111-120": {
+                  "id": "E111-120",
+                  "subject": "Columbus",
+                  "count": 1321,
+                  "children": {},
+                  "subjects": {
+                    "id": "E111-120",
+                    "subject": "Columbus",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Exploration",
+                        "subject": "Explorers",
+                        "count": 777
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Columbus_Day",
+                        "subject": "Columbus Day",
+                        "count": 42
+                      },
+                      {
+                        "url": null,
+                        "subject": "Columbus Quincentenary, 1992-1993",
+                        "count": 35
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Indian",
+                        "subject": "Indians",
+                        "count": 22
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians of the West Indies",
+                        "count": 18
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1955,
+                      "median": 1983,
+                      "mode": 1992
+                    }
+                  }
+                },
+                "E121-135": {
+                  "id": "E121-135",
+                  "subject": "Post-Columbian period.  El Dorado",
+                  "count": 1595,
+                  "children": {},
+                  "subjects": {
+                    "id": "E121-135",
+                    "subject": "Post-Columbian period.  El Dorado",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Exploration",
+                        "subject": "Explorers",
+                        "count": 879
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Indian",
+                        "subject": "Indians",
+                        "count": 89
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians, Treatment of",
+                        "count": 80
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                        "subject": "Indians of North America",
+                        "count": 73
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/El_Dorado",
+                        "subject": "El Dorado",
+                        "count": 43
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1957,
+                      "median": 1981,
+                      "mode": 1992
+                    }
+                  }
+                },
+                "E103-110": {
+                  "id": "E103-110",
+                  "subject": "Pre-Columbian period",
+                  "count": 418,
+                  "children": {},
+                  "subjects": {
+                    "id": "E103-110",
+                    "subject": "Pre-Columbian period",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Exploration",
+                        "subject": "Explorers",
+                        "count": 64
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Vikings",
+                        "subject": "Vikings",
+                        "count": 58
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Indian",
+                        "subject": "Indians",
+                        "count": 30
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Kensington_Runestone",
+                        "subject": "Kensington Rune Stone",
+                        "count": 24
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Runes",
+                        "subject": "Runes",
+                        "count": 11
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1954,
+                      "median": 1972,
+                      "mode": 1992
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "E101-135",
+                "subject": "Discovery of America and early explorations",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Exploration",
+                    "subject": "Explorers",
+                    "count": 61
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Discoveries in geography",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Voyages and travels",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indian",
+                    "subject": "Indians",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1963,
+                  "median": 1976,
+                  "mode": 1971
+                }
+              }
+            },
+            "E31-49.2": {
+              "id": "E31-49.2",
+              "subject": "North America",
+              "count": 399,
+              "children": {},
+              "subjects": {
+                "id": "E31-49.2",
+                "subject": "North America",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 39
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 22
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Scottish_people",
+                    "subject": "Scots",
+                    "count": 16
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Exploration",
+                    "subject": "Explorers",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fur_trade",
+                    "subject": "Fur trade",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1994,
+                  "mode": 2005
+                }
+              }
+            },
+            "E11-29": {
+              "id": "E11-29",
+              "subject": "General",
+              "count": 939,
+              "children": {},
+              "subjects": {
+                "id": "E11-29",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Black",
+                    "subject": "Blacks",
+                    "count": 95
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indian",
+                    "subject": "Indians",
+                    "count": 48
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African",
+                    "subject": "Africans",
+                    "count": 32
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Slavery",
+                    "subject": "Slavery",
+                    "count": 32
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1983,
+                  "mode": 1992
+                }
+              }
+            },
+            "E141-143": {
+              "id": "E141-143",
+              "subject": "Descriptive accounts of America.  Earliest to 1810",
+              "count": 304,
+              "children": {},
+              "subjects": {
+                "id": "E141-143",
+                "subject": "Descriptive accounts of America.  Earliest to 1810",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 44
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indian",
+                    "subject": "Indians",
+                    "count": 31
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of South America",
+                    "count": 22
+                  },
+                  {
+                    "url": null,
+                    "subject": "Voyages and travels",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_Mexico",
+                    "subject": "Indians of Mexico",
+                    "count": 14
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1862,
+                  "median": 1965,
+                  "mode": 1992
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "E11-143",
+            "subject": "America",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Mound",
+                "subject": "Mounds",
+                "count": 45
+              },
+              {
+                "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                "subject": "Indians of North America",
+                "count": 20
+              },
+              {
+                "url": "http://dbpedia.org/resource/Mound_Builders",
+                "subject": "Mound-builders",
+                "count": 9
+              },
+              {
+                "url": null,
+                "subject": "Oglala Indians",
+                "count": 5
+              }
+            ],
+            "pubDates": {
+              "avg": 1928,
+              "median": 1929,
+              "mode": 1903
+            }
+          }
+        },
+        "E895-904": {
+          "id": "E895-904",
+          "subject": "Twenty-first century",
+          "count": 1048,
+          "children": {},
+          "subjects": {
+            "id": "E895-904",
+            "subject": "Twenty-first century",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "War on Terrorism, 2001-2009",
+                "count": 192
+              },
+              {
+                "url": "http://dbpedia.org/resource/President",
+                "subject": "Presidents",
+                "count": 191
+              },
+              {
+                "url": null,
+                "subject": "Iraq War, 2003-2011",
+                "count": 120
+              },
+              {
+                "url": null,
+                "subject": "September 11 Terrorist Attacks, 2001",
+                "count": 97
+              },
+              {
+                "url": "http://dbpedia.org/resource/Imperialism",
+                "subject": "Imperialism",
+                "count": 93
+              }
+            ],
+            "pubDates": {
+              "avg": 2004,
+              "median": 2005,
+              "mode": 2004
+            }
+          }
+        },
+        "E902-906": {
+          "id": "E902-906",
+          "subject": "George W. Bush's administrations, 2001-2009",
+          "count": 53,
+          "children": {},
+          "subjects": {
+            "id": "E902-906",
+            "subject": "George W. Bush's administrations, 2001-2009",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/President",
+                "subject": "Presidents",
+                "count": 59
+              },
+              {
+                "url": "http://dbpedia.org/resource/Political_campaign",
+                "subject": "Political campaigns",
+                "count": 32
+              },
+              {
+                "url": "http://dbpedia.org/resource/Presidential_nominee",
+                "subject": "Presidential candidates",
+                "count": 18
+              },
+              {
+                "url": "http://dbpedia.org/resource/Election",
+                "subject": "Elections",
+                "count": 6
+              }
+            ],
+            "pubDates": {
+              "avg": 2007,
+              "median": 2008,
+              "mode": 2009
+            }
+          }
+        },
+        "E907-909": {
+          "id": "E907-909",
+          "subject": "Barack Obama's administration, 2009-",
+          "count": 390,
+          "children": {},
+          "subjects": {
+            "id": "E907-909",
+            "subject": "Barack Obama's administration, 2009-",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/President",
+                "subject": "Presidents",
+                "count": 175
+              },
+              {
+                "url": null,
+                "subject": "Presidents' spouses",
+                "count": 41
+              },
+              {
+                "url": null,
+                "subject": "Racially mixed people",
+                "count": 36
+              },
+              {
+                "url": null,
+                "subject": "African American women lawyers",
+                "count": 25
+              },
+              {
+                "url": "http://dbpedia.org/resource/Political_culture",
+                "subject": "Political culture",
+                "count": 19
+              }
+            ],
+            "pubDates": {
+              "avg": 2013,
+              "median": 2010,
+              "mode": 2010
+            }
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}

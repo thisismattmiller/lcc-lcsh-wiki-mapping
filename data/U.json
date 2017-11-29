@@ -1,0 +1,4084 @@
+{
+  "code": "U",
+  "subject": "Military Science",
+  "count": 0,
+  "children": {
+    "U": {
+      "id": "U",
+      "subject": "Military science (General)",
+      "count": 0,
+      "children": {
+        "U1-900": {
+          "id": "U1-900",
+          "subject": "Military science (General)",
+          "count": 6954,
+          "children": {
+            "U21-22.3": {
+              "id": "U21-22.3",
+              "subject": "War.    Philosophy.    Military sociology",
+              "count": 1829,
+              "children": {},
+              "subjects": {
+                "id": "U21-22.3",
+                "subject": "War.    Philosophy.    Military sociology",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/War",
+                    "subject": "War",
+                    "count": 1043
+                  },
+                  {
+                    "url": null,
+                    "subject": "Sociology, Military",
+                    "count": 306
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 202
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military ethics",
+                    "count": 202
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 200
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1987,
+                  "median": 1991,
+                  "mode": 2010
+                }
+              }
+            },
+            "U27-43": {
+              "id": "U27-43",
+              "subject": "History of military science",
+              "count": 1850,
+              "children": {},
+              "subjects": {
+                "id": "U27-43",
+                "subject": "History of military science",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 1795
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military history, Modern",
+                    "count": 184
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_history",
+                    "subject": "Military history",
+                    "count": 114
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military history, Ancient",
+                    "count": 103
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/War",
+                    "subject": "War",
+                    "count": 91
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1959,
+                  "median": 1992,
+                  "mode": 2006
+                }
+              }
+            },
+            "U799-897": {
+              "id": "U799-897",
+              "subject": "History of arms and armor",
+              "count": 1423,
+              "children": {},
+              "subjects": {
+                "id": "U799-897",
+                "subject": "History of arms and armor",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Weapon",
+                    "subject": "Weapons",
+                    "count": 514
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Armour",
+                    "subject": "Armor",
+                    "count": 293
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military weapons",
+                    "count": 222
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sword",
+                    "subject": "Swords",
+                    "count": 201
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 152
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1986,
+                  "mode": 2009
+                }
+              }
+            },
+            "U400-714": {
+              "id": "U400-714",
+              "subject": "Military education and training",
+              "count": 1958,
+              "children": {},
+              "subjects": {
+                "id": "U400-714",
+                "subject": "Military education and training",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Military_education_and_training",
+                    "subject": "Military education",
+                    "count": 963
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Armed_Services_Vocational_Aptitude_Battery",
+                    "subject": "Armed Services Vocational Aptitude Battery",
+                    "count": 92
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 69
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 60
+                  },
+                  {
+                    "url": null,
+                    "subject": "Basic training (Military education)",
+                    "count": 43
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1988,
+                  "mode": 2010
+                }
+              }
+            },
+            "U150-155": {
+              "id": "U150-155",
+              "subject": "Military planning",
+              "count": 128,
+              "children": {},
+              "subjects": {
+                "id": "U150-155",
+                "subject": "Military planning",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Military_operation_plan",
+                    "subject": "Military planning",
+                    "count": 143
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Strategy",
+                    "subject": "Strategy",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/National_security",
+                    "subject": "National security",
+                    "count": 17
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Operations_research",
+                    "subject": "Operations research",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "World politics",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1999,
+                  "median": 1999,
+                  "mode": 1993
+                }
+              }
+            },
+            "U263-264.5": {
+              "id": "U263-264.5",
+              "subject": "Atomic warfare.    Atomic weapons",
+              "count": 1150,
+              "children": {},
+              "subjects": {
+                "id": "U263-264.5",
+                "subject": "Atomic warfare.    Atomic weapons",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_weapon",
+                    "subject": "Nuclear weapons",
+                    "count": 864
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_warfare",
+                    "subject": "Nuclear warfare",
+                    "count": 560
+                  },
+                  {
+                    "url": null,
+                    "subject": "Nuclear arms control",
+                    "count": 111
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_disarmament",
+                    "subject": "Nuclear disarmament",
+                    "count": 106
+                  },
+                  {
+                    "url": null,
+                    "subject": "World politics",
+                    "count": 103
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1992,
+                  "median": 1989,
+                  "mode": 1983
+                }
+              }
+            },
+            "U262": {
+              "id": "U262",
+              "subject": "Commando tactics",
+              "count": 152,
+              "children": {},
+              "subjects": {
+                "id": "U262",
+                "subject": "Commando tactics",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Special forces (Military science)",
+                    "count": 142
+                  },
+                  {
+                    "url": null,
+                    "subject": "Special operations (Military science)",
+                    "count": 51
+                  },
+                  {
+                    "url": null,
+                    "subject": "Commando troops",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Terrorism",
+                    "subject": "Terrorism",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military weapons",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2000,
+                  "median": 2002,
+                  "mode": 2004
+                }
+              }
+            },
+            "U164-167.5": {
+              "id": "U164-167.5",
+              "subject": "Tactics",
+              "count": 455,
+              "children": {},
+              "subjects": {
+                "id": "U164-167.5",
+                "subject": "Tactics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Tactic",
+                    "subject": "Tactics",
+                    "count": 208
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 54
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Urban_warfare",
+                    "subject": "Urban warfare",
+                    "count": 45
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hand-to-hand_combat",
+                    "subject": "Hand-to-hand fighting",
+                    "count": 35
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ninjutsu",
+                    "subject": "Ninjutsu",
+                    "count": 26
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1986,
+                  "mode": 1985
+                }
+              }
+            },
+            "U161-163": {
+              "id": "U161-163",
+              "subject": "Strategy",
+              "count": 1198,
+              "children": {},
+              "subjects": {
+                "id": "U161-163",
+                "subject": "Strategy",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Strategy",
+                    "subject": "Strategy",
+                    "count": 551
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_warfare",
+                    "subject": "Information warfare",
+                    "count": 202
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 163
+                  },
+                  {
+                    "url": null,
+                    "subject": "Deterrence (Strategy)",
+                    "count": 136
+                  },
+                  {
+                    "url": null,
+                    "subject": "World politics",
+                    "count": 106
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1997,
+                  "mode": 2005
+                }
+              }
+            },
+            "U750-773": {
+              "id": "U750-773",
+              "subject": "Military life, manners and customs, antiquities, etc.",
+              "count": 460,
+              "children": {},
+              "subjects": {
+                "id": "U750-773",
+                "subject": "Military life, manners and customs, antiquities, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 112
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 24
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military spouses",
+                    "count": 24
+                  },
+                  {
+                    "url": null,
+                    "subject": "Army spouses",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Etiquette",
+                    "subject": "Etiquette",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1980,
+                  "mode": 1998
+                }
+              }
+            },
+            "U310-310.2": {
+              "id": "U310-310.2",
+              "subject": "War games",
+              "count": 267,
+              "children": {},
+              "subjects": {
+                "id": "U310-310.2",
+                "subject": "War games",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/War_Game",
+                    "subject": "War games",
+                    "count": 204
+                  },
+                  {
+                    "url": null,
+                    "subject": "Computer war games",
+                    "count": 56
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 27
+                  },
+                  {
+                    "url": null,
+                    "subject": "Fighter plane combat",
+                    "count": 22
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1984,
+                  "mode": 1979
+                }
+              }
+            },
+            "U260": {
+              "id": "U260",
+              "subject": "Joint operations.    Combined operations",
+              "count": 107,
+              "children": {},
+              "subjects": {
+                "id": "U260",
+                "subject": "Joint operations.    Combined operations",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Unified operations (Military science)",
+                    "count": 82
+                  },
+                  {
+                    "url": null,
+                    "subject": "Combined operations (Military science)",
+                    "count": 35
+                  },
+                  {
+                    "url": null,
+                    "subject": "Command and control systems",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_operation_plan",
+                    "subject": "Military planning",
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "subject": "Operational art (Military science)",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1998,
+                  "median": 2001,
+                  "mode": 1995
+                }
+              }
+            },
+            "U168": {
+              "id": "U168",
+              "subject": "Logistics",
+              "count": 125,
+              "children": {},
+              "subjects": {
+                "id": "U168",
+                "subject": "Logistics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Logistic",
+                    "subject": "Logistics",
+                    "count": 125
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_logistics",
+                    "subject": "Military supplies",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Integrated logistic support",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Industrial_engineering",
+                    "subject": "Industrial engineering",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1993,
+                  "mode": 1986
+                }
+              }
+            },
+            "U261": {
+              "id": "U261",
+              "subject": "Amphibious warfare",
+              "count": 32,
+              "children": {},
+              "subjects": {
+                "id": "U261",
+                "subject": "Amphibious warfare",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Amphibious_warfare",
+                    "subject": "Amphibious warfare",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Landing_craft",
+                    "subject": "Landing craft",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1995,
+                  "median": 1996,
+                  "mode": 1976
+                }
+              }
+            },
+            "U320-325": {
+              "id": "U320-325",
+              "subject": "Physical training of soldiers",
+              "count": 48,
+              "children": {},
+              "subjects": {
+                "id": "U320-325",
+                "subject": "Physical training of soldiers",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Physical education and training, Military",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Physical_fitness",
+                    "subject": "Physical fitness",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1985,
+                  "mode": 1990
+                }
+              }
+            },
+            "U300-305": {
+              "id": "U300-305",
+              "subject": "Artillery and rifle ranges",
+              "count": 13,
+              "children": {},
+              "subjects": {
+                "id": "U300-305",
+                "subject": "Artillery and rifle ranges",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Bombing and gunnery ranges",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1992,
+                  "median": 2000,
+                  "mode": 2003
+                }
+              }
+            },
+            "U250-255": {
+              "id": "U250-255",
+              "subject": "Maneuvers (combined arms)",
+              "count": 46,
+              "children": {},
+              "subjects": {
+                "id": "U250-255",
+                "subject": "Maneuvers (combined arms)",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Maneuver",
+                    "subject": "Military maneuvers",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Maneuver_warfare",
+                    "subject": "Maneuver warfare",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1960,
+                  "median": 1969,
+                  "mode": 1980
+                }
+              }
+            },
+            "U56-59": {
+              "id": "U56-59",
+              "subject": "Army clubs",
+              "count": 19,
+              "children": {},
+              "subjects": {
+                "id": "U56-59",
+                "subject": "Army clubs",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1979,
+                  "mode": 1962
+                }
+              }
+            },
+            "U45": {
+              "id": "U45",
+              "subject": "Historiography",
+              "count": 5,
+              "children": {},
+              "subjects": {
+                "id": "U45",
+                "subject": "Historiography",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1985,
+                  "mode": 1985
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "U1-900",
+            "subject": "Military science (General)",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Military art and science",
+                "count": 2554
+              },
+              {
+                "url": "http://dbpedia.org/resource/Soldier",
+                "subject": "Soldiers",
+                "count": 750
+              },
+              {
+                "url": "http://dbpedia.org/resource/General_officer",
+                "subject": "Generals",
+                "count": 659
+              },
+              {
+                "url": "http://dbpedia.org/resource/Military_science",
+                "subject": "Military research",
+                "count": 353
+              },
+              {
+                "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                "subject": "Guerrilla warfare",
+                "count": 266
+              }
+            ],
+            "pubDates": {
+              "avg": 1975,
+              "median": 1987,
+              "mode": 2006
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "UG": {
+      "id": "UG",
+      "subject": "Air forces.    Air warfare",
+      "count": 0,
+      "children": {
+        "UG1-620": {
+          "id": "UG1-620",
+          "subject": "Military engineering",
+          "count": 1034,
+          "children": {
+            "UG443-449": {
+              "id": "UG443-449",
+              "subject": "Attack and defense.    Siege warfare",
+              "count": 1668,
+              "children": {},
+              "subjects": {
+                "id": "UG443-449",
+                "subject": "Attack and defense.    Siege warfare",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Tanks (Military science)",
+                    "count": 593
+                  },
+                  {
+                    "url": null,
+                    "subject": "Armored vehicles, Military",
+                    "count": 371
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Chemical_warfare",
+                    "subject": "Chemical warfare",
+                    "count": 282
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Biological_warfare",
+                    "subject": "Biological warfare",
+                    "count": 266
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 247
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1993,
+                  "mode": 2007
+                }
+              }
+            },
+            "UG360-390": {
+              "id": "UG360-390",
+              "subject": "Field engineering",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "UG360-390",
+                "subject": "Field engineering",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military field engineering",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_camp",
+                    "subject": "Military camps",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1932,
+                  "median": 1963,
+                  "mode": 1660
+                }
+              }
+            },
+            "UG400-442": {
+              "id": "UG400-442",
+              "subject": "Fortification",
+              "count": 1253,
+              "children": {},
+              "subjects": {
+                "id": "UG400-442",
+                "subject": "Fortification",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Fortification",
+                    "subject": "Fortification",
+                    "count": 1210
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Castle",
+                    "subject": "Castles",
+                    "count": 149
+                  },
+                  {
+                    "url": null,
+                    "subject": "Coast defenses",
+                    "count": 116
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_engineering",
+                    "subject": "Military architecture",
+                    "count": 113
+                  },
+                  {
+                    "url": null,
+                    "subject": "Bunkers (Fortification)",
+                    "count": 37
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1995,
+                  "mode": 2006
+                }
+              }
+            },
+            "UG490": {
+              "id": "UG490",
+              "subject": "Land mines, etc.",
+              "count": 143,
+              "children": {},
+              "subjects": {
+                "id": "UG490",
+                "subject": "Land mines, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Land_mine",
+                    "subject": "Land mines",
+                    "count": 140
+                  },
+                  {
+                    "url": null,
+                    "subject": "Mines (Military explosives)",
+                    "count": 70
+                  },
+                  {
+                    "url": null,
+                    "subject": "Land mine victims",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Radar",
+                    "subject": "Radar",
+                    "count": 17
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Photodetector",
+                    "subject": "Optical detectors",
+                    "count": 16
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1995,
+                  "median": 2001,
+                  "mode": 2000
+                }
+              }
+            },
+            "UG590-613.5": {
+              "id": "UG590-613.5",
+              "subject": "Military telegraphy and telephony",
+              "count": 151,
+              "children": {},
+              "subjects": {
+                "id": "UG590-613.5",
+                "subject": "Military telegraphy and telephony",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Radar",
+                    "subject": "Radar",
+                    "count": 55
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military telecommunication",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 27
+                  },
+                  {
+                    "url": null,
+                    "subject": "Radio, Military",
+                    "count": 19
+                  },
+                  {
+                    "url": null,
+                    "subject": "Electronics in military engineering",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1990,
+                  "mode": 2008
+                }
+              }
+            },
+            "UG615-620": {
+              "id": "UG615-620",
+              "subject": "Military motor vehicles",
+              "count": 230,
+              "children": {},
+              "subjects": {
+                "id": "UG615-620",
+                "subject": "Military motor vehicles",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Vehicles, Military",
+                    "count": 166
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 57
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_vehicle",
+                    "subject": "Military trucks",
+                    "count": 40
+                  },
+                  {
+                    "url": null,
+                    "subject": "Hummer trucks",
+                    "count": 22
+                  },
+                  {
+                    "url": null,
+                    "subject": "Jeep automobile",
+                    "count": 18
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1993,
+                  "median": 1995,
+                  "mode": 2007
+                }
+              }
+            },
+            "UG470-474": {
+              "id": "UG470-474",
+              "subject": "Military surveying, topography, and    mapping",
+              "count": 144,
+              "children": {},
+              "subjects": {
+                "id": "UG470-474",
+                "subject": "Military surveying, topography, and    mapping",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military topography",
+                    "count": 96
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military maps",
+                    "count": 63
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Map",
+                    "subject": "Map reading",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Aerial_photography",
+                    "subject": "Aerial photography",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Maps, Military",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1950,
+                  "median": 1945,
+                  "mode": 1917
+                }
+              }
+            },
+            "UG335": {
+              "id": "UG335",
+              "subject": "Bridges",
+              "count": 21,
+              "children": {},
+              "subjects": {
+                "id": "UG335",
+                "subject": "Bridges",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Pontoon_bridge",
+                    "subject": "Military bridges",
+                    "count": 16
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pontoon_bridge",
+                    "subject": "Pontoon bridges",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1936,
+                  "median": 1968,
+                  "mode": 1983
+                }
+              }
+            },
+            "UG570-582": {
+              "id": "UG570-582",
+              "subject": "Military signaling",
+              "count": 77,
+              "children": {},
+              "subjects": {
+                "id": "UG570-582",
+                "subject": "Military signaling",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Signals and signaling",
+                    "count": 24
+                  },
+                  {
+                    "url": null,
+                    "subject": "Communications, Military",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Watchtower",
+                    "subject": "Watchtowers",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1951,
+                  "median": 1961,
+                  "mode": 1943
+                }
+              }
+            },
+            "UG500-565": {
+              "id": "UG500-565",
+              "subject": "Technical troops and other special corps",
+              "count": 29,
+              "children": {},
+              "subjects": {
+                "id": "UG500-565",
+                "subject": "Technical troops and other special corps",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1978,
+                  "mode": 1978
+                }
+              }
+            },
+            "UG160-302": {
+              "id": "UG160-302",
+              "subject": "Tactics and regulations",
+              "count": 5,
+              "children": {},
+              "subjects": {
+                "id": "UG160-302",
+                "subject": "Tactics and regulations",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1959,
+                  "mode": 1931
+                }
+              }
+            },
+            "UG340": {
+              "id": "UG340",
+              "subject": "Tunnels",
+              "count": 5,
+              "children": {},
+              "subjects": {
+                "id": "UG340",
+                "subject": "Tunnels",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1990,
+                  "median": 1991,
+                  "mode": 1963
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UG1-620",
+            "subject": "Military engineering",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Military_engineering",
+                "subject": "Military engineering",
+                "count": 208
+              },
+              {
+                "url": null,
+                "subject": "Electronics in military engineering",
+                "count": 189
+              },
+              {
+                "url": null,
+                "subject": "Military art and science",
+                "count": 129
+              },
+              {
+                "url": "http://dbpedia.org/resource/Military_engineering",
+                "subject": "Military engineers",
+                "count": 104
+              },
+              {
+                "url": "http://dbpedia.org/resource/Fortification",
+                "subject": "Fortification",
+                "count": 43
+              }
+            ],
+            "pubDates": {
+              "avg": 1984,
+              "median": 1989,
+              "mode": 2010
+            }
+          }
+        },
+        "UG622-1435": {
+          "id": "UG622-1435",
+          "subject": "Air forces.    Air warfare",
+          "count": 1628,
+          "children": {
+            "UG633-635": {
+              "id": "UG633-635",
+              "subject": "By region or country",
+              "count": 2594,
+              "children": {},
+              "subjects": {
+                "id": "UG633-635",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Aeronautics, Military",
+                    "count": 646
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 195
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Airpower",
+                    "subject": "Air power",
+                    "count": 166
+                  },
+                  {
+                    "url": null,
+                    "subject": "Airplanes, Military",
+                    "count": 128
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Anti-aircraft_warfare",
+                    "subject": "Air defenses",
+                    "count": 100
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1983,
+                  "mode": 1981
+                }
+              }
+            },
+            "UG1100-1435": {
+              "id": "UG1100-1435",
+              "subject": "Equipment and supplies",
+              "count": 3516,
+              "children": {},
+              "subjects": {
+                "id": "UG1100-1435",
+                "subject": "Equipment and supplies",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Airplanes, Military",
+                    "count": 991
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 646
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fighter_aircraft",
+                    "subject": "Fighter planes",
+                    "count": 344
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Missile",
+                    "subject": "Guided missiles",
+                    "count": 193
+                  },
+                  {
+                    "url": null,
+                    "subject": "Aeronautics, Military",
+                    "count": 171
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1994,
+                  "median": 1995,
+                  "mode": 2010
+                }
+              }
+            },
+            "UG700-705": {
+              "id": "UG700-705",
+              "subject": "Tactics",
+              "count": 123,
+              "children": {},
+              "subjects": {
+                "id": "UG700-705",
+                "subject": "Tactics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Aerial_warfare",
+                    "subject": "Air warfare",
+                    "count": 37
+                  },
+                  {
+                    "url": null,
+                    "subject": "Fighter plane combat",
+                    "count": 31
+                  },
+                  {
+                    "url": null,
+                    "subject": "Bombing, Aerial",
+                    "count": 28
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fighter_pilot",
+                    "subject": "Fighter pilots",
+                    "count": 19
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Close_air_support",
+                    "subject": "Close air support",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1990,
+                  "median": 1991,
+                  "mode": 2001
+                }
+              }
+            },
+            "UG760-765": {
+              "id": "UG760-765",
+              "subject": "Aerial reconnaissance",
+              "count": 66,
+              "children": {},
+              "subjects": {
+                "id": "UG760-765",
+                "subject": "Aerial reconnaissance",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Aerial_reconnaissance",
+                    "subject": "Aerial reconnaissance",
+                    "count": 31
+                  },
+                  {
+                    "url": null,
+                    "subject": "Aerial reconnaissance, American",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cold_War",
+                    "subject": "Cold War",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Space_surveillance",
+                    "subject": "Space surveillance",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "U-2 (Reconnaissance aircraft)",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1998,
+                  "median": 2000,
+                  "mode": 2012
+                }
+              }
+            },
+            "UG637-639": {
+              "id": "UG637-639",
+              "subject": "Education and training",
+              "count": 200,
+              "children": {},
+              "subjects": {
+                "id": "UG637-639",
+                "subject": "Education and training",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Aeronautics, Military",
+                    "count": 74
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_education_and_training",
+                    "subject": "Military education",
+                    "count": 34
+                  },
+                  {
+                    "url": null,
+                    "subject": "Air pilots, Military",
+                    "count": 28
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Flight_training",
+                    "subject": "Flight training",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fighter_pilot",
+                    "subject": "Fighter pilots",
+                    "count": 9
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1990,
+                  "mode": 2007
+                }
+              }
+            },
+            "UG770-1045": {
+              "id": "UG770-1045",
+              "subject": "Organization.    Personnel management",
+              "count": 178,
+              "children": {},
+              "subjects": {
+                "id": "UG770-1045",
+                "subject": "Organization.    Personnel management",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Air pilots, Military",
+                    "count": 20
+                  },
+                  {
+                    "url": null,
+                    "subject": "Airplanes, Military",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1993,
+                  "median": 1997,
+                  "mode": 2000
+                }
+              }
+            },
+            "UG640-645": {
+              "id": "UG640-645",
+              "subject": "Military aeronautical research",
+              "count": 55,
+              "children": {},
+              "subjects": {
+                "id": "UG640-645",
+                "subject": "Military aeronautical research",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Aeronautics, Military",
+                    "count": 56
+                  },
+                  {
+                    "url": null,
+                    "subject": "Airplanes, Military",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_science",
+                    "subject": "Military research",
+                    "count": 5
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Balloon",
+                    "subject": "Balloons",
+                    "count": 5
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Technology_transfer",
+                    "subject": "Technology transfer",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1997,
+                  "mode": 2004
+                }
+              }
+            },
+            "UG730-735": {
+              "id": "UG730-735",
+              "subject": "Air defenses",
+              "count": 195,
+              "children": {},
+              "subjects": {
+                "id": "UG730-735",
+                "subject": "Air defenses",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Anti-aircraft_warfare",
+                    "subject": "Air defenses",
+                    "count": 187
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Aerial_warfare",
+                    "subject": "Air warfare",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Anti-aircraft_warfare",
+                    "subject": "Antiaircraft artillery",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Missile_defense",
+                    "subject": "Ballistic missile defenses",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1991,
+                  "mode": 2008
+                }
+              }
+            },
+            "UG1097": {
+              "id": "UG1097",
+              "subject": "Air bases",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "UG1097",
+                "subject": "Air bases",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Air bases",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1984,
+                  "mode": 1983
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UG622-1435",
+            "subject": "Air forces.    Air warfare",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Aeronautics, Military",
+                "count": 311
+              },
+              {
+                "url": "http://dbpedia.org/resource/Missile_defense",
+                "subject": "Ballistic missile defenses",
+                "count": 262
+              },
+              {
+                "url": null,
+                "subject": "Air pilots, Military",
+                "count": 221
+              },
+              {
+                "url": "http://dbpedia.org/resource/Strategic_Defense_Initiative",
+                "subject": "Strategic Defense Initiative",
+                "count": 219
+              },
+              {
+                "url": "http://dbpedia.org/resource/World_War_II",
+                "subject": "World War, 1939-1945",
+                "count": 201
+              }
+            ],
+            "pubDates": {
+              "avg": 1985,
+              "median": 1988,
+              "mode": 1986
+            }
+          }
+        },
+        "UG1500-1530": {
+          "id": "UG1500-1530",
+          "subject": "Military astronautics.    Space warfare.    Space surveillance",
+          "count": 157,
+          "children": {
+            "UG1523-1525": {
+              "id": "UG1523-1525",
+              "subject": "By region or country",
+              "count": 147,
+              "children": {},
+              "subjects": {
+                "id": "UG1523-1525",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Astronautics, Military",
+                    "count": 126
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Space_surveillance",
+                    "subject": "Space surveillance",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Space_warfare",
+                    "subject": "Space warfare",
+                    "count": 29
+                  },
+                  {
+                    "url": null,
+                    "subject": "Astronautics and state",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Space_weapon",
+                    "subject": "Space weapons",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1998,
+                  "median": 2000,
+                  "mode": 2006
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UG1500-1530",
+            "subject": "Military astronautics.    Space warfare.    Space surveillance",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Space_warfare",
+                "subject": "Space warfare",
+                "count": 88
+              },
+              {
+                "url": null,
+                "subject": "Astronautics, Military",
+                "count": 84
+              },
+              {
+                "url": "http://dbpedia.org/resource/Space_weapon",
+                "subject": "Space weapons",
+                "count": 65
+              },
+              {
+                "url": "http://dbpedia.org/resource/Anti-satellite_weapon",
+                "subject": "Anti-satellite weapons",
+                "count": 20
+              },
+              {
+                "url": "http://dbpedia.org/resource/Space_surveillance",
+                "subject": "Space surveillance",
+                "count": 18
+              }
+            ],
+            "pubDates": {
+              "avg": 1994,
+              "median": 1990,
+              "mode": 1984
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "UA": {
+      "id": "UA",
+      "subject": "Armies: Organization, distribution, military situation",
+      "count": 0,
+      "children": {
+        "UA10-997": {
+          "id": "UA10-997",
+          "subject": "Armies: Organization, distribution, military situation",
+          "count": 1737,
+          "children": {
+            "UA21-885": {
+              "id": "UA21-885",
+              "subject": "By region or country",
+              "count": 20479,
+              "children": {},
+              "subjects": {
+                "id": "UA21-885",
+                "subject": "By region or country",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/National_security",
+                    "subject": "National security",
+                    "count": 4179
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_weapon",
+                    "subject": "Nuclear weapons",
+                    "count": 846
+                  },
+                  {
+                    "url": null,
+                    "subject": "World politics",
+                    "count": 701
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 527
+                  },
+                  {
+                    "url": null,
+                    "subject": "Security, International",
+                    "count": 381
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1991,
+                  "mode": 2007
+                }
+              }
+            },
+            "UA940-945": {
+              "id": "UA940-945",
+              "subject": "Military communication",
+              "count": 121,
+              "children": {},
+              "subjects": {
+                "id": "UA940-945",
+                "subject": "Military communication",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Communications, Military",
+                    "count": 82
+                  },
+                  {
+                    "url": null,
+                    "subject": "Electronics in military engineering",
+                    "count": 25
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military telecommunication",
+                    "count": 19
+                  },
+                  {
+                    "url": null,
+                    "subject": "Wireless communication systems",
+                    "count": 16
+                  },
+                  {
+                    "url": null,
+                    "subject": "Command and control systems",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1996,
+                  "median": 2002,
+                  "mode": 2007
+                }
+              }
+            },
+            "UA985-997": {
+              "id": "UA985-997",
+              "subject": "Military geography",
+              "count": 153,
+              "children": {},
+              "subjects": {
+                "id": "UA985-997",
+                "subject": "Military geography",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Military_geography",
+                    "subject": "Military geography",
+                    "count": 135
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military maps",
+                    "count": 15
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Geopolitics",
+                    "subject": "Geopolitics",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Strategy",
+                    "subject": "Strategy",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cartography",
+                    "subject": "Cartography",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1951,
+                  "median": 1985,
+                  "mode": 2002
+                }
+              }
+            },
+            "UA926-929": {
+              "id": "UA926-929",
+              "subject": "Civil defense",
+              "count": 853,
+              "children": {},
+              "subjects": {
+                "id": "UA926-929",
+                "subject": "Civil defense",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Civil_defense",
+                    "subject": "Civil defense",
+                    "count": 750
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Emergency_management",
+                    "subject": "Disaster relief",
+                    "count": 47
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_warfare",
+                    "subject": "Nuclear warfare",
+                    "count": 45
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/National_security",
+                    "subject": "National security",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Terrorism",
+                    "subject": "Terrorism",
+                    "count": 34
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1972,
+                  "mode": 1942
+                }
+              }
+            },
+            "UA920-925": {
+              "id": "UA920-925",
+              "subject": "Plans for attack and defense",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "UA920-925",
+                "subject": "Plans for attack and defense",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1943,
+                  "median": 1912,
+                  "mode": 1858
+                }
+              }
+            },
+            "UA950-979": {
+              "id": "UA950-979",
+              "subject": "Routes of travel.    Distances",
+              "count": 6,
+              "children": {},
+              "subjects": {
+                "id": "UA950-979",
+                "subject": "Routes of travel.    Distances",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Military_road",
+                    "subject": "Military roads",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1838,
+                  "median": 1920,
+                  "mode": 1978
+                }
+              }
+            },
+            "UA910-915": {
+              "id": "UA910-915",
+              "subject": "Mobilization",
+              "count": 36,
+              "children": {},
+              "subjects": {
+                "id": "UA910-915",
+                "subject": "Mobilization",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Armed_forces",
+                    "subject": "Armed Forces",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1991,
+                  "mode": 1988
+                }
+              }
+            },
+            "UA929.5-929.95": {
+              "id": "UA929.5-929.95",
+              "subject": "War damage in industry.    Industrial defense",
+              "count": 80,
+              "children": {},
+              "subjects": {
+                "id": "UA929.5-929.95",
+                "subject": "War damage in industry.    Industrial defense",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Civil_defense",
+                    "subject": "Civil defense",
+                    "count": 33
+                  },
+                  {
+                    "url": null,
+                    "subject": "War damage, Industrial",
+                    "count": 19
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Industry",
+                    "subject": "Industries",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Agriculture",
+                    "subject": "Agriculture",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_warfare",
+                    "subject": "Nuclear warfare",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1972,
+                  "mode": 1970
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UA10-997",
+            "subject": "Armies: Organization, distribution, military situation",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/National_security",
+                "subject": "National security",
+                "count": 560
+              },
+              {
+                "url": "http://dbpedia.org/resource/Military_policy",
+                "subject": "Military policy",
+                "count": 324
+              },
+              {
+                "url": null,
+                "subject": "World politics",
+                "count": 228
+              },
+              {
+                "url": "http://dbpedia.org/resource/Armed_forces",
+                "subject": "Armed Forces",
+                "count": 221
+              },
+              {
+                "url": "http://dbpedia.org/resource/Arms_control",
+                "subject": "Arms control",
+                "count": 127
+              }
+            ],
+            "pubDates": {
+              "avg": 1986,
+              "median": 1989,
+              "mode": 1989
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "UB": {
+      "id": "UB",
+      "subject": "Military administration",
+      "count": 0,
+      "children": {
+        "UB1-900": {
+          "id": "UB1-900",
+          "subject": "Military administration",
+          "count": 2137,
+          "children": {
+            "UB356-369.5": {
+              "id": "UB356-369.5",
+              "subject": "Provision for veterans",
+              "count": 1263,
+              "children": {},
+              "subjects": {
+                "id": "UB356-369.5",
+                "subject": "Provision for veterans",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Veteran",
+                    "subject": "Veterans",
+                    "count": 1253
+                  },
+                  {
+                    "url": null,
+                    "subject": "Disabled veterans",
+                    "count": 187
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Vietnam_War",
+                    "subject": "Vietnam War, 1961-1975",
+                    "count": 59
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military pensions",
+                    "count": 40
+                  },
+                  {
+                    "url": null,
+                    "subject": "Veterans' hospitals",
+                    "count": 38
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1984,
+                  "mode": 1984
+                }
+              }
+            },
+            "UB250-271": {
+              "id": "UB250-271",
+              "subject": "Intelligence",
+              "count": 1931,
+              "children": {},
+              "subjects": {
+                "id": "UB250-271",
+                "subject": "Intelligence",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Espionage",
+                    "subject": "Spies",
+                    "count": 645
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Intelligence_agency",
+                    "subject": "Intelligence service",
+                    "count": 539
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Espionage",
+                    "subject": "Espionage",
+                    "count": 534
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_intelligence",
+                    "subject": "Military intelligence",
+                    "count": 487
+                  },
+                  {
+                    "url": null,
+                    "subject": "Espionage, Soviet",
+                    "count": 263
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1990,
+                  "median": 1998,
+                  "mode": 2010
+                }
+              }
+            },
+            "UB416-419": {
+              "id": "UB416-419",
+              "subject": "Minorities, women, etc. in armed forces",
+              "count": 432,
+              "children": {},
+              "subjects": {
+                "id": "UB416-419",
+                "subject": "Minorities, women, etc. in armed forces",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Women soldiers",
+                    "count": 129
+                  },
+                  {
+                    "url": null,
+                    "subject": "Gay military personnel",
+                    "count": 75
+                  },
+                  {
+                    "url": null,
+                    "subject": "Women and the military",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_use_of_children",
+                    "subject": "Child soldiers",
+                    "count": 37
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Women_in_combat",
+                    "subject": "Women in combat",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1998,
+                  "median": 1999,
+                  "mode": 1993
+                }
+              }
+            },
+            "UB320-338": {
+              "id": "UB320-338",
+              "subject": "Enlistment, recruiting, etc.",
+              "count": 481,
+              "children": {},
+              "subjects": {
+                "id": "UB320-338",
+                "subject": "Enlistment, recruiting, etc.",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military service, Voluntary",
+                    "count": 61
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 43
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Draft",
+                    "subject": "Draft",
+                    "count": 41
+                  },
+                  {
+                    "url": null,
+                    "subject": "Sociology, Military",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Veteran",
+                    "subject": "Veterans",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1988,
+                  "mode": 2003
+                }
+              }
+            },
+            "UB180-197": {
+              "id": "UB180-197",
+              "subject": "Civilian personnel departments",
+              "count": 63,
+              "children": {},
+              "subjects": {
+                "id": "UB180-197",
+                "subject": "Civilian personnel departments",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Human_resource_management",
+                    "subject": "Manpower planning",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1991,
+                  "mode": 1969
+                }
+              }
+            },
+            "UB407-409": {
+              "id": "UB407-409",
+              "subject": "Warrant officers.    Noncommissioned officers",
+              "count": 50,
+              "children": {},
+              "subjects": {
+                "id": "UB407-409",
+                "subject": "Warrant officers.    Noncommissioned officers",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Leadership",
+                    "subject": "Leadership",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1994,
+                  "median": 1996,
+                  "mode": 1998
+                }
+              }
+            },
+            "UB440-449.5": {
+              "id": "UB440-449.5",
+              "subject": "Retired military personnel",
+              "count": 34,
+              "children": {},
+              "subjects": {
+                "id": "UB440-449.5",
+                "subject": "Retired military personnel",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Retired military personnel",
+                    "count": 29
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Veteran",
+                    "subject": "Veterans",
+                    "count": 14
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1996,
+                  "median": 2000,
+                  "mode": 2001
+                }
+              }
+            },
+            "UB340-345": {
+              "id": "UB340-345",
+              "subject": "Compulsory service.    Conscription and exemption",
+              "count": 695,
+              "children": {},
+              "subjects": {
+                "id": "UB340-345",
+                "subject": "Compulsory service.    Conscription and exemption",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Draft",
+                    "subject": "Draft",
+                    "count": 454
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Conscientious_objector",
+                    "subject": "Conscientious objectors",
+                    "count": 204
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Conscientious_objector",
+                    "subject": "Conscientious objection",
+                    "count": 51
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_I",
+                    "subject": "World War, 1914-1918",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Draft_evasion",
+                    "subject": "Draft resisters",
+                    "count": 31
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1974,
+                  "mode": 1970
+                }
+              }
+            },
+            "UB410-415": {
+              "id": "UB410-415",
+              "subject": "Officers",
+              "count": 278,
+              "children": {},
+              "subjects": {
+                "id": "UB410-415",
+                "subject": "Officers",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Sociology, Military",
+                    "count": 26
+                  },
+                  {
+                    "url": null,
+                    "subject": "Command of troops",
+                    "count": 16
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/General_officer",
+                    "subject": "Generals",
+                    "count": 15
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_education_and_training",
+                    "subject": "Military education",
+                    "count": 15
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Leadership",
+                    "subject": "Leadership",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1990,
+                  "mode": 2006
+                }
+              }
+            },
+            "UB160-165": {
+              "id": "UB160-165",
+              "subject": "Records, returns, muster rolls, etc.",
+              "count": 55,
+              "children": {},
+              "subjects": {
+                "id": "UB160-165",
+                "subject": "Records, returns, muster rolls, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/English_language",
+                    "subject": "English language",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Technical_writing",
+                    "subject": "Technical writing",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1955,
+                  "median": 1952,
+                  "mode": 1943
+                }
+              }
+            },
+            "UB275-277": {
+              "id": "UB275-277",
+              "subject": "Psychological warfare.    Propaganda",
+              "count": 129,
+              "children": {},
+              "subjects": {
+                "id": "UB275-277",
+                "subject": "Psychological warfare.    Propaganda",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Psychological_warfare",
+                    "subject": "Psychological warfare",
+                    "count": 126
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Propaganda",
+                    "subject": "Propaganda",
+                    "count": 29
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/War",
+                    "subject": "War",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_I",
+                    "subject": "World War, 1914-1918",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_warfare",
+                    "subject": "Information warfare",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1995,
+                  "mode": 2001
+                }
+              }
+            },
+            "UB370-375": {
+              "id": "UB370-375",
+              "subject": "Military pensions, etc.",
+              "count": 228,
+              "children": {},
+              "subjects": {
+                "id": "UB370-375",
+                "subject": "Military pensions, etc.",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military pensions",
+                    "count": 156
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Veteran",
+                    "subject": "Veterans",
+                    "count": 50
+                  },
+                  {
+                    "url": null,
+                    "subject": "Disabled veterans",
+                    "count": 25
+                  },
+                  {
+                    "url": null,
+                    "subject": "Bounties, Military",
+                    "count": 24
+                  },
+                  {
+                    "url": null,
+                    "subject": "Survivors' benefits",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1949,
+                  "median": 1954,
+                  "mode": 1978
+                }
+              }
+            },
+            "UB380-385": {
+              "id": "UB380-385",
+              "subject": "Soldiers' and sailors' homes",
+              "count": 58,
+              "children": {},
+              "subjects": {
+                "id": "UB380-385",
+                "subject": "Soldiers' and sailors' homes",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Old_soldiers'_home",
+                    "subject": "Soldiers' homes",
+                    "count": 31
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Veteran",
+                    "subject": "Veterans",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "Disabled veterans",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1979,
+                  "mode": 1974
+                }
+              }
+            },
+            "UB273-274": {
+              "id": "UB273-274",
+              "subject": "Sabotage",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "UB273-274",
+                "subject": "Sabotage",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Sabotage",
+                    "subject": "Sabotage",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1961,
+                  "median": 1957,
+                  "mode": 1940
+                }
+              }
+            },
+            "UB420-425": {
+              "id": "UB420-425",
+              "subject": "Furloughs",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "UB420-425",
+                "subject": "Furloughs",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1946,
+                  "median": 1967,
+                  "mode": 1967
+                }
+              }
+            },
+            "UB170-175": {
+              "id": "UB170-175",
+              "subject": "Adjutant generals' offices",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "UB170-175",
+                "subject": "Adjutant generals' offices",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1968,
+                  "median": 1997,
+                  "mode": 1997
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UB1-900",
+            "subject": "Military administration",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Leadership",
+                "subject": "Leadership",
+                "count": 228
+              },
+              {
+                "url": "http://dbpedia.org/resource/Military_orders,_awards_and_decorations",
+                "subject": "Military decorations",
+                "count": 212
+              },
+              {
+                "url": null,
+                "subject": "Command of troops",
+                "count": 201
+              },
+              {
+                "url": "http://dbpedia.org/resource/Military_justice",
+                "subject": "Military law",
+                "count": 164
+              },
+              {
+                "url": null,
+                "subject": "Command and control systems",
+                "count": 163
+              }
+            ],
+            "pubDates": {
+              "avg": 1972,
+              "median": 1988,
+              "mode": 2006
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "UD": {
+      "id": "UD",
+      "subject": "Infantry",
+      "count": 0,
+      "children": {
+        "UD1-495": {
+          "id": "UD1-495",
+          "subject": "Infantry",
+          "count": 117,
+          "children": {
+            "UD480-485": {
+              "id": "UD480-485",
+              "subject": "Airborne troops.    Parachute troops",
+              "count": 137,
+              "children": {},
+              "subjects": {
+                "id": "UD480-485",
+                "subject": "Airborne troops.    Parachute troops",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 28
+                  },
+                  {
+                    "url": null,
+                    "subject": "Parachute troops",
+                    "count": 28
+                  },
+                  {
+                    "url": null,
+                    "subject": "Airborne troops",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Parachuting",
+                    "subject": "Parachuting",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Parachuting",
+                    "subject": "Skydiving",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1991,
+                  "median": 1996,
+                  "mode": 1974
+                }
+              }
+            },
+            "UD157-302": {
+              "id": "UD157-302",
+              "subject": "Tactics.    Maneuvers.    Drill regulations",
+              "count": 225,
+              "children": {},
+              "subjects": {
+                "id": "UD157-302",
+                "subject": "Tactics.    Maneuvers.    Drill regulations",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Infantry drill and tactics",
+                    "count": 103
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_I",
+                    "subject": "World War, 1914-1918",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Tactic",
+                    "subject": "Tactics",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1922,
+                  "median": 1939,
+                  "mode": 1861
+                }
+              }
+            },
+            "UD380-425": {
+              "id": "UD380-425",
+              "subject": "Small arms.    Swords, etc.",
+              "count": 685,
+              "children": {},
+              "subjects": {
+                "id": "UD380-425",
+                "subject": "Small arms.    Swords, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Firearm",
+                    "subject": "Firearms",
+                    "count": 198
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Rifle",
+                    "subject": "Rifles",
+                    "count": 116
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pistol",
+                    "subject": "Pistols",
+                    "count": 80
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bayonet",
+                    "subject": "Bayonets",
+                    "count": 65
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 31
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1989,
+                  "mode": 1993
+                }
+              }
+            },
+            "UD330-335": {
+              "id": "UD330-335",
+              "subject": "Firing.    Military sharpshooting",
+              "count": 89,
+              "children": {},
+              "subjects": {
+                "id": "UD330-335",
+                "subject": "Firing.    Military sharpshooting",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Shooting, Military",
+                    "count": 41
+                  },
+                  {
+                    "url": null,
+                    "subject": "Sniping (Military science)",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Sniper",
+                    "subject": "Snipers",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Rifle",
+                    "subject": "Rifles",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "Sharpshooting (Military science)",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1993,
+                  "mode": 2008
+                }
+              }
+            },
+            "UD320-325": {
+              "id": "UD320-325",
+              "subject": "Manual of arms",
+              "count": 4,
+              "children": {},
+              "subjects": {
+                "id": "UD320-325",
+                "subject": "Manual of arms",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1922,
+                  "median": 1975,
+                  "mode": 1861
+                }
+              }
+            },
+            "UD340-345": {
+              "id": "UD340-345",
+              "subject": "Bayonet drill",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "UD340-345",
+                "subject": "Bayonet drill",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1917,
+                  "median": 1916,
+                  "mode": 1916
+                }
+              }
+            },
+            "UD470-475": {
+              "id": "UD470-475",
+              "subject": "Ski troops",
+              "count": 5,
+              "children": {},
+              "subjects": {
+                "id": "UD470-475",
+                "subject": "Ski troops",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1964,
+                  "median": 1943,
+                  "mode": 1943
+                }
+              }
+            },
+            "UD450-455": {
+              "id": "UD450-455",
+              "subject": "Mounted infantry",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "UD450-455",
+                "subject": "Mounted infantry",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1942,
+                  "median": 1976,
+                  "mode": 1909
+                }
+              }
+            },
+            "UD460-464": {
+              "id": "UD460-464",
+              "subject": "Mountain troops",
+              "count": 12,
+              "children": {},
+              "subjects": {
+                "id": "UD460-464",
+                "subject": "Mountain troops",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mountain_warfare",
+                    "subject": "Mountain warfare",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 2000,
+                  "mode": 1903
+                }
+              }
+            },
+            "UD490-495": {
+              "id": "UD490-495",
+              "subject": "Airmobile operations",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "UD490-495",
+                "subject": "Airmobile operations",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1985,
+                  "mode": 1979
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UD1-495",
+            "subject": "Infantry",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Infantry",
+                "subject": "Infantry",
+                "count": 35
+              },
+              {
+                "url": null,
+                "subject": "Infantry drill and tactics",
+                "count": 20
+              },
+              {
+                "url": null,
+                "subject": "Military art and science",
+                "count": 10
+              },
+              {
+                "url": "http://dbpedia.org/resource/World_War_II",
+                "subject": "World War, 1939-1945",
+                "count": 6
+              },
+              {
+                "url": "http://dbpedia.org/resource/Marching",
+                "subject": "Marching",
+                "count": 5
+              }
+            ],
+            "pubDates": {
+              "avg": 1963,
+              "median": 1981,
+              "mode": 1999
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "UF": {
+      "id": "UF",
+      "subject": "Artillery",
+      "count": 0,
+      "children": {
+        "UF1-910": {
+          "id": "UF1-910",
+          "subject": "Artillery",
+          "count": 429,
+          "children": {
+            "UF560-780": {
+              "id": "UF560-780",
+              "subject": "Ordnance material (Ordnance proper)",
+              "count": 778,
+              "children": {},
+              "subjects": {
+                "id": "UF560-780",
+                "subject": "Ordnance material (Ordnance proper)",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_warfare",
+                    "subject": "Nuclear warfare",
+                    "count": 155
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_weapon",
+                    "subject": "Nuclear weapons",
+                    "count": 96
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nuclear_weapon",
+                    "subject": "Atomic bomb",
+                    "count": 76
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Machine_gun",
+                    "subject": "Machine guns",
+                    "count": 50
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cartridge",
+                    "subject": "Cartridges",
+                    "count": 44
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1973,
+                  "mode": 1982
+                }
+              }
+            },
+            "UF500-515": {
+              "id": "UF500-515",
+              "subject": "Weapons systems",
+              "count": 365,
+              "children": {},
+              "subjects": {
+                "id": "UF500-515",
+                "subject": "Weapons systems",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Weapon",
+                    "subject": "Weapons systems",
+                    "count": 187
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military weapons",
+                    "count": 106
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military art and science",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 33
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Precision-guided_munition",
+                    "subject": "Precision guided munitions",
+                    "count": 33
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1996,
+                  "median": 1999,
+                  "mode": 2002
+                }
+              }
+            },
+            "UF820-830": {
+              "id": "UF820-830",
+              "subject": "Ballistics.    Velocities and motions of projectiles",
+              "count": 126,
+              "children": {},
+              "subjects": {
+                "id": "UF820-830",
+                "subject": "Ballistics.    Velocities and motions of projectiles",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Ballistics_(disambiguation)",
+                    "subject": "Ballistics",
+                    "count": 103
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ballistics, Exterior",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ballistics, Interior",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Projectile",
+                    "subject": "Projectiles",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1952,
+                  "median": 1955,
+                  "mode": 1950
+                }
+              }
+            },
+            "UF400-405": {
+              "id": "UF400-405",
+              "subject": "Field artillery",
+              "count": 71,
+              "children": {},
+              "subjects": {
+                "id": "UF400-405",
+                "subject": "Field artillery",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Artillery, Field and mountain",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Artillery drill and tactics",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Artillery",
+                    "subject": "Artillery",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1948,
+                  "median": 1972,
+                  "mode": 1917
+                }
+              }
+            },
+            "UF450-455": {
+              "id": "UF450-455",
+              "subject": "Seacoast artillery",
+              "count": 30,
+              "children": {},
+              "subjects": {
+                "id": "UF450-455",
+                "subject": "Seacoast artillery",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Artillery, Coast",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fortification",
+                    "subject": "Fortification",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1983,
+                  "mode": 1941
+                }
+              }
+            },
+            "UF520-537": {
+              "id": "UF520-537",
+              "subject": "Ordnance and small arms",
+              "count": 556,
+              "children": {},
+              "subjects": {
+                "id": "UF520-537",
+                "subject": "Ordnance and small arms",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Ordnance",
+                    "subject": "Ordnance",
+                    "count": 124
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Arms_industry",
+                    "subject": "Defense industries",
+                    "count": 119
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military weapons",
+                    "count": 83
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Arms_industry",
+                    "subject": "Weapons industry",
+                    "count": 79
+                  },
+                  {
+                    "url": null,
+                    "subject": "Arms transfers",
+                    "count": 77
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1983,
+                  "mode": 1986
+                }
+              }
+            },
+            "UF157-302": {
+              "id": "UF157-302",
+              "subject": "Tactics.    Maneuvers.    Drill regulations",
+              "count": 44,
+              "children": {},
+              "subjects": {
+                "id": "UF157-302",
+                "subject": "Tactics.    Maneuvers.    Drill regulations",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Artillery drill and tactics",
+                    "count": 15
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Artillery",
+                    "subject": "Artillery",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1931,
+                  "median": 1968,
+                  "mode": 1771
+                }
+              }
+            },
+            "UF540-545": {
+              "id": "UF540-545",
+              "subject": "Arsenals, magazines, armories, etc.",
+              "count": 86,
+              "children": {},
+              "subjects": {
+                "id": "UF540-545",
+                "subject": "Arsenals, magazines, armories, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Arsenal",
+                    "subject": "Arsenals",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Armory",
+                    "subject": "Armories",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1989,
+                  "mode": 1968
+                }
+              }
+            },
+            "UF460-465": {
+              "id": "UF460-465",
+              "subject": "Siege artillery",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "UF460-465",
+                "subject": "Siege artillery",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1950,
+                  "median": 1927,
+                  "mode": 1867
+                }
+              }
+            },
+            "UF848-856": {
+              "id": "UF848-856",
+              "subject": "Artillery instruments.    Fire control, etc.",
+              "count": 21,
+              "children": {},
+              "subjects": {
+                "id": "UF848-856",
+                "subject": "Artillery instruments.    Fire control, etc.",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Fire control (Gunnery)",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1979,
+                  "mode": 1977
+                }
+              }
+            },
+            "UF480-485": {
+              "id": "UF480-485",
+              "subject": "Garrison artillery",
+              "count": 4,
+              "children": {},
+              "subjects": {
+                "id": "UF480-485",
+                "subject": "Garrison artillery",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1918,
+                  "median": 1942,
+                  "mode": 1826
+                }
+              }
+            },
+            "UF470-475": {
+              "id": "UF470-475",
+              "subject": "Howitzer artillery.    Mortar batteries",
+              "count": 11,
+              "children": {},
+              "subjects": {
+                "id": "UF470-475",
+                "subject": "Howitzer artillery.    Mortar batteries",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Howitzer",
+                    "subject": "Howitzers",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1990,
+                  "median": 1991,
+                  "mode": 1975
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UF1-910",
+            "subject": "Artillery",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Artillery",
+                "subject": "Artillery",
+                "count": 206
+              },
+              {
+                "url": "http://dbpedia.org/resource/Ordnance",
+                "subject": "Ordnance",
+                "count": 56
+              },
+              {
+                "url": "http://dbpedia.org/resource/Gunnery",
+                "subject": "Gunnery",
+                "count": 38
+              },
+              {
+                "url": "http://dbpedia.org/resource/Bomb_disposal",
+                "subject": "Explosive ordnance disposal",
+                "count": 26
+              },
+              {
+                "url": null,
+                "subject": "Rockets (Ordnance)",
+                "count": 24
+              }
+            ],
+            "pubDates": {
+              "avg": 1950,
+              "median": 1973,
+              "mode": 2010
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "UC": {
+      "id": "UC",
+      "subject": "Maintenance and transportation",
+      "count": 0,
+      "children": {
+        "UC10-780": {
+          "id": "UC10-780",
+          "subject": "Maintenance and transportation",
+          "count": 75,
+          "children": {
+            "UC270-360": {
+              "id": "UC270-360",
+              "subject": "Transportation",
+              "count": 332,
+              "children": {},
+              "subjects": {
+                "id": "UC270-360",
+                "subject": "Transportation",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Airlift, Military",
+                    "count": 73
+                  },
+                  {
+                    "url": null,
+                    "subject": "Transportation, Military",
+                    "count": 71
+                  },
+                  {
+                    "url": null,
+                    "subject": "Vehicles, Military",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Automobiles, Military",
+                    "count": 15
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1985,
+                  "mode": 1970
+                }
+              }
+            },
+            "UC460-535": {
+              "id": "UC460-535",
+              "subject": "Clothing and equipment",
+              "count": 1110,
+              "children": {},
+              "subjects": {
+                "id": "UC460-535",
+                "subject": "Clothing and equipment",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Military_uniform",
+                    "subject": "Military uniforms",
+                    "count": 211
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 115
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Helmet",
+                    "subject": "Helmets",
+                    "count": 61
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_orders,_awards_and_decorations",
+                    "subject": "Military decorations",
+                    "count": 54
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_I",
+                    "subject": "World War, 1914-1918",
+                    "count": 47
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1986,
+                  "mode": 1977
+                }
+              }
+            },
+            "UC260-267": {
+              "id": "UC260-267",
+              "subject": "Supplies and stores",
+              "count": 950,
+              "children": {},
+              "subjects": {
+                "id": "UC260-267",
+                "subject": "Supplies and stores",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Defense contracts",
+                    "count": 242
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_logistics",
+                    "subject": "Military supplies",
+                    "count": 98
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Armed_forces",
+                    "subject": "Armed Forces",
+                    "count": 55
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Arms_industry",
+                    "subject": "Defense industries",
+                    "count": 48
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Logistic",
+                    "subject": "Logistics",
+                    "count": 45
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1991,
+                  "mode": 2000
+                }
+              }
+            },
+            "UC20-258": {
+              "id": "UC20-258",
+              "subject": "Organization of the service.    By region or country",
+              "count": 271,
+              "children": {},
+              "subjects": {
+                "id": "UC20-258",
+                "subject": "Organization of the service.    By region or country",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military pensions",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Quartermaster",
+                    "subject": "Quartermasters",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Veteran",
+                    "subject": "Veterans",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Logistic",
+                    "subject": "Logistics",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1964,
+                  "median": 1975,
+                  "mode": 1961
+                }
+              }
+            },
+            "UC400-440": {
+              "id": "UC400-440",
+              "subject": "Barracks.    Quarters.    Camps",
+              "count": 98,
+              "children": {},
+              "subjects": {
+                "id": "UC400-440",
+                "subject": "Barracks.    Quarters.    Camps",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Barracks",
+                    "subject": "Barracks",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military bases, American",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military bases",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Recreation_area",
+                    "subject": "Recreation areas",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1989,
+                  "mode": 1994
+                }
+              }
+            },
+            "UC700-780": {
+              "id": "UC700-780",
+              "subject": "Subsistence",
+              "count": 125,
+              "children": {},
+              "subjects": {
+                "id": "UC700-780",
+                "subject": "Subsistence",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Cooking for military personnel",
+                    "count": 27
+                  },
+                  {
+                    "url": null,
+                    "subject": "Military exchanges",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Operational rations (Military supplies)",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Cookery, Military",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1966,
+                  "median": 1973,
+                  "mode": 1983
+                }
+              }
+            },
+            "UC600-695": {
+              "id": "UC600-695",
+              "subject": "Horses.    Mules.    Remount service",
+              "count": 27,
+              "children": {},
+              "subjects": {
+                "id": "UC600-695",
+                "subject": "Horses.    Mules.    Remount service",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Horse",
+                    "subject": "Horses",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Horses_in_warfare",
+                    "subject": "Cavalry horses",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Horses_in_warfare",
+                    "subject": "War horses",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1954,
+                  "median": 1967,
+                  "mode": 2012
+                }
+              }
+            },
+            "UC540-585": {
+              "id": "UC540-585",
+              "subject": "Equipage.    Field kits",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "UC540-585",
+                "subject": "Equipage.    Field kits",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1904,
+                  "median": 1904,
+                  "mode": 1904
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UC10-780",
+            "subject": "Maintenance and transportation",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Standards, Military",
+                "count": 40
+              },
+              {
+                "url": "http://dbpedia.org/resource/Flag",
+                "subject": "Flags",
+                "count": 32
+              },
+              {
+                "url": null,
+                "subject": "Requisitions, Military",
+                "count": 8
+              }
+            ],
+            "pubDates": {
+              "avg": 1966,
+              "median": 1978,
+              "mode": 2009
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "UH": {
+      "id": "UH",
+      "subject": "Other services",
+      "count": 0,
+      "children": {
+        "UH20-910": {
+          "id": "UH20-910",
+          "subject": "Other services",
+          "count": 363,
+          "children": {
+            "UH201-515": {
+              "id": "UH201-515",
+              "subject": "Medical and sanitary services",
+              "count": 641,
+              "children": {},
+              "subjects": {
+                "id": "UH201-515",
+                "subject": "Medical and sanitary services",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Medicine, Military",
+                    "count": 176
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_hospital",
+                    "subject": "Military hospitals",
+                    "count": 53
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_I",
+                    "subject": "World War, 1914-1918",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_medicine",
+                    "subject": "Military Medicine",
+                    "count": 35
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Physician",
+                    "subject": "Physicians",
+                    "count": 32
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1971,
+                  "median": 1985,
+                  "mode": 2009
+                }
+              }
+            },
+            "UH600-629.5": {
+              "id": "UH600-629.5",
+              "subject": "Military hygiene and sanitation",
+              "count": 122,
+              "children": {},
+              "subjects": {
+                "id": "UH600-629.5",
+                "subject": "Military hygiene and sanitation",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military hygiene",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 37
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Military_psychiatry",
+                    "subject": "Military psychiatry",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Veteran",
+                    "subject": "Veterans",
+                    "count": 20
+                  },
+                  {
+                    "url": null,
+                    "subject": "Psychology, Military",
+                    "count": 9
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1980,
+                  "mode": 1918
+                }
+              }
+            },
+            "UH520-560": {
+              "id": "UH520-560",
+              "subject": "Care of sick and wounded.    Relief societies",
+              "count": 69,
+              "children": {},
+              "subjects": {
+                "id": "UH520-560",
+                "subject": "Care of sick and wounded.    Relief societies",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement",
+                    "subject": "Red Cross and Red Crescent",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/War",
+                    "subject": "War",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Italo-Ethiopian War, 1935-1936",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1956,
+                  "median": 1959,
+                  "mode": 1963
+                }
+              }
+            },
+            "UH20-25": {
+              "id": "UH20-25",
+              "subject": "Chaplains",
+              "count": 169,
+              "children": {},
+              "subjects": {
+                "id": "UH20-25",
+                "subject": "Chaplains",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Military_chaplain",
+                    "subject": "Military chaplains",
+                    "count": 165
+                  },
+                  {
+                    "url": null,
+                    "subject": "Church work with military personnel",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Separation_of_church_and_state",
+                    "subject": "Church and state",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/World_War_II",
+                    "subject": "World War, 1939-1945",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1992,
+                  "mode": 1977
+                }
+              }
+            },
+            "UH800-910": {
+              "id": "UH800-910",
+              "subject": "Recreation and information services",
+              "count": 36,
+              "children": {},
+              "subjects": {
+                "id": "UH800-910",
+                "subject": "Recreation and information services",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Soldier",
+                    "subject": "Soldiers",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1983,
+                  "mode": 1983
+                }
+              }
+            },
+            "UH700-705": {
+              "id": "UH700-705",
+              "subject": "Public relations.    Press.    War correspondents",
+              "count": 37,
+              "children": {},
+              "subjects": {
+                "id": "UH700-705",
+                "subject": "Public relations.    Press.    War correspondents",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Journalism, Military",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "Armed Forces and mass media",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1991,
+                  "mode": 1991
+                }
+              }
+            },
+            "UH750-769": {
+              "id": "UH750-769",
+              "subject": "Military social work.    Social welfare services",
+              "count": 29,
+              "children": {},
+              "subjects": {
+                "id": "UH750-769",
+                "subject": "Military social work.    Social welfare services",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Military social work",
+                    "count": 16
+                  },
+                  {
+                    "url": null,
+                    "subject": "Children of military personnel",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1993,
+                  "median": 1999,
+                  "mode": 1999
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UH20-910",
+            "subject": "Other services",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Dog",
+                "subject": "Dogs",
+                "count": 55
+              },
+              {
+                "url": "http://dbpedia.org/resource/Mail",
+                "subject": "Postal service",
+                "count": 33
+              },
+              {
+                "url": "http://dbpedia.org/resource/World_War_II",
+                "subject": "World War, 1939-1945",
+                "count": 30
+              },
+              {
+                "url": "http://dbpedia.org/resource/Soldier",
+                "subject": "Soldiers",
+                "count": 27
+              },
+              {
+                "url": "http://dbpedia.org/resource/Armed_forces",
+                "subject": "Armed Forces",
+                "count": 27
+              }
+            ],
+            "pubDates": {
+              "avg": 1989,
+              "median": 1987,
+              "mode": 2009
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "UE": {
+      "id": "UE",
+      "subject": "Cavalry.    Armor",
+      "count": 0,
+      "children": {
+        "UE1-500": {
+          "id": "UE1-500",
+          "subject": "Cavalry.    Armor",
+          "count": 181,
+          "children": {
+            "UE144-145": {
+              "id": "UE144-145",
+              "subject": "Horse cavalry",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "UE144-145",
+                "subject": "Horse cavalry",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Cavalry",
+                    "subject": "Cavalry",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Cavalry drill and tactics",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1934,
+                  "median": 1977,
+                  "mode": 1627
+                }
+              }
+            },
+            "UE157-302": {
+              "id": "UE157-302",
+              "subject": "Tactics.    Maneuvers.    Drill regulations",
+              "count": 98,
+              "children": {},
+              "subjects": {
+                "id": "UE157-302",
+                "subject": "Tactics.    Maneuvers.    Drill regulations",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Cavalry drill and tactics",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Armoured_warfare",
+                    "subject": "Tank warfare",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cavalry",
+                    "subject": "Cavalry",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "Tanks (Military science)",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Armored vehicles, Military",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1939,
+                  "median": 1972,
+                  "mode": 1999
+                }
+              }
+            },
+            "UE460-475": {
+              "id": "UE460-475",
+              "subject": "Horses",
+              "count": 41,
+              "children": {},
+              "subjects": {
+                "id": "UE460-475",
+                "subject": "Horses",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Horses_in_warfare",
+                    "subject": "War horses",
+                    "count": 19
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Horse",
+                    "subject": "Horses",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Equestrianism",
+                    "subject": "Horsemanship",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cavalry",
+                    "subject": "Cavalry",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1948,
+                  "median": 1979,
+                  "mode": 1993
+                }
+              }
+            },
+            "UE147": {
+              "id": "UE147",
+              "subject": "Armored cavalry",
+              "count": 5,
+              "children": {},
+              "subjects": {
+                "id": "UE147",
+                "subject": "Armored cavalry",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1968,
+                  "mode": 1942
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "UE1-500",
+            "subject": "Cavalry.    Armor",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Cavalry",
+                "subject": "Cavalry",
+                "count": 76
+              },
+              {
+                "url": null,
+                "subject": "Mechanization, Military",
+                "count": 9
+              },
+              {
+                "url": "http://dbpedia.org/resource/Horse",
+                "subject": "Horses",
+                "count": 8
+              },
+              {
+                "url": null,
+                "subject": "Armored vehicles, Military",
+                "count": 8
+              },
+              {
+                "url": null,
+                "subject": "Cavalry drill and tactics",
+                "count": 7
+              }
+            ],
+            "pubDates": {
+              "avg": 1975,
+              "median": 1984,
+              "mode": 2010
+            }
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}

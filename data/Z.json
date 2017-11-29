@@ -1,0 +1,3903 @@
+{
+  "code": "Z",
+  "subject": "Bibliography, Library Science",
+  "count": 0,
+  "children": {
+    "Z": {
+      "id": "Z",
+      "subject": "National bibliography",
+      "count": 0,
+      "children": {
+        "Z1001-1121": {
+          "id": "Z1001-1121",
+          "subject": "General bibliography",
+          "count": 1768,
+          "children": {
+            "Z1036": {
+              "id": "Z1036",
+              "subject": "Booksellers' general catalogs of modern books",
+              "count": 20,
+              "children": {},
+              "subjects": {
+                "id": "Z1036",
+                "subject": "Booksellers' general catalogs of modern books",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Booksellers' catalogs",
+                    "count": 15
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1923,
+                  "median": 1949,
+                  "mode": 1841
+                }
+              }
+            },
+            "Z1003-1003.5": {
+              "id": "Z1003-1003.5",
+              "subject": "Choice of books.    Books and reading.    Book reviews",
+              "count": 1967,
+              "children": {},
+              "subjects": {
+                "id": "Z1003-1003.5",
+                "subject": "Choice of books.    Books and reading.    Book reviews",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Books and reading",
+                    "count": 1897
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 317
+                  },
+                  {
+                    "url": null,
+                    "subject": "Book industries and trade",
+                    "count": 149
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 119
+                  },
+                  {
+                    "url": null,
+                    "subject": "Reading interests",
+                    "count": 88
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1992,
+                  "mode": 2010
+                }
+              }
+            },
+            "Z1037-1039": {
+              "id": "Z1037-1039",
+              "subject": "Books for special classes of persons, institutions, etc.",
+              "count": 2818,
+              "children": {},
+              "subjects": {
+                "id": "Z1037-1039",
+                "subject": "Books for special classes of persons, institutions, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Child",
+                    "subject": "Children",
+                    "count": 1323
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Children's_literature",
+                    "subject": "Children's literature",
+                    "count": 932
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Youth",
+                    "subject": "Youth",
+                    "count": 178
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Young_adult_fiction",
+                    "subject": "Young adult literature",
+                    "count": 174
+                  },
+                  {
+                    "url": null,
+                    "subject": "Best books",
+                    "count": 127
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1981,
+                  "mode": 1972
+                }
+              }
+            },
+            "Z1035-1035.9": {
+              "id": "Z1035-1035.9",
+              "subject": "Best books",
+              "count": 1332,
+              "children": {},
+              "subjects": {
+                "id": "Z1035-1035.9",
+                "subject": "Best books",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Best books",
+                    "count": 432
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 327
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Reference_work",
+                    "subject": "Reference books",
+                    "count": 311
+                  },
+                  {
+                    "url": null,
+                    "subject": "Books and reading",
+                    "count": 116
+                  },
+                  {
+                    "url": null,
+                    "subject": "Reference books, Chinese",
+                    "count": 46
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1979,
+                  "mode": 1981
+                }
+              }
+            },
+            "Z1001": {
+              "id": "Z1001",
+              "subject": "Introduction to bibliography. Theory, philosophy,",
+              "count": 441,
+              "children": {},
+              "subjects": {
+                "id": "Z1001",
+                "subject": "Introduction to bibliography. Theory, philosophy,",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Bibliography",
+                    "subject": "Bibliography",
+                    "count": 310
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Documentation",
+                    "subject": "Documentation",
+                    "count": 92
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_science",
+                    "subject": "Information science",
+                    "count": 34
+                  },
+                  {
+                    "url": null,
+                    "subject": "Bibliography, Critical",
+                    "count": 27
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1963,
+                  "median": 1975,
+                  "mode": 1976
+                }
+              }
+            },
+            "Z1019-1033": {
+              "id": "Z1019-1033",
+              "subject": "Special classes of books",
+              "count": 1500,
+              "children": {},
+              "subjects": {
+                "id": "Z1019-1033",
+                "subject": "Special classes of books",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Rare books",
+                    "count": 517
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Picture_book",
+                    "subject": "Illustrated books",
+                    "count": 251
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_books_banned_by_governments",
+                    "subject": "Prohibited books",
+                    "count": 150
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Manuscript",
+                    "subject": "Manuscripts",
+                    "count": 81
+                  },
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 73
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1986,
+                  "mode": 1984
+                }
+              }
+            },
+            "Z1011-1017": {
+              "id": "Z1011-1017",
+              "subject": "General bibliographies",
+              "count": 426,
+              "children": {},
+              "subjects": {
+                "id": "Z1011-1017",
+                "subject": "General bibliographies",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 407
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Rare books",
+                    "count": 109
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Incunable",
+                    "subject": "Incunabula",
+                    "count": 85
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Manuscript",
+                    "subject": "Manuscripts",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bibliography",
+                    "subject": "Universal bibliography",
+                    "count": 24
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1954,
+                  "median": 1984,
+                  "mode": 1995
+                }
+              }
+            },
+            "Z1041-1107": {
+              "id": "Z1041-1107",
+              "subject": "Anonyms and pseudonyms",
+              "count": 241,
+              "children": {},
+              "subjects": {
+                "id": "Z1041-1107",
+                "subject": "Anonyms and pseudonyms",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Anonyms and pseudonyms",
+                    "count": 48
+                  },
+                  {
+                    "url": null,
+                    "subject": "Anonyms and pseudonyms, English",
+                    "count": 18
+                  },
+                  {
+                    "url": null,
+                    "subject": "Anonyms and pseudonyms, American",
+                    "count": 18
+                  },
+                  {
+                    "url": null,
+                    "subject": "Anonyms and pseudonyms, Chinese",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "Names, Personal",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1960,
+                  "median": 1975,
+                  "mode": 1977
+                }
+              }
+            },
+            "Z1003.8-Z1004": {
+              "id": "Z1003.8-Z1004",
+              "subject": "Biography of bibliographers",
+              "count": 146,
+              "children": {},
+              "subjects": {
+                "id": "Z1003.8-Z1004",
+                "subject": "Biography of bibliographers",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Bibliographer",
+                    "subject": "Bibliographers",
+                    "count": 83
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bibliography",
+                    "subject": "Bibliography",
+                    "count": 31
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Librarian",
+                    "subject": "Librarians",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Book collectors",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Book collecting",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1994,
+                  "mode": 1997
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "Z1001-1121",
+            "subject": "General bibliography",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Bibliography",
+                "subject": "Bibliography",
+                "count": 556
+              },
+              {
+                "url": "http://dbpedia.org/resource/Library_science",
+                "subject": "Library science",
+                "count": 386
+              },
+              {
+                "url": "http://dbpedia.org/resource/Information_science",
+                "subject": "Information science",
+                "count": 257
+              },
+              {
+                "url": "http://dbpedia.org/resource/Book",
+                "subject": "Books",
+                "count": 132
+              },
+              {
+                "url": "http://dbpedia.org/resource/Documentation",
+                "subject": "Documentation",
+                "count": 105
+              }
+            ],
+            "pubDates": {
+              "avg": 1957,
+              "median": 1968,
+              "mode": 1967
+            }
+          }
+        },
+        "Z4-115.5": {
+          "id": "Z4-115.5",
+          "subject": "Books (General).    Writing.    Paleography",
+          "count": 4,
+          "children": {
+            "Z40-104.5": {
+              "id": "Z40-104.5",
+              "subject": "Writing",
+              "count": 145,
+              "children": {
+                "Z53-102": {
+                  "id": "Z53-102",
+                  "subject": "Shorthand.    Stenography.    Phonography",
+                  "count": 900,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z53-102",
+                    "subject": "Shorthand.    Stenography.    Phonography",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Shorthand",
+                        "subject": "Shorthand",
+                        "count": 752
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Business_letter",
+                        "subject": "Commercial correspondence",
+                        "count": 22
+                      },
+                      {
+                        "url": null,
+                        "subject": "Shorthand reporting",
+                        "count": 21
+                      },
+                      {
+                        "url": null,
+                        "subject": "Shorthand, Spanish",
+                        "count": 18
+                      },
+                      {
+                        "url": null,
+                        "subject": "Shorthand, Chinese",
+                        "count": 12
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1929,
+                      "median": 1936,
+                      "mode": 1974
+                    }
+                  }
+                },
+                "Z49-51.5": {
+                  "id": "Z49-51.5",
+                  "subject": "Typewriters.    Typewriting.    Keyboards.    Keyboarding",
+                  "count": 635,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z49-51.5",
+                    "subject": "Typewriters.    Typewriting.    Keyboards.    Keyboarding",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Typing",
+                        "subject": "Typewriting",
+                        "count": 499
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Typing",
+                        "subject": "Keyboarding",
+                        "count": 78
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Typewriter",
+                        "subject": "Typewriters",
+                        "count": 64
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Word_processor",
+                        "subject": "Word processing",
+                        "count": 48
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Stenotype",
+                        "subject": "Stenotypy",
+                        "count": 33
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1968,
+                      "median": 1974,
+                      "mode": 1979
+                    }
+                  }
+                },
+                "Z43-45": {
+                  "id": "Z43-45",
+                  "subject": "Calligraphy.    Penmanship",
+                  "count": 645,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z43-45",
+                    "subject": "Calligraphy.    Penmanship",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Calligraphy",
+                        "subject": "Calligraphy",
+                        "count": 278
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Penmanship",
+                        "subject": "Penmanship",
+                        "count": 176
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Writing",
+                        "subject": "Writing",
+                        "count": 95
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Copybook",
+                        "subject": "Copybooks",
+                        "count": 77
+                      },
+                      {
+                        "url": null,
+                        "subject": "Writing, Italic",
+                        "count": 45
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1956,
+                      "median": 1980,
+                      "mode": 1981
+                    }
+                  }
+                },
+                "Z52-52.5": {
+                  "id": "Z52-52.5",
+                  "subject": "Word processing",
+                  "count": 2072,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z52-52.5",
+                    "subject": "Word processing",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Word_processor",
+                        "subject": "Word processing",
+                        "count": 2076
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Macintosh",
+                        "subject": "Macintosh (Computer)",
+                        "count": 77
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Desktop_publishing",
+                        "subject": "Desktop publishing",
+                        "count": 61
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/IBM_Personal_Computer",
+                        "subject": "IBM Personal Computer",
+                        "count": 55
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Microcomputer",
+                        "subject": "Microcomputers",
+                        "count": 25
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1993,
+                      "median": 1993,
+                      "mode": 1993
+                    }
+                  }
+                },
+                "Z102.5-104.5": {
+                  "id": "Z102.5-104.5",
+                  "subject": "Cryptography.    Ciphers.    Invisible writing",
+                  "count": 340,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z102.5-104.5",
+                    "subject": "Cryptography.    Ciphers.    Invisible writing",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Cryptography",
+                        "subject": "Cryptography",
+                        "count": 336
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cipher",
+                        "subject": "Ciphers",
+                        "count": 223
+                      },
+                      {
+                        "url": null,
+                        "subject": "Signs and symbols",
+                        "count": 35
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Cypher",
+                        "subject": "Cyphers",
+                        "count": 15
+                      },
+                      {
+                        "url": null,
+                        "subject": "Data encryption (Computer science)",
+                        "count": 10
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1918,
+                      "median": 1977,
+                      "mode": 2002
+                    }
+                  }
+                },
+                "Z41-42.5": {
+                  "id": "Z41-42.5",
+                  "subject": "Autographs.    Signatures",
+                  "count": 309,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z41-42.5",
+                    "subject": "Autographs.    Signatures",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Autograph",
+                        "subject": "Autographs",
+                        "count": 248
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Autograph_book",
+                        "subject": "Autograph albums",
+                        "count": 67
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Manuscript",
+                        "subject": "Manuscripts",
+                        "count": 31
+                      },
+                      {
+                        "url": null,
+                        "subject": "Signatures (Writing)",
+                        "count": 17
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Artist",
+                        "subject": "Artists",
+                        "count": 11
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1965,
+                      "median": 1981,
+                      "mode": 1990
+                    }
+                  }
+                },
+                "Z48": {
+                  "id": "Z48",
+                  "subject": "Duplicating processes.    Copying services",
+                  "count": 104,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z48",
+                    "subject": "Duplicating processes.    Copying services",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Copying processes",
+                        "count": 76
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Mimeograph",
+                        "subject": "Mimeograph",
+                        "count": 13
+                      },
+                      {
+                        "url": null,
+                        "subject": "Stencils and stencil cutting",
+                        "count": 6
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Multigraph",
+                        "subject": "Multigraph",
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "subject": "Dictionaries, Polyglot",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1966,
+                      "median": 1972,
+                      "mode": 1968
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "Z40-104.5",
+                "subject": "Writing",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Writing",
+                    "subject": "Writing",
+                    "count": 148
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Palaeography",
+                    "subject": "Paleography",
+                    "count": 15
+                  },
+                  {
+                    "url": null,
+                    "subject": "Transmission of texts",
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "subject": "Type and type-founding",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1981,
+                  "mode": 1977
+                }
+              }
+            },
+            "Z4-8": {
+              "id": "Z4-8",
+              "subject": "History of books and bookmaking",
+              "count": 994,
+              "children": {},
+              "subjects": {
+                "id": "Z4-8",
+                "subject": "History of books and bookmaking",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 1073
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing",
+                    "count": 337
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 130
+                  },
+                  {
+                    "url": null,
+                    "subject": "Book industries and trade",
+                    "count": 113
+                  },
+                  {
+                    "url": null,
+                    "subject": "Books and reading",
+                    "count": 88
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1990,
+                  "mode": 2000
+                }
+              }
+            },
+            "Z105-115.5": {
+              "id": "Z105-115.5",
+              "subject": "Manuscripts.    Paleography",
+              "count": 1426,
+              "children": {},
+              "subjects": {
+                "id": "Z105-115.5",
+                "subject": "Manuscripts.    Paleography",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Manuscript",
+                    "subject": "Manuscripts",
+                    "count": 309
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Palaeography",
+                    "subject": "Paleography",
+                    "count": 182
+                  },
+                  {
+                    "url": null,
+                    "subject": "Manuscripts, Medieval",
+                    "count": 175
+                  },
+                  {
+                    "url": null,
+                    "subject": "Paleography, Latin",
+                    "count": 138
+                  },
+                  {
+                    "url": null,
+                    "subject": "Manuscripts, Latin (Medieval and modern)",
+                    "count": 102
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1969,
+                  "median": 1986,
+                  "mode": 2008
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "Z4-115.5",
+            "subject": "Books (General).    Writing.    Paleography",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1932,
+              "median": 1940,
+              "mode": 1909
+            }
+          }
+        },
+        "Z1201-4980": {
+          "id": "Z1201-4980",
+          "subject": "National bibliography",
+          "count": 30,
+          "children": {
+            "Z1201-1946": {
+              "id": "Z1201-1946",
+              "subject": "America",
+              "count": 8717,
+              "children": {},
+              "subjects": {
+                "id": "Z1201-1946",
+                "subject": "America",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Government publications",
+                    "count": 484
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/American_literature",
+                    "subject": "American literature",
+                    "count": 271
+                  },
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 215
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 207
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 108
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1958,
+                  "median": 1966,
+                  "mode": 1970
+                }
+              }
+            },
+            "Z3501-3975": {
+              "id": "Z3501-3975",
+              "subject": "Africa",
+              "count": 1672,
+              "children": {},
+              "subjects": {
+                "id": "Z3501-3975",
+                "subject": "Africa",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Government publications",
+                    "count": 40
+                  },
+                  {
+                    "url": null,
+                    "subject": "Dissertations, Academic",
+                    "count": 16
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_literature",
+                    "subject": "African literature",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Bibliography, National",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Arabic_literature",
+                    "subject": "Arabic literature",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1969,
+                  "mode": 1970
+                }
+              }
+            },
+            "Z2000-2959": {
+              "id": "Z2000-2959",
+              "subject": "Europe",
+              "count": 11035,
+              "children": {},
+              "subjects": {
+                "id": "Z2000-2959",
+                "subject": "Europe",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 341
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/English_literature",
+                    "subject": "English literature",
+                    "count": 309
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bibliography",
+                    "subject": "Bibliography",
+                    "count": 253
+                  },
+                  {
+                    "url": null,
+                    "subject": "Publishers' catalogs",
+                    "count": 234
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/German_literature",
+                    "subject": "German literature",
+                    "count": 208
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1958,
+                  "median": 1969,
+                  "mode": 1968
+                }
+              }
+            },
+            "Z4001-4980": {
+              "id": "Z4001-4980",
+              "subject": "Australia.    Oceania",
+              "count": 514,
+              "children": {},
+              "subjects": {
+                "id": "Z4001-4980",
+                "subject": "Australia.    Oceania",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Government publications",
+                    "count": 28
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Australian_literature",
+                    "subject": "Australian literature",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "Bibliography, National",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "State government publications",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1964,
+                  "median": 1969,
+                  "mode": 1970
+                }
+              }
+            },
+            "Z3001-3496": {
+              "id": "Z3001-3496",
+              "subject": "Asia",
+              "count": 6250,
+              "children": {},
+              "subjects": {
+                "id": "Z3001-3496",
+                "subject": "Asia",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Bibliography",
+                    "subject": "Bibliography",
+                    "count": 170
+                  },
+                  {
+                    "url": null,
+                    "subject": "Government publications",
+                    "count": 100
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Chinese_literature",
+                    "subject": "Chinese literature",
+                    "count": 91
+                  },
+                  {
+                    "url": null,
+                    "subject": "Chinese imprints",
+                    "count": 90
+                  },
+                  {
+                    "url": null,
+                    "subject": "Publishers' catalogs",
+                    "count": 85
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1982,
+                  "mode": 1981
+                }
+              }
+            },
+            "Z1975": {
+              "id": "Z1975",
+              "subject": "Eastern Hemisphere",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "Z1975",
+                "subject": "Eastern Hemisphere",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1984,
+                  "mode": 1984
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "Z1201-4980",
+            "subject": "National bibliography",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1986,
+              "median": 1987,
+              "mode": 2002
+            }
+          }
+        },
+        "Z116-659": {
+          "id": "Z116-659",
+          "subject": "Book industries and trade",
+          "count": 1086,
+          "children": {
+            "Z242.9-264.5": {
+              "id": "Z242.9-264.5",
+              "subject": "Practical printing",
+              "count": 4234,
+              "children": {},
+              "subjects": {
+                "id": "Z242.9-264.5",
+                "subject": "Practical printing",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing",
+                    "count": 1087
+                  },
+                  {
+                    "url": null,
+                    "subject": "Type and type-founding",
+                    "count": 1061
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing industry",
+                    "count": 623
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Desktop_publishing",
+                    "subject": "Desktop publishing",
+                    "count": 534
+                  },
+                  {
+                    "url": null,
+                    "subject": "Graphic design (Typography)",
+                    "count": 433
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1981,
+                  "mode": 1993
+                }
+              }
+            },
+            "Z124-228": {
+              "id": "Z124-228",
+              "subject": "History",
+              "count": 2369,
+              "children": {},
+              "subjects": {
+                "id": "Z124-228",
+                "subject": "History",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing",
+                    "count": 2426
+                  },
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 572
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 249
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Incunable",
+                    "subject": "Incunabula",
+                    "count": 245
+                  },
+                  {
+                    "url": null,
+                    "subject": "Book industries and trade",
+                    "count": 240
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1959,
+                  "median": 1975,
+                  "mode": 1983
+                }
+              }
+            },
+            "Z278-549": {
+              "id": "Z278-549",
+              "subject": "Bookselling and publishing",
+              "count": 9586,
+              "children": {},
+              "subjects": {
+                "id": "Z278-549",
+                "subject": "Bookselling and publishing",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Publishers and publishing",
+                    "count": 5281
+                  },
+                  {
+                    "url": null,
+                    "subject": "Book industries and trade",
+                    "count": 2534
+                  },
+                  {
+                    "url": null,
+                    "subject": "Booksellers and bookselling",
+                    "count": 1307
+                  },
+                  {
+                    "url": null,
+                    "subject": "Books and reading",
+                    "count": 447
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 401
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1991,
+                  "mode": 1991
+                }
+              }
+            },
+            "Z657-659": {
+              "id": "Z657-659",
+              "subject": "Freedom of the press.    Censorship",
+              "count": 763,
+              "children": {},
+              "subjects": {
+                "id": "Z657-659",
+                "subject": "Freedom of the press.    Censorship",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Censorship",
+                    "subject": "Censorship",
+                    "count": 681
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Freedom_of_the_press",
+                    "subject": "Freedom of the press",
+                    "count": 250
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_books_banned_by_governments",
+                    "subject": "Prohibited books",
+                    "count": 102
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Freedom_of_speech",
+                    "subject": "Freedom of speech",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 35
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1994,
+                  "mode": 1995
+                }
+              }
+            },
+            "Z266-276": {
+              "id": "Z266-276",
+              "subject": "Bookbinding.    Book decoration",
+              "count": 1162,
+              "children": {},
+              "subjects": {
+                "id": "Z266-276",
+                "subject": "Bookbinding.    Book decoration",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Bookbinding",
+                    "subject": "Bookbinding",
+                    "count": 1084
+                  },
+                  {
+                    "url": null,
+                    "subject": "Fine bindings",
+                    "count": 107
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bookbinding",
+                    "subject": "Bookbinders",
+                    "count": 71
+                  },
+                  {
+                    "url": null,
+                    "subject": "Book ornamentation",
+                    "count": 60
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 60
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1980,
+                  "mode": 1990
+                }
+              }
+            },
+            "Z237": {
+              "id": "Z237",
+              "subject": "Paper.    Watermarks, etc.",
+              "count": 71,
+              "children": {},
+              "subjects": {
+                "id": "Z237",
+                "subject": "Paper.    Watermarks, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Watermark",
+                    "subject": "Watermarks",
+                    "count": 68
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Paper",
+                    "subject": "Paper",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Papermaking",
+                    "subject": "Papermaking",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1969,
+                  "median": 1979,
+                  "mode": 1961
+                }
+              }
+            },
+            "Z231-234": {
+              "id": "Z231-234",
+              "subject": "Printers and printing establishments",
+              "count": 2007,
+              "children": {
+                "Z234": {
+                  "id": "Z234",
+                  "subject": "Medallic history of printing.    Tokens",
+                  "count": 5,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z234",
+                    "subject": "Medallic history of printing.    Tokens",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1942,
+                      "median": 1938,
+                      "mode": 1869
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "Z231-234",
+                "subject": "Printers and printing establishments",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing",
+                    "count": 1012
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Printer",
+                    "subject": "Printers",
+                    "count": 432
+                  },
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 407
+                  },
+                  {
+                    "url": null,
+                    "subject": "Publishers and publishing",
+                    "count": 146
+                  },
+                  {
+                    "url": null,
+                    "subject": "Type and type-founding",
+                    "count": 143
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1963,
+                  "median": 1974,
+                  "mode": 1976
+                }
+              }
+            },
+            "Z116": {
+              "id": "Z116",
+              "subject": "Printing",
+              "count": 453,
+              "children": {},
+              "subjects": {
+                "id": "Z116",
+                "subject": "Printing",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Book_design",
+                    "subject": "Book design",
+                    "count": 217
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing",
+                    "count": 195
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 144
+                  },
+                  {
+                    "url": null,
+                    "subject": "Book industries and trade",
+                    "count": 73
+                  },
+                  {
+                    "url": null,
+                    "subject": "Publishers and publishing",
+                    "count": 25
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1971,
+                  "median": 1978,
+                  "mode": 1993
+                }
+              }
+            },
+            "Z551-656": {
+              "id": "Z551-656",
+              "subject": "Copyright",
+              "count": 311,
+              "children": {},
+              "subjects": {
+                "id": "Z551-656",
+                "subject": "Copyright",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Copyright",
+                    "subject": "Copyright",
+                    "count": 277
+                  },
+                  {
+                    "url": null,
+                    "subject": "Copyright, International",
+                    "count": 42
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Photocopier",
+                    "subject": "Photocopying",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Intellectual_property",
+                    "subject": "Intellectual property",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "Publishers and publishing",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1940,
+                  "median": 1943,
+                  "mode": 1995
+                }
+              }
+            },
+            "Z240-241.5": {
+              "id": "Z240-241.5",
+              "subject": "Incunabula.    Block books",
+              "count": 736,
+              "children": {},
+              "subjects": {
+                "id": "Z240-241.5",
+                "subject": "Incunabula.    Block books",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Incunable",
+                    "subject": "Incunabula",
+                    "count": 643
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing",
+                    "count": 130
+                  },
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 58
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Union_catalog",
+                    "subject": "Union catalogs",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Block_book",
+                    "subject": "Block books",
+                    "count": 31
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1957,
+                  "median": 1970,
+                  "mode": 1970
+                }
+              }
+            },
+            "Z235-236": {
+              "id": "Z235-236",
+              "subject": "Printer's marks, mottoes, etc.",
+              "count": 79,
+              "children": {},
+              "subjects": {
+                "id": "Z235-236",
+                "subject": "Printer's marks, mottoes, etc.",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Printer's_mark",
+                    "subject": "Printers' marks",
+                    "count": 70
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Printing",
+                    "subject": "Printing",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Printer",
+                    "subject": "Printers",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Publishers and publishing",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "Printers' marks, French",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1949,
+                  "median": 1958,
+                  "mode": 1926
+                }
+              }
+            },
+            "Z265-265.5": {
+              "id": "Z265-265.5",
+              "subject": "Representation or reproduction of books, documents,",
+              "count": 120,
+              "children": {},
+              "subjects": {
+                "id": "Z265-265.5",
+                "subject": "Representation or reproduction of books, documents,",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Microform",
+                    "subject": "Microforms",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Microphotograph",
+                    "subject": "Microphotography",
+                    "count": 26
+                  },
+                  {
+                    "url": null,
+                    "subject": "Microfiches",
+                    "count": 16
+                  },
+                  {
+                    "url": null,
+                    "subject": "Microfilm services",
+                    "count": 15
+                  },
+                  {
+                    "url": null,
+                    "subject": "Micrographics",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1974,
+                  "mode": 1975
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "Z116-659",
+            "subject": "Book industries and trade",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Printing",
+                "subject": "Printing",
+                "count": 800
+              },
+              {
+                "url": "http://dbpedia.org/resource/Book",
+                "subject": "Books",
+                "count": 145
+              },
+              {
+                "url": null,
+                "subject": "Book industries and trade",
+                "count": 138
+              },
+              {
+                "url": "http://dbpedia.org/resource/Graphic_arts",
+                "subject": "Graphic arts",
+                "count": 89
+              },
+              {
+                "url": "http://dbpedia.org/resource/Printing",
+                "subject": "Printing industry",
+                "count": 58
+              }
+            ],
+            "pubDates": {
+              "avg": 1964,
+              "median": 1972,
+              "mode": 1976
+            }
+          }
+        },
+        "Z662-1000.5": {
+          "id": "Z662-1000.5",
+          "subject": "Libraries",
+          "count": 138,
+          "children": {
+            "Z729-875": {
+              "id": "Z729-875",
+              "subject": "Library reports.    History.    Statistics",
+              "count": 11480,
+              "children": {},
+              "subjects": {
+                "id": "Z729-875",
+                "subject": "Library reports.    History.    Statistics",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 4355
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Public_library",
+                    "subject": "Public libraries",
+                    "count": 1722
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library_science",
+                    "subject": "Library science",
+                    "count": 739
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Academic_library",
+                    "subject": "Academic libraries",
+                    "count": 675
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/National_library",
+                    "subject": "National libraries",
+                    "count": 366
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1981,
+                  "mode": 1996
+                }
+              }
+            },
+            "Z987-996.3": {
+              "id": "Z987-996.3",
+              "subject": "Book collecting",
+              "count": 1761,
+              "children": {},
+              "subjects": {
+                "id": "Z987-996.3",
+                "subject": "Book collecting",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Book collecting",
+                    "count": 632
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Book collectors",
+                    "count": 318
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bookplate",
+                    "subject": "Bookplates",
+                    "count": 294
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Private_library",
+                    "subject": "Private libraries",
+                    "count": 160
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 140
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1966,
+                  "median": 1977,
+                  "mode": 1989
+                }
+              }
+            },
+            "Z719-723": {
+              "id": "Z719-723",
+              "subject": "Libraries (General)",
+              "count": 1209,
+              "children": {},
+              "subjects": {
+                "id": "Z719-723",
+                "subject": "Libraries (General)",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Librarian",
+                    "subject": "Librarians",
+                    "count": 490
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 481
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library_science",
+                    "subject": "Library science",
+                    "count": 142
+                  },
+                  {
+                    "url": null,
+                    "subject": "Government publications",
+                    "count": 87
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Public_library",
+                    "subject": "Public libraries",
+                    "count": 44
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1988,
+                  "mode": 1994
+                }
+              }
+            },
+            "Z665-718.8": {
+              "id": "Z665-718.8",
+              "subject": "Library science.    Information science",
+              "count": 5743,
+              "children": {
+                "Z682-682.4": {
+                  "id": "Z682-682.4",
+                  "subject": "Personnel",
+                  "count": 825,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z682-682.4",
+                    "subject": "Personnel",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Librarian",
+                        "subject": "Librarians",
+                        "count": 370
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library_science",
+                        "subject": "Library science",
+                        "count": 206
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library personnel management",
+                        "count": 129
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Librarian",
+                        "subject": "Academic librarians",
+                        "count": 104
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 92
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1989,
+                      "mode": 1985
+                    }
+                  }
+                },
+                "Z679-680": {
+                  "id": "Z679-680",
+                  "subject": "Library buildings.    Library architecture",
+                  "count": 544,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z679-680",
+                    "subject": "Library buildings.    Library architecture",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library architecture",
+                        "count": 343
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Library buildings",
+                        "count": 229
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 165
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Public_library",
+                        "subject": "Public libraries",
+                        "count": 78
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Academic_library",
+                        "subject": "Academic libraries",
+                        "count": 63
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1984,
+                      "median": 1989,
+                      "mode": 1980
+                    }
+                  }
+                },
+                "Z687-718.85": {
+                  "id": "Z687-718.85",
+                  "subject": "The collections.    The books",
+                  "count": 0,
+                  "children": {
+                    "Z695.9-695.94": {
+                      "id": "Z695.9-695.94",
+                      "subject": "Indexing.    Abstracting",
+                      "count": 342,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z695.9-695.94",
+                        "subject": "Indexing.    Abstracting",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Index",
+                            "subject": "Indexing",
+                            "count": 190
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Automatic_indexing",
+                            "subject": "Automatic indexing",
+                            "count": 42
+                          },
+                          {
+                            "url": null,
+                            "subject": "Abstracting",
+                            "count": 42
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Indexing_and_abstracting_service",
+                            "subject": "Abstracting and indexing services",
+                            "count": 38
+                          },
+                          {
+                            "url": null,
+                            "subject": "Information storage and retrieval systems",
+                            "count": 27
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1979,
+                          "median": 1979,
+                          "mode": 1974
+                        }
+                      }
+                    },
+                    "Z693-695.83": {
+                      "id": "Z693-695.83",
+                      "subject": "Cataloging",
+                      "count": 2868,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z693-695.83",
+                        "subject": "Cataloging",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Index_term",
+                            "subject": "Subject headings",
+                            "count": 1252
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Cataloging",
+                            "subject": "Cataloging",
+                            "count": 538
+                          },
+                          {
+                            "url": null,
+                            "subject": "Descriptive cataloging",
+                            "count": 495
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Classification",
+                            "subject": "Classification",
+                            "count": 148
+                          },
+                          {
+                            "url": null,
+                            "subject": "Subject cataloging",
+                            "count": 136
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1980,
+                          "median": 1981,
+                          "mode": 1976
+                        }
+                      }
+                    },
+                    "Z696-697": {
+                      "id": "Z696-697",
+                      "subject": "Classification and notation",
+                      "count": 1651,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z696-697",
+                        "subject": "Classification and notation",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Classification",
+                            "subject": "Classification",
+                            "count": 1765
+                          },
+                          {
+                            "url": null,
+                            "subject": "Classification, Library of Congress",
+                            "count": 415
+                          },
+                          {
+                            "url": null,
+                            "subject": "Classification, Universal decimal",
+                            "count": 195
+                          },
+                          {
+                            "url": null,
+                            "subject": "Classification, Dewey decimal",
+                            "count": 154
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Law",
+                            "subject": "Law",
+                            "count": 135
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1973,
+                          "median": 1977,
+                          "mode": 1976
+                        }
+                      }
+                    },
+                    "Z711-711.95": {
+                      "id": "Z711-711.95",
+                      "subject": "Public services.    Reference services",
+                      "count": 1475,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z711-711.95",
+                        "subject": "Public services.    Reference services",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Reference services (Libraries)",
+                            "count": 359
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 198
+                          },
+                          {
+                            "url": null,
+                            "subject": "Public services (Libraries)",
+                            "count": 176
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Public_library",
+                            "subject": "Public libraries",
+                            "count": 137
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Reference_work",
+                            "subject": "Reference books",
+                            "count": 126
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1984,
+                          "median": 1987,
+                          "mode": 1981
+                        }
+                      }
+                    },
+                    "Z691-692": {
+                      "id": "Z691-692",
+                      "subject": "Special classes of materials",
+                      "count": 525,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z691-692",
+                        "subject": "Special classes of materials",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 315
+                          },
+                          {
+                            "url": null,
+                            "subject": "Serials librarianship",
+                            "count": 80
+                          },
+                          {
+                            "url": null,
+                            "subject": "Serials control systems",
+                            "count": 80
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Academic_library",
+                            "subject": "Academic libraries",
+                            "count": 48
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Serial_publication",
+                            "subject": "Serial publications",
+                            "count": 36
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1987,
+                          "median": 1989,
+                          "mode": 1988
+                        }
+                      }
+                    },
+                    "Z702": {
+                      "id": "Z702",
+                      "subject": "Thefts and losses of books and other library materials",
+                      "count": 29,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z702",
+                        "subject": "Thefts and losses of books and other library materials",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Book thefts",
+                            "count": 19
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 11
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 2052,
+                          "median": 1950,
+                          "mode": 1849
+                        }
+                      }
+                    },
+                    "Z700.9-701.5": {
+                      "id": "Z700.9-701.5",
+                      "subject": "Physical parameters, preservation, conservation and",
+                      "count": 723,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z700.9-701.5",
+                        "subject": "Physical parameters, preservation, conservation and",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Library materials",
+                            "count": 422
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Book",
+                            "subject": "Books",
+                            "count": 350
+                          },
+                          {
+                            "url": null,
+                            "subject": "Archival materials",
+                            "count": 183
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Paper",
+                            "subject": "Paper",
+                            "count": 170
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Digital_preservation",
+                            "subject": "Digital preservation",
+                            "count": 67
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1989,
+                          "median": 1992,
+                          "mode": 1993
+                        }
+                      }
+                    },
+                    "Z689-689.8": {
+                      "id": "Z689-689.8",
+                      "subject": "Acquisition (selection, purchase, gifts, duplicates)",
+                      "count": 361,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z689-689.8",
+                        "subject": "Acquisition (selection, purchase, gifts, duplicates)",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Acquisitions (Libraries)",
+                            "count": 173
+                          },
+                          {
+                            "url": null,
+                            "subject": "Book selection",
+                            "count": 62
+                          },
+                          {
+                            "url": null,
+                            "subject": "Collection development (Libraries)",
+                            "count": 41
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 29
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Public_library",
+                            "subject": "Public libraries",
+                            "count": 28
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1977,
+                          "median": 1978,
+                          "mode": 1972
+                        }
+                      }
+                    },
+                    "Z699-699.5": {
+                      "id": "Z699-699.5",
+                      "subject": "Machine methods of information and retrieval.",
+                      "count": 2273,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z699-699.5",
+                        "subject": "Machine methods of information and retrieval.",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Information storage and retrieval systems",
+                            "count": 1166
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/MARC_standards",
+                            "subject": "MARC formats",
+                            "count": 239
+                          },
+                          {
+                            "url": null,
+                            "subject": "Online bibliographic searching",
+                            "count": 188
+                          },
+                          {
+                            "url": null,
+                            "subject": "Machine-readable bibliographic data",
+                            "count": 184
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 142
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1982,
+                          "median": 1981,
+                          "mode": 1977
+                        }
+                      }
+                    },
+                    "Z688": {
+                      "id": "Z688",
+                      "subject": "Special collections",
+                      "count": 507,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z688",
+                        "subject": "Special collections",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 454
+                          },
+                          {
+                            "url": null,
+                            "subject": "Government publications",
+                            "count": 64
+                          },
+                          {
+                            "url": null,
+                            "subject": "Acquisition of Latin American publications",
+                            "count": 39
+                          },
+                          {
+                            "url": null,
+                            "subject": "Audio-visual library service",
+                            "count": 31
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Book_collecting",
+                            "subject": "Rare books",
+                            "count": 30
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1986,
+                          "median": 1987,
+                          "mode": 1981
+                        }
+                      }
+                    },
+                    "Z716-716.15": {
+                      "id": "Z716-716.15",
+                      "subject": "Library extension.    Library commissions.    Traveling",
+                      "count": 56,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z716-716.15",
+                        "subject": "Library extension.    Library commissions.    Traveling",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Library extension",
+                            "count": 27
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 15
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Traveling_library",
+                            "subject": "Traveling libraries",
+                            "count": 11
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Public_library",
+                            "subject": "Public libraries",
+                            "count": 7
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Bookmobile",
+                            "subject": "Bookmobiles",
+                            "count": 5
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1954,
+                          "median": 1960,
+                          "mode": 1913
+                        }
+                      }
+                    },
+                    "Z688.5-Z688.6": {
+                      "id": "Z688.5-Z688.6",
+                      "subject": "Processing",
+                      "count": 62,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z688.5-Z688.6",
+                        "subject": "Processing",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Technical services (Libraries)",
+                            "count": 77
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Academic_library",
+                            "subject": "Academic libraries",
+                            "count": 9
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library_science",
+                            "subject": "Library science",
+                            "count": 8
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1986,
+                          "median": 1988,
+                          "mode": 1991
+                        }
+                      }
+                    },
+                    "Z712-714": {
+                      "id": "Z712-714",
+                      "subject": "Circulation.    Loans.    Charging systems",
+                      "count": 290,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z712-714",
+                        "subject": "Circulation.    Loans.    Charging systems",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Interlibrary_loan",
+                            "subject": "Interlibrary loans",
+                            "count": 206
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Academic_library",
+                            "subject": "Academic libraries",
+                            "count": 44
+                          },
+                          {
+                            "url": null,
+                            "subject": "Charging systems (Libraries)",
+                            "count": 41
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 36
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Interlibrary_loan",
+                            "subject": "Document delivery",
+                            "count": 35
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1980,
+                          "median": 1980,
+                          "mode": 1980
+                        }
+                      }
+                    },
+                    "Z700": {
+                      "id": "Z700",
+                      "subject": "Bookbinding",
+                      "count": 46,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z700",
+                        "subject": "Bookbinding",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Bookbinding",
+                            "subject": "Bookbinding",
+                            "count": 28
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Book",
+                            "subject": "Books",
+                            "count": 25
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library_binding",
+                            "subject": "Library bindings",
+                            "count": 10
+                          },
+                          {
+                            "url": null,
+                            "subject": "Library materials",
+                            "count": 7
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1974,
+                          "median": 1978,
+                          "mode": 1961
+                        }
+                      }
+                    },
+                    "Z695.98": {
+                      "id": "Z695.98",
+                      "subject": "Recataloging.    Reclassification",
+                      "count": 11,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z695.98",
+                        "subject": "Recataloging.    Reclassification",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Reclassification (Libraries)",
+                            "count": 9
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1976,
+                          "median": 1973,
+                          "mode": 1968
+                        }
+                      }
+                    },
+                    "Z690": {
+                      "id": "Z690",
+                      "subject": "Exchanges",
+                      "count": 67,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z690",
+                        "subject": "Exchanges",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Exchange of publications",
+                            "count": 67
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library",
+                            "subject": "Libraries",
+                            "count": 6
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1956,
+                          "median": 1967,
+                          "mode": 1978
+                        }
+                      }
+                    },
+                    "Z695.87": {
+                      "id": "Z695.87",
+                      "subject": "Printing of catalogs",
+                      "count": 12,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z695.87",
+                        "subject": "Printing of catalogs",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Book catalogs",
+                            "count": 9
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1964,
+                          "median": 1968,
+                          "mode": 1964
+                        }
+                      }
+                    },
+                    "Z698": {
+                      "id": "Z698",
+                      "subject": "Shelflisting.    Author notation",
+                      "count": 26,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z698",
+                        "subject": "Shelflisting.    Author notation",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Shelflisting",
+                            "count": 28
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1970,
+                          "median": 1971,
+                          "mode": 1969
+                        }
+                      }
+                    },
+                    "Z695.95": {
+                      "id": "Z695.95",
+                      "subject": "Alphabetizing.    Filing",
+                      "count": 54,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z695.95",
+                        "subject": "Alphabetizing.    Filing",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Library filing rules",
+                            "count": 30
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Alphabetical_order",
+                            "subject": "Alphabetizing",
+                            "count": 13
+                          },
+                          {
+                            "url": null,
+                            "subject": "Shelflisting",
+                            "count": 7
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Library_catalog",
+                            "subject": "Library catalogs",
+                            "count": 5
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1969,
+                          "median": 1971,
+                          "mode": 1975
+                        }
+                      }
+                    },
+                    "Z703.5": {
+                      "id": "Z703.5",
+                      "subject": "Stack management. Disposition of books on shelves,",
+                      "count": 17,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z703.5",
+                        "subject": "Stack management. Disposition of books on shelves,",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Library moving",
+                            "count": 10
+                          },
+                          {
+                            "url": null,
+                            "subject": "Library storage centers",
+                            "count": 6
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1981,
+                          "median": 1982,
+                          "mode": 1987
+                        }
+                      }
+                    },
+                    "Z695.85": {
+                      "id": "Z695.85",
+                      "subject": "Library handwriting",
+                      "count": 1,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z695.85",
+                        "subject": "Library handwriting",
+                        "topSubjects": [],
+                        "pubDates": {
+                          "avg": 1956,
+                          "median": 1956,
+                          "mode": 1956
+                        }
+                      }
+                    },
+                    "Z703.6": {
+                      "id": "Z703.6",
+                      "subject": "Discarding.    Weeding",
+                      "count": 9,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z703.6",
+                        "subject": "Discarding.    Weeding",
+                        "topSubjects": [
+                          {
+                            "url": null,
+                            "subject": "Discarding of books, periodicals, etc",
+                            "count": 8
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1986,
+                          "median": 1982,
+                          "mode": 1975
+                        }
+                      }
+                    },
+                    "Z699.7": {
+                      "id": "Z699.7",
+                      "subject": "Physical processing.    Shelf preparation",
+                      "count": 1,
+                      "children": {},
+                      "subjects": {
+                        "id": "Z699.7",
+                        "subject": "Physical processing.    Shelf preparation",
+                        "topSubjects": [],
+                        "pubDates": {
+                          "avg": 1974,
+                          "median": 1974,
+                          "mode": 1974
+                        }
+                      }
+                    }
+                  },
+                  "subjects": null
+                },
+                "Z675": {
+                  "id": "Z675",
+                  "subject": "Classes of libraries",
+                  "count": 4967,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z675",
+                    "subject": "Classes of libraries",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Academic_library",
+                        "subject": "Academic libraries",
+                        "count": 1303
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/School_library",
+                        "subject": "School libraries",
+                        "count": 1038
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Research libraries",
+                        "count": 385
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 301
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Special_library",
+                        "subject": "Special libraries",
+                        "count": 289
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1986,
+                      "mode": 1991
+                    }
+                  }
+                },
+                "Z678-678.88": {
+                  "id": "Z678-678.88",
+                  "subject": "Library administration and organization.    Constitution",
+                  "count": 1165,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z678-678.88",
+                    "subject": "Library administration and organization.    Constitution",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library administration",
+                        "count": 577
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Public_library",
+                        "subject": "Public libraries",
+                        "count": 365
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 299
+                      },
+                      {
+                        "url": null,
+                        "subject": "Libraries and state",
+                        "count": 186
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library planning",
+                        "count": 100
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1987,
+                      "median": 1987,
+                      "mode": 1990
+                    }
+                  }
+                },
+                "Z683-683.5": {
+                  "id": "Z683-683.5",
+                  "subject": "Finance.    Insurance",
+                  "count": 250,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z683-683.5",
+                    "subject": "Finance.    Insurance",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library finance",
+                        "count": 114
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library fund raising",
+                        "count": 61
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 59
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Public_library",
+                        "subject": "Public libraries",
+                        "count": 49
+                      },
+                      {
+                        "url": null,
+                        "subject": "Federal aid to libraries",
+                        "count": 38
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1987,
+                      "median": 1991,
+                      "mode": 2002
+                    }
+                  }
+                },
+                "Z678.9-Z678.93": {
+                  "id": "Z678.9-Z678.93",
+                  "subject": "Automation",
+                  "count": 900,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z678.9-Z678.93",
+                    "subject": "Automation",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 818
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library_science",
+                        "subject": "Library science",
+                        "count": 294
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Information_technology",
+                        "subject": "Information technology",
+                        "count": 121
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Microcomputer",
+                        "subject": "Microcomputers",
+                        "count": 121
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library information networks",
+                        "count": 63
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1987,
+                      "median": 1988,
+                      "mode": 1984
+                    }
+                  }
+                },
+                "Z674.7-674.83": {
+                  "id": "Z674.7-674.83",
+                  "subject": "Library information networks",
+                  "count": 562,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z674.7-674.83",
+                    "subject": "Library information networks",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library information networks",
+                        "count": 397
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 129
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Internet",
+                        "subject": "Internet",
+                        "count": 73
+                      },
+                      {
+                        "url": null,
+                        "subject": "Libraries and the Internet",
+                        "count": 69
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library Web sites",
+                        "count": 51
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1993,
+                      "median": 1995,
+                      "mode": 1996
+                    }
+                  }
+                },
+                "Z668-669.7": {
+                  "id": "Z668-669.7",
+                  "subject": "Library education.    Research",
+                  "count": 928,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z668-669.7",
+                    "subject": "Library education.    Research",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library education",
+                        "count": 498
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Information_science",
+                        "subject": "Information science",
+                        "count": 275
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library_science",
+                        "subject": "Library science",
+                        "count": 234
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Education_for_librarianship",
+                        "subject": "Library schools",
+                        "count": 158
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library education (Continuing education)",
+                        "count": 89
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1982,
+                      "mode": 1981
+                    }
+                  }
+                },
+                "Z681-681.3": {
+                  "id": "Z681-681.3",
+                  "subject": "Reproduction of library materials.    Storage media of",
+                  "count": 153,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z681-681.3",
+                    "subject": "Reproduction of library materials.    Storage media of",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library materials",
+                        "count": 76
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Digital_preservation",
+                        "subject": "Digital preservation",
+                        "count": 57
+                      },
+                      {
+                        "url": null,
+                        "subject": "Archival materials",
+                        "count": 36
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 27
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Optical_disc",
+                        "subject": "Optical disks",
+                        "count": 26
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1991,
+                      "median": 1992,
+                      "mode": 1991
+                    }
+                  }
+                },
+                "Z681.5-681.7": {
+                  "id": "Z681.5-681.7",
+                  "subject": "Trustees.    Library boards, committees, etc.",
+                  "count": 86,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z681.5-681.7",
+                    "subject": "Trustees.    Library boards, committees, etc.",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Friends of the library",
+                        "count": 28
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Public_library",
+                        "subject": "Public libraries",
+                        "count": 28
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library trustees",
+                        "count": 26
+                      },
+                      {
+                        "url": null,
+                        "subject": "Public library trustees",
+                        "count": 23
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Librarian",
+                        "subject": "Librarians",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1986,
+                      "median": 1987,
+                      "mode": 1987
+                    }
+                  }
+                },
+                "Z680.3-680.6": {
+                  "id": "Z680.3-680.6",
+                  "subject": "Library communication systems",
+                  "count": 66,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z680.3-680.6",
+                    "subject": "Library communication systems",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library information networks",
+                        "count": 36
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 29
+                      },
+                      {
+                        "url": null,
+                        "subject": "Telecommunication in libraries",
+                        "count": 22
+                      },
+                      {
+                        "url": null,
+                        "subject": "Mobile communication systems",
+                        "count": 8
+                      },
+                      {
+                        "url": null,
+                        "subject": "Communication in library science",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1985,
+                      "mode": 1971
+                    }
+                  }
+                },
+                "Z684-685": {
+                  "id": "Z684-685",
+                  "subject": "Supplies.    Shelving.    Bookstacks",
+                  "count": 84,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z684-685",
+                    "subject": "Supplies.    Shelving.    Bookstacks",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library fittings and supplies",
+                        "count": 50
+                      },
+                      {
+                        "url": null,
+                        "subject": "Shelving for books",
+                        "count": 22
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 17
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Advertising",
+                        "subject": "Advertising",
+                        "count": 11
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library architecture",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1961,
+                      "median": 1975,
+                      "mode": 1976
+                    }
+                  }
+                },
+                "Z686": {
+                  "id": "Z686",
+                  "subject": "Branches.    Delivery stations.    Bookmobiles",
+                  "count": 55,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z686",
+                    "subject": "Branches.    Delivery stations.    Bookmobiles",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Bookmobile",
+                        "subject": "Bookmobiles",
+                        "count": 44
+                      },
+                      {
+                        "url": null,
+                        "subject": "Branch libraries",
+                        "count": 15
+                      },
+                      {
+                        "url": null,
+                        "subject": "Library extension",
+                        "count": 6
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Public_library",
+                        "subject": "Public libraries",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1977,
+                      "mode": 1967
+                    }
+                  }
+                },
+                "Z678.89-678.892": {
+                  "id": "Z678.89-678.892",
+                  "subject": "Library service agencies",
+                  "count": 15,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z678.89-678.892",
+                    "subject": "Library service agencies",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Library service agencies",
+                        "count": 12
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1988,
+                      "median": 1986,
+                      "mode": 1974
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "Z665-718.8",
+                "subject": "Library science.    Information science",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Library_science",
+                    "subject": "Library science",
+                    "count": 2872
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 1584
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_science",
+                    "subject": "Information science",
+                    "count": 1001
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_broker",
+                    "subject": "Information services",
+                    "count": 489
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Public_library",
+                    "subject": "Public libraries",
+                    "count": 194
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1983,
+                  "mode": 1980
+                }
+              }
+            },
+            "Z687-718.85": {
+              "id": "Z687-718.85",
+              "subject": "The collections.    The books",
+              "count": 0,
+              "children": {
+                "Z716.2-718.85": {
+                  "id": "Z716.2-718.85",
+                  "subject": "Libraries in relation to special topics",
+                  "count": 1465,
+                  "children": {},
+                  "subjects": {
+                    "id": "Z716.2-718.85",
+                    "subject": "Libraries in relation to special topics",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Children's_library",
+                        "subject": "Children's libraries",
+                        "count": 456
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 384
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Public_library",
+                        "subject": "Public libraries",
+                        "count": 213
+                      },
+                      {
+                        "url": null,
+                        "subject": "Young adults' libraries",
+                        "count": 201
+                      },
+                      {
+                        "url": null,
+                        "subject": "Libraries and community",
+                        "count": 162
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1987,
+                      "median": 1990,
+                      "mode": 1978
+                    }
+                  }
+                }
+              },
+              "subjects": null
+            },
+            "Z662-664": {
+              "id": "Z662-664",
+              "subject": "Collections",
+              "count": 348,
+              "children": {},
+              "subjects": {
+                "id": "Z662-664",
+                "subject": "Collections",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 19
+                  },
+                  {
+                    "url": null,
+                    "subject": "Manuscripts, American",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Space_vehicle",
+                    "subject": "Space vehicles",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Government publications",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/National_library",
+                    "subject": "National libraries",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1968,
+                  "mode": 1966
+                }
+              }
+            },
+            "Z997-997.2": {
+              "id": "Z997-997.2",
+              "subject": "Private libraries",
+              "count": 1352,
+              "children": {},
+              "subjects": {
+                "id": "Z997-997.2",
+                "subject": "Private libraries",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Private_library",
+                    "subject": "Private libraries",
+                    "count": 1164
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Rare books",
+                    "count": 507
+                  },
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 284
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Manuscript",
+                    "subject": "Manuscripts",
+                    "count": 94
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Bibliography",
+                    "subject": "Bibliography",
+                    "count": 81
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1952,
+                  "median": 1979,
+                  "mode": 2005
+                }
+              }
+            },
+            "Z881-977": {
+              "id": "Z881-977",
+              "subject": "Library catalogs and bulletins",
+              "count": 2923,
+              "children": {},
+              "subjects": {
+                "id": "Z881-977",
+                "subject": "Library catalogs and bulletins",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Early printed books",
+                    "count": 207
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Rare books",
+                    "count": 137
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Manuscript",
+                    "subject": "Manuscripts",
+                    "count": 122
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 106
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library_catalog",
+                    "subject": "Library catalogs",
+                    "count": 95
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1947,
+                  "median": 1967,
+                  "mode": 1981
+                }
+              }
+            },
+            "Z999-1000.5": {
+              "id": "Z999-1000.5",
+              "subject": "Booksellers' catalogs",
+              "count": 624,
+              "children": {},
+              "subjects": {
+                "id": "Z999-1000.5",
+                "subject": "Booksellers' catalogs",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Book_collecting",
+                    "subject": "Rare books",
+                    "count": 215
+                  },
+                  {
+                    "url": null,
+                    "subject": "Booksellers' catalogs",
+                    "count": 144
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Book",
+                    "subject": "Books",
+                    "count": 107
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Manuscript",
+                    "subject": "Manuscripts",
+                    "count": 74
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/English_literature",
+                    "subject": "English literature",
+                    "count": 59
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1947,
+                  "median": 1947,
+                  "mode": 1938
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "Z662-1000.5",
+            "subject": "Libraries",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Manuscripts, Medieval",
+                "count": 30
+              },
+              {
+                "url": "http://dbpedia.org/resource/Manuscript",
+                "subject": "Manuscripts",
+                "count": 26
+              },
+              {
+                "url": null,
+                "subject": "Monastic libraries",
+                "count": 23
+              },
+              {
+                "url": "http://dbpedia.org/resource/Library",
+                "subject": "Libraries",
+                "count": 21
+              },
+              {
+                "url": null,
+                "subject": "Manuscripts, Latin (Medieval and modern)",
+                "count": 21
+              }
+            ],
+            "pubDates": {
+              "avg": 1963,
+              "median": 1972,
+              "mode": 1969
+            }
+          }
+        },
+        "Z8001-8999": {
+          "id": "Z8001-8999",
+          "subject": "Personal bibliography",
+          "count": 11042,
+          "children": {},
+          "subjects": {
+            "id": "Z8001-8999",
+            "subject": "Personal bibliography",
+            "topSubjects": [
+              {
+                "url": null,
+                "subject": "Women and literature",
+                "count": 37
+              },
+              {
+                "url": "http://dbpedia.org/resource/Historian",
+                "subject": "Historians",
+                "count": 14
+              },
+              {
+                "url": "http://dbpedia.org/resource/Comparative_literature",
+                "subject": "Comparative literature",
+                "count": 13
+              },
+              {
+                "url": "http://dbpedia.org/resource/English_literature",
+                "subject": "English literature",
+                "count": 13
+              },
+              {
+                "url": "http://dbpedia.org/resource/Private_library",
+                "subject": "Private libraries",
+                "count": 12
+              }
+            ],
+            "pubDates": {
+              "avg": 1955,
+              "median": 1966,
+              "mode": 1968
+            }
+          }
+        },
+        "Z5051-7999": {
+          "id": "Z5051-7999",
+          "subject": "Subject bibliography",
+          "count": 61829,
+          "children": {},
+          "subjects": {
+            "id": "Z5051-7999",
+            "subject": "Subject bibliography",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Manuscript",
+                "subject": "Manuscripts",
+                "count": 1212
+              },
+              {
+                "url": "http://dbpedia.org/resource/Science",
+                "subject": "Science",
+                "count": 717
+              },
+              {
+                "url": "http://dbpedia.org/resource/Periodical_literature",
+                "subject": "Periodicals",
+                "count": 659
+              },
+              {
+                "url": null,
+                "subject": "Dissertations, Academic",
+                "count": 597
+              },
+              {
+                "url": null,
+                "subject": "Manuscripts, Arabic",
+                "count": 537
+              }
+            ],
+            "pubDates": {
+              "avg": 1958,
+              "median": 1968,
+              "mode": 1972
+            }
+          }
+        }
+      },
+      "subjects": null
+    },
+    "ZA": {
+      "id": "ZA",
+      "subject": "Information resources (General)",
+      "count": 0,
+      "children": {
+        "ZA3038-5190": {
+          "id": "ZA3038-5190",
+          "subject": "Information resources (General)",
+          "count": 281,
+          "children": {
+            "ZA3150-3159": {
+              "id": "ZA3150-3159",
+              "subject": "Information services. Information centers",
+              "count": 159,
+              "children": {},
+              "subjects": {
+                "id": "ZA3150-3159",
+                "subject": "Information services. Information centers",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Information_broker",
+                    "subject": "Information services",
+                    "count": 136
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 27
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_policy",
+                    "subject": "Information policy",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Documentation",
+                    "subject": "Documentation",
+                    "count": 15
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_technology",
+                    "subject": "Information technology",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1999,
+                  "median": 2000,
+                  "mode": 1995
+                }
+              }
+            },
+            "ZA4050-4775": {
+              "id": "ZA4050-4775",
+              "subject": "Information in specific formats or media",
+              "count": 13,
+              "children": {
+                "ZA4050-4480": {
+                  "id": "ZA4050-4480",
+                  "subject": "Electronic information resources",
+                  "count": 365,
+                  "children": {},
+                  "subjects": {
+                    "id": "ZA4050-4480",
+                    "subject": "Electronic information resources",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Digital_library",
+                        "subject": "Digital libraries",
+                        "count": 308
+                      },
+                      {
+                        "url": null,
+                        "subject": "Electronic information resources",
+                        "count": 80
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Library",
+                        "subject": "Libraries",
+                        "count": 49
+                      },
+                      {
+                        "url": null,
+                        "subject": "Information storage and retrieval systems",
+                        "count": 43
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Digital_preservation",
+                        "subject": "Digital preservation",
+                        "count": 21
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 2004,
+                      "median": 2005,
+                      "mode": 2008
+                    }
+                  }
+                },
+                "ZA4550-4575": {
+                  "id": "ZA4550-4575",
+                  "subject": "Motion pictures. Video recordings",
+                  "count": 12,
+                  "children": {},
+                  "subjects": {
+                    "id": "ZA4550-4575",
+                    "subject": "Motion pictures. Video recordings",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Video",
+                        "subject": "Video recordings",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1997,
+                      "median": 1996,
+                      "mode": 2009
+                    }
+                  }
+                },
+                "ZA4650-4675": {
+                  "id": "ZA4650-4675",
+                  "subject": "Pictures. Photographs",
+                  "count": 4,
+                  "children": {},
+                  "subjects": {
+                    "id": "ZA4650-4675",
+                    "subject": "Pictures. Photographs",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 2006,
+                      "median": 2010,
+                      "mode": 1995
+                    }
+                  }
+                },
+                "ZA4750-4775": {
+                  "id": "ZA4750-4775",
+                  "subject": "Sound recordings",
+                  "count": 12,
+                  "children": {},
+                  "subjects": {
+                    "id": "ZA4750-4775",
+                    "subject": "Sound recordings",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Audiobook",
+                        "subject": "Audiobooks",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1998,
+                      "median": 1998,
+                      "mode": 1985
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "ZA4050-4775",
+                "subject": "Information in specific formats or media",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/User-generated_content",
+                    "subject": "User-generated content",
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "subject": "Electronic encyclopedias",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Social_media",
+                    "subject": "Social media",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2008,
+                  "median": 2008,
+                  "mode": 2009
+                }
+              }
+            },
+            "ZA4050-4480": {
+              "id": "ZA4050-4480",
+              "subject": "Electronic information resources",
+              "count": 0,
+              "children": {
+                "ZA4150-4380": {
+                  "id": "ZA4150-4380",
+                  "subject": "Computer network resources",
+                  "count": 578,
+                  "children": {},
+                  "subjects": {
+                    "id": "ZA4150-4380",
+                    "subject": "Computer network resources",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Website",
+                        "subject": "Web sites",
+                        "count": 167
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Internet",
+                        "subject": "Internet",
+                        "count": 147
+                      },
+                      {
+                        "url": null,
+                        "subject": "Computer network resources",
+                        "count": 134
+                      },
+                      {
+                        "url": null,
+                        "subject": "Internet searching",
+                        "count": 132
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/IP_address",
+                        "subject": "Internet addresses",
+                        "count": 111
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 2002,
+                      "median": 2002,
+                      "mode": 2001
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "ZA4050-4480",
+                "subject": "Electronic information resources",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Digital_library",
+                    "subject": "Digital libraries",
+                    "count": 308
+                  },
+                  {
+                    "url": null,
+                    "subject": "Electronic information resources",
+                    "count": 80
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Library",
+                    "subject": "Libraries",
+                    "count": 49
+                  },
+                  {
+                    "url": null,
+                    "subject": "Information storage and retrieval systems",
+                    "count": 43
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Digital_preservation",
+                    "subject": "Digital preservation",
+                    "count": 21
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2004,
+                  "median": 2005,
+                  "mode": 2008
+                }
+              }
+            },
+            "ZA5049-5190": {
+              "id": "ZA5049-5190",
+              "subject": "Government information",
+              "count": 62,
+              "children": {},
+              "subjects": {
+                "id": "ZA5049-5190",
+                "subject": "Government information",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Electronic government information",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Government_Information_Office",
+                    "subject": "Government information",
+                    "count": 32
+                  },
+                  {
+                    "url": null,
+                    "subject": "Government Web sites",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "subject": "Government publications",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/IP_address",
+                    "subject": "Internet addresses",
+                    "count": 9
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2001,
+                  "median": 2001,
+                  "mode": 2001
+                }
+              }
+            },
+            "ZA3201-3250": {
+              "id": "ZA3201-3250",
+              "subject": "Information superhighway",
+              "count": 69,
+              "children": {},
+              "subjects": {
+                "id": "ZA3201-3250",
+                "subject": "Information superhighway",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Information_superhighway",
+                    "subject": "Information superhighway",
+                    "count": 67
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_technology",
+                    "subject": "Information technology",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Internet",
+                    "subject": "Internet",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Information_society",
+                    "subject": "Information society",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Telecommunication",
+                    "subject": "Telecommunication",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2006,
+                  "median": 1997,
+                  "mode": 1996
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "ZA3038-5190",
+            "subject": "Information resources (General)",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Information_literacy",
+                "subject": "Information literacy",
+                "count": 149
+              },
+              {
+                "url": "http://dbpedia.org/resource/Information_retrieval",
+                "subject": "Information retrieval",
+                "count": 117
+              },
+              {
+                "url": "http://dbpedia.org/resource/Information_resource",
+                "subject": "Information resources",
+                "count": 82
+              },
+              {
+                "url": "http://dbpedia.org/resource/Research",
+                "subject": "Research",
+                "count": 73
+              },
+              {
+                "url": "http://dbpedia.org/resource/Information_behavior",
+                "subject": "Information behavior",
+                "count": 38
+              }
+            ],
+            "pubDates": {
+              "avg": 2006,
+              "median": 2007,
+              "mode": 2010
+            }
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}

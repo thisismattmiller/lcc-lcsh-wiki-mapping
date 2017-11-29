@@ -1,0 +1,5700 @@
+{
+  "code": "F",
+  "subject": "Local History of the United States and British, Dutch, French, and Latin America",
+  "count": 0,
+  "children": {
+    "F": {
+      "id": "F",
+      "subject": "Latin America.  Spanish America",
+      "count": 0,
+      "children": {
+        "F1-975": {
+          "id": "F1-975",
+          "subject": "United States local history",
+          "count": 220,
+          "children": {
+            "F676-690": {
+              "id": "F676-690",
+              "subject": "Kansas",
+              "count": 1263,
+              "children": {},
+              "subjects": {
+                "id": "F676-690",
+                "subject": "Kansas",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 161
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 110
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 43
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 41
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 29
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1968,
+                  "median": 1982,
+                  "mode": 1858
+                }
+              }
+            },
+            "F176-190": {
+              "id": "F176-190",
+              "subject": "Maryland",
+              "count": 2508,
+              "children": {},
+              "subjects": {
+                "id": "F176-190",
+                "subject": "Maryland",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 330
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 178
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 102
+                  },
+                  {
+                    "url": null,
+                    "subject": "Church records and registers",
+                    "count": 83
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Will",
+                    "subject": "Wills",
+                    "count": 81
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1989,
+                  "mode": 1999
+                }
+              }
+            },
+            "F31-45": {
+              "id": "F31-45",
+              "subject": "New Hampshire",
+              "count": 1077,
+              "children": {},
+              "subjects": {
+                "id": "F31-45",
+                "subject": "New Hampshire",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 113
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 41
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 15
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1960,
+                  "median": 1978,
+                  "mode": 1976
+                }
+              }
+            },
+            "F536-550": {
+              "id": "F536-550",
+              "subject": "Illinois",
+              "count": 4160,
+              "children": {},
+              "subjects": {
+                "id": "F536-550",
+                "subject": "Illinois",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 840
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 219
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 193
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 143
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 134
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1985,
+                  "mode": 1984
+                }
+              }
+            },
+            "F901-951": {
+              "id": "F901-951",
+              "subject": "Alaska",
+              "count": 1879,
+              "children": {
+                "F951": {
+                  "id": "F951",
+                  "subject": "Bering Sea and Aleutian Islands",
+                  "count": 37,
+                  "children": {},
+                  "subjects": {
+                    "id": "F951",
+                    "subject": "Bering Sea and Aleutian Islands",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Aleut",
+                        "subject": "Aleuts",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1950,
+                      "median": 1974,
+                      "mode": 1984
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "F901-951",
+                "subject": "Alaska",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 178
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 84
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 82
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Russian",
+                    "subject": "Russians",
+                    "count": 72
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Eskimo",
+                    "subject": "Eskimos",
+                    "count": 64
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1984,
+                  "mode": 1983
+                }
+              }
+            },
+            "F366-380": {
+              "id": "F366-380",
+              "subject": "Louisiana",
+              "count": 2118,
+              "children": {},
+              "subjects": {
+                "id": "F366-380",
+                "subject": "Louisiana",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 188
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 128
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cajuns",
+                    "subject": "Cajuns",
+                    "count": 120
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 85
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Creole",
+                    "subject": "Creoles",
+                    "count": 59
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1984,
+                  "mode": 1984
+                }
+              }
+            },
+            "F61-75": {
+              "id": "F61-75",
+              "subject": "Massachusetts",
+              "count": 5389,
+              "children": {},
+              "subjects": {
+                "id": "F61-75",
+                "subject": "Massachusetts",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Pilgrims (New Plymouth Colony)",
+                    "count": 477
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 304
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 274
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Puritans",
+                    "subject": "Puritans",
+                    "count": 147
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 109
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1952,
+                  "median": 1975,
+                  "mode": 2004
+                }
+              }
+            },
+            "F616-630": {
+              "id": "F616-630",
+              "subject": "Iowa",
+              "count": 1202,
+              "children": {},
+              "subjects": {
+                "id": "F616-630",
+                "subject": "Iowa",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 182
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 60
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 39
+                  },
+                  {
+                    "url": null,
+                    "subject": "Farm life",
+                    "count": 35
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1985,
+                  "mode": 1986
+                }
+              }
+            },
+            "F221-235": {
+              "id": "F221-235",
+              "subject": "Virginia",
+              "count": 4885,
+              "children": {},
+              "subjects": {
+                "id": "F221-235",
+                "subject": "Virginia",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 537
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 306
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 196
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Will",
+                    "subject": "Wills",
+                    "count": 176
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 175
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1985,
+                  "mode": 2006
+                }
+              }
+            },
+            "F431-445": {
+              "id": "F431-445",
+              "subject": "Tennessee",
+              "count": 2465,
+              "children": {},
+              "subjects": {
+                "id": "F431-445",
+                "subject": "Tennessee",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 401
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 126
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 121
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 104
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 104
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1987,
+                  "mode": 1986
+                }
+              }
+            },
+            "F381-395": {
+              "id": "F381-395",
+              "subject": "Texas",
+              "count": 6546,
+              "children": {},
+              "subjects": {
+                "id": "F381-395",
+                "subject": "Texas",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 644
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 480
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mexican_Americans",
+                    "subject": "Mexican Americans",
+                    "count": 271
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 198
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 189
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1986,
+                  "mode": 1986
+                }
+              }
+            },
+            "F461-475": {
+              "id": "F461-475",
+              "subject": "Missouri",
+              "count": 2016,
+              "children": {},
+              "subjects": {
+                "id": "F461-475",
+                "subject": "Missouri",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 432
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 103
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 88
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 86
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 77
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1985,
+                  "mode": 1984
+                }
+              }
+            },
+            "F576-590": {
+              "id": "F576-590",
+              "subject": "Wisconsin",
+              "count": 1529,
+              "children": {},
+              "subjects": {
+                "id": "F576-590",
+                "subject": "Wisconsin",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 118
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 61
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 42
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/German_Americans",
+                    "subject": "German Americans",
+                    "count": 33
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 30
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1988,
+                  "mode": 1976
+                }
+              }
+            },
+            "F771-785": {
+              "id": "F771-785",
+              "subject": "Colorado",
+              "count": 1979,
+              "children": {},
+              "subjects": {
+                "id": "F771-785",
+                "subject": "Colorado",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 172
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 85
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 75
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 60
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 58
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1988,
+                  "mode": 1999
+                }
+              }
+            },
+            "F146-160": {
+              "id": "F146-160",
+              "subject": "Pennsylvania",
+              "count": 5503,
+              "children": {},
+              "subjects": {
+                "id": "F146-160",
+                "subject": "Pennsylvania",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 705
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 308
+                  },
+                  {
+                    "url": null,
+                    "subject": "Church records and registers",
+                    "count": 246
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 222
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 155
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1969,
+                  "median": 1986,
+                  "mode": 1976
+                }
+              }
+            },
+            "F590.3-596.3": {
+              "id": "F590.3-596.3",
+              "subject": "The West.  Trans-Mississippi Region.  Great Plains",
+              "count": 4291,
+              "children": {},
+              "subjects": {
+                "id": "F590.3-596.3",
+                "subject": "The West.  Trans-Mississippi Region.  Great Plains",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 1598
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cowboy",
+                    "subject": "Cowboys",
+                    "count": 581
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 514
+                  },
+                  {
+                    "url": null,
+                    "subject": "Overland journeys to the Pacific",
+                    "count": 442
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 430
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1983,
+                  "mode": 2003
+                }
+              }
+            },
+            "F871-885": {
+              "id": "F871-885",
+              "subject": "Oregon",
+              "count": 1766,
+              "children": {},
+              "subjects": {
+                "id": "F871-885",
+                "subject": "Oregon",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 157
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 143
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 94
+                  },
+                  {
+                    "url": null,
+                    "subject": "Overland journeys to the Pacific",
+                    "count": 94
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 82
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1973,
+                  "median": 1985,
+                  "mode": 1987
+                }
+              }
+            },
+            "F486-500": {
+              "id": "F486-500",
+              "subject": "Ohio",
+              "count": 3480,
+              "children": {},
+              "subjects": {
+                "id": "F486-500",
+                "subject": "Ohio",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 740
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 215
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 191
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 124
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 113
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1987,
+                  "mode": 1984
+                }
+              }
+            },
+            "F91-105": {
+              "id": "F91-105",
+              "subject": "Connecticut",
+              "count": 1411,
+              "children": {},
+              "subjects": {
+                "id": "F91-105",
+                "subject": "Connecticut",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 104
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 95
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Italian_Americans",
+                    "subject": "Italian Americans",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 18
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1963,
+                  "median": 1978,
+                  "mode": 1976
+                }
+              }
+            },
+            "F821-835": {
+              "id": "F821-835",
+              "subject": "Utah",
+              "count": 904,
+              "children": {},
+              "subjects": {
+                "id": "F821-835",
+                "subject": "Utah",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mormons",
+                    "subject": "Mormons",
+                    "count": 106
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 74
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+                    "subject": "Mormon Church",
+                    "count": 69
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mormon_pioneers",
+                    "subject": "Mormon pioneers",
+                    "count": 40
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1990,
+                  "mode": 1996
+                }
+              }
+            },
+            "F131-145": {
+              "id": "F131-145",
+              "subject": "New Jersey",
+              "count": 1895,
+              "children": {},
+              "subjects": {
+                "id": "F131-145",
+                "subject": "New Jersey",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 151
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 87
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Postcard",
+                    "subject": "Postcards",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 42
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1987,
+                  "mode": 1976
+                }
+              }
+            },
+            "F206-220": {
+              "id": "F206-220",
+              "subject": "The South.  South Atlantic States",
+              "count": 1634,
+              "children": {},
+              "subjects": {
+                "id": "F206-220",
+                "subject": "The South.  South Atlantic States",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 105
+                  },
+                  {
+                    "url": null,
+                    "subject": "Appalachians (People)",
+                    "count": 77
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 59
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Slavery",
+                    "subject": "Slavery",
+                    "count": 58
+                  },
+                  {
+                    "url": null,
+                    "subject": "Plantation life",
+                    "count": 48
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1975,
+                  "median": 1984,
+                  "mode": 1969
+                }
+              }
+            },
+            "F726-740": {
+              "id": "F726-740",
+              "subject": "Montana",
+              "count": 916,
+              "children": {},
+              "subjects": {
+                "id": "F726-740",
+                "subject": "Montana",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 140
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ranch life",
+                    "count": 67
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 48
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 46
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 32
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1989,
+                  "mode": 1997
+                }
+              }
+            },
+            "F116-130": {
+              "id": "F116-130",
+              "subject": "New York",
+              "count": 8744,
+              "children": {},
+              "subjects": {
+                "id": "F116-130",
+                "subject": "New York",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 424
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 410
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 406
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 282
+                  },
+                  {
+                    "url": null,
+                    "subject": "Statue of Liberty (New York, N.Y.)",
+                    "count": 200
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1971,
+                  "median": 1984,
+                  "mode": 2004
+                }
+              }
+            },
+            "F756-770": {
+              "id": "F756-770",
+              "subject": "Wyoming",
+              "count": 659,
+              "children": {},
+              "subjects": {
+                "id": "F756-770",
+                "subject": "Wyoming",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 122
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 42
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ranch life",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 22
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1988,
+                  "mode": 1996
+                }
+              }
+            },
+            "F601-615": {
+              "id": "F601-615",
+              "subject": "Minnesota",
+              "count": 1495,
+              "children": {},
+              "subjects": {
+                "id": "F601-615",
+                "subject": "Minnesota",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 75
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 70
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 47
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Norwegian_Americans",
+                    "subject": "Norwegian Americans",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 34
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1987,
+                  "mode": 1976
+                }
+              }
+            },
+            "F856-870": {
+              "id": "F856-870",
+              "subject": "California",
+              "count": 9350,
+              "children": {},
+              "subjects": {
+                "id": "F856-870",
+                "subject": "California",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 357
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 318
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 248
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 239
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 228
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1987,
+                  "mode": 2006
+                }
+              }
+            },
+            "F350.5-355": {
+              "id": "F350.5-355",
+              "subject": "Mississippi River and Valley.  Middle West",
+              "count": 663,
+              "children": {},
+              "subjects": {
+                "id": "F350.5-355",
+                "subject": "Mississippi River and Valley.  Middle West",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Exploration",
+                    "subject": "Explorers",
+                    "count": 46
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 43
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 39
+                  },
+                  {
+                    "url": null,
+                    "subject": "River life",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Louisiana_Purchase",
+                    "subject": "Louisiana Purchase",
+                    "count": 19
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1951,
+                  "median": 1974,
+                  "mode": 2004
+                }
+              }
+            },
+            "F281-295": {
+              "id": "F281-295",
+              "subject": "Georgia",
+              "count": 2909,
+              "children": {},
+              "subjects": {
+                "id": "F281-295",
+                "subject": "Georgia",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 505
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 167
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 139
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 122
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 106
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1989,
+                  "mode": 1998
+                }
+              }
+            },
+            "F836-850": {
+              "id": "F836-850",
+              "subject": "Nevada",
+              "count": 761,
+              "children": {},
+              "subjects": {
+                "id": "F836-850",
+                "subject": "Nevada",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 45
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Oral_history",
+                    "subject": "Oral history",
+                    "count": 28
+                  },
+                  {
+                    "url": null,
+                    "subject": "Mines and mineral resources",
+                    "count": 28
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 23
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ranch life",
+                    "count": 21
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1988,
+                  "median": 1993,
+                  "mode": 1990
+                }
+              }
+            },
+            "F266-280": {
+              "id": "F266-280",
+              "subject": "South Carolina",
+              "count": 2055,
+              "children": {},
+              "subjects": {
+                "id": "F266-280",
+                "subject": "South Carolina",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 332
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 135
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 109
+                  },
+                  {
+                    "url": null,
+                    "subject": "Excavations (Archaeology)",
+                    "count": 89
+                  },
+                  {
+                    "url": null,
+                    "subject": "Plantation life",
+                    "count": 84
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1988,
+                  "mode": 2004
+                }
+              }
+            },
+            "F741-755": {
+              "id": "F741-755",
+              "subject": "Idaho",
+              "count": 612,
+              "children": {},
+              "subjects": {
+                "id": "F741-755",
+                "subject": "Idaho",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 74
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 27
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 21
+                  },
+                  {
+                    "url": null,
+                    "subject": "Automobile travel",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1988,
+                  "mode": 1990
+                }
+              }
+            },
+            "F191-205": {
+              "id": "F191-205",
+              "subject": "District of Columbia.  Washington",
+              "count": 1847,
+              "children": {},
+              "subjects": {
+                "id": "F191-205",
+                "subject": "District of Columbia.  Washington",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/President",
+                    "subject": "Presidents",
+                    "count": 163
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 100
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 66
+                  },
+                  {
+                    "url": null,
+                    "subject": "Washington Monument (Washington, D.C.)",
+                    "count": 63
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 54
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1982,
+                  "mode": 2004
+                }
+              }
+            },
+            "F721-722": {
+              "id": "F721-722",
+              "subject": "Rocky Mountains.  Yellowstone National Park",
+              "count": 400,
+              "children": {},
+              "subjects": {
+                "id": "F721-722",
+                "subject": "Rocky Mountains.  Yellowstone National Park",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 45
+                  },
+                  {
+                    "url": null,
+                    "subject": "National parks and reserves",
+                    "count": 36
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 16
+                  },
+                  {
+                    "url": null,
+                    "subject": "Excavations (Archaeology)",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "Automobile travel",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1988,
+                  "mode": 1996
+                }
+              }
+            },
+            "F306-320": {
+              "id": "F306-320",
+              "subject": "Florida",
+              "count": 2813,
+              "children": {},
+              "subjects": {
+                "id": "F306-320",
+                "subject": "Florida",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 133
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 131
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 111
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Postcard",
+                    "subject": "Postcards",
+                    "count": 68
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 67
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1992,
+                  "mode": 2003
+                }
+              }
+            },
+            "F1-15": {
+              "id": "F1-15",
+              "subject": "New England",
+              "count": 1129,
+              "children": {},
+              "subjects": {
+                "id": "F1-15",
+                "subject": "New England",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Puritans",
+                    "subject": "Puritans",
+                    "count": 96
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 37
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/American_literature",
+                    "subject": "American literature",
+                    "count": 34
+                  },
+                  {
+                    "url": null,
+                    "subject": "Family recreation",
+                    "count": 26
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1958,
+                  "median": 1980,
+                  "mode": 1989
+                }
+              }
+            },
+            "F597": {
+              "id": "F597",
+              "subject": "The Northwest",
+              "count": 246,
+              "children": {},
+              "subjects": {
+                "id": "F597",
+                "subject": "The Northwest",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 103
+                  },
+                  {
+                    "url": null,
+                    "subject": "Overland journeys to the Pacific",
+                    "count": 78
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 49
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 28
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Exploration",
+                    "subject": "Explorers",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1957,
+                  "median": 1983,
+                  "mode": 1993
+                }
+              }
+            },
+            "F786-790": {
+              "id": "F786-790",
+              "subject": "New Southwest.  Colorado River, Canyon, and Valley",
+              "count": 1405,
+              "children": {},
+              "subjects": {
+                "id": "F786-790",
+                "subject": "New Southwest.  Colorado River, Canyon, and Valley",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 160
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 82
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 79
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Outlaw",
+                    "subject": "Outlaws",
+                    "count": 79
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mexican_Americans",
+                    "subject": "Mexican Americans",
+                    "count": 64
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1989,
+                  "mode": 2004
+                }
+              }
+            },
+            "F561-575": {
+              "id": "F561-575",
+              "subject": "Michigan",
+              "count": 2348,
+              "children": {},
+              "subjects": {
+                "id": "F561-575",
+                "subject": "Michigan",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 223
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 132
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 101
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 86
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 75
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1987,
+                  "mode": 1976
+                }
+              }
+            },
+            "F852-854": {
+              "id": "F852-854",
+              "subject": "Pacific Northwest.  Columbia River and Valley.",
+              "count": 344,
+              "children": {},
+              "subjects": {
+                "id": "F852-854",
+                "subject": "Pacific Northwest.  Columbia River and Valley.",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 24
+                  },
+                  {
+                    "url": null,
+                    "subject": "National parks and reserves",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "Automobile travel",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1985,
+                  "mode": 1997
+                }
+              }
+            },
+            "F406-420": {
+              "id": "F406-420",
+              "subject": "Arkansas",
+              "count": 1112,
+              "children": {},
+              "subjects": {
+                "id": "F406-420",
+                "subject": "Arkansas",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 225
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 51
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 48
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 46
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 42
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1986,
+                  "mode": 1986
+                }
+              }
+            },
+            "F806-820": {
+              "id": "F806-820",
+              "subject": "Arizona",
+              "count": 1337,
+              "children": {},
+              "subjects": {
+                "id": "F806-820",
+                "subject": "Arizona",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 163
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 69
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mexican_Americans",
+                    "subject": "Mexican Americans",
+                    "count": 49
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 47
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 44
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1990,
+                  "mode": 2009
+                }
+              }
+            },
+            "F321-335": {
+              "id": "F321-335",
+              "subject": "Alabama",
+              "count": 1612,
+              "children": {},
+              "subjects": {
+                "id": "F321-335",
+                "subject": "Alabama",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 403
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 253
+                  },
+                  {
+                    "url": null,
+                    "subject": "Civil rights workers",
+                    "count": 123
+                  },
+                  {
+                    "url": null,
+                    "subject": "Segregation in transportation",
+                    "count": 119
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 81
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1990,
+                  "mode": 1998
+                }
+              }
+            },
+            "F691-705": {
+              "id": "F691-705",
+              "subject": "Oklahoma",
+              "count": 910,
+              "children": {},
+              "subjects": {
+                "id": "F691-705",
+                "subject": "Oklahoma",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 106
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 106
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 90
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 41
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 38
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1985,
+                  "mode": 1980
+                }
+              }
+            },
+            "F251-265": {
+              "id": "F251-265",
+              "subject": "North Carolina",
+              "count": 3014,
+              "children": {},
+              "subjects": {
+                "id": "F251-265",
+                "subject": "North Carolina",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 404
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 169
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 134
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Deed",
+                    "subject": "Deeds",
+                    "count": 103
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 85
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1987,
+                  "mode": 1984
+                }
+              }
+            },
+            "F446-460": {
+              "id": "F446-460",
+              "subject": "Kentucky",
+              "count": 2656,
+              "children": {},
+              "subjects": {
+                "id": "F446-460",
+                "subject": "Kentucky",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 735
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 161
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 161
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 136
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 93
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1985,
+                  "mode": 1983
+                }
+              }
+            },
+            "F521-535": {
+              "id": "F521-535",
+              "subject": "Indiana",
+              "count": 2223,
+              "children": {},
+              "subjects": {
+                "id": "F521-535",
+                "subject": "Indiana",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 405
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 100
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 91
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 75
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 75
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1985,
+                  "mode": 1992
+                }
+              }
+            },
+            "F550.5-553.2": {
+              "id": "F550.5-553.2",
+              "subject": "The Lake region.  Great Lakes",
+              "count": 203,
+              "children": {},
+              "subjects": {
+                "id": "F550.5-553.2",
+                "subject": "The Lake region.  Great Lakes",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Shipwreck",
+                    "subject": "Shipwrecks",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1989,
+                  "mode": 1991
+                }
+              }
+            },
+            "F336-350": {
+              "id": "F336-350",
+              "subject": "Mississippi",
+              "count": 997,
+              "children": {},
+              "subjects": {
+                "id": "F336-350",
+                "subject": "Mississippi",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 161
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/African_Americans",
+                    "subject": "African Americans",
+                    "count": 145
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 46
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 42
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 33
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1988,
+                  "mode": 1999
+                }
+              }
+            },
+            "F106": {
+              "id": "F106",
+              "subject": "Atlantic coast.  Middle Atlantic States",
+              "count": 368,
+              "children": {},
+              "subjects": {
+                "id": "F106",
+                "subject": "Atlantic coast.  Middle Atlantic States",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Automobile travel",
+                    "count": 19
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Piracy",
+                    "subject": "Pirates",
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "subject": "Family recreation",
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 9
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1969,
+                  "median": 1981,
+                  "mode": 1970
+                }
+              }
+            },
+            "F16-30": {
+              "id": "F16-30",
+              "subject": "Maine",
+              "count": 1794,
+              "children": {},
+              "subjects": {
+                "id": "F16-30",
+                "subject": "Maine",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 192
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 85
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 76
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Postcard",
+                    "subject": "Postcards",
+                    "count": 30
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1986,
+                  "mode": 2004
+                }
+              }
+            },
+            "F646-660": {
+              "id": "F646-660",
+              "subject": "South Dakota",
+              "count": 744,
+              "children": {},
+              "subjects": {
+                "id": "F646-660",
+                "subject": "South Dakota",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 111
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 38
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 24
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ranch life",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1985,
+                  "mode": 1979
+                }
+              }
+            },
+            "F886-900": {
+              "id": "F886-900",
+              "subject": "Washington",
+              "count": 2129,
+              "children": {},
+              "subjects": {
+                "id": "F886-900",
+                "subject": "Washington",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 139
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 73
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 59
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 56
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Japanese_Americans",
+                    "subject": "Japanese Americans",
+                    "count": 42
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1986,
+                  "median": 1988,
+                  "mode": 1989
+                }
+              }
+            },
+            "F791-805": {
+              "id": "F791-805",
+              "subject": "New Mexico",
+              "count": 1737,
+              "children": {},
+              "subjects": {
+                "id": "F791-805",
+                "subject": "New Mexico",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 163
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 159
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hispanic_American",
+                    "subject": "Hispanic Americans",
+                    "count": 103
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Spaniards",
+                    "subject": "Spaniards",
+                    "count": 81
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mexican_Americans",
+                    "subject": "Mexican Americans",
+                    "count": 75
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1990,
+                  "mode": 2012
+                }
+              }
+            },
+            "F598": {
+              "id": "F598",
+              "subject": "Missouri River and Valley",
+              "count": 77,
+              "children": {},
+              "subjects": {
+                "id": "F598",
+                "subject": "Missouri River and Valley",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 22
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fur_trade",
+                    "subject": "Fur trade",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 19
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fur_trade",
+                    "subject": "Fur traders",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Steam-navigation",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1988,
+                  "mode": 2004
+                }
+              }
+            },
+            "F965": {
+              "id": "F965",
+              "subject": "The territories of the United States (General)",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "F965",
+                "subject": "The territories of the United States (General)",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1994,
+                  "median": 1990,
+                  "mode": 2006
+                }
+              }
+            },
+            "F850.5-851.5": {
+              "id": "F850.5-851.5",
+              "subject": "Pacific States",
+              "count": 348,
+              "children": {},
+              "subjects": {
+                "id": "F850.5-851.5",
+                "subject": "Pacific States",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Exploration",
+                    "subject": "Explorers",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fur_trade",
+                    "subject": "Fur trade",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Spaniards",
+                    "subject": "Spaniards",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1958,
+                  "median": 1972,
+                  "mode": 1979
+                }
+              }
+            },
+            "F46-60": {
+              "id": "F46-60",
+              "subject": "Vermont",
+              "count": 887,
+              "children": {},
+              "subjects": {
+                "id": "F46-60",
+                "subject": "Vermont",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 35
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 28
+                  },
+                  {
+                    "url": null,
+                    "subject": "Country life",
+                    "count": 20
+                  },
+                  {
+                    "url": null,
+                    "subject": "Farm life",
+                    "count": 13
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 11
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1980,
+                  "mode": 1976
+                }
+              }
+            },
+            "F661-675": {
+              "id": "F661-675",
+              "subject": "Nebraska",
+              "count": 769,
+              "children": {},
+              "subjects": {
+                "id": "F661-675",
+                "subject": "Nebraska",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 96
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 57
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 56
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Architecture",
+                    "subject": "Architecture",
+                    "count": 42
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 30
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1986,
+                  "mode": 1987
+                }
+              }
+            },
+            "F76-90": {
+              "id": "F76-90",
+              "subject": "Rhode Island",
+              "count": 800,
+              "children": {},
+              "subjects": {
+                "id": "F76-90",
+                "subject": "Rhode Island",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 68
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 51
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Architecture",
+                    "subject": "Architecture",
+                    "count": 24
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 23
+                  },
+                  {
+                    "url": null,
+                    "subject": "Dorr Rebellion, 1842",
+                    "count": 21
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1979,
+                  "mode": 1976
+                }
+              }
+            },
+            "F236-250": {
+              "id": "F236-250",
+              "subject": "West Virginia",
+              "count": 1139,
+              "children": {},
+              "subjects": {
+                "id": "F236-250",
+                "subject": "West Virginia",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 230
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 54
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 37
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Cemetery",
+                    "subject": "Cemeteries",
+                    "count": 36
+                  },
+                  {
+                    "url": null,
+                    "subject": "Marriage records",
+                    "count": 36
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1988,
+                  "mode": 1997
+                }
+              }
+            },
+            "F396": {
+              "id": "F396",
+              "subject": "Old Southwest.  Lower Mississippi Valley",
+              "count": 77,
+              "children": {},
+              "subjects": {
+                "id": "F396",
+                "subject": "Old Southwest.  Lower Mississippi Valley",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 25
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "subject": "Automobile travel",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1952,
+                  "median": 1975,
+                  "mode": 1930
+                }
+              }
+            },
+            "F631-645": {
+              "id": "F631-645",
+              "subject": "North Dakota",
+              "count": 447,
+              "children": {},
+              "subjects": {
+                "id": "F631-645",
+                "subject": "North Dakota",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 47
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 38
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/German_Russian",
+                    "subject": "Russian Germans",
+                    "count": 28
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Norwegian_Americans",
+                    "subject": "Norwegian Americans",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Epigraphy",
+                    "subject": "Inscriptions",
+                    "count": 15
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1987,
+                  "mode": 1986
+                }
+              }
+            },
+            "F516-520": {
+              "id": "F516-520",
+              "subject": "Ohio River and Valley",
+              "count": 186,
+              "children": {},
+              "subjects": {
+                "id": "F516-520",
+                "subject": "Ohio River and Valley",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 53
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Flood",
+                    "subject": "Floods",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "River life",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1945,
+                  "median": 1967,
+                  "mode": 1971
+                }
+              }
+            },
+            "F161-175": {
+              "id": "F161-175",
+              "subject": "Delaware",
+              "count": 469,
+              "children": {},
+              "subjects": {
+                "id": "F161-175",
+                "subject": "Delaware",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Excavations (Archaeology)",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 33
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 31
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 15
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 14
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1988,
+                  "mode": 1988
+                }
+              }
+            },
+            "F476-485": {
+              "id": "F476-485",
+              "subject": "Old Northwest.  Northwest Territory",
+              "count": 163,
+              "children": {},
+              "subjects": {
+                "id": "F476-485",
+                "subject": "Old Northwest.  Northwest Territory",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 36
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 19
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Land_grant",
+                    "subject": "Land grants",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "subject": "Registers of births, etc",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1940,
+                  "median": 1961,
+                  "mode": 1888
+                }
+              }
+            },
+            "F296-301": {
+              "id": "F296-301",
+              "subject": "Gulf States.  West Florida",
+              "count": 79,
+              "children": {},
+              "subjects": {
+                "id": "F296-301",
+                "subject": "Gulf States.  West Florida",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1960,
+                  "median": 1979,
+                  "mode": 1986
+                }
+              }
+            },
+            "F970": {
+              "id": "F970",
+              "subject": "Insular possessions of the United States (General)",
+              "count": 36,
+              "children": {},
+              "subjects": {
+                "id": "F970",
+                "subject": "Insular possessions of the United States (General)",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1950,
+                  "median": 1957,
+                  "mode": 1899
+                }
+              }
+            },
+            "F975": {
+              "id": "F975",
+              "subject": "Central American, West Indian, and other countries",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "F975",
+                "subject": "Central American, West Indian, and other countries",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1942,
+                  "median": 1970,
+                  "mode": 1914
+                }
+              }
+            },
+            "F851.7": {
+              "id": "F851.7",
+              "subject": "Cascade Range",
+              "count": 17,
+              "children": {},
+              "subjects": {
+                "id": "F851.7",
+                "subject": "Cascade Range",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1968,
+                  "median": 1967,
+                  "mode": 1949
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "F1-975",
+            "subject": "United States local history",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/German_Americans",
+                "subject": "German Americans",
+                "count": 22
+              },
+              {
+                "url": "http://dbpedia.org/resource/Immigration",
+                "subject": "Immigrants",
+                "count": 20
+              },
+              {
+                "url": "http://dbpedia.org/resource/Hispanic_American",
+                "subject": "Hispanic Americans",
+                "count": 12
+              },
+              {
+                "url": null,
+                "subject": "Automobile travel",
+                "count": 11
+              },
+              {
+                "url": "http://dbpedia.org/resource/Jews",
+                "subject": "Jews",
+                "count": 11
+              }
+            ],
+            "pubDates": {
+              "avg": 1986,
+              "median": 1996,
+              "mode": 1996
+            }
+          }
+        },
+        "F1201-3799": {
+          "id": "F1201-3799",
+          "subject": "Latin America.  Spanish America",
+          "count": 4,
+          "children": {
+            "F1601-1629": {
+              "id": "F1601-1629",
+              "subject": "West Indies",
+              "count": 589,
+              "children": {},
+              "subjects": {
+                "id": "F1601-1629",
+                "subject": "West Indies",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Indians of the West Indies",
+                    "count": 131
+                  },
+                  {
+                    "url": null,
+                    "subject": "Taino Indians",
+                    "count": 81
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Black",
+                    "subject": "Blacks",
+                    "count": 23
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Slavery",
+                    "subject": "Slavery",
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "subject": "Taino art",
+                    "count": 13
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1964,
+                  "median": 1977,
+                  "mode": 1992
+                }
+              }
+            },
+            "F2155-2191": {
+              "id": "F2155-2191",
+              "subject": "Caribbean area.  Caribbean Sea",
+              "count": 898,
+              "children": {},
+              "subjects": {
+                "id": "F2155-2191",
+                "subject": "Caribbean area.  Caribbean Sea",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Piracy",
+                    "subject": "Pirates",
+                    "count": 152
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Buccaneer",
+                    "subject": "Buccaneers",
+                    "count": 101
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Black",
+                    "subject": "Blacks",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Geopolitics",
+                    "subject": "Geopolitics",
+                    "count": 26
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/East_India_(disambiguation)",
+                    "subject": "East Indians",
+                    "count": 19
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1986,
+                  "mode": 1984
+                }
+              }
+            },
+            "F1421-1440": {
+              "id": "F1421-1440",
+              "subject": "Central America",
+              "count": 1385,
+              "children": {
+                "F1435-1435.3": {
+                  "id": "F1435-1435.3",
+                  "subject": "Mayas",
+                  "count": 2036,
+                  "children": {},
+                  "subjects": {
+                    "id": "F1435-1435.3",
+                    "subject": "Mayas",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Maya",
+                        "subject": "Mayas",
+                        "count": 2313
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Indigenous_peoples_of_Mexico",
+                        "subject": "Indians of Mexico",
+                        "count": 235
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians of Central America",
+                        "count": 191
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Mayan_languages",
+                        "subject": "Mayan languages",
+                        "count": 190
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Maya_architecture",
+                        "subject": "Maya architecture",
+                        "count": 168
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1985,
+                      "median": 1992,
+                      "mode": 2010
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "F1421-1440",
+                "subject": "Central America",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 184
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_Mexico",
+                    "subject": "Indians of Mexico",
+                    "count": 67
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Maya",
+                    "subject": "Mayas",
+                    "count": 55
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of South America",
+                    "count": 43
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Revolution",
+                    "subject": "Revolutions",
+                    "count": 40
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1985,
+                  "mode": 1988
+                }
+              }
+            },
+            "F2201-3799": {
+              "id": "F2201-3799",
+              "subject": "South America",
+              "count": 29,
+              "children": {
+                "F2201-2239": {
+                  "id": "F2201-2239",
+                  "subject": "General",
+                  "count": 4571,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2201-2239",
+                    "subject": "General",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 1337
+                      },
+                      {
+                        "url": null,
+                        "subject": "Aymara Indians",
+                        "count": 471
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Quechua_people",
+                        "subject": "Quechua Indians",
+                        "count": 382
+                      },
+                      {
+                        "url": null,
+                        "subject": "Guarani Indians",
+                        "count": 290
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Head_of_state",
+                        "subject": "Heads of state",
+                        "count": 241
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1974,
+                      "median": 1983,
+                      "mode": 1983
+                    }
+                  }
+                },
+                "F2501-2659": {
+                  "id": "F2501-2659",
+                  "subject": "Brazil",
+                  "count": 19935,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2501-2659",
+                    "subject": "Brazil",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 2150
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 964
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Immigration",
+                        "subject": "Immigrants",
+                        "count": 648
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Italian",
+                        "subject": "Italians",
+                        "count": 367
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Jews",
+                        "subject": "Jews",
+                        "count": 343
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1984,
+                      "median": 1992,
+                      "mode": 2000
+                    }
+                  }
+                },
+                "F2251-2299": {
+                  "id": "F2251-2299",
+                  "subject": "Colombia",
+                  "count": 5418,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2251-2299",
+                    "subject": "Colombia",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 906
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                        "subject": "Guerrillas",
+                        "count": 204
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 190
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 129
+                      },
+                      {
+                        "url": null,
+                        "subject": "Chibcha Indians",
+                        "count": 119
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1982,
+                      "median": 1989,
+                      "mode": 2004
+                    }
+                  }
+                },
+                "F3401-3619": {
+                  "id": "F3401-3619",
+                  "subject": "Peru",
+                  "count": 6975,
+                  "children": {},
+                  "subjects": {
+                    "id": "F3401-3619",
+                    "subject": "Peru",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 2377
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Inca_Empire",
+                        "subject": "Incas",
+                        "count": 1340
+                      },
+                      {
+                        "url": null,
+                        "subject": "Excavations (Archaeology)",
+                        "count": 188
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Quechua_people",
+                        "subject": "Quechua Indians",
+                        "count": 144
+                      },
+                      {
+                        "url": null,
+                        "subject": "Mochica Indians",
+                        "count": 125
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1979,
+                      "median": 1988,
+                      "mode": 2005
+                    }
+                  }
+                },
+                "F2801-3021": {
+                  "id": "F2801-3021",
+                  "subject": "Argentina",
+                  "count": 11883,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2801-3021",
+                    "subject": "Argentina",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 904
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Jews",
+                        "subject": "Jews",
+                        "count": 434
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Peronism",
+                        "subject": "Peronism",
+                        "count": 372
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Immigration",
+                        "subject": "Immigrants",
+                        "count": 335
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                        "subject": "Guerrillas",
+                        "count": 268
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1988,
+                      "mode": 1999
+                    }
+                  }
+                },
+                "F2301-2349": {
+                  "id": "F2301-2349",
+                  "subject": "Venezuela",
+                  "count": 4690,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2301-2349",
+                    "subject": "Venezuela",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 405
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 155
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/General_officer",
+                        "subject": "Generals",
+                        "count": 76
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 56
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Revolutionary",
+                        "subject": "Revolutionaries",
+                        "count": 55
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1986,
+                      "mode": 1992
+                    }
+                  }
+                },
+                "F2441-2471": {
+                  "id": "F2441-2471",
+                  "subject": "French Guiana",
+                  "count": 211,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2441-2471",
+                    "subject": "French Guiana",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Carib Indians",
+                        "count": 38
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 30
+                      },
+                      {
+                        "url": null,
+                        "subject": "Wayampi Indians",
+                        "count": 19
+                      },
+                      {
+                        "url": null,
+                        "subject": "Oyampi Indians",
+                        "count": 7
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Body_painting",
+                        "subject": "Body painting",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1973,
+                      "median": 1991,
+                      "mode": 1989
+                    }
+                  }
+                },
+                "F3051-3285": {
+                  "id": "F3051-3285",
+                  "subject": "Chile",
+                  "count": 4365,
+                  "children": {},
+                  "subjects": {
+                    "id": "F3051-3285",
+                    "subject": "Chile",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Mapuche Indians",
+                        "count": 445
+                      },
+                      {
+                        "url": null,
+                        "subject": "War of the Pacific, 1879-1884",
+                        "count": 266
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 265
+                      },
+                      {
+                        "url": null,
+                        "subject": "Tacna-Arica question",
+                        "count": 121
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 74
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1972,
+                      "median": 1982,
+                      "mode": 1974
+                    }
+                  }
+                },
+                "F3301-3359": {
+                  "id": "F3301-3359",
+                  "subject": "Bolivia",
+                  "count": 3000,
+                  "children": {},
+                  "subjects": {
+                    "id": "F3301-3359",
+                    "subject": "Bolivia",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 955
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                        "subject": "Guerrillas",
+                        "count": 82
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 69
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indian women",
+                        "count": 57
+                      },
+                      {
+                        "url": null,
+                        "subject": "Callahuaya Indians",
+                        "count": 56
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1991,
+                      "mode": 2008
+                    }
+                  }
+                },
+                "F2701-2799": {
+                  "id": "F2701-2799",
+                  "subject": "Uruguay",
+                  "count": 2112,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2701-2799",
+                    "subject": "Uruguay",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 67
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Jews",
+                        "subject": "Jews",
+                        "count": 56
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Politician",
+                        "subject": "Politicians",
+                        "count": 50
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Immigration",
+                        "subject": "Immigrants",
+                        "count": 42
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                        "subject": "Guerrillas",
+                        "count": 40
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1978,
+                      "median": 1988,
+                      "mode": 2004
+                    }
+                  }
+                },
+                "F2661-2699": {
+                  "id": "F2661-2699",
+                  "subject": "Paraguay",
+                  "count": 1994,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2661-2699",
+                    "subject": "Paraguay",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Paraguayan War, 1865-1870",
+                        "count": 287
+                      },
+                      {
+                        "url": null,
+                        "subject": "Chaco War, 1932-1935",
+                        "count": 257
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 224
+                      },
+                      {
+                        "url": null,
+                        "subject": "Guarani Indians",
+                        "count": 113
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 45
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1974,
+                      "median": 1984,
+                      "mode": 1987
+                    }
+                  }
+                },
+                "F2361-2391": {
+                  "id": "F2361-2391",
+                  "subject": "Guyana.  British Guiana",
+                  "count": 371,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2361-2391",
+                    "subject": "Guyana.  British Guiana",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 71
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/East_India_(disambiguation)",
+                        "subject": "East Indians",
+                        "count": 20
+                      },
+                      {
+                        "url": null,
+                        "subject": "Macusi Indians",
+                        "count": 17
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Immigration",
+                        "subject": "Immigrants",
+                        "count": 9
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1974,
+                      "median": 1987,
+                      "mode": 1999
+                    }
+                  }
+                },
+                "F3701-3799": {
+                  "id": "F3701-3799",
+                  "subject": "Ecuador",
+                  "count": 2776,
+                  "children": {},
+                  "subjects": {
+                    "id": "F3701-3799",
+                    "subject": "Ecuador",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 970
+                      },
+                      {
+                        "url": null,
+                        "subject": "Shuar Indians",
+                        "count": 114
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 72
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/President",
+                        "subject": "Presidents",
+                        "count": 72
+                      },
+                      {
+                        "url": null,
+                        "subject": "Huao Indians",
+                        "count": 61
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1981,
+                      "median": 1989,
+                      "mode": 1988
+                    }
+                  }
+                },
+                "F3031-3031.5": {
+                  "id": "F3031-3031.5",
+                  "subject": "Falkland Islands",
+                  "count": 516,
+                  "children": {},
+                  "subjects": {
+                    "id": "F3031-3031.5",
+                    "subject": "Falkland Islands",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Falkland Islands War, 1982",
+                        "count": 431
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Public_opinion",
+                        "subject": "Public opinion",
+                        "count": 13
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Soldier",
+                        "subject": "Soldiers",
+                        "count": 12
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Geopolitics",
+                        "subject": "Geopolitics",
+                        "count": 7
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Sailor",
+                        "subject": "Sailors",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1987,
+                      "median": 1986,
+                      "mode": 1982
+                    }
+                  }
+                },
+                "F2401-2431": {
+                  "id": "F2401-2431",
+                  "subject": "Surinam",
+                  "count": 348,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2401-2431",
+                    "subject": "Surinam",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 32
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Maroon",
+                        "subject": "Maroons",
+                        "count": 24
+                      },
+                      {
+                        "url": null,
+                        "subject": "Saramacca (Surinamese people)",
+                        "count": 19
+                      },
+                      {
+                        "url": null,
+                        "subject": "Ndjuka people",
+                        "count": 14
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/East_India_(disambiguation)",
+                        "subject": "East Indians",
+                        "count": 14
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1975,
+                      "median": 1984,
+                      "mode": 1980
+                    }
+                  }
+                },
+                "F2351": {
+                  "id": "F2351",
+                  "subject": "Guiana",
+                  "count": 43,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2351",
+                    "subject": "Guiana",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of South America",
+                        "count": 9
+                      },
+                      {
+                        "url": null,
+                        "subject": "Colonial companies",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1852,
+                      "median": 1944,
+                      "mode": 1626
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "F2201-3799",
+                "subject": "South America",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Geopolitics",
+                    "subject": "Geopolitics",
+                    "count": 12
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1987,
+                  "mode": 1973
+                }
+              }
+            },
+            "F1201-1392": {
+              "id": "F1201-1392",
+              "subject": "Mexico",
+              "count": 16988,
+              "children": {},
+              "subjects": {
+                "id": "F1201-1392",
+                "subject": "Mexico",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_Mexico",
+                    "subject": "Indians of Mexico",
+                    "count": 547
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/President",
+                    "subject": "Presidents",
+                    "count": 320
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Revolutionary",
+                    "subject": "Revolutionaries",
+                    "count": 317
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Governor",
+                    "subject": "Governors",
+                    "count": 225
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/General_officer",
+                    "subject": "Generals",
+                    "count": 178
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1989,
+                  "mode": 1994
+                }
+              }
+            },
+            "F1461-1477": {
+              "id": "F1461-1477",
+              "subject": "Guatemala",
+              "count": 1882,
+              "children": {},
+              "subjects": {
+                "id": "F1461-1477",
+                "subject": "Guatemala",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 419
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Maya",
+                    "subject": "Mayas",
+                    "count": 244
+                  },
+                  {
+                    "url": null,
+                    "subject": "Quiché Indians",
+                    "count": 177
+                  },
+                  {
+                    "url": null,
+                    "subject": "Kekchi Indians",
+                    "count": 82
+                  },
+                  {
+                    "url": null,
+                    "subject": "Quiché mythology",
+                    "count": 72
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1989,
+                  "mode": 1998
+                }
+              }
+            },
+            "F1741-1991": {
+              "id": "F1741-1991",
+              "subject": "Greater Antilles",
+              "count": 21,
+              "children": {
+                "F1900-1941": {
+                  "id": "F1900-1941",
+                  "subject": "Haiti (Island).  Hispaniola",
+                  "count": 177,
+                  "children": {
+                    "F1931-1941": {
+                      "id": "F1931-1941",
+                      "subject": "Dominican Republic",
+                      "count": 1706,
+                      "children": {},
+                      "subjects": {
+                        "id": "F1931-1941",
+                        "subject": "Dominican Republic",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/President",
+                            "subject": "Presidents",
+                            "count": 84
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Statesman",
+                            "subject": "Statesmen",
+                            "count": 37
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                            "subject": "Guerrillas",
+                            "count": 28
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/General_officer",
+                            "subject": "Generals",
+                            "count": 23
+                          },
+                          {
+                            "url": null,
+                            "subject": "National characteristics, Dominican",
+                            "count": 23
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1983,
+                          "median": 1989,
+                          "mode": 2000
+                        }
+                      }
+                    },
+                    "F1912-1930": {
+                      "id": "F1912-1930",
+                      "subject": "Haiti (Republic)",
+                      "count": 1181,
+                      "children": {},
+                      "subjects": {
+                        "id": "F1912-1930",
+                        "subject": "Haiti (Republic)",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Revolutionary",
+                            "subject": "Revolutionaries",
+                            "count": 60
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/General_officer",
+                            "subject": "Generals",
+                            "count": 55
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Black",
+                            "subject": "Blacks",
+                            "count": 32
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Slavery",
+                            "subject": "Slavery",
+                            "count": 24
+                          },
+                          {
+                            "url": null,
+                            "subject": "Haiti Earthquake, Haiti, 2010",
+                            "count": 21
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1969,
+                          "median": 1985,
+                          "mode": 1996
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "F1900-1941",
+                    "subject": "Haiti (Island).  Hispaniola",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of the West Indies",
+                        "count": 97
+                      },
+                      {
+                        "url": null,
+                        "subject": "Taino Indians",
+                        "count": 14
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians, Treatment of",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Petroglyph",
+                        "subject": "Petroglyphs",
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "subject": "Excavations (Archaeology)",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1957,
+                      "median": 1978,
+                      "mode": 1977
+                    }
+                  }
+                },
+                "F1751-1854.9": {
+                  "id": "F1751-1854.9",
+                  "subject": "Cuba",
+                  "count": 3687,
+                  "children": {
+                    "F1788-1788.22": {
+                      "id": "F1788-1788.22",
+                      "subject": "Communist regime",
+                      "count": 1366,
+                      "children": {},
+                      "subjects": {
+                        "id": "F1788-1788.22",
+                        "subject": "Communist regime",
+                        "topSubjects": [
+                          {
+                            "url": "http://dbpedia.org/resource/Head_of_state",
+                            "subject": "Heads of state",
+                            "count": 129
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Communism",
+                            "subject": "Communism",
+                            "count": 126
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Revolutionary",
+                            "subject": "Revolutionaries",
+                            "count": 86
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                            "subject": "Guerrillas",
+                            "count": 41
+                          },
+                          {
+                            "url": "http://dbpedia.org/resource/Cuban",
+                            "subject": "Cubans",
+                            "count": 38
+                          }
+                        ],
+                        "pubDates": {
+                          "avg": 1988,
+                          "median": 1991,
+                          "mode": 1961
+                        }
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "F1751-1854.9",
+                    "subject": "Cuba",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Revolutionary",
+                        "subject": "Revolutionaries",
+                        "count": 202
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 90
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians of the West Indies",
+                        "count": 81
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                        "subject": "Guerrillas",
+                        "count": 69
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Immigration",
+                        "subject": "Immigrants",
+                        "count": 57
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1972,
+                      "median": 1985,
+                      "mode": 1998
+                    }
+                  }
+                },
+                "F1951-1983": {
+                  "id": "F1951-1983",
+                  "subject": "Puerto Rico",
+                  "count": 1571,
+                  "children": {},
+                  "subjects": {
+                    "id": "F1951-1983",
+                    "subject": "Puerto Rico",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Nationalism",
+                        "subject": "Nationalism",
+                        "count": 98
+                      },
+                      {
+                        "url": null,
+                        "subject": "Self-determination, National",
+                        "count": 69
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians of the West Indies",
+                        "count": 50
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Puerto_Rican",
+                        "subject": "Puerto Ricans",
+                        "count": 38
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Nationalism",
+                        "subject": "Nationalists",
+                        "count": 32
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1983,
+                      "median": 1990,
+                      "mode": 1993
+                    }
+                  }
+                },
+                "F1861-1896": {
+                  "id": "F1861-1896",
+                  "subject": "Jamaica",
+                  "count": 515,
+                  "children": {},
+                  "subjects": {
+                    "id": "F1861-1896",
+                    "subject": "Jamaica",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slavery",
+                        "count": 37
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Maroon",
+                        "subject": "Maroons",
+                        "count": 33
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 29
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Prime_minister",
+                        "subject": "Prime ministers",
+                        "count": 11
+                      },
+                      {
+                        "url": null,
+                        "subject": "Plantation life",
+                        "count": 11
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1965,
+                      "median": 1977,
+                      "mode": 1971
+                    }
+                  }
+                },
+                "F1991": {
+                  "id": "F1991",
+                  "subject": "Navassa",
+                  "count": 1,
+                  "children": {},
+                  "subjects": {
+                    "id": "F1991",
+                    "subject": "Navassa",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1889,
+                      "median": 1889,
+                      "mode": 1889
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "F1741-1991",
+                "subject": "Greater Antilles",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1989,
+                  "median": 1996,
+                  "mode": 1979
+                }
+              }
+            },
+            "F2001-2151": {
+              "id": "F2001-2151",
+              "subject": "Lesser Antilles",
+              "count": 167,
+              "children": {
+                "F2033-2129": {
+                  "id": "F2033-2129",
+                  "subject": "Individual islands",
+                  "count": 1521,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2033-2129",
+                    "subject": "Individual islands",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/East_India_(disambiguation)",
+                        "subject": "East Indians",
+                        "count": 56
+                      },
+                      {
+                        "url": null,
+                        "subject": "Indians of the West Indies",
+                        "count": 54
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 36
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slavery",
+                        "count": 31
+                      },
+                      {
+                        "url": null,
+                        "subject": "Excavations (Archaeology)",
+                        "count": 25
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1981,
+                      "median": 1987,
+                      "mode": 1984
+                    }
+                  }
+                },
+                "F2131-2133": {
+                  "id": "F2131-2133",
+                  "subject": "British West Indies",
+                  "count": 166,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2131-2133",
+                    "subject": "British West Indies",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slavery",
+                        "count": 16
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 14
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Nationalism",
+                        "subject": "Nationalism",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1951,
+                      "median": 1970,
+                      "mode": 1972
+                    }
+                  }
+                },
+                "F2136": {
+                  "id": "F2136",
+                  "subject": "Virgin Islands of the United States",
+                  "count": 97,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2136",
+                    "subject": "Virgin Islands of the United States",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 8
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1956,
+                      "median": 1963,
+                      "mode": 1967
+                    }
+                  }
+                },
+                "F2141": {
+                  "id": "F2141",
+                  "subject": "Netherlands West Indies.  Dutch West Indies",
+                  "count": 98,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2141",
+                    "subject": "Netherlands West Indies.  Dutch West Indies",
+                    "topSubjects": [
+                      {
+                        "url": null,
+                        "subject": "Indians of the West Indies",
+                        "count": 10
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Decolonization",
+                        "subject": "Decolonization",
+                        "count": 6
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1972,
+                      "median": 1979,
+                      "mode": 1979
+                    }
+                  }
+                },
+                "F2151": {
+                  "id": "F2151",
+                  "subject": "French West Indies",
+                  "count": 130,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2151",
+                    "subject": "French West Indies",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Black",
+                        "subject": "Blacks",
+                        "count": 17
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Slavery",
+                        "subject": "Slavery",
+                        "count": 7
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1962,
+                      "median": 1980,
+                      "mode": 1981
+                    }
+                  }
+                },
+                "F2006": {
+                  "id": "F2006",
+                  "subject": "Leeward islands",
+                  "count": 15,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2006",
+                    "subject": "Leeward islands",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1952,
+                      "median": 1971,
+                      "mode": 1820
+                    }
+                  }
+                },
+                "F2016": {
+                  "id": "F2016",
+                  "subject": "Islands along Venezuela coast",
+                  "count": 1,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2016",
+                    "subject": "Islands along Venezuela coast",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1838,
+                      "median": 1838,
+                      "mode": 1838
+                    }
+                  }
+                },
+                "F2011": {
+                  "id": "F2011",
+                  "subject": "Windward Islands",
+                  "count": 9,
+                  "children": {},
+                  "subjects": {
+                    "id": "F2011",
+                    "subject": "Windward Islands",
+                    "topSubjects": [],
+                    "pubDates": {
+                      "avg": 1992,
+                      "median": 1989,
+                      "mode": 1973
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "F2001-2151",
+                "subject": "Lesser Antilles",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Indians of the West Indies",
+                    "count": 18
+                  },
+                  {
+                    "url": null,
+                    "subject": "Cariban Indians",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Carib Indians",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Governor",
+                    "subject": "Governors",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1965,
+                  "median": 1980,
+                  "mode": 1971
+                }
+              }
+            },
+            "F1481-1497": {
+              "id": "F1481-1497",
+              "subject": "Salvador (El Salvador)",
+              "count": 737,
+              "children": {},
+              "subjects": {
+                "id": "F1481-1497",
+                "subject": "Salvador (El Salvador)",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Insurgency",
+                    "subject": "Insurgency",
+                    "count": 59
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 40
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                    "subject": "Guerrillas",
+                    "count": 32
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Human_rights",
+                    "subject": "Human rights",
+                    "count": 27
+                  },
+                  {
+                    "url": null,
+                    "subject": "El Salvador-Honduras Conflict, 1969",
+                    "count": 20
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1988,
+                  "mode": 1982
+                }
+              }
+            },
+            "F1650-1660": {
+              "id": "F1650-1660",
+              "subject": "Bahamas",
+              "count": 213,
+              "children": {},
+              "subjects": {
+                "id": "F1650-1660",
+                "subject": "Bahamas",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Black",
+                    "subject": "Blacks",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "Lucayan Indians",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of the West Indies",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1986,
+                  "mode": 1991
+                }
+              }
+            },
+            "F1521-1537": {
+              "id": "F1521-1537",
+              "subject": "Nicaragua",
+              "count": 1609,
+              "children": {},
+              "subjects": {
+                "id": "F1521-1537",
+                "subject": "Nicaragua",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 171
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Miskito_people",
+                    "subject": "Miskito Indians",
+                    "count": 110
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Revolutionary",
+                    "subject": "Revolutionaries",
+                    "count": 73
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Counter-revolutionary",
+                    "subject": "Counterrevolutions",
+                    "count": 58
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Guerrilla_warfare",
+                    "subject": "Guerrillas",
+                    "count": 49
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1986,
+                  "mode": 1985
+                }
+              }
+            },
+            "F1541-1557": {
+              "id": "F1541-1557",
+              "subject": "Costa Rica",
+              "count": 1092,
+              "children": {},
+              "subjects": {
+                "id": "F1541-1557",
+                "subject": "Costa Rica",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 169
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/President",
+                    "subject": "Presidents",
+                    "count": 39
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indian_art",
+                    "subject": "Indian art",
+                    "count": 25
+                  },
+                  {
+                    "url": null,
+                    "subject": "National characteristics, Costa Rican",
+                    "count": 16
+                  },
+                  {
+                    "url": null,
+                    "subject": "Bribri Indians",
+                    "count": 15
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1989,
+                  "mode": 1990
+                }
+              }
+            },
+            "F1401-1419": {
+              "id": "F1401-1419",
+              "subject": "Latin America (General)",
+              "count": 7886,
+              "children": {},
+              "subjects": {
+                "id": "F1401-1419",
+                "subject": "Latin America (General)",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Pan-Americanism",
+                    "subject": "Pan-Americanism",
+                    "count": 322
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians, Treatment of",
+                    "count": 247
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indian",
+                    "subject": "Indians",
+                    "count": 140
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 123
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nationalism",
+                    "subject": "Nationalism",
+                    "count": 94
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1974,
+                  "median": 1982,
+                  "mode": 1992
+                }
+              }
+            },
+            "F1441-1457": {
+              "id": "F1441-1457",
+              "subject": "Belize",
+              "count": 305,
+              "children": {},
+              "subjects": {
+                "id": "F1441-1457",
+                "subject": "Belize",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Belize question",
+                    "count": 37
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Maya",
+                    "subject": "Mayas",
+                    "count": 35
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "subject": "Excavations (Archaeology)",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1987,
+                  "mode": 1993
+                }
+              }
+            },
+            "F1561-1577": {
+              "id": "F1561-1577",
+              "subject": "Panama",
+              "count": 954,
+              "children": {
+                "F1569": {
+                  "id": "F1569",
+                  "subject": "Canal Zone.  Panama Canal",
+                  "count": 182,
+                  "children": {},
+                  "subjects": {
+                    "id": "F1569",
+                    "subject": "Canal Zone.  Panama Canal",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Canal",
+                        "subject": "Canals",
+                        "count": 10
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1980,
+                      "median": 1989,
+                      "mode": 1999
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "F1561-1577",
+                "subject": "Panama",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Cuna Indians",
+                    "count": 104
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 101
+                  },
+                  {
+                    "url": null,
+                    "subject": "Guaymi Indians",
+                    "count": 27
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/President",
+                    "subject": "Presidents",
+                    "count": 18
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Black",
+                    "subject": "Blacks",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1977,
+                  "median": 1987,
+                  "mode": 1990
+                }
+              }
+            },
+            "F1501-1517": {
+              "id": "F1501-1517",
+              "subject": "Honduras",
+              "count": 745,
+              "children": {},
+              "subjects": {
+                "id": "F1501-1517",
+                "subject": "Honduras",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Garifuna (Caribbean people)",
+                    "count": 75
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 54
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/President",
+                    "subject": "Presidents",
+                    "count": 22
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Black",
+                    "subject": "Blacks",
+                    "count": 14
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Maya",
+                    "subject": "Mayas",
+                    "count": 9
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1978,
+                  "median": 1987,
+                  "mode": 2010
+                }
+              }
+            },
+            "F1630-1640": {
+              "id": "F1630-1640",
+              "subject": "Bermudas",
+              "count": 147,
+              "children": {},
+              "subjects": {
+                "id": "F1630-1640",
+                "subject": "Bermudas",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Architecture",
+                    "subject": "Architecture",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1982,
+                  "mode": 1986
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "F1201-3799",
+            "subject": "Latin America.  Spanish America",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1993,
+              "median": 2007,
+              "mode": 1956
+            }
+          }
+        },
+        "F1001-1145.2": {
+          "id": "F1001-1145.2",
+          "subject": "Canada",
+          "count": 12,
+          "children": {
+            "F1001-1035": {
+              "id": "F1001-1035",
+              "subject": "General",
+              "count": 6250,
+              "children": {},
+              "subjects": {
+                "id": "F1001-1035",
+                "subject": "General",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/French_Canadians",
+                    "subject": "French-Canadians",
+                    "count": 265
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 193
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Exploration",
+                    "subject": "Explorers",
+                    "count": 166
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nationalism",
+                    "subject": "Nationalism",
+                    "count": 156
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Prime_minister",
+                    "subject": "Prime ministers",
+                    "count": 148
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1970,
+                  "median": 1980,
+                  "mode": 1967
+                }
+              }
+            },
+            "F1060-1060.97": {
+              "id": "F1060-1060.97",
+              "subject": "Canadian Northwest.  Northwest Territories",
+              "count": 1001,
+              "children": {},
+              "subjects": {
+                "id": "F1060-1060.97",
+                "subject": "Canadian Northwest.  Northwest Territories",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 150
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Fur_trade",
+                    "subject": "Fur trade",
+                    "count": 138
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 103
+                  },
+                  {
+                    "url": null,
+                    "subject": "Riel Rebellion, 1885",
+                    "count": 90
+                  },
+                  {
+                    "url": null,
+                    "subject": "Métis",
+                    "count": 49
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1962,
+                  "median": 1972,
+                  "mode": 1971
+                }
+              }
+            },
+            "F1056-1059.7": {
+              "id": "F1056-1059.7",
+              "subject": "Ontario",
+              "count": 2344,
+              "children": {},
+              "subjects": {
+                "id": "F1056-1059.7",
+                "subject": "Ontario",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 105
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 91
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/French_Canadians",
+                    "subject": "French-Canadians",
+                    "count": 62
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Immigration",
+                    "subject": "Immigrants",
+                    "count": 49
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Black",
+                    "subject": "Blacks",
+                    "count": 44
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1980,
+                  "median": 1985,
+                  "mode": 1967
+                }
+              }
+            },
+            "F1086-1089.7": {
+              "id": "F1086-1089.7",
+              "subject": "British Columbia",
+              "count": 1409,
+              "children": {},
+              "subjects": {
+                "id": "F1086-1089.7",
+                "subject": "British Columbia",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 137
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 68
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Japanese",
+                    "subject": "Japanese",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 32
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 32
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1983,
+                  "median": 1991,
+                  "mode": 2001
+                }
+              }
+            },
+            "F1070-1074.7": {
+              "id": "F1070-1074.7",
+              "subject": "Saskatchewan",
+              "count": 392,
+              "children": {},
+              "subjects": {
+                "id": "F1070-1074.7",
+                "subject": "Saskatchewan",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 38
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 19
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "Names, Geographical",
+                    "count": 10
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1983,
+                  "mode": 1980
+                }
+              }
+            },
+            "F1051-1055": {
+              "id": "F1051-1055",
+              "subject": "Quebec",
+              "count": 3008,
+              "children": {},
+              "subjects": {
+                "id": "F1051-1055",
+                "subject": "Quebec",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Nationalism",
+                    "subject": "Nationalism",
+                    "count": 146
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/French_Canadians",
+                    "subject": "French-Canadians",
+                    "count": 83
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Jews",
+                    "subject": "Jews",
+                    "count": 72
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 64
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Politician",
+                    "subject": "Politicians",
+                    "count": 60
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1981,
+                  "median": 1989,
+                  "mode": 2005
+                }
+              }
+            },
+            "F1075-1080": {
+              "id": "F1075-1080",
+              "subject": "Alberta",
+              "count": 759,
+              "children": {},
+              "subjects": {
+                "id": "F1075-1080",
+                "subject": "Alberta",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 68
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 34
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ukrainian",
+                    "subject": "Ukrainians",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Politician",
+                    "subject": "Politicians",
+                    "count": 22
+                  },
+                  {
+                    "url": null,
+                    "subject": "Ranch life",
+                    "count": 21
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1984,
+                  "median": 1985,
+                  "mode": 1975
+                }
+              }
+            },
+            "F1041-1045": {
+              "id": "F1041-1045",
+              "subject": "New Brunswick",
+              "count": 299,
+              "children": {},
+              "subjects": {
+                "id": "F1041-1045",
+                "subject": "New Brunswick",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Acadians",
+                    "subject": "Acadians",
+                    "count": 32
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Loyalist_(American_Revolution)",
+                    "subject": "American loyalists",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/French_Canadians",
+                    "subject": "French-Canadians",
+                    "count": 10
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "United Empire loyalists",
+                    "count": 9
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1979,
+                  "median": 1987,
+                  "mode": 2009
+                }
+              }
+            },
+            "F1091-1095.5": {
+              "id": "F1091-1095.5",
+              "subject": "Yukon",
+              "count": 203,
+              "children": {},
+              "subjects": {
+                "id": "F1091-1095.5",
+                "subject": "Yukon",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 52
+                  },
+                  {
+                    "url": null,
+                    "subject": "Women pioneers",
+                    "count": 17
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Gold mines and mining",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "subject": "Parcs nationaux",
+                    "count": 16
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1990,
+                  "mode": 2004
+                }
+              }
+            },
+            "F1061-1065": {
+              "id": "F1061-1065",
+              "subject": "Manitoba",
+              "count": 526,
+              "children": {},
+              "subjects": {
+                "id": "F1061-1065",
+                "subject": "Manitoba",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 38
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mennonite",
+                    "subject": "Mennonites",
+                    "count": 30
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Ukrainian",
+                    "subject": "Ukrainians",
+                    "count": 28
+                  },
+                  {
+                    "url": null,
+                    "subject": "Red River Rebellion, 1869-1870",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Pioneer",
+                    "subject": "Pioneers",
+                    "count": 17
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1968,
+                  "median": 1977,
+                  "mode": 1970
+                }
+              }
+            },
+            "F1036-1040": {
+              "id": "F1036-1040",
+              "subject": "Nova Scotia.  Acadia",
+              "count": 882,
+              "children": {},
+              "subjects": {
+                "id": "F1036-1040",
+                "subject": "Nova Scotia.  Acadia",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Acadians",
+                    "subject": "Acadians",
+                    "count": 124
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 29
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Black",
+                    "subject": "Blacks",
+                    "count": 21
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Explosion",
+                    "subject": "Explosions",
+                    "count": 18
+                  },
+                  {
+                    "url": null,
+                    "subject": "Halifax Explosion, Halifax, N.S., 1917",
+                    "count": 18
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1984,
+                  "mode": 2005
+                }
+              }
+            },
+            "F1121-1139": {
+              "id": "F1121-1139",
+              "subject": "Newfoundland",
+              "count": 345,
+              "children": {
+                "F1135-1139": {
+                  "id": "F1135-1139",
+                  "subject": "Labrador",
+                  "count": 107,
+                  "children": {},
+                  "subjects": {
+                    "id": "F1135-1139",
+                    "subject": "Labrador",
+                    "topSubjects": [
+                      {
+                        "url": "http://dbpedia.org/resource/Exploration",
+                        "subject": "Explorers",
+                        "count": 8
+                      },
+                      {
+                        "url": "http://dbpedia.org/resource/Inuit",
+                        "subject": "Inuit",
+                        "count": 5
+                      },
+                      {
+                        "url": null,
+                        "subject": "Frontier and pioneer life",
+                        "count": 5
+                      }
+                    ],
+                    "pubDates": {
+                      "avg": 1962,
+                      "median": 1974,
+                      "mode": 2003
+                    }
+                  }
+                }
+              },
+              "subjects": {
+                "id": "F1121-1139",
+                "subject": "Newfoundland",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "National parks and reserves",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "subject": "Seafaring life",
+                    "count": 11
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Shipwreck",
+                    "subject": "Shipwrecks",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "Parcs nationaux",
+                    "count": 8
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 8
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1972,
+                  "median": 1990,
+                  "mode": 2006
+                }
+              }
+            },
+            "F1046-1049.7": {
+              "id": "F1046-1049.7",
+              "subject": "Prince Edward Island",
+              "count": 146,
+              "children": {},
+              "subjects": {
+                "id": "F1046-1049.7",
+                "subject": "Prince Edward Island",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Acadians",
+                    "subject": "Acadians",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Historic_site",
+                    "subject": "Historic sites",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "subject": "Parcs nationaux",
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "subject": "Lieux historiques",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/List_of_heritage_registers",
+                    "subject": "Historic buildings",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1987,
+                  "mode": 1980
+                }
+              }
+            },
+            "F1035.8": {
+              "id": "F1035.8",
+              "subject": "Maritime provinces.  Atlantic coast of Canada",
+              "count": 125,
+              "children": {},
+              "subjects": {
+                "id": "F1035.8",
+                "subject": "Maritime provinces.  Atlantic coast of Canada",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Automobile travel",
+                    "count": 6
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1982,
+                  "median": 1989,
+                  "mode": 1985
+                }
+              }
+            },
+            "F1090.5": {
+              "id": "F1090.5",
+              "subject": "Arctic regions",
+              "count": 124,
+              "children": {},
+              "subjects": {
+                "id": "F1090.5",
+                "subject": "Arctic regions",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Inuit",
+                    "subject": "Inuit",
+                    "count": 20
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas",
+                    "subject": "Indians of North America",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Exploration",
+                    "subject": "Explorers",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "subject": "Frontier and pioneer life",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1991,
+                  "median": 1989,
+                  "mode": 1982
+                }
+              }
+            },
+            "F1090": {
+              "id": "F1090",
+              "subject": "Rocky Mountains of Canada",
+              "count": 84,
+              "children": {},
+              "subjects": {
+                "id": "F1090",
+                "subject": "Rocky Mountains of Canada",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Mountaineering",
+                    "subject": "Mountaineering",
+                    "count": 12
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Hiking",
+                    "subject": "Hiking",
+                    "count": 7
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Park",
+                    "subject": "Parks",
+                    "count": 6
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Mountaineering",
+                    "subject": "Mountaineers",
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "subject": "Names, Geographical",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1976,
+                  "median": 1989,
+                  "mode": 2001
+                }
+              }
+            },
+            "F1141-1145.2": {
+              "id": "F1141-1145.2",
+              "subject": "Nunavut",
+              "count": 9,
+              "children": {},
+              "subjects": {
+                "id": "F1141-1145.2",
+                "subject": "Nunavut",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Inuit",
+                    "subject": "Inuit",
+                    "count": 7
+                  }
+                ],
+                "pubDates": {
+                  "avg": 2003,
+                  "median": 2001,
+                  "mode": 1999
+                }
+              }
+            },
+            "F1140": {
+              "id": "F1140",
+              "subject": "The Labrador Peninsula",
+              "count": 14,
+              "children": {},
+              "subjects": {
+                "id": "F1140",
+                "subject": "The Labrador Peninsula",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1940,
+                  "median": 1949,
+                  "mode": 1908
+                }
+              }
+            },
+            "F1096-1100.5": {
+              "id": "F1096-1100.5",
+              "subject": "Mackenzie",
+              "count": 65,
+              "children": {},
+              "subjects": {
+                "id": "F1096-1100.5",
+                "subject": "Mackenzie",
+                "topSubjects": [
+                  {
+                    "url": null,
+                    "subject": "Canoes and canoeing",
+                    "count": 9
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Natural_history",
+                    "subject": "Natural history",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1971,
+                  "median": 1975,
+                  "mode": 1967
+                }
+              }
+            },
+            "F1106-1110.5": {
+              "id": "F1106-1110.5",
+              "subject": "Keewatin",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "F1106-1110.5",
+                "subject": "Keewatin",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1939,
+                  "median": 1930,
+                  "mode": 1887
+                }
+              }
+            },
+            "F1050": {
+              "id": "F1050",
+              "subject": "St. Lawrence Gulf, River and Valley (General)",
+              "count": 50,
+              "children": {},
+              "subjects": {
+                "id": "F1050",
+                "subject": "St. Lawrence Gulf, River and Valley (General)",
+                "topSubjects": [],
+                "pubDates": {
+                  "avg": 1961,
+                  "median": 1974,
+                  "mode": 1984
+                }
+              }
+            },
+            "F1101-1105.7": {
+              "id": "F1101-1105.7",
+              "subject": "Franklin",
+              "count": 37,
+              "children": {},
+              "subjects": {
+                "id": "F1101-1105.7",
+                "subject": "Franklin",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Inuit",
+                    "subject": "Inuit",
+                    "count": 5
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1967,
+                  "median": 1976,
+                  "mode": 1969
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "F1001-1145.2",
+            "subject": "Canada",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1956,
+              "median": 1940,
+              "mode": 1927
+            }
+          }
+        },
+        "F1201-1392": {
+          "id": "F1201-1392",
+          "subject": "Mexico",
+          "count": 0,
+          "children": {
+            "F1218.5-1221": {
+              "id": "F1218.5-1221",
+              "subject": "Antiquities.  Indians",
+              "count": 5973,
+              "children": {},
+              "subjects": {
+                "id": "F1218.5-1221",
+                "subject": "Antiquities.  Indians",
+                "topSubjects": [
+                  {
+                    "url": "http://dbpedia.org/resource/Indigenous_peoples_of_Mexico",
+                    "subject": "Indians of Mexico",
+                    "count": 4311
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Aztec",
+                    "subject": "Aztecs",
+                    "count": 1309
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Indian_art",
+                    "subject": "Indian art",
+                    "count": 354
+                  },
+                  {
+                    "url": "http://dbpedia.org/resource/Nahua",
+                    "subject": "Nahuas",
+                    "count": 323
+                  },
+                  {
+                    "url": null,
+                    "subject": "Indians of Central America",
+                    "count": 309
+                  }
+                ],
+                "pubDates": {
+                  "avg": 1985,
+                  "median": 1991,
+                  "mode": 1992
+                }
+              }
+            }
+          },
+          "subjects": {
+            "id": "F1201-1392",
+            "subject": "Mexico",
+            "topSubjects": [
+              {
+                "url": "http://dbpedia.org/resource/Indigenous_peoples_of_Mexico",
+                "subject": "Indians of Mexico",
+                "count": 547
+              },
+              {
+                "url": "http://dbpedia.org/resource/President",
+                "subject": "Presidents",
+                "count": 320
+              },
+              {
+                "url": "http://dbpedia.org/resource/Revolutionary",
+                "subject": "Revolutionaries",
+                "count": 317
+              },
+              {
+                "url": "http://dbpedia.org/resource/Governor",
+                "subject": "Governors",
+                "count": 225
+              },
+              {
+                "url": "http://dbpedia.org/resource/General_officer",
+                "subject": "Generals",
+                "count": 178
+              }
+            ],
+            "pubDates": {
+              "avg": 1977,
+              "median": 1989,
+              "mode": 1994
+            }
+          }
+        },
+        "F1170": {
+          "id": "F1170",
+          "subject": "Saint Pierre and Miquelon",
+          "count": 20,
+          "children": {},
+          "subjects": {
+            "id": "F1170",
+            "subject": "Saint Pierre and Miquelon",
+            "topSubjects": [],
+            "pubDates": {
+              "avg": 1977,
+              "median": 1979,
+              "mode": 1970
+            }
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}
